@@ -32,3 +32,14 @@ mysqldump --single-transaction --quick --routines --triggers --events \
 find "$DIR" -name "${DB}_*.sql.gz" -type f -mtime +14 -delete
 
 echo "✅ Sauvegarde terminée : $FILE"
+
+
+# --- GIT ---
+cd /var/www/html/bia2026
+
+git add .
+git commit -m "fichiers et bdd - ${STAMP}" || echo "Aucun changement à valider"
+git push
+SH
+
+echo "git fait"
