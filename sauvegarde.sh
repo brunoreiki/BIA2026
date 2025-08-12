@@ -40,6 +40,5 @@ cd /var/www/html/bia2026
 git add .
 git commit -m "fichiers et bdd - ${STAMP}" || echo "Aucun changement à valider"
 git push
-SH
 
 echo "git fait"
