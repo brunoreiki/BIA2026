@@ -31,7 +31,7 @@ mysqldump --single-transaction --quick --routines --triggers --events \
 # Rotation : suppression des dumps plus vieux que 14 jours
 find "$DIR" -name "${DB}_*.sql.gz" -type f -mtime +14 -delete
 
-echo "✅ Sauvegarde terminée : $FILE"
+echo "✅ Sauvegarde bdd terminée : $FILE"
 
 
 # --- GIT ---
