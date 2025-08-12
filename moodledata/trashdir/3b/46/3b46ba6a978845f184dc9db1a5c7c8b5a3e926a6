@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="category">
+    <category>
+        <text>$course$/2024/Météorologie et aérologie/L’atmosphère</text>
+    </category>
+</question>
+    <question type="multichoice">
+        <name>
+            <text>Météorologie et aérologie</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>La pression atmosphérique standard au niveau de la mer est:</p>
+            <p><img src="https://bia-facile.fr/images/1999-nav-1.jpg" alt="Image Question 1" width="300"></p>]]></text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+
+        <!-- Réponse 1 -->
+        <answer fraction="100">
+            <text><![CDATA[<p>1013,25 hPa</p>]]></text>
+            <feedback>
+                <text><![CDATA[<p>Bonne réponse !</p>]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 2 -->
+        <answer fraction="0">
+            <text><![CDATA[<p>recalculée périodiquement par Météo France pour chaque pays</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 3 -->
+        <answer fraction="0">
+            <text><![CDATA[<p>1000 hPa par convention internationale (pour faciliter les calculs)</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 4 -->
+        <answer fraction="0">
+            <text><![CDATA[<p>impossible à déterminer en raison du réchauffement climatique</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <generalfeedback format="html">
+            <text><![CDATA["hecto" signifie 100.  
+1013,25 hecto Pascal = 1013,25 x 100 = 101325 Pascal  
+Par ailleurs :  
+En aéronautique est utilisée une atmosphère standard moyenne décrivant les variations moyennes en température, pression et masse volumique, c'est l'atmosphère standard OACI ou ISA (International Standard Atmosphere).  
+L'ISA est par exemple nécessaire pour la calibration des instruments de l'aéronef ou pour le calcul initial des performances de référence.  
+
+L'atmosphère ISA est définie à partir des caractéristiques suivantes :  
+
+<ul>
+    <li>L'ISA est un gaz parfait au repos et en équilibre hydrostatique, composée d'air sec de composition constante.</li>  
+    <li>Les valeurs et les variations des paramètres température et pression qui définissent l'ISA sont proches des valeurs moyennes observées vers les 45 à 50°N.</li>  
+    <li>L'accélération de la pesanteur est constante : g = 9,80665 m.s² dans toute l'atmosphère ISA.</li>  
+    <li>Au niveau de la mer, les conditions sont fixes :
+        <ul>
+            <li>Po = 1013,25 hPa</li>
+            <li>t = +15°C = 288,15 K</li>
+            <li>ρo = 1,2 kg.m<sup>3</sup></li>
+        </ul>
+    </li>  
+    <li>La tropopause est à une altitude constante quelle que soit la latitude : z = 11 km = 36090 ft</li>  
+    <li>La variation verticale de la température est fixe et constante dans chaque couche de l'atmosphère :
+        <ul>
+            <li>dans la troposphère : la température diminue à un taux de 2°C/1000ft soit 6,5°C/1000m</li>
+            <li>dans la stratosphère entre 11 et 20 km : la température est constante, égale à -56,5°C</li>
+        </ul>
+    </li>  
+    <li>L'air est un gaz compressible, en ISA comme dans l'atmosphère réelle, il se comprime sous l'effet de son propre poids. En ISA, la variation verticale de la pression n'est donc pas constante.
+        <ul>
+            <li>Elle est importante quand la pression est forte, dans les basses altitudes;</li>
+            <li>E
+
+            <p><img src="https://bia-facile.fr/images/2021-anglais-01.gif" alt="Image Question 1" width="300"></p>]]></text>
+        </generalfeedback>
+    </question>    
+</quiz>
+

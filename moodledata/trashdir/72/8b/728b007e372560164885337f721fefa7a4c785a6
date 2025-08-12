@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<quiz>
+	<question type="multichoice">
+		<name>
+			<text>Que signifie 'Rain' en français ?</text>
+		</name>
+		<questiontext format="html">
+			<text>Que signifie 'Rain' en français ?</text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Pluie</text>
+		</answer>
+		<answer fraction="0">
+			<text>Neige</text>
+		</answer>
+		<answer fraction="0">
+			<text>Brouillard</text>
+		</answer>
+		<answer fraction="0">
+			<text>Orage</text>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Que signifie 'Moderate Rain' en français ?</text>
+		</name>
+		<questiontext format="html">
+			<text>Que signifie 'Moderate Rain' en français ?</text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Pluie modérée</text>
+		</answer>
+		<answer fraction="0">
+			<text>Neige forte</text>
+		</answer>
+		<answer fraction="0">
+			<text>Brouillard dense</text>
+		</answer>
+		<answer fraction="0">
+			<text>Pluie faible</text>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Que signifie 'Heavy Rain' en français ?</text>
+		</name>
+		<questiontext format="html">
+			<text>Que signifie 'Heavy Rain' en français ?</text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Pluie forte</text>
+		</answer>
+		<answer fraction="0">
+			<text>Brouillard</text>
+		</answer>
+		<answer fraction="0">
+			<text>Neige modérée</text>
+		</answer>
+		<answer fraction="0">
+			<text>Pluie légère</text>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Que signifie 'Dense Fog' en français ?</text>
+		</name>
+		<questiontext format="html">
+			<text>Que signifie 'Dense Fog' en français ?</text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Brouillard dense</text>
+		</answer>
+		<answer fraction="0">
+			<text>Pluie légère</text>
+		</answer>
+		<answer fraction="0">
+			<text>Orage</text>
+		</answer>
+		<answer fraction="0">
+			<text>Neige</text>
+		</answer>
+	</question>
+	<question type="multichoice">
+		<name>
+			<text>Que signifie 'Cold Front' en français ?</text>
+		</name>
+		<questiontext format="html">
+			<text>Que signifie 'Cold Front' en français ?</text>
+		</questiontext>
+		<answer fraction="100">
+			<text>Front froid</text>
+		</answer>
+		<answer fraction="0">
+			<text>Front chaud</text>
+		</answer>
+		<answer fraction="0">
+			<text>Neige et brouillard</text>
+		</answer>
+		<answer fraction="0">
+			<text>Averse de pluie</text>
+		</answer>
+	</question>
+</quiz>

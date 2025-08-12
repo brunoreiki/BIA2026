@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Question 1 -->
+    <question type="multichoice">
+        <name>
+            <text>Question 1</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Quelle est l'image correcte ?</p>
+            <p><img src="https://bia-facile.fr/images/1999-nav-1.jpg" alt="Image Question 1" width="300"></p>]]></text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+
+        <!-- Réponse 1 -->
+        <answer fraction="100">
+            <text><![CDATA[<p><img src="URL_IMAGE_REPONSE_1A" alt="Réponse 1A" width="100"></p><p>Réponse 1A</p>]]></text>
+            <feedback>
+                <text><![CDATA[<p>Bonne réponse !</p>
+                <p><img src="https://bia-facile.fr/images/2005-nav-1.jpg" alt="Image Question 1" width="300"></p>]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 2 -->
+        <answer fraction="0">
+            <text><![CDATA[<p><img src="URL_IMAGE_REPONSE_1B" alt="Réponse 1B" width="100"></p><p>Réponse 1B</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 3 -->
+        <answer fraction="0">
+            <text><![CDATA[<p><img src="URL_IMAGE_REPONSE_1C" alt="Réponse 1C" width="100"></p><p>Réponse 1C</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <!-- Réponse 4 -->
+        <answer fraction="0">
+            <text><![CDATA[<p><img src="URL_IMAGE_REPONSE_1D" alt="Réponse 1D" width="100"></p><p>Réponse 1D</p>]]></text>
+            <feedback>
+                <text><![CDATA[Mauvaise réponse.]]></text>
+            </feedback>
+        </answer>
+
+        <generalfeedback format="html">
+            <text><![CDATA[<p>Les volets sont des surfaces mobiles situées sur le bord de fuite des ailes. Leur utilisation est cruciale pour les phases de décollage et d'atterrissage car ils augmentent la portance et la traînée, permettant un contrôle de l'avion à des vitesses plus basses.</p>
+            <p><img src="https://bia-facile.fr/images/2021-anglais-01.gif" alt="Image Question 1" width="300"></p>]]></text>
+        </generalfeedback>
+    </question>    
+</quiz>
+

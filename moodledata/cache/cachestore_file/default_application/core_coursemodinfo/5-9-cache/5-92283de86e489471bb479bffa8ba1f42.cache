@@ -1,0 +1,1555 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:37:{i:4;O:8:"stdClass":17:{s:2:"id";s:1:"4";s:2:"cm";s:1:"4";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"17";s:6:"module";s:1:"9";s:5:"added";s:10:"1730585395";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:8:"Annonces";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:204;O:8:"stdClass":17:{s:2:"id";s:3:"101";s:2:"cm";s:3:"204";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"13";s:5:"added";s:10:"1737280424";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:61:"Avant de commencer ce cours, faites un test de positionnement";s:7:"content";s:1827:"<div class="no-overflow"><p>Le chapitre 4 du manuel traite de la <strong>navigation, réglementation et sécurité des vols</strong>. Il est structuré en quatre parties principales :</p>
+<p><strong>1. Réglementation et sécurité</strong></p>
+<ul>
+<li><strong>Organismes de réglementation</strong> : Ils définissent les normes aéronautiques.</li>
+<li><strong>Licences et brevets</strong> : Nécessaires pour piloter et entretenir les aéronefs.</li>
+<li><strong>Certification et entretien</strong> : Garantissent la sécurité des aéronefs.</li>
+<li><strong>Facteurs humains et accidents</strong> : Impact des conditions humaines et des règles de sécurité.</li>
+</ul>
+<p></p>
+<p><strong>2. Circulation aérienne</strong></p>
+<ul>
+<li><strong>Zones aéronautiques</strong> : Différenciation entre espaces contrôlés et non contrôlés.</li>
+<li><strong>Règles de vol</strong> : Notamment VFR (Visual Flight Rules).</li>
+<li><strong>Aérodrome</strong> : Fonctionnement et installations.</li>
+</ul>
+<p></p>
+<p><strong>3. Navigation</strong></p>
+<ul>
+<li><strong>Méthodes de navigation</strong> : Visuelle, estime et radionavigation.</li>
+<li><strong>Cartographie et repérage</strong> : Utilisation des méridiens, parallèles et cartes.</li>
+<li><strong>Déclinaison et dérive</strong> : Concepts essentiels pour ajuster la trajectoire.</li>
+</ul>
+<p></p>
+<p><strong>4. Préparation du vol</strong></p>
+<ul>
+<li><strong>Préparation de la navigation</strong> : Cartes VAC, calculs de distances et carburant.</li>
+<li><strong>Documents à emporter</strong> : Plan de vol, dossiers météo, NOTAM (Notice to Airmen).</li>
+</ul>
+<p></p>
+<p>Vous trouverez également trois parties supplémentaires : le vocabulaire aéronautique anglais, les annales et un test de positionnement.</p></div>";}i:252;O:8:"stdClass":17:{s:2:"id";s:1:"7";s:2:"cm";s:3:"252";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"74";s:6:"module";s:2:"18";s:5:"added";s:10:"1740947391";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:48:"TD de navigation du 27 février du pilote Pascal";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:167:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:12:"Document PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:199;O:8:"stdClass":18:{s:2:"id";s:2:"98";s:2:"cm";s:3:"199";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737237786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:47:"‌1. Organismes chargés de la Réglementation";s:7:"content";s:3530:"<div class="no-overflow"><h3 class="s17"><a name="bookmark179"></a>‌1. Organismes chargés de la Réglementation</h3>
+<p>Passant des avions de loisirs, réservés à quelques pilotes, à un moyen de transport pour des passagers de plus en plus nombreux, l’aviation a dû développer des règles et donc des organismes de régulation pour assurer la sécurité des personnes et des biens.</p>
+<p class="s8">Il existe aujourd’hui plusieurs niveaux de régulation :</p>
+<ul>
+<li class="s78" style="font-weight: bold;"><strong>Mondiale : Organisation de l’Aviation Civile Internationale (OACI).</strong></li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_330.png" alt="image" width="199" height="133"></p>
+<p>C’est la convention de Chicago du 7 décembre 1944 est à l’origine de l’Organisation Internationale de l’Aviation Civile (OACI). Elle a pour but de définir les règles de circulation des aéronefs au niveau international. Les langues reconnues comme langues aéronautiques internationales sont par ordre : l’Anglais, le Français, l’Espagnol, le Russe et le Chinois.</p>
+<ul>
+<li class="s8"><strong>Continentale : European Aviation Safety Agency (EASA)</strong></li>
+</ul>
+<div class="textbox">
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_331.png" alt="image" width="139" height="46"></p>
+<p class="s55">C’est le niveau pour les décisions pour la sécurité aérienne en <strong>Europe</strong>. Elle est basée à <strong>Cologne (Allemagne).</strong></p>
+</div>
+<ul>
+<li class="s8"><strong>Nationale : Direction Générale de l’Aviation Civile (DGAC)</strong></li>
+</ul>
+<p><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/319/mod_label/intro/DGAC.svg" alt="DGAC" width="180" height="179"></p>
+<p>C’est le niveau de décisions pour la sécurité aérienne en <strong>France</strong>. Elle gère la sécurité et la sureté du transport aérien et le contrôle aérien dans l’espace aérien français. Elle assure les examens des personnels navigants professionnels, des pilotes privés et forme des cadres de l’Aviation Civile par l’intermédiaire de <strong>l’ENAC</strong>.</p>
+<p></p>
+<p>Les aéronefs civils sont alors soumis aux règles de la <strong>Circulation Aérienne Générale (CAG)</strong> tandis que les aéronefs militaires sont soumis à d’autres règles, qui dépendent notamment de leurs missions.</p>
+<p>Il existe aussi des relais sur la réglementation au niveau du <strong>Conseil National des Fédérations  Aéronautiques  et  Sportives (CNFAS)</strong> qui regroupe l’ensemble des fédérations à savoir :</p>
+<ul>
+<li class="s14">Fédération Française d’Aéromodélisme (FFAM)</li>
+<li class="s14">Fédération Française Aéronautique (FFA)</li>
+<li class="s14">Fédération Française d’Aérostation (FFA)</li>
+<li class="s14">Fédération Française d’Hélicoptère (FFH)</li>
+<li class="s14">Fédération Française de Parachutisme (FFP)</li>
+<li class="s14">Fédération Française de Planeur Ultra-Léger Motorisé (FFPLUM)</li>
+<li class="s14">Fédération Française de Vol Libre (FFVL)</li>
+<li class="s14">Fédération Française de Vol en Planeur (FFVP)</li>
+<li class="s14">Fédération Française des Constructeurs et Collectionneurs d’Aéronefs (RSA)</li>
+</ul>
+<p></p>
+<p>Le <strong>Groupement des Industries Françaises Aéronautiques et Spatiales (GIFAS)</strong> regroupe les entreprises françaises du secteur.</p></div>";}i:207;O:8:"stdClass":18:{s:2:"id";s:3:"102";s:2:"cm";s:3:"207";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737286812";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"‌2. Licences et Brevets";s:7:"content";s:4247:"<div class="no-overflow"><h3 class="s17"><a name="bookmark180"></a>‌2. Licences et Brevets</h3>
+<p class="s4">Tout pilote doit posséder un Brevet et une Licence pour voler.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_333.jpg" alt="image" width="259" height="172"></p>
+<p class="s4" style="text-align: center;"><strong>Un Brevet</strong></p>
+<p>Diplôme attestant que le pilote a suivi une formation et satisfait aux tests.</p>
+<p class="s101" style="text-align: center;"><strong>≠</strong></p>
+<p class="s4" style="text-align: center;"><strong>Une Licence</strong></p>
+<p>Titre provisoire permettant d’exercer les acquis du Brevet.</p>
+<p class="s34"><strong>Elle se renouvelle par un test médical effectué par un médecin agréé aéronautique et la justification d’une pratique.</strong></p>
+<h5 class="s9">Les différentes Licences et Brevets :</h5>
+<p class="s14"><strong>BIA </strong><span class="s102"><strong>: </strong></span>Le Brevet d’Initiation Aéronautique s’effectue dans le cadre un établissement scolaire ou avec ou dans une structure reconnue par le CIRAS (<i>ENAC, associations aéronautique, aéro-club, …). </i>Il comporte une initiation <strong>théorique </strong>et une initiation <strong>pratique </strong>en aéro-club mais ne permet pas à son titulaire de piloter seul à bord. Ce brevet permet également d’obtenir des bourses pour poursuivre sa formation vers les autres brevets.</p>
+<p class="s19"><strong>BB (Brevet de Base) :</strong> <span class="s14">Ce brevet, valable uniquement en France, donne la possibilité aux candidats de voler seuls dans les 30 km autour d’un aérodrome. Le BB peut se préparer dès 15 ans et est en général une étape vers le PPL. Sa suppression est prévue pour 2020, où il sera partiellement remplacé par le LAPL.</span></p>
+<p class="s19"><strong>Brevet ULM </strong><span class="s102">:</span><span class="s14">Ce brevet permet de piloter des ULM (1 passager maximum, limité en poids et puissance moteur) à partir de 15 ans et pour une durée illimitée. Un certificat de non contre-indication à la pratique de l’ULM délivré par un médecin généraliste suffit.</span></p>
+<p class="s19"><strong>LAPL (Light Aircraft Pilot Licence) </strong><span class="s102"><strong>:</strong> </span><span class="s14">Ce brevet permet de piloter localement des avions à pistons de moins de 2 tonnes à partir de 17 ans, sans passager. Le premier vol solo peut avoir lieu dès 16 ans.</span></p>
+<p class="s14"><strong>PPL : </strong>Le Brevet de Pilote Privée (Private Pilot Licence), permet de voler seul ou avec des passagers sans limitation de distance. Pour l’obtenir, il faut être âgé de 17 ans (on peut être lâché en solo dès 16 ans), réussir les examens théoriques et avoir accompli au minimum 45 heures de vol dont 10h au moins en solo. Cette qualification ne permet pas d’être rémunéré pour son travail de pilote.</p>
+<p class="s19"><strong>CPL </strong><span class="s102">: L</span><span class="s14">a Commercial Pilot Licence donne la possibilité de faire du transport à but commercial. Une fois son PPL en poche, il est possible de continuer sa formation pour faire de sa passion un métier en devenant commandant de bord sur avion. Il faut avoir déjà effectué 200 heures de vol et plusieurs habilitations (vol de nuit notamment) le jour de l’examen pratique. Cette qualification permet d’être rémunéré pour son travail de pilote.</span></p>
+<p class="s19"><strong>ATPL </strong><span class="s102"><strong>:</strong></span><span class="s14"> Il s’agit de la Licence de Pilote de Ligne (Airline Transport Pilot Licence). Elle permet d’occuper le poste de commandant de bord pour le transport aérien public. </span>Il s’agit du brevet de plus haut niveau en aéronautique.</p>
+<p class="s19"></p>
+<p class="s19">Il existe des qualifications complémentaires (d’une durée de validité limitée) telles que le vol aux instruments (IFR), le vol de nuit, la voltige, la conduite des avions à train rentrant et hélices à pas variable, le pilotage des turbopropulseurs ou des turboréacteurs.</p></div>";}i:208;O:8:"stdClass":18:{s:2:"id";s:3:"103";s:2:"cm";s:3:"208";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737287382";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:60:"3. ‌Certification, équipement et entretien des aéronefs";s:7:"content";s:9181:"<div class="no-overflow"><h3 class="s17"><a name="bookmark181"></a>3. ‌Certification, équipement et entretien des aéronefs</h3>
+<p class="s40"><span class="p">Pour les ULM et le vol libre, les machines sont pas obligatoirement certifiées et peuvent être entretenues par leurs propriétaires.</span></p>
+<p class="s40"><span class="p">Pour les avions, planeurs et hélicoptères, les machines doivent être homologuées et l’entretien fait l’objet d’un suivi (suivant les heures de vol et les indications portées sur le carnet de vol de l’appareil).</span></p>
+<h4 class="s18"><a name="bookmark182"></a>‌A. Certification et immatriculation</h4>
+<p class="s4">La certification des machines est assurée par la DGAC qui délivre un certificat de navigabilité.</p>
+<p class="s4">Hormis les machines de vol libre, tous les appareils doivent être immatriculés.</p>
+<p style="text-align: center;"><strong>En Europe l’immatriculation comporte 5 caractères</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_334.jpg" alt="image" width="437" height="235"></p>
+<p class="s4" style="text-align: center;">Le premier désigne le pays (F- pour la France métropolitaine)</p>
+<h5 class="s10">Alphabet aéronautique international </h5>
+<p></p>
+<table style="border-collapse: collapse; width: 50%; text-align: center; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<thead>
+<tr>
+<th style="padding: 3px; border-color: #000000;">Lettre</th>
+<th style="padding: 3px; border-color: #000000;">Code international</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 3px; border-color: #000000;">A</td>
+<td style="padding: 3px; border-color: #000000;">Alpha</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">B</td>
+<td style="padding: 3px; border-color: #000000;">Bravo</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">C</td>
+<td style="padding: 3px; border-color: #000000;">Charlie</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">D</td>
+<td style="padding: 3px; border-color: #000000;">Delta</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">E</td>
+<td style="padding: 3px; border-color: #000000;">Echo</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">F</td>
+<td style="padding: 3px; border-color: #000000;">Foxtrot</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">G</td>
+<td style="padding: 3px; border-color: #000000;">Golf</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">H</td>
+<td style="padding: 3px; border-color: #000000;">Hotel</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">I</td>
+<td style="padding: 3px; border-color: #000000;">India</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">J</td>
+<td style="padding: 3px; border-color: #000000;">Juliett</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">K</td>
+<td style="padding: 3px; border-color: #000000;">Kilo</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">L</td>
+<td style="padding: 3px; border-color: #000000;">Lima</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">M</td>
+<td style="padding: 3px; border-color: #000000;">Mike</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">N</td>
+<td style="padding: 3px; border-color: #000000;">November</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">O</td>
+<td style="padding: 3px; border-color: #000000;">Oscar</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">P</td>
+<td style="padding: 3px; border-color: #000000;">Papa</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">Q</td>
+<td style="padding: 3px; border-color: #000000;">Quebec</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">R</td>
+<td style="padding: 3px; border-color: #000000;">Roméo</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">S</td>
+<td style="padding: 3px; border-color: #000000;">Sierra</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">T</td>
+<td style="padding: 3px; border-color: #000000;">Tango</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">U</td>
+<td style="padding: 3px; border-color: #000000;">Uniform</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">V</td>
+<td style="padding: 3px; border-color: #000000;">Victor</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">W</td>
+<td style="padding: 3px; border-color: #000000;">Whisky</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">X</td>
+<td style="padding: 3px; border-color: #000000;">X-Ray</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">Y</td>
+<td style="padding: 3px; border-color: #000000;">Yankee</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">Z</td>
+<td style="padding: 3px; border-color: #000000;">Zulu</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Pour éviter des erreurs de compréhension à la radio, les pilotes utilisent cet alphabet aéronautique qui associe un mot à chaque lettre.</p>
+<p class="s4"><strong>La lettre qui suit le pays désigne le type d’avion :</strong></p>
+<p>F-A Z : Aéronef de collection<br>F-B et F-G : Avion et hélicoptère<br>F-C : Planeur<br>F-W : Prototype<br>F-Z : Aéronef des douanes<br>F-J : Identification radio des ULM, leur immatriculation étant nnXXX, nn désignant le numéro de département de l’aérodrome d’attache.</p>
+<h4 class="s18"><a name="bookmark183"></a>‌B. Signalisation des aéronefs</h4>
+<h5 class="s4">1. Le Vol de nuit</h5>
+<p>Le vol de nuit nécessite une qualification spéciale. Pour les latitudes comprises entre 30 et 60°, la nuit aéronautique commence 30 minutes <strong>après</strong> le coucher du soleil et finit 30 minutes <strong>avant</strong> le lever du soleil.</p>
+<p style="text-align: center;"><strong>Jusqu’à 30 minutes après le coucher du soleil je peux encore voler en condition VFR de jour</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_341.jpg" alt="image" width="328" height="205"></p>
+<p style="text-align: center;">L’avion doit posséder un équipement minimum en instruments et en éclairage de bord.</p>
+<p>Il doit être équipé de feux de signalisation en vol de nuit :</p>
+<ul>
+<li>Un feu vert en bout d’aile droite</li>
+<li>Un feu rouge en bout d’aile gauche</li>
+<li>Un feu blanc derrière</li>
+<li>Un feu à éclat (MTO)</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_342.png" alt="image" width="455" height="322"></p>
+<h5 class="s4">2. Survol maritime</h5>
+<p>En cas de survol d’une étendue d’eau, chaque occupant de l’aéronef doit avoir un gilet de sauvetage.</p>
+<p>De plus, au-delà de 30 minutes ou 50 NM des côtes, il doit en plus emporter des canots de sauvetage pour tous les occupants, un équipement de secours médical et de survie ainsi qu’une balise de détresse flottante et étanche. Un plan de vol est obligatoire.</p>
+<h4 class="s18"><a name="bookmark184"></a>‌C. Autres équipements et sécurités</h4>
+<p class="s4"><strong>Le Parachute</strong></p>
+<p>Il est obligatoire pour la pratique de la voltige et dans les planeurs qui ne sont pas motorisés.</p>
+<p class="s4"><strong>L’oxygène</strong></p>
+<p>Pour les aéronefs non pressurisés, elle est obligatoire pour le pilote pour Z &gt; FL100 au- delà de 30 minutes. Au-dessus de FL130, l’oxygène est obligatoire pour tous les occupants, quelle que soit la durée.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_344.jpg" alt="image" width="296" height="119"></p>
+<p>Pour les appareils pressurisés, l’altitude cabine doit être inférieure à 2500 m (8000 ft) et un équipement individuel de secours en cas de dépressurisation est obligatoire.</p>
+<p class="s4"><strong>L’Autonomie en carburant</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_345.jpg" alt="image" width="321" height="204"></p>
+<p>Pour entreprendre un vol, il faut emporter une quantité de carburant correspondant à la mise en route, au roulage, la montée, le vol, la descente et l’arrivée, en tenant compte du vent et des dernières conditions météorologiques.</p>
+<p>D’après la dernière réglementation du 26 Juin 2016 :</p>
+<ul>
+<li>A défaut de connaître le vent, il faut prévoir une quantité nécessaire sans vent plus <strong>au minimum </strong>10%, à laquelle s’ajoutent 30 minutes de réserve de jour, ou 45 minutes de nuit.</li>
+<li>En local, à vue du terrain, la réserve finale doit être au moins de 10 minutes.</li>
+<li>En local hors vue du terrain, la réserve finale doit être au moins de 30 minutes de jour.</li>
+</ul>
+<p style="text-align: center;"><strong>En aucun cas, on ne peut poursuivre un vol avec moins de 15 minutes d’autonomie</strong></p></div>";}i:209;O:8:"stdClass":18:{s:2:"id";s:3:"104";s:2:"cm";s:3:"209";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737289040";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:35:"4. ‌Facteurs humains et accidents";s:7:"content";s:4552:"<div class="no-overflow"><h3 class="s17"><a name="bookmark185"></a>4. ‌Facteurs humains et accidents</h3>
+<h4 class="s18"><a name="bookmark186"></a>A. ‌Les règles de bon sens de la réglementation aérienne</h4>
+<p>Un avion ne devra pas être piloté de façon négligente ou imprudente pouvant entraîner un risque pour le pilote et ce qui l’entoure.</p>
+<p>Aucun pilote ne prendra les commandes d’un avion sous l’emprise de l’alcool, de narcotique ou de stupéfiants susceptible de compromettre ses facultés.</p>
+<p>On ne pilote pas si l’on est fatigué ou stressé car cela peut entrainer des erreurs de jugements ou des altérations des réflexes.</p>
+<p>En 2017, le BEA (Bureau d’Enquête Accidents) a recensé 30 accidents mortels et 177 accidents non mortels en France. Dans plus de 90% des cas, ce sont les facteurs humains qui sont impliqués.</p>
+<h4 class="s18"><a name="bookmark187"></a>B. ‌Les effets de l’altitude</h4>
+<p>La pression de l’air diminue, à mesure que l’on monte en altitude, il en est de même de la pression partielle d’oxygène dans l’air respiré.</p>
+<p>Cela entraîne une diminution de l’apport en oxygène dans les tissus (et au cerveau). <strong>Récapitulatif d’effets ressentis pour différentes altitudes :</strong></p>
+<ul>
+<li class="s4"><strong>12 000 ft </strong><span class="p"><strong>:</strong> Maux de tête, fatigue</span></li>
+<li class="s4"><strong>18 000 ft </strong><span class="p"><strong>:</strong> Maux de tête, fatigue, somnolence, perturbation visuelles, trouble du comportement, perte de coordination</span></li>
+<li class="s4"><strong>22000 ft </strong><span class="p"><strong>: </strong>Palpitation, hyperventilation, collapsus, perte de connaissance</span></li>
+<li class="s4"><strong>25000 ft </strong><span class="p"><strong>: </strong>Convulsion, collapsus, perte de connaissance</span></li>
+<li class="s4"><strong>A 25000 ft </strong><span class="p"><strong>:</strong> le temps de conscience utile (durée pendant laquelle un individu conserve ses facultés mentales) est de 2min.</span></li>
+</ul>
+<p>L’<strong>hypoxie</strong> est surtout ressentie lors de la montée. Plus on monte, plus les effets sont importants. Un sujet normal commence à ressentir les effets vers 10000 ft environ (soit 3000 m).</p>
+<p>L’<strong>hyperventilation</strong> est engendrée par le stress, l’émotion ou l’anxiété. Le pilote évacue <span class="s68">trop de CO</span><span class="s69">2</span><span class="s68">, ce qui peut conduire à la tétanie</span></p>
+<p>Le <strong>barotraumatisme</strong>, dû à la hausse de pression ambiante lorsque l’avion perd de l’altitude, provoque une expansion des gaz présents dans les cavités corporelles.</p>
+<ul>
+<li>Une compression de l’oreille interne qui peuvent donner des otites et provoquer des vertiges.</li>
+<li>Des problèmes de dents en cas de carie ou de plombages maltraités (problème d’étanchéité).</li>
+<li>Des problèmes de sinus ou des problèmes intestinaux.</li>
+</ul>
+<p></p>
+<p>Pour une personne voyageant en avion, la pratique de la plongée sous-marine avec palier de décompression à la remontée (plus de 5 m), demande un repos de 24h avant de voler.</p>
+<h4 class="s18"><a name="bookmark188"></a>C. ‌Les effets des accélérations</h4>
+<p>Les accélérations ressenties sont susceptibles d’induire <strong>des illusions sensorielles </strong>et provoquer des <strong>effets physiologiques </strong>importants.</p>
+<p>Les illusions apparaissent lorsque le pilote perd ses références visuelles (vol nuit ou aux instruments). L’orientation spatiale devient erronée (ex vol dans un nuage) car le système vestibulaire qui permet l’orientation dans l’espace ne repose plus que sur l’oreille interne et donc les accélérations perçues. Il peut en résulter également des vertiges.</p>
+<p>Les effets physiologiques sont les suivants :</p>
+<ul>
+<li>A +2g : Sensation de compression, tête et membres lourds, mobilité réduite.</li>
+<li>A +3g : Augmentation des fréquences cardiaques et respiratoires.</li>
+<li>A +4g : Perte de la vision périphérique, altération de la vision centrale (voile gris).</li>
+<li>A +5g : Perte de la vision centrale (voile noir).</li>
+</ul>
+<p>Les facteurs de charge négatifs peuvent se traduire par un voile rouge (afflux de sang vers la tête) à partir de – 3g</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_346.jpg" alt="image" width="215" height="227"></p></div>";}i:333;O:8:"stdClass":16:{s:2:"id";s:3:"160";s:2:"cm";s:3:"333";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"17";s:5:"added";s:10:"1743702705";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:210;O:8:"stdClass":18:{s:2:"id";s:3:"105";s:2:"cm";s:3:"210";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737289373";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:29:"1.‌Les zones aéronautiques";s:7:"content";s:12780:"<div class="no-overflow"><h3 class="s17"><a name="bookmark190"></a>1.‌Les zones aéronautiques</h3>
+<h4 class="s18"><a name="bookmark191"></a>‌1. VFR (Visual Flight Rules) ou « Vol à vue »</h4>
+<p>Il y a deux types de règles de vol :</p>
+<ul>
+<li>Le <strong>vol VFR </strong>(Visual Flight Rules) lorsque le vol est conduit conformément aux règles de vol à vue.</li>
+<li>Le <strong>vol IFR </strong>(Instrument Flight Rules) lorsque le vol est conduit conformément aux règles de vol aux instruments.</li>
+</ul>
+<p></p>
+<p>Le vol VFR nécessite des conditions météo permettant de conduire son vol en toute sécurité en appliquant la règle fondamentale « Voir et éviter ».</p>
+<p>Ces conditions, dites <strong>VMC</strong> (Visual Meteorological Conditions), dépendent de l’altitude et sont :</p>
+<ul>
+<li>une visibilité minimale.</li>
+<li>une distance minimale par rapport aux nuages.</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_347.jpg" alt="image" width="412" height="367"></p>
+<p class="s22">Figure 4.1.</p>
+<p>Les conditions <strong>VMC</strong> s'opposent aux conditions <strong>IMC</strong> (Instrumental Meteorological Conditions) où le vol doit s'effectuer selon les règles de vol aux instruments ou IFR.</p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border-color: #000000; border-style: solid; width: 100%;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding: 3px; border-color: #000000; width: 17.0388%;">
+<p class="s51"><strong>Classe d'espace</strong></p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 24.4418%;">
+<p class="s51"><strong>Contrôlé</strong></p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 27.6146%;">
+<p class="s51"><strong>Non contrôlé</strong></p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 30.9048%;">
+<p class="s51"><strong>Non contrôlé</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000; width: 17.0388%;">
+<p class="s51">Altitude de vol</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 24.4418%;">
+<p class="s51">toutes altitudes</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 27.6146%;">
+<p class="s51">Au-dessus des 2 plus hautes altitudes 3000 ft AMSL* ou 1000 ft AGL*</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 30.9048%;">
+<p class="s51">Au-dessous des 2 plus hautes altitudes 3000 ft AMSL* ou 1000 ft AGL*</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000; width: 17.0388%;">
+<p class="s51">Distance minimale par rapport aux Nuages</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 24.4418%;">
+<p class="s50">1500 m<br>horizontalement<br>300 m <span class="s51">(1000 ft)<br></span>verticalement</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 27.6146%;">
+<p class="s50">1500 m<br>horizontalement 300 m (1000 ft)<br>verticalement</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 30.9048%;">
+<p class="s50">Hors des Nuages En vue de la Surface</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000; width: 17.0388%;">
+<p class="s51">Visibilité minimale en Vol</p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 24.4418%;">
+<p class="s50">8km <span class="s51">à et au dessus du FL100 </span>5km <span class="s51">en dessous du FL100</span></p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 27.6146%;">
+<p class="s50">8km <span class="s51">à et au dessus du FL100 </span>5km <span class="s51">en dessous du FL100</span></p>
+</td>
+<td style="padding: 3px; border-color: #000000; width: 30.9048%;">
+<p class="s50">1500m <span class="s51">pour avions et 800m pour hélicoptères ou distance parcourue en 30 secondes de vol</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="s48"></p>
+<p class="s48"><strong>AMSL</strong> = Au-dessus du niveau moyen de la mer (Above Mean Sea Level) AGL = Au-dessus de la surface (Above Ground Level)</p>
+<p class="s48"><strong>AAL</strong> = Au-dessus de l’Aérodrome (Above Aerodrome Level). Il s'agit de la hauteur entre l'avion et le point de référence de l'aérodrome comme s'il était en dessous de la position de l'appareil (même s'il n'y est pas). <strong>Cette hauteur ne suit pas le relief</strong>.</p>
+<h4 class="s18"><a name="bookmark192"></a>B. ‌Rappel sur les niveaux de vol</h4>
+<p>On utilise plusieurs références pour l’altitude :</p>
+<ul>
+<li>le <strong>QFE</strong> : donne la hauteur par rapport au terrain</li>
+<li>le <strong>QNH</strong> : permet de lire l’altitude par rapport au niveau de la mer</li>
+<li>le calage 1013 (dit standard ou <strong>QNE</strong>), utilisé en vol au-dessus 3000 ft AGL en espace aérien non contrôlé. Il permet de lire le niveau de vol (ou FL Flight Level) en centaine de ft</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_348.jpg" alt="image" width="305" height="190"></p>
+<p class="s22">Figure 4.2.</p>
+<p>Lorsqu’on utilise les niveaux de vol, la règle semi-circulaire s’applique.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_349.jpg" alt="image" width="389" height="200"></p>
+<p class="s22">Figure 4.3.</p>
+<p>Les chiffres des dizaines des niveaux de vol sont Impairs suivant la route magnétique 0 à 179° (vers l’Italie) et Pairs de 180 à 359° (vers le Portugal). Pour les vols VFR on ajoute 5, pour assurer une séparation de 500 ft entre vols IFR et VFR.</p>
+<p><strong>Impairs</strong> : 35, 55, 75, 95, 115, … en VFR et 30, 50, 70, 90, 110, … en IFR</p>
+<p><strong>Pairs</strong> : 45, 65, 85, 105, 125, … en VFR et 40, 60, 80, 100, 120, … en IFR</p>
+<h4 class="s18"><a name="bookmark193"></a>C. ‌Les espaces contrôlés</h4>
+<p>L’Espace aérien français est divisé en 2 grandes régions :</p>
+<p><strong>L’Espace supérieur</strong> (à partir du <strong>FL 195 et jusqu’au FL 660</strong>). On n’y trouve, en général, que des avions de ligne ou militaires et les aéronefs. Il est classé C sur tout le territoire.</p>
+<p><strong>L’Espace inférieur </strong>(du sol au <strong>FL 195</strong>). Le FL 195 et FL 195 00 on a enlevé les deux derniers chiffre.</p>
+<p>Il est divisé en espaces :</p>
+<ul>
+<li>Contrôlés</li>
+<li>Non contrôlés</li>
+<li>A statut particulier</li>
+</ul>
+<p>Selon les espaces il est possible d’y évoluer en IFR, en VFR ou les deux.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_350.jpg" alt="image" width="429" height="263"></p>
+<p class="s22">Figure 4.4.</p>
+<p>L’Espace aérien français est divisé en plusieurs classes d’espaces : A, C, D, E et G (les espaces de classes B et F n’existent pas en France).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_351.jpg" alt="image" width="422" height="247"></p>
+<p class="s22">Figure 4.5.</p>
+<p class="s4"><strong>Pour le vol VFR :</strong></p>
+<p>De la plus contraignante à la moins contraignante A -&gt; G</p>
+<ul>
+<li class="s4"><strong>Classe A</strong> : <span class="p">interdite aux VFR</span></li>
+<li class="s4"><strong>Classe C </strong>: <span class="p">séparation avec les IFR. Information trafic avec les IFR et VFR. Contact radio obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe D</strong> : <span class="p">Information trafic avec IFR et les VFR. Contact radio obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe E</strong> : <span class="p">Information trafic avec les IFR et les VFR. Contact radio NON obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe G</strong> <span class="p">: Vol non contrôlé. Visibilité minimale : 1,5 Km.</span></li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_357.jpg" alt="image" width="610" height="152"></p>
+<p>On trouve aussi des zones soumises à restrictions (aussi signalées et indiquées par une lettre) :</p>
+<ul>
+<li class="s4"><strong>P : Prohibited </strong><span class="p">(Zones interdites à tout aéronef)</span></li>
+<li class="s4"><strong>D : Dangerous </strong><span class="p">(Zones dangereuses à survoler selon les horaires)</span></li>
+<li class="s4"><strong>R : Restricted</strong> <span class="p">(Zones à entrée restreinte sous certaines conditions)</span></li>
+</ul>
+<p></p>
+<p>Parmi les espaces contrôlés de l’espace inférieur on distingue plusieurs types de zone :</p>
+<ul>
+<li>les <strong>Airways (AWY) ou voies aériennes </strong>: Ce sont des couloirs aériens dans lesquels les avions transitent entre les aéroports.</li>
+<li>les <strong>TerMinal control Area (TMA) </strong>: Ce sont des zones autour de l’aéroport, dans lesquels sont comprises les trajectoires de montée, de descente et d’attente des avions.</li>
+<li>les <strong>zones de Contrôle (CTR) </strong>: Ils comprennent les trajectoires de décollage et d’approche finale des avions opérant sur l’aéroport.</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_358.jpg" alt="image" width="470" height="223"></p>
+<p class="s22">Figure 4.6.</p>
+<p class="s22"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_359.jpg" alt="image" width="512" height="324"></p>
+<p class="s22">Figure 4.7.</p>
+<h4 class="s18"><a name="bookmark194"></a>D. ‌Les services de la circulation aérienne</h4>
+<p class="s4">Le service du contrôle est chargé :</p>
+<ul>
+<li>d’empêcher les abordages (en vol)</li>
+<li>d’empêcher les collisions (au sol)</li>
+<li>de régler la circulation aérienne</li>
+</ul>
+<p class="s4">Le service d’information de vol est chargé de fournir les avis et renseignements utiles à la bonne exécution des vols.</p>
+<p class="s4">Le service d’alerte est chargé de déclencher la mise en œuvre et de coordonner les secours lorsqu’un aéronef a besoin d’assistance. La fréquence de détresse internationale est 121,5 MHz.</p>
+<h4 class="s18"><a name="bookmark195"></a>D. ‌Les Moyens de contrôle de la circulation aérienne</h4>
+<h5 class="s4">1. Le radar primaire</h5>
+<p>C’est un système dont dispose les contrôleurs aériens pour détecter un avion et déterminer sa position par rapport à une station au sol.</p>
+<p class="s8">Ce système n’a besoin d’aucun dispositif particulier à bord de l’avion.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_360.jpg" alt="image" width="389" height="229"></p>
+<p class="s22">Figure 4.8.</p>
+<p>Au sol, une antenne parabolique tourne sur elle-même en émettant des impulsions radioélectriques. Lorsqu’une impulsion atteint les surfaces de l’avion, elle revient en écho à l’émetteur. Le temps d’aller-retour, ainsi que l’orientation de l’antenne lors de la réception, permet de situer l’écho, et de visualiser l’avion sur l’écran du radar. Ce radar est utilisé essentiellement pour les approches. Le but est de repérer tous les mouvements dans un espace aérien.</p>
+<h5 class="s4">2. Le radar secondaire</h5>
+<p>Il est généralement associé au radar primaire et permet l’identification des différents aéronefs.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_361.jpg" alt="image" width="350" height="229"></p>
+<p class="s22">Figure 4.9.</p>
+<p>Le radar envoie à l’avion une interrogation à laquelle le transpondeur de bord fournit une réponse sur l’appareil (identification, altitude, …)</p>
+<p>Cette réponse apparait sur le scope radar sous la forme d’un écho, auquel est associée une étiquette qui retranscrit les 4 chiffres que le pilote a affichés sur son transpondeur à la demande du contrôleur.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_362.jpg" alt="image" width="660" height="91"></p>
+<p class="s22">Figure 4.10.</p>
+<p>Le radar secondaire est destiné au contrôle « en route » d’une portée de 250 NM.</p>
+<p>En cas de difficultés, le pilote affiche, de sa propre initiative, un code signifiant sa difficulté :</p>
+<ul>
+<li class="s4"><strong>7500</strong> (détournement)</li>
+<li class="s4"><strong>7600</strong> (panne radio)</li>
+<li class="s4"><strong>7700</strong> (détresse)</li>
+</ul>
+<p></p>
+<p class="s4"><strong>Le code 7000 correspond à un vol VFR.</strong></p></div>";}i:211;O:8:"stdClass":18:{s:2:"id";s:3:"106";s:2:"cm";s:3:"211";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737328984";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"2. ‌L’Aérodrome";s:7:"content";s:2446:"<div class="no-overflow"><h3 class="s17"><a name="bookmark196"></a>2. ‌L’Aérodrome</h3>
+<h4 class="s18"><a name="bookmark197"></a>‌A. Aérodrome contrôlé / non contrôlé</h4>
+<p>On appelle aérodrome contrôlé, un aérodrome où le service du contrôle de la circulation aérienne est assuré (par la Tour ou TWR). La circulation des aéronefs, au sol et en vol, est soumise à une autorisation délivrée par un contrôleur. En l’absence de TWR, les pilotes font de l’auto-information ou bien il existe un AFIS (Aerodrome Flight Information Service).</p>
+<p>Les paramètres d’information sont :</p>
+<ul>
+<li>La piste en service</li>
+<li>Direction, vitesse du vent à la surface et variations significatives</li>
+<li>Visibilité au sol</li>
+<li>QNH</li>
+<li>QFE</li>
+<li>Heure exacte</li>
+<li>Niveau de transition (niveau où il faut changer de calage altimétrique)</li>
+<li>Plafond</li>
+<li>Température de l’air</li>
+</ul>
+<p></p>
+<p>Un aéronef est considéré comme informé si les paramètres 1 à 5 lui ont été fournis.</p>
+<p class="s18"><a name="bookmark198"></a>B. ‌Les installations</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_363.jpg" alt="image" width="425" height="281"></p>
+<ul>
+<li>La vigie (TWR ou AFIS)</li>
+<li>L’aire de trafic : stationnement, avitaillement, entretien</li>
+<li>L’aire de manœuvre : piste(s), taxiway(s)</li>
+<li>La piste de décollage et d’atterrissage est caractérisée par son numéro de piste. Ce numéro (QFU) correspond à son orientation magnétique en dizaine de degrés, arrondis au plus proche. <i>(Ex : une piste orientée au 052 magnétique est numérotée 05).</i></li>
+</ul>
+<p class="s8"><strong>L’aire à signaux</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_364.jpg" alt="image" width="664" height="200"></p>
+<p>Lorsqu’un avion arrive sur un aérodrome non contrôlé, il survole l’aire à signaux, grand carré qui contient des indications pour les appareils en vol, sous forme de panneaux de signalisation.</p>
+<p><strong>La manche à air qui permet de déterminer la piste en service (décollage et atterrissage face au vent)</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_365.jpg" alt="image" width="320" height="280"></p>
+<p>On trouve également des parkings, des hangars, des terminaux et des installations de maintenance.</p></div>";}i:212;O:8:"stdClass":18:{s:2:"id";s:3:"107";s:2:"cm";s:3:"212";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329294";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"3. ‌Règles de vol";s:7:"content";s:4653:"<div class="no-overflow"><h3 class="s17"><a name="bookmark199"></a>3. ‌Règles de vol</h3>
+<h4 class="s18"><a name="bookmark200"></a>A. ‌Règles de priorité</h4>
+<p>Le pilote en VFR est responsable de l’anti-abordage et de l’anti-collision :</p>
+<p class="s4" style="text-align: center;">Voir et Eviter.</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_366.jpg" alt="image" width="485" height="364"></p>
+<p class="s22" style="text-align: center;">Figure 4.13.</p>
+<p>Un aéronef en vol a toujours la priorité sur un aéronef au sol. Le dépassement d’un aéronef s’effectue toujours sur la droite. En cas de rapprochement de face, chaque appareil effectue un virage à droite. Lorsque deux aéronefs se préparent à atterrir, c’est celui qui est le plus bas, qui est prioritaire. Un aéronef à l’atterrissage ou en approche finale ne doit pas franchir le seuil de piste tant que l’aéronef qui le précède n’a pas franchi l’extrémité de piste ou amorcé un virage.</p>
+<h4 class="s18"><a name="bookmark201"></a>B. ‌Le Circuit d’aérodrome</h4>
+<p>Le tour de piste est le premier vol réalisé par un jeune pilote. Le sens peut se faire à droite ou à gauche selon le terrain et une altitude de 1000 ft/sol (cela est indiqué sur la carte VAC).</p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_367.jpg" alt="image" width="419" height="282"></p>
+<p class="s22" style="text-align: center;">Figure 4.14.</p>
+<p class="s8" style="text-align: center;">Taux 1 : 360° / 2mn en virage</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_368.png" alt="image" width="366" height="246"></p>
+<p class="s22" style="text-align: center;">Figure 4.15. Tour de piste main droite</p>
+<p class="s22" style="text-align: center;"></p>
+<h4 class="s18"><a name="bookmark202"></a>C. ‌Communication en cas de panne radio</h4>
+<p>Si la radio n’est plus utilisable, la tour peut communiquer avec le pilote avec des signaux lumineux.</p>
+<p><strong>Si l’avion est en vol :</strong></p>
+<ul>
+<li class="s4"><strong>Fusée rouge </strong><span class="p"><strong>: </strong>interdiction d’atterrir</span></li>
+<li class="s4"><strong>Feu vert continu </strong><span class="p"><strong>:</strong> autorisé à atterrir</span></li>
+<li class="s4"><strong>Feu rouge continu </strong><span class="p"><strong>: </strong>cédez le passage à un autre aéronef</span></li>
+<li class="s4"><strong>Eclats verts </strong><span class="p"><strong>: </strong>revenez pour atterrir</span></li>
+<li class="s4"><strong>Eclats blanc </strong><span class="p"><strong>:</strong> atterrissez et dégager la piste</span></li>
+<li class="s4"><strong>Eclats rouges </strong><span class="p"><strong>:</strong> aérodrome dangereux, n’atterrissez pas</span></li>
+</ul>
+<p><strong>Si l’avion est au sol :</strong></p>
+<ul>
+<li class="s4"><strong>Feu vert continu </strong><span class="p"><strong>: </strong>autorisé à décoller</span></li>
+<li class="s4"><strong>Feu rouge continu </strong><span class="p"><strong>: </strong>arrêtez-vous</span></li>
+<li class="s4"><strong>Eclats verts </strong><span class="p"><strong>:</strong> autorisé à circuler</span></li>
+<li class="s4"><strong>Eclats blanc </strong><span class="p"><strong>:</strong> rentrez au parking</span></li>
+<li class="s4"><strong>Eclats rouges </strong><span class="p"><strong>: </strong>dégagez la piste</span></li>
+</ul>
+<h4> </h4>
+<h4 class="s18"><a name="bookmark203"></a>D. ‌Hauteurs de survol</h4>
+<p>Il existe des hauteurs minimales de vol :</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_369.jpg" alt="image" width="639" height="441"></p>
+<p class="s22">Figure 4.16.</p>
+<p><strong>En particulier, aucun survol VFR n’est effectué :</strong></p>
+<ul>
+<li>Au-dessus des zones à forte densité (villes et rassemblements de personnes en plein air) à moins de 300 m (1000 ft).</li>
+<li>Au-dessus de l’obstacle le plus élevé dans un rayon de 600 m autour de l’aéronef.</li>
+</ul>
+<p>Dans les autres endroits que ceux spécifiés ci-dessus, un vol VFR ne doit pas être effectué à une hauteur inférieure à 150 m (500 ft) au-dessus du sol ou de l’eau.</p>
+<p>Les cartes aéronautiques précisent par des pictogrammes spécifiques les hauteurs minimales de survol.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_370.jpg" alt="image" width="595" height="530"></p>
+<p class="s22">Figure 4.17.</p></div>";}i:334;O:8:"stdClass":16:{s:2:"id";s:3:"161";s:2:"cm";s:3:"334";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703402";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:213;O:8:"stdClass":18:{s:2:"id";s:3:"108";s:2:"cm";s:3:"213";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329891";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"1. ‌La mesure du temps";s:7:"content";s:2257:"<div class="no-overflow"><h3 class="s17"><a name="bookmark205"></a>1. ‌La mesure du temps</h3>
+<h4 class="s18"><a name="bookmark206"></a>‌A. Le Mouvement de la Terre autour du Soleil</h4>
+<p>Le rythme des saisons ainsi que l’alternance jour-nuit découlent du mouvement de révolution de la Terre autour du soleil et du mouvement de rotation de la Terre autour de son axe Nord-Sud incliné de 23° par rapport à la normale au plan de l’orbite Terre- Soleil (écliptique).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_371.jpg" alt="image" width="554" height="257"></p>
+<p>Figure 4.18.</p>
+<p>La Terre tourne sur elle-même d’Ouest en Est, de 15° par heure et par conséquent 1° équivaut à 4 minutes.</p>
+<p class="s22"></p>
+<p><strong>L’Heure UTC (Temps Universel Coordonné) :</strong></p>
+<p>En tous points de la Terre, il est 12h00 UTC lorsque le soleil passe au méridien de Greenwich. L’heure UTC est utilisée pour les plans de vol, les observations et prévisions météorologiques et les horaires de lever et coucher du soleil.</p>
+<p class="s10"><strong>L’Heure locale :</strong></p>
+<p>En un point, il est 12h00, heure locale, lorsque le soleil passe au méridien de ce point.</p>
+<p class="s4"><strong>L’Heure locale légale :</strong></p>
+<p>Cette heure est décidée par le gouvernement de chaque pays pour faciliter des échanges économiques avec des pays voisins. En France HL = UTC + 1 en hiver et HL = UTC + 2 en été. A 12h00 UTC, ma montre indique donc 13 heures en hiver et 14 heures en été. Attention <span class="p">: heure légale se traduit par « local time » sur les GPS</span></p>
+<p class="s10"><strong>L’Heure du Fuseau :</strong></p>
+<p>L’heure du fuseau a été créé afin d’avoir la même heure sur une grande étendue. On a divisé la terre en 24 fuseaux de 15° de différence de longitude chacun (15°x24=360°).</p>
+<p></p>
+<p class="s4" style="text-align: center;">L’heure est constante à l’intérieur d’un même fuseau.</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_372.jpg" alt="image" width="570" height="398"></p>
+<p class="s104" style="text-align: center;">Figure 4.19.</p></div>";}i:214;O:8:"stdClass":18:{s:2:"id";s:3:"109";s:2:"cm";s:3:"214";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737330722";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"2. ‌Se repérer sur la Terre";s:7:"content";s:7369:"<div class="no-overflow"><h4 class="s17"><a name="bookmark207"></a>2. ‌Se repérer sur la Terre</h4>
+<p>Pour pouvoir définir la position d’un point sur la surface de la Terre, l’Homme a élaboré un système de référence géographique : <strong>les parallèles </strong>et <strong>les méridiens</strong>.</p>
+<h4 class="s18"><a name="bookmark208"></a>A. ‌Les parallèles</h4>
+<p>Pour pouvoir déterminer la position d’un point dans l’axe nord/sud, il faut déterminer des <strong>parallèles</strong>. L’équateur est le grand cercle <span class="p">(son centre est le centre de la Terre) </span>de la sphère terrestre perpendiculaire à la ligne des pôles. À partir de celui-ci, on a tracé des parallèles sur la sphère terrestre. On peut donc repérer un point, à la surface de la Terre, selon qu’il se trouve sur un parallèle situé au nord ou au sud de l’équateur.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_373.jpg" alt="image" width="280" height="289"></p>
+<p class="s22" style="text-align: center;">Figure 4.20.</p>
+<p></p>
+<p>L’angle entre la position du point et l’équateur s’appelle <strong>la latitude</strong>.</p>
+<p>On indique une latitude en écrivant N ou S selon le fait que nous soyons au nord ou au sud de l’équateur.</p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_374.jpg" alt="image" width="274" height="264"></p>
+<p class="s22" style="text-align: center;">Figure 4.21.</p>
+<p class="s22" style="text-align: center;"></p>
+<p>La latitude varie de 0° à 90° (indiquée par 2 chiffres). Par exemple pour Toulouse : 43°36′15″ Nord</p>
+<h4 class="s18"><a name="bookmark209"></a>B. ‌Les méridiens</h4>
+<p>Ce sont des demi-cercles sur la surface de la Terre qui rejoignent les deux pôles. Les méridiens se comptent <strong>en degrés</strong>.</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_375.jpg" alt="image" width="224" height="222"></p>
+<p class="s22" style="text-align: center;">Figure 4.22.</p>
+<p>Il a été nécessaire de déterminer un méridien de référence. Il a été convenu que ce serait <u>le méridien</u> qui passe par l’observatoire de Londres, à <strong>Greenwich</strong><u>. </u>On peut donc repérer un point, à la surface de la terre, selon qu’il se trouve sur un méridien à l’est (E) ou à l’ouest (W) du méridien d’origine (Greenwich). L’angle entre le méridien du point et celui de référence est appelé <strong>longitude</strong>. Les longitudes varient donc de 0° à 180° (3 chiffres). Par exemple pour Toulouse : 001°26′37″ Est</p>
+<p class="s4"><strong>Il y a une heure de décalage entre 2 fuseaux, ou encore 4 minutes pour un écart de 1° de longitude (à la même latitude).</strong></p>
+<h4 class="s18"><a name="bookmark210"></a>C. ‌Les Cartes</h4>
+<p>Les cartes ont pour but de représenter la terre de façon plane alors que celle-ci est sphérique.</p>
+<p>Pour la navigation VFR les cartes doivent être <strong>conformes </strong>(<strong>un angle sur la Terre = un angle sur la carte</strong>)</p>
+<p>Pour réaliser ces cartes, il existe 2 grands types de projection :</p>
+<p></p>
+<h5 class="s4">1. La projection Mercator (ou cylindrique)</h5>
+<p>La projection de Mercator a pour avantage d’être conforme mais l’échelle se dilate lorsqu’on va vers les pôles et les continents sont déformés (le Groenland semble plus gros que l’Amérique du Sud alors qu’en réalité c’est l’inverse). Cette carte permet de naviguer entre l’Equateur et les Latitudes de 60° N/S environ.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_377.jpg" alt="image" width="218" height="174"></p>
+<p class="s22">Figure 4.23.</p>
+<h5 class="s22">2. La projection Lambert (ou conique)</h5>
+<p>Parallèle de tangence</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_378.png" alt="image" width="341" height="216"></p>
+<div class="textbox"> </div>
+<p class="s22">Figure 4.24.</p>
+<p>La projection Lambert a l’avantage de restituer plus fidèlement les proportions des continents. L’échelle se dilate lorsque l’on s’éloigne du parallèle de tangence. Elle est également conforme.</p>
+<p class="s8"><strong>Cette carte est utilisée pour les cartes aéronautiques VFR de France métropolitaine.</strong></p>
+<p></p>
+<h5 class="s4">3. Les Unités de distances Le mille nautique ou Nautical Mile (NM) :</h5>
+<p>Cette longueur équivaut à la longueur d’un arc de cercle à la surface du globe qui a un angle de 1/60 ° (ou encore 1’ d’arc) centré sur le centre de la Terre.</p>
+<div class="textbox">
+<p class="s105"><strong>1 NM = 1,852 km</strong></p>
+</div>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_380.png" alt="image" width="197" height="216"></p>
+<p class="s22">Figure 4.25</p>
+<p>NB : Le Pied ou Foot / Feet (Ft) : <strong>1 Ft = 0,3048 m</strong></p>
+<p>Pour transformer les mètres en pieds, on multiplie par <strong>10/3</strong></p>
+<p>Pour transformer les pieds en mètres, on multiplie par <strong>3/10</strong></p>
+<p></p>
+<p class="s4">L’Echelle d’une carte :</p>
+<div class="textbox">
+<p class="s106"><strong>Echelle = ab Carte / AB Terre</strong></p>
+</div>
+<p>Les deux distances sont exprimées <strong>dans la même unité</strong>.</p>
+<p></p>
+<h5 class="s4">4. Les principales cartes aéronautiques</h5>
+<div class="textbox">
+<p><a href="https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr" target="_blank" rel="noopener">Elles sont consultables à l’adresse suivante : </a><a class="s108" href="https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr" target="_blank" rel="noopener">https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr</a></p>
+</div>
+<p></p>
+<p><strong>La Carte OACI <br></strong></p>
+<p>C’est une carte au 1/500 000<span class="s67">e </span>(échelle : 1cm = 5 km). Il faut 4 cartes (une Nord-Ouest, Nord-Est, Sud-Ouest, Sud-Est) pour couvrir toute la France. Elles permettent de naviguer à vue jusqu’à 3000 Ft AFSC ou FL115.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_383.jpg" alt="image" width="612" height="341"></p>
+<p class="s22">Figure 4.26.</p>
+<p class="s48"><span class="s4"><strong>La Carte SIA (France) </strong></span></p>
+<p>C’est une carte au 1/1 000 000<span class="s67">e </span>(échelle 1cm=10 km) Il faut 2 cartes (Nord et Sud) pour couvrir la France.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_385.jpg" alt="image" width="516" height="388"></p>
+<p class="s22">Figure 4.27.</p>
+<p class="s4">Cette carte fait apparaitre :</p>
+<ul>
+<li>la terre (peu de détails du relief, des cours d’eau et des forêts</li>
+<li>les principales routes et voies ferrées</li>
+<li>des zones aéronautiques</li>
+<li>des itinéraires aéronautiques</li>
+<li>les aérodromes et aéroports</li>
+</ul>
+<p>Elle permet une première approche de la navigation et un suivi des zones en vol mais <strong>ce n’est pas la carte principale utilisée pour naviguer à vue</strong>. L’espace aérien couvert s’étend de la surface au niveau de vol 195.</p></div>";}i:215;O:8:"stdClass":18:{s:2:"id";s:3:"110";s:2:"cm";s:3:"215";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331188";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"3. ‌Déclinaison et dérive";s:7:"content";s:3063:"<div class="no-overflow"><h3 class="s17"><a name="bookmark211"></a>3. ‌Déclinaison et dérive</h3>
+<h4 class="s18"><a name="bookmark212"></a>A. ‌La déclinaison</h4>
+<h5 class="s4">1. La Direction</h5>
+<p>Une direction est toujours comptée dans le sens des aiguilles d’une montre à partir d’une origine (le nord géographique ou le nord magnétique).</p>
+<p>Les angles sont compris entre 0 et 360° (Toujours 3 chiffres – Ex : Cap vrai 005°).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_387.jpg" alt="image" width="175" height="163"></p>
+<p>Figure 4.28.</p>
+<h5 class="s4"> </h5>
+<h5 class="s4">2. Les différents « Nord »</h5>
+<p class="s4"></p>
+<p class="s4"><strong>Le Nord vrai : Pôle Nord géographique</strong></p>
+<p>Toute direction mesurée par rapport au Nord vrai est dite « vraie ». <i>(Ex : Cap vrai – </i>Route vraie)</p>
+<p><strong>Le Nord magnétique <span class="p">: Il existe un champ magnétique terrestre.</span></strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_388.jpg" alt="image" width="379" height="278"></p>
+<p>Figure 4.29.</p>
+<p class="s14">Tout se passe comme si la Terre contenait un aimant gigantesque, passant par son centre, mais dont l’axe ne coïnciderait pas exactement avec la ligne des pôles géographiques. Le pôle nord (magnétique) se trouve aux environs du nord du Canada) 86°N – 172° Ouest en 2017 et se déplace de 55 km/an actuellement vers la Sibérie.</p>
+<p>Toute direction mesurée par rapport au nord magnétique est dite « magnétique » <i>(Ex : Cap magnétique / Route Magnétique).</i></p>
+<h5 class="s4">3. Déclinaison magnétique <span class="p">(Dm) : Angle entre le Nord vrai et le Nord magnétique</span></h5>
+<ul>
+<li>Dm est Est ou positive si le Nord magnétique est à l’est du Nord vrai.</li>
+<li>Dm est Ouest ou négative si le Nord magnétique est à l’Ouest du Nord vrai.</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_389.png" alt="image" width="178" height="208"></p>
+<p class="s22">Figure 4.30.</p>
+<p>Si on a choisi sur la carte de suivre un cap vrai Cv=56°, il faudra en vol suivre un cap magnétique Cm = 56° - Dm</p>
+<h4 class="s18"><a name="bookmark213"></a>B. ‌Cap, route et dérive</h4>
+<ul>
+<li class="s4"><strong>Cap</strong> <span class="p">: Angle entre le Nord et l’axe de l’avion.</span></li>
+<li><strong>Route </strong>: Angle entre le Nord et la trajectoire au sol de l’avion.</li>
+<li><strong>Dérive </strong>: Angle entre le Cap et la route. L’écart est dû au vent, qui souffle du cap vers la route.</li>
+</ul>
+<p></p>
+<p class="s48">Le vent venant de la droite, je derive vers la gauche (la dérive Négative) Le vent venant de la gauche, je derive vers la droite (la derive est positive)</p>
+<p class="s4"><strong>Route = Cap + Dérive</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_390.png" alt="image" width="278" height="364"></p>
+<p class="s22">Figure 4.31.</p></div>";}i:216;O:8:"stdClass":18:{s:2:"id";s:3:"111";s:2:"cm";s:3:"216";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331727";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"4. ‌Méthodes de navigation";s:7:"content";s:5143:"<div class="no-overflow"><h3 class="s17"><a name="bookmark214"></a>4. ‌Méthodes de navigation</h3>
+<h4 class="s18"><a name="bookmark215"></a>A. ‌Le cheminement à vue</h4>
+<p>Il consiste à suivre les lignes naturelles caractéristiques du relief (cours d’eau, voies ferrées, des routes …</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_392.jpg" alt="image" width="360" height="202"></p>
+<h4 class="s18"><a name="bookmark216"></a>B. ‌L’estime</h4>
+<p>Suivre un cap donné pendant un temps donné pour naviguer entre 2 points (on utilise le <strong>cap et la montre</strong>). Durant le vol on utilise des repères intermédiaires de contrôle (avec estimation et correction du vent).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_393.jpg" alt="image" width="618" height="299"></p>
+<p class="s22">Figure 4.33.</p>
+<h4 class="s18"><a name="bookmark217"></a>C. ‌La radionavigation</h4>
+<p>La <strong>radionavigation </strong>consiste à naviguer de balises en balises, qui émettent des ondes électromagnétiques.</p>
+<p class="s48" style="text-align: center;"><strong>Le VOR (VHF OMNI RANGE)</strong></p>
+<p>Il est quelques fois implanté sur un aérodrome, le plus souvent en campagne, aux points clés des régions de contrôle.</p>
+<p>La station sol <span class="p">émet un signal dans toutes les directions. </span>Le VOR matérialise dans l’espace les 360°, directions d’une rose centrée sur la station et calée sur le nord magnétique.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_394.jpg" alt="image" width="286" height="210"></p>
+<p>Figure 4.34.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_395.jpg" alt="image" width="479" height="336"></p>
+<p>Figure 4.35.</p>
+<div class="textbox">
+<p class="s56">Le <strong>QDM </strong><a class="s110" href="http://dictionnaire.sensagent.leparisien.fr/Rel%C3%83%C2%A8vement/fr-fr/" target="_blank" rel="noopener">est le </a>relèvement magnétique de la station par l'aéronef ou la route magnétique à suivre pour rejoindre la station.</p>
+<p class="s56">Le <strong>QDR </strong>est un relèvement magnétique relevé par une station. C’est l’angle mesuré à la station entre le Nord magnétique et l’avion.</p>
+</div>
+<div class="textbox"> </div>
+<p class="s22">Le récepteur de bord permet de matérialiser les informations sur la position de l’avion. Le bouton « OBS » permet de sélectionner la route choisie en faisant tourner la couronne graduée.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_396.jpg" alt="image" width="376" height="275"></p>
+<p class="s22">Figure 4.36.</p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_397.jpg" alt="image" width="452" height="345"></p>
+<p>Figure 4.37.</p>
+<p><strong>La barre de tendance donne la position de l’aéronef par rapport à la route :</strong></p>
+<ul>
+<li>barre à gauche, je tourne à gauche pour revenir sur ma route.</li>
+<li>barre à droite, je tourne à droite pour revenir sur ma route jusqu’à ce que ma barre de tendance soit centrée.</li>
+<li>Le triangle “TO ou FROM” m’indique si j’ai passé la station ou non.</li>
+</ul>
+<p></p>
+<p>Le VOR est précis, peu sensible à la météo mais sa portée est limitée aux faibles altitudes. Sur la même fréquence, il y a souvent un DME (Distance Measuring Equipment) qui mesure la distance oblique entre l’avion et la station au sol.</p>
+<h5 class="s4">1. L’ADF (Automatic Direction Finder ou radiocompas)</h5>
+<p>C’est un moyen de Radionavigation implanté à proximité de certains aérodromes.</p>
+<p>La balise au sol <span class="p">émet des signaux. </span>À bord de l’avion, l’aiguille du radiocompas indique la direction de la balise. Plus précisément le <u><strong>Gisement</strong></u><strong> </strong>est l’angle entre l’axe avion et la direction de la station.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_398.png" alt="image" width="149" height="264"></p>
+<p>Figure 4.38.</p>
+<p class="s22"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_399.png" alt="image" width="312" height="203"></p>
+<p class="s22" style="text-align: center;">Figure 4.39.</p>
+<p class="s4" style="text-align: center;"><strong>Relèvement Magnétique (QDM) = Cap Magnétique + gisement</strong></p>
+<h5 class="s4">2. Le GPS (Global Positioning System)</h5>
+<p>C’est un instrument permettant, à l’aide de signaux émis par plusieurs satellites, de connaître à bord de l’avion, sa position (latitude, longitude et altitude). Certains modèles sont certifiés pour le VFR mais la route DOIT être confirmée régulièrement par d’autres moyens de radionavigation. Et/ou des repères au sol.</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_400.jpg" alt="image" width="321" height="187"></p>
+<p class="s22" style="text-align: center;">Figure 4.40.</p></div>";}i:335;O:8:"stdClass":16:{s:2:"id";s:3:"162";s:2:"cm";s:3:"335";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703885";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:217;O:8:"stdClass":18:{s:2:"id";s:3:"112";s:2:"cm";s:3:"217";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"64";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331947";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:35:"‌1. Préparation de la navigation";s:7:"content";s:6393:"<div class="no-overflow"><h3 class="s17"><a name="bookmark219"></a>‌1. Préparation de la navigation</h3>
+<p class="s4">Avant le décollage il est nécessaire de préparer sa navigation. <span class="p">Pour cela, le pilote utilise :</span></p>
+<ul>
+<li>des cartes aéronautiques</li>
+<li>la documentation du terrain de départ et d’arrivée (plus des déroutements)</li>
+<li>les NOTAM <span class="s111">(Notice To AirMen) </span>et les prévisions météorologiques. Les NOTAM indiquent en particulier les ZIT (zones interdites temporaires) et les ZRT (zones réglementées temporaires)</li>
+<li>la documentation de l’avion pour les calculs de performances (montée, descente, vitesse de croisière …) et consommation en carburant.</li>
+<li>Les points les plus importants de la préparation du vol sont la visualisation et l’étude des procédures du départ, du trajet et de l’arrivée.</li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark220"></a>A. ‌La Carte VAC</h4>
+<p>Pour la procédure de départ et d’arrivée il faut consulter la carte VAC (Visual Approach Chart).</p>
+<p>C’est la carte d’un aérodrome qui permet au pilote d’avoir l’ensemble des informations sur celui-ci : aéronefs autorisés, code OACI, altitude, fréquence AFIS, longueur de piste (TODA = Take Off Distance Available), …</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_401.jpg" alt="image" width="414" height="650"></p>
+<p>Figure 4.41</p>
+<h4 class="s18"><a name="bookmark221"></a>B. ‌Mesure de distance</h4>
+<p class="s22"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_402.jpg" alt="image" width="93" height="184"></p>
+<p class="s22">Figure 4.42.</p>
+<p></p>
+<p>On mesure la distance entre le point de départ et le point d’arrivée avec une règle graduée. On reporte ensuite cette mesure <strong>sur le méridien, gradué en minute</strong>, en se plaçant à la latitude moyenne entre les 2 points. </p>
+<p style="text-align: center;"><strong>1° = 60 NM</strong></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><strong>Tracé d’une route sur une carte : Nord vrai</strong></p>
+<p style="text-align: center;"><strong><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-54-45.png" alt="Carte" width="930" height="484"></strong></p>
+<p class="s22" style="text-align: center;">Figure 4.43.</p>
+<p class="s10"><strong>Le tracé fait apparaître :</strong></p>
+<ul>
+<li>La route à suivre (ici 060°)</li>
+<li>Le cap magnétique permettant de la suivre entre 2 points (il est calculé à partir de la Dérive Magnétique lue sur la carte)</li>
+<li>L’altitude de vol prévue</li>
+<li>Une altitude de sécurité</li>
+</ul>
+<p><strong>On devra y rajouter :</strong></p>
+<ul>
+<li>Le temps sans vent entre 2 points</li>
+<li>Des repères de temps permettant de contrôler la route au fur et mesure de la navigation</li>
+</ul>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-58-32.png" alt="Carte " width="850" height="441"></p>
+<p class="s22" style="text-align: center;">Figure 4.44.</p>
+<h4 class="s18"><a name="bookmark222"></a>C. ‌Estimation des vitesses sol</h4>
+<ul>
+<li class="s4"><strong>La Vitesse propre : </strong><span class="p">C’est la vitesse horizontale de l’avion par rapport à la masse d’air</span></li>
+<li class="s4"><strong>La Vitesse sol : </strong><span class="p">C’est la vitesse de l’avion par rapport au sol</span></li>
+</ul>
+<p></p>
+<p><span class="p">L’écart entre les 2 provient du vent. Le <strong>vent effectif </strong>est à ajouter ou retrancher à votre vitesse selon le cas.</span></p>
+<p><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2007-00-27.png" alt="Vent et vitesse" width="754" height="350"></p>
+<p>Figure 4.45.</p>
+<p>Le <strong>vent latéral ou traversier </strong>génère une dérive, qui est l’angle entre le cap et la route : route = cap + dérive</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_407.jpg" alt="image" width="300" height="225"></p>
+<p class="s22">Figure 4.46.</p>
+<ul>
+<li>Le vent vient de ma droite : J’ai une dérive gauche ( - )</li>
+<li>Le vent vient de ma gauche : J’ai une dérive droite ( + )</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_408.jpg" alt="image" width="204" height="344"></p>
+<p class="s22">Figure 4.47.</p>
+<p>La dérive dépend du rapport vent latéral / vitesse avion.</p>
+<p class="s48"><strong>La route = Cap + dérive (la dérive est noté X) . Donc R=C+X</strong></p>
+<p></p>
+<h4 class="s18"><a name="bookmark223"></a>D. ‌Log de Navigation</h4>
+<p>Il s’agit de récapituler les informations essentielles durant le vol. On y note en particulier :</p>
+<ul>
+<li>Le bloc départ et le bloc arrivée qui sont les heures de mise en route et d’arrêt du moteur, très important pour le bilan carburant</li>
+<li>Le Fb, <strong>facteur de base</strong>, qui est le nombre de minutes pour parcourir 1 NM ( Fb = 60/V, V en kt)</li>
+<li>Le temps de vol et le cap corrigés compte tenu du vent</li>
+<li>Les points de report et heures estimées d’arrivée, à remplir en vol au fur et à mesure de la progression</li>
+<li>Les informations de vol (altitudes, fréquences radio, VOR, ADF)</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_410.jpg" alt="image" width="366" height="515"></p>
+<p class="s22">Figure 4.48.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark224"></a>‌E. Calcul du carburant</h4>
+<p>Les consommations de l’avion sont indiquées sur le manuel de vol de la machine. Pour le roulage, le décollage, le circuit d’arrivée et le retour au parking on considère une quantité forfaitaire. La quantité de carburant est calculée à partir du temps de vol (conso en l/h pour telle vitesse et telle altitude). Le calcul se fait en tenant compte du vent. La quantité de minimum de carburant à emporter est majorée de + 30 minutes de jour (ou 45 minutes de nuit) de réserve.</p></div>";}i:218;O:8:"stdClass":18:{s:2:"id";s:3:"113";s:2:"cm";s:3:"218";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"64";s:6:"module";s:2:"13";s:5:"added";s:10:"1737353609";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"2. ‌Avant le départ";s:7:"content";s:3370:"<div class="no-overflow"><h3 class="s17"><a name="bookmark225"></a>2. ‌Avant le départ</h3>
+<h4 class="s18"><a name="bookmark226"></a>A. ‌Les NOTAM (Notice To AirMen)</h4>
+<p>Ce sont des informations publiées sur des sites spécialisés à destination des équipages. Elles permettent d’informer de danger particuliers ou de modifications provisoires des procédures.</p>
+<p class="s12">Exemple :</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_412.jpg" alt="image" width="303" height="142"></p>
+<p class="s22">Figure 4.49.</p>
+<h4 class="s18"><a name="bookmark227"></a>B. ‌Les cartes météo</h4>
+<p class="s78">Carte TEMSI- (TEMps SIgnificatif)</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_413.jpg" alt="image" width="521" height="363"></p>
+<p class="s22">Figure 4.50.</p>
+<p class="s4"><strong>Message TAF</strong> <span class="p">(TYPES OF AERONAUTICAL FORECASTS)</span></p>
+<div class="textbox">
+<p class="s84"><strong>Exemple de message : </strong>LFLY 140800Z 1409/1418 32010KT 9999 SCT025CB BKN050 TEMPO 0911 7000 SCT015 BKN040 BECMG 1113 SCT050=</p>
+</div>
+<p class="s4"><strong>METAR : </strong>(<strong>MET</strong><span class="p"><strong>eorological</strong> <strong>A</strong></span><span class="p">erodrome </span><strong>R</strong><span class="p">eport mais parfois défini par </span>MET<span class="p">eorological </span>A<span class="p">irport </span>R<span class="p">eport)</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_414.jpg" alt="image" width="354" height="235"></p>
+<p class="s22">Figure 4.51.</p>
+<p class="s78"><strong>Tableau des heures de lever et coucher du soleil</strong></p>
+<p>Les conditions VMC (Visual Meteorological Conditions) pour voler en VFR doivent être respectées.</p>
+<h4 class="s18"><a name="bookmark228"></a>C. ‌Le Plan de vol</h4>
+<p>Pour pouvoir gérer le trafic, de façon optimale, les services de la circulation aérienne exigent le dépôt d’un plan de vol dans les cas suivants :</p>
+<ul>
+<li>Vol IFR (vol contrôlé).</li>
+<li>Vol VFR de nuit en voyage.</li>
+<li>Vol VFR avec franchissement de frontière.</li>
+<li>Vol avec un survol maritime (au sens réglementaire).</li>
+<li>Vol contenant un survol de zones inhospitalières.</li>
+<li>Vol passant par des régions ou des zones désignées par le ministère.</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_415.jpg" alt="image" width="224" height="336"></p>
+<p class="s22">Figure 4.52.</p>
+<p>Cela permet bénéficier de façon optimale des services du contrôle aérien.</p>
+<h4 class="s18"><a name="bookmark229"></a>D. ‌Les documents à emporter</h4>
+<ul>
+<li>Licence en cours de validité, pièce d’identité, certificat médical à jour</li>
+<li>Le manuel de vol de l’aéronef</li>
+<li>L’original du certificat d’immatriculation (sauf si vol local)</li>
+<li>L’original du certificat de navigabilité</li>
+<li>Le certificat d’assurance de responsabilité civile</li>
+<li>Le carnet de route de l’aéronef (sauf vol local)</li>
+<li>Le certificat acoustique</li>
+<li>Les données du plan de vol</li>
+<li>Les cartes actualisées et appropriées pour la route suivie</li>
+<li>Le dossier météo (visibilité, base des nuages, nébulosité, vent et précipitations)</li>
+</ul></div>";}i:336;O:8:"stdClass":16:{s:2:"id";s:3:"163";s:2:"cm";s:3:"336";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"64";s:6:"module";s:2:"17";s:5:"added";s:10:"1743704307";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:219;O:8:"stdClass":18:{s:2:"id";s:3:"114";s:2:"cm";s:3:"219";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"65";s:6:"module";s:2:"13";s:5:"added";s:10:"1737353910";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:44:"Security, Flight rules, airfield, Navigation";s:7:"content";s:17755:"<div class="no-overflow"><h1><a name="bookmark230"></a>‌English vocabulary</h1>
+<p></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding: 3px; border-color: #000000;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Security</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Carnet de bord</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Log-book</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Carnet de route</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Journey log book</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Certificat navigabilité</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Airworthiness certificate</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Combinaison anti-g</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">G-suit</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Durée de vie</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Service life</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Enregistreur de conversation</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Cockpit voice recorder (CVR)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Enregistreur de vol, boite noire</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flight data recorder (FDR),</p>
+<p class="s51">blackbox</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Feu à éclat</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Revolving light</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Feu anticollision</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flashing light</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Fidélité</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Reliability</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Gilet de sauvetage</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Life jacket, Mae West</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Immatriculation</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Registration number</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Incident</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Failure</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Manuel de vol</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flight manual</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Manuel entretien</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Maintenance manual</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Panne essence</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Fuel starvation</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Plan de vol</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flight plan</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Révision</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Overhaul</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Visite prévol</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Pre-flight inspection/check</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Voile noir</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Blackout</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_416.jpg" alt="image" width="537" height="295"></p>
+<p class="s22">Figure 4.53.</p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding: 3px; border-color: #000000;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Flight rules, airfield</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Aéro-club</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flying club</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Aire de traffic</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Ramp</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Aire de manoeuvre ou de</p>
+<p class="s51">stationnement</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Apron</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Aires à signaux</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Signal squares</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Alignement de descente</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Glide path</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Approche</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Approach</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Arrondi</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Flare out</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Autorisation, clairance</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Clearance</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Avitailleur, camion citerne</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Bowser</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Balked landing</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Atterrissage avorté</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s55">Circuit d’attente</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Holding pattern</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Circuit de piste</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Traffic or airfield pattern</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Code transpondeur</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Squawk</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Contrôle aérien</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Air traffic control (ATC)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Couloir aérien</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Airway</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Croisière</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Cruise</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Dernier virage</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Final turn</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Déroutement</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Track diversion</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Descente</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Descent</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Escale</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Stopover</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Espace aérien contrôlé</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Controlled airspace</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Etape de base</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Base leg</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Etat de la piste</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Runway condition</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Finale</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Final (approach)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Indicateur de trajectoire</p>
+<p class="s51">d’approche PAPI</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Precision approach path indicator</p>
+<p class="s51">(papi)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Load classification number</p>
+<p class="s51">(LCN)</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Indice de charge des pistes</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s55">Manche à air</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Wind sock</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Montée</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Climb</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Piste</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Runway</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Piste en service</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Duty runway</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Point d’attente</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Holding point</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Remise des gaz</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Go around, overshooting</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Roulage</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Taxiing</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Survol</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Fly-by</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Taux de virage standard</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Standard rate turn</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Taxes d’atterrissage</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Landing fees</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Transpondeur</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Transponder</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vent arrière</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Downwind leg</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vol en attente</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Loiter</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_417.png" alt="image" width="486" height="366"></p>
+<p class="s22">Figure 4.54.</p>
+<p class="s22"></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding: 3px; border-color: #000000;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Navigation</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Babord</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Port</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Cap (vrai/géographique,</p>
+<p class="s51">magnétique)</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Heading (true, magnetic)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Cap compas</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Compass heading</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Déclinaison</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Magnetic declination</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Dérive</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Drift angle</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Déviation</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Quadrantal error</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Fuseau horaire</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Time belt</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Gisement</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Bearing</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Guidage</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vectoring</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Heure UTC</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Zulu time</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Navigation à l’estime</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Dead-reckoning</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Prendre un cap</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">To set a heading</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Radiocompas</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">ADF</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Radiogoniomètre</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">VOR</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Relèvement</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Bearing</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Route (vraie/géographique,</p>
+<p class="s51">magnétique)</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Track (true, magnetic)</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Tribord</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Starboard</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vent arrière</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Downwind</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vent de face ou debout</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Headwind</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vent traversier</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Crosswind, wind across</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse sol</p>
+</td>
+<td style="padding: 3px; border-color: #000000;">
+<p class="s51">Ground speed</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_418.png" alt="image" width="243" height="331"></p>
+<p class="s22">Figure 4.55.</p></div>";}i:69;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"69";s:3:"mod";s:4:"page";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"46";s:6:"module";s:2:"16";s:5:"added";s:10:"1734503628";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";}i:70;O:8:"stdClass":17:{s:2:"id";s:2:"13";s:2:"cm";s:2:"70";s:3:"mod";s:5:"label";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"46";s:6:"module";s:2:"13";s:5:"added";s:10:"1734504960";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";s:7:"content";s:7356:"<div class="no-overflow"><p>Le parcours pour devenir pilote varie en fonction des objectifs de chacun, que ce soit pour voler en tant que passionné ou en tant que professionnel. Les cursus incluent la formation pour obtenir une <strong>licence de pilote privé</strong> (PPL), une <strong>licence de pilote commercial</strong> (CPL), ou une <strong>licence de pilote de ligne</strong> (ATPL). Les formations peuvent être dispensées dans des écoles spécialisées, des aéroclubs ou des programmes intégrés. Pour ceux qui veulent servir dans l'aviation militaire, des programmes dédiés sont également disponibles. Quel que soit le chemin choisi, devenir pilote nécessite un engagement important en termes de temps, d’efforts et de ressources financières, mais c’est une carrière passionnante pour ceux qui souhaitent explorer le ciel.</p>
+<h3>Les différents cursus pour devenir pilote</h3>
+<p>Devenir pilote est un rêve pour de nombreuses personnes passionnées par l'aviation. Que ce soit pour voler à titre professionnel ou pour un simple hobby, plusieurs cursus sont disponibles en fonction de l'objectif, du type de pilotage souhaité et du niveau d'engagement. Voici un aperçu des principales voies pour devenir pilote, qu'il s'agisse de pilote privé, pilote de ligne ou pilote d'avion militaire.</p>
+<h4><strong>Devenir pilote privé (PPL)</strong></h4>
+<p>La <strong>licence de pilote privé</strong> (PPL - Private Pilot License) est la première étape pour toute personne désireuse de piloter des avions de manière non professionnelle. Elle permet de voler seul ou avec des passagers, mais uniquement à des fins privées, sans rémunération.</p>
+<ul>
+<li><strong>Conditions d'admission</strong> : Il n'est généralement pas nécessaire d'avoir une formation préalable, mais il faut avoir au moins 17 ans, être en bonne santé (test médical de classe 2), et avoir une certaine aptitude physique et mentale.</li>
+<li><strong>Durée de la formation</strong> : En moyenne, la formation pour obtenir un PPL prend environ 45 heures de vol avec un instructeur, bien que cela puisse varier en fonction de la progression de l'élève.</li>
+<li><strong>Contenu de la formation</strong> : La formation comprend des heures de vol pratiques et un enseignement théorique sur les principes de vol, la réglementation aérienne, la navigation, la météorologie, et la gestion des situations d'urgence.</li>
+<li><strong>Coût</strong> : Environ 8 000 à 15 000 euros, selon les écoles et la durée des formations.</li>
+</ul>
+<h4><strong>Devenir pilote de ligne (CPL)</strong></h4>
+<p>La <strong>licence de pilote de ligne</strong> (CPL - Commercial Pilot License) est l'étape suivante pour ceux qui souhaitent en faire une carrière professionnelle, notamment comme pilote de ligne ou dans d'autres secteurs commerciaux de l'aviation.</p>
+<ul>
+<li><strong>Conditions d'admission</strong> : Un diplôme d'études secondaires est souvent requis, ainsi qu’une bonne maîtrise de l'anglais (qui est la langue internationale de l’aviation). Un examen médical de classe 1 est également nécessaire pour garantir une bonne condition physique et mentale.</li>
+<li><strong>Durée de la formation</strong> : La formation pour obtenir un CPL dure en moyenne entre 18 et 24 mois, avec un total de 200 à 250 heures de vol.</li>
+<li><strong>Contenu de la formation</strong> : En plus des compétences de vol de base, la formation inclut des modules plus avancés sur la gestion de la sécurité, la gestion du cockpit, la navigation avancée, et les procédures d'atterrissage et de décollage dans diverses conditions. Les pilotes suivent également une formation théorique rigoureuse.</li>
+<li><strong>Coût</strong> : La formation complète coûte généralement entre 50 000 et 100 000 euros.</li>
+</ul>
+<h4><strong>La formation en école de pilotage</strong></h4>
+<p>Il existe de nombreuses écoles privées et des <strong>aéroclubs</strong> qui proposent des formations pour devenir pilote, qu'elles soient privées ou commerciales. Certaines écoles offrent des <strong>programmes intégrés</strong> qui permettent d'obtenir une <strong>formation complète</strong>, de la PPL à la CPL, voire à la <strong>ATPL</strong> (Airline Transport Pilot License), la licence nécessaire pour devenir pilote de ligne. Ces écoles offrent un parcours tout-en-un qui inclut la formation théorique et pratique, avec une structure qui suit les règles de l’<strong>Agence européenne de la sécurité aérienne (EASA)</strong> ou de la <strong>Federal Aviation Administration (FAA)</strong> aux États-Unis.</p>
+<h4><strong>Devenir pilote de ligne avec un programme intégré</strong></h4>
+<p>Les <strong>programmes intégrés</strong> sont des formations intensives qui permettent aux étudiants d’obtenir la <strong>licence de pilote de ligne (ATPL)</strong> directement après leurs études. Ces cursus sont destinés aux personnes qui souhaitent devenir pilote de ligne et qui n'ont pas encore d'expérience préalable en aviation.</p>
+<ul>
+<li><strong>Conditions d’admission</strong> : Il faut souvent avoir un baccalauréat ou un diplôme équivalent, de préférence dans une discipline scientifique, ainsi qu’une certaine aptitude physique et des connaissances en mathématiques et en physique.</li>
+<li><strong>Durée de la formation</strong> : Un programme intégré dure généralement entre 18 et 24 mois.</li>
+<li><strong>Coût</strong> : La formation dans une école intégrée peut coûter entre 80 000 et 150 000 euros, selon l'école choisie et les équipements fournis. Les formations peuvent inclure un financement, mais elles sont souvent coûteuses.</li>
+<li><strong>Objectif</strong> : L'objectif est de former des pilotes prêts à entrer directement dans des compagnies aériennes après l’obtention de la licence ATPL.</li>
+</ul>
+<h4><strong>Devenir pilote militaire</strong></h4>
+<p>Pour ceux qui souhaitent servir dans l'armée de l'air, devenir <strong>pilote militaire</strong> est une autre voie. La formation diffère selon le pays, mais en général, elle nécessite une sélection rigoureuse et une formation poussée.</p>
+<ul>
+<li><strong>Conditions d’admission</strong> : Il faut être citoyen du pays, avoir un excellent niveau académique, passer des tests physiques et psychologiques stricts, et être accepté dans une académie militaire.</li>
+<li><strong>Durée de la formation</strong> : La durée de la formation est généralement plus longue, avec plusieurs années d’entraînement à la fois académique, physique et pratique.</li>
+<li><strong>Contenu de la formation</strong> : La formation inclut des compétences en vol militaire, ainsi que des connaissances spécifiques en matière de tactiques, de gestion des situations de combat et d’entretien des appareils.</li>
+<li><strong>Coût</strong> : Cette formation est généralement financée par l'État, car elle fait partie du service militaire.</li>
+</ul>
+<h4>Présentation des différents cursus pour devenir pilote professionnel</h4>
+<h4><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/141/mod_label/intro/WhatsApp%20Image%202024-12-08%20at%2016.45.05.jpeg" alt="présentation des différents cursus pour devenir pilote" width="1600" height="896"></h4></div>";}i:205;O:8:"stdClass":16:{s:2:"id";s:2:"64";s:2:"cm";s:3:"205";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737285162";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:362;O:8:"stdClass":16:{s:2:"id";s:3:"189";s:2:"cm";s:3:"362";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1747115254";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:88:"Annales 2024 – Entraînez-vous à nouveau sur les questions 2024 sur cette thématique";}i:242;O:8:"stdClass":16:{s:2:"id";s:2:"73";s:2:"cm";s:3:"242";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501640";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:251;O:8:"stdClass":16:{s:2:"id";s:2:"82";s:2:"cm";s:3:"251";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1740476006";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Les questions de Pascal";}i:255;O:8:"stdClass":16:{s:2:"id";s:2:"85";s:2:"cm";s:3:"255";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1741288976";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:257;O:8:"stdClass":15:{s:2:"id";s:2:"87";s:2:"cm";s:3:"257";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1741290498";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:353;O:8:"stdClass":16:{s:2:"id";s:3:"180";s:2:"cm";s:3:"353";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999282";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:354;O:8:"stdClass":16:{s:2:"id";s:3:"181";s:2:"cm";s:3:"354";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999388";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:355;O:8:"stdClass":16:{s:2:"id";s:3:"182";s:2:"cm";s:3:"355";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999552";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:206;O:8:"stdClass":16:{s:2:"id";s:2:"65";s:2:"cm";s:3:"206";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1737285666";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:43:"Lancez votre premier test de positionnement";}i:243;O:8:"stdClass":16:{s:2:"id";s:2:"74";s:2:"cm";s:3:"243";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501888";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"Lancez le test";}i:259;O:8:"stdClass":16:{s:2:"id";s:2:"89";s:2:"cm";s:3:"259";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741559543";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Passez au niveau suivant avec cinq nouvelles questions !";}i:262;O:8:"stdClass":16:{s:2:"id";s:2:"92";s:2:"cm";s:3:"262";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741560696";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:94:"Testez si vous êtes prêt avec 10 questions et atteignez 100 % de certitude à votre niveau !";}i:339;O:8:"stdClass":16:{s:2:"id";s:3:"166";s:2:"cm";s:3:"339";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1744868157";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Défi des 100 questions";}}s:12:"sectioncache";a:10:{i:17;O:8:"stdClass":6:{s:2:"id";s:2:"17";s:7:"section";s:1:"0";s:4:"name";s:12:"Introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:74;O:8:"stdClass":7:{s:2:"id";s:2:"74";s:7:"section";s:1:"1";s:4:"name";s:16:"Les TD en classe";s:7:"summary";s:85:"<p>Dépôt des éléments spécifiques distribués en classe par les enseignants.</p>";s:12:"availability";s:57:"{"op":"&","c":[{"type":"cohort","id":1}],"showc":[false]}";s:9:"component";N;s:6:"itemid";N;}i:18;O:8:"stdClass":6:{s:2:"id";s:2:"18";s:7:"section";s:1:"2";s:4:"name";s:46:"Cours partie 1 : Réglementation et Sécurité";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:19;O:8:"stdClass":6:{s:2:"id";s:2:"19";s:7:"section";s:1:"3";s:4:"name";s:38:"Cours partie 2 : Circulation Aérienne";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:20;O:8:"stdClass":6:{s:2:"id";s:2:"20";s:7:"section";s:1:"4";s:4:"name";s:43:"Cours partie 3 : Principes de la Navigation";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:64;O:8:"stdClass":6:{s:2:"id";s:2:"64";s:7:"section";s:1:"5";s:4:"name";s:34:"Cours partie 4 : Préparer son vol";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:65;O:8:"stdClass":6:{s:2:"id";s:2:"65";s:7:"section";s:1:"6";s:4:"name";s:32:"Complément : English vocabulary";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:46;O:8:"stdClass":6:{s:2:"id";s:2:"46";s:7:"section";s:1:"7";s:4:"name";s:14:"Devenir pilote";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:69;O:8:"stdClass":6:{s:2:"id";s:2:"69";s:7:"section";s:1:"8";s:4:"name";s:72:"Les annales des examens du BIA et leurs corrigées sur cette thématique";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:70;O:8:"stdClass":7:{s:2:"id";s:2:"70";s:7:"section";s:1:"9";s:4:"name";s:24:"Tests de positionnement ";s:7:"summary";s:307:"<p></p>
+<p>Pour aborder plus efficacement les cours et les notions de ce chapitre, commencez par réaliser un test de positionnement pour évaluer vos connaissances sur les aéronefs et les engins spatiaux. Les résultats de ce test nous permettront de vous proposer des cours adaptés à votre niveau.</p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"NRS";s:8:"fullname";s:48:"Navigation, réglementation, sécurité des vols";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1754997965";}s:7:"version";i:1754997965;}

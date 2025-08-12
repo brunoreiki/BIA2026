@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/2024/AMV</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>Aérodynamique, aérostatique et principes du vol</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 5  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 5</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Quelle est l'image correcte ?</p>
+            <p><img src="https://bia-facile.fr/images/1999-nav-1.jpg" alt="Image Question 1" width="300"></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Les volets sont des surfaces mobiles situées sur le bord de fuite des ailes. Leur utilisation est *importante pour les phases de décollage et d'atterrissage car ils augmentent la portance et la traînée, permettant un contrôle de l'avion à des vitesses plus basses.</p>
+            <p><img src="https://bia-facile.fr/images/2021-anglais-01.gif" alt="Image Question 1" width="300"></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Réponse 1A</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Bonne réponse !</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1B</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1C</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1D</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+  </question>
+
+  <!-- question: 6  -->
+  <question type="multichoice">
+    <name>
+      <text>Question 6</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>Quelle est l'image correcte ?6</p>
+            <p><img src="https://bia-facile.fr/images/1999-nav-1.jpg" alt="Image Question 1" width="300"></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>Les volets sont des surfaces mobiles situées sur le bord de fuite des ailes. Leur utilisation est *importante pour les phases de décollage et d'atterrissage car ils augmentent la portance et la traînée, permettant un contrôle de l'avion à des vitesses plus basses.</p>
+            <p><img src="https://bia-facile.fr/images/2021-anglais-01.gif" alt="Image Question 1" width="300"></p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p>Réponse 1A</p>]]></text>
+      <feedback format="html">
+        <text><![CDATA[<p>Bonne réponse !</p>]]></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1B</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1C</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p>Réponse 1D</p>]]></text>
+      <feedback format="html">
+        <text>Mauvaise réponse.</text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>

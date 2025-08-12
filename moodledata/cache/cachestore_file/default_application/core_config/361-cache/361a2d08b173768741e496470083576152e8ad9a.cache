@@ -1,0 +1,235 @@
+a:157:{s:16:"background_color";s:7:"#83a4d4";s:21:"background_text_color";s:7:"#ffffff";s:15:"contact_address";s:0:"";s:13:"contact_email";s:21:"contact@bia-facile.fr";s:20:"contact_footer_title";s:14:"Contactez-nous";s:13:"contact_phone";s:0:"";s:9:"customcss";s:2936:".difficulty-facile::before {
+content: url('https://bia-caea/images/facile.png');
+margin-right: 5px;
+}
+
+.difficulty-difficile::before {
+content: url('https://bia-caea/images/difficile.png');
+margin-right: 5px;
+}   
+
+/* image = légende */
+
+    .gallery {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background-color: #00274d; /* Bleu foncé */
+      color: white;
+    }
+
+
+
+    .gallery-titre {
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      margin: 0;
+      font-size: 2em;
+    }
+
+    .gallery-items {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-end;
+      gap: 20px;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+
+    .gallery-item {
+      text-align: center;
+      max-width: 250px;
+    }
+
+    .gallery-item img {
+      max-width: 100%;
+      height: auto;
+      border: 2px solid white;
+      border-radius: 0; /* Coins carrés */
+    }
+
+    .gallery-item figcaption {
+      color: white; /* Légendes en blanc */
+      font-style: italic;
+      margin-top: 10px;
+    }
+
+/* epicea */
+        .bloc-image-text {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            color: white;
+        }
+        .column {
+            flex: 1 1 calc(50% - 40px);
+            box-sizing: border-box;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #004488;
+        }
+        .entry {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            grid-template-rows: auto auto;
+            align-items: start;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .entry img {
+            grid-row: 1 / span 2;
+            grid-column: 1;
+            flex-shrink: 0;
+        }
+        .entry .text {
+            grid-column: 2;
+            grid-row: 1;
+        }
+        .entry .legend {
+            grid-column: 2;
+            grid-row: 2;
+            font-style: italic;
+            margin-top: 10px;
+            color: #cce6ff;
+        }
+        .titre-bloc-image {
+            margin-top: 0;
+            color: #ffffff;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        .text p {
+            margin-top: 0;
+            color: #ffffff;
+            font-weight: bold;
+            margin: 0 0 10px;
+        }
+
+/* image carrée */
+
+.activity-item .activity-altcontent img {
+  border-radius:0rem;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty th {
+  background-color: #183054;
+  /* #0f6cbf */
+  /* #2B4E84#3E65A0#183054 */
+}
+";s:10:"fontfamily";s:6:"Roboto";s:16:"fontfamily_menus";s:6:"Roboto";s:19:"fontfamily_sitename";s:6:"Oswald";s:16:"fontfamily_title";s:10:"Montserrat";s:18:"footer_description";s:39:"Brevet d'Initiation Aéronautique (BIA)";s:20:"footer_htmleditor_fr";s:3782:"
+        
+        
+    
+    
+        
+        
+        
+    
+    
+        <link href="https://bia-facile.fr/theme/boost_magnific/_editor/_default/default-footer.css" rel="stylesheet">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="footer-desc">
+                <div class="logo-footer">
+                    <a href="https://bia-facile.fr/"><span>BIA</span></a>
+                </div>
+                <p>Brevet d'Initiation Aéronautique (BIA)</p>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-nav">
+                <h4>Liens importants</h4>
+                <ul>
+                    <li><a href="https://bia-facile.fr/">Link 1</a></li>
+                    <li><a href="https://bia-facile.fr/">Link 2</a></li>
+                    <li><a href="https://bia-facile.fr/">Link 3</a></li>
+                    <li><a href="https://bia-facile.fr/">Link 4</a></li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="social-media">
+                <h4>Suivez-nous sur les réseaux sociaux</h4>
+                <ul>
+                    <li class="smedia-02">
+                        <a href="https://www.youtube.com/@aaaa" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-youtube"></i>
+                                </span>
+                            <span class="media-name">Youtube</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-02">
+                        <a href="https://www.linkedin.com/in/aaaa" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-linkedin"></i>
+                                </span>
+                            <span class="media-name">Linkedin</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-02">
+                        <a href="https://twitter.com/aaaa" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-twitter"></i>
+                                </span>
+                            <span class="media-name">Twitter</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-04">
+                        <a href="https://instagram.com/aaaa" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-instagram"></i>
+                                </span>
+                            <span class="media-name">Instagram</span>
+                        </a>
+                    </li>
+
+                    <li class="smedia-01">
+                        <a href="https://facebook.com/aaaa" target="_blank">
+                                <span class="media-icon">
+                                    <i class="fab fa fa-facebook"></i>
+                                </span>
+                            <span class="media-name">Facebook</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="footer-contact">
+                <h4>Nous contacter</h4>
+
+                <p>Adresse</p>
+                <p><i class="fa fa-phone-square"></i>(11)99876-5430</p>
+
+                <p><i class="fa fa-envelope"></i>
+                    <a class="mail-link" href="mailto:aaaa@aaa.com">aaaa@aaa.com</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style id="vvvebjs-styles"></style>
+    
+
+    
+";s:12:"footer_links";s:0:"";s:18:"footer_links_title";s:0:"";s:22:"footer_show_copywriter";s:1:"0";s:19:"footer_social_title";s:0:"";s:11:"footer_type";s:1:"0";s:27:"frontpage_about_description";s:0:"";s:22:"frontpage_about_enable";s:1:"0";s:20:"frontpage_about_logo";s:0:"";s:24:"frontpage_about_number_1";s:1:"0";s:24:"frontpage_about_number_2";s:1:"0";s:24:"frontpage_about_number_3";s:1:"0";s:24:"frontpage_about_number_4";s:1:"0";s:22:"frontpage_about_text_1";s:0:"";s:22:"frontpage_about_text_2";s:0:"";s:22:"frontpage_about_text_3";s:0:"";s:22:"frontpage_about_text_4";s:0:"";s:21:"frontpage_about_title";s:0:"";s:37:"frontpage_avaliablecourses_instructor";s:1:"0";s:31:"frontpage_avaliablecourses_text";s:0:"";s:30:"frontpage_mycourses_instructor";s:1:"0";s:24:"frontpage_mycourses_text";s:0:"";s:9:"home_type";s:1:"0";s:21:"login_backgroundcolor";s:0:"";s:20:"login_backgroundfoto";s:72:"/Gulfstream_G600,_EBACE_2018,_Le_Grand-Saconnex_(BL7C0704)(1)petite.jpeg";s:24:"login_forgot_description";s:0:"";s:23:"login_login_description";s:0:"";s:24:"login_signup_description";s:0:"";s:11:"login_theme";s:17:"login_theme_block";s:10:"logo_color";s:10:"/logo3.png";s:10:"logo_write";s:26:"/logo menu défilement.png";s:17:"mycourses_color_1";s:7:"#2441e7";s:17:"mycourses_color_2";s:7:"#ff1053";s:17:"mycourses_color_3";s:7:"#00a78e";s:17:"mycourses_color_4";s:7:"#ecd06f";s:16:"mycourses_icon_1";s:12:"/message.svg";s:16:"mycourses_icon_2";s:12:"/profile.svg";s:16:"mycourses_icon_3";s:16:"/preferences.svg";s:16:"mycourses_icon_4";s:10:"/grade.svg";s:19:"mycourses_numblocos";s:1:"0";s:17:"mycourses_title_1";s:19:"Messages personnels";s:17:"mycourses_title_2";s:6:"Profil";s:17:"mycourses_title_3";s:13:"Préférences";s:17:"mycourses_title_4";s:5:"Notes";s:15:"mycourses_url_1";s:39:"https://bia-facile.fr/message/index.php";s:15:"mycourses_url_2";s:38:"https://bia-facile.fr/user/profile.php";s:15:"mycourses_url_3";s:42:"https://bia-facile.fr/user/preferences.php";s:15:"mycourses_url_4";s:53:"https://bia-facile.fr/grade/report/overview/index.php";s:9:"pagefonts";s:0:"";s:22:"settings_icons_image_1";s:15:"/audio_file.svg";s:23:"settings_icons_image_10";s:0:"";s:23:"settings_icons_image_11";s:0:"";s:23:"settings_icons_image_12";s:0:"";s:23:"settings_icons_image_13";s:0:"";s:23:"settings_icons_image_14";s:0:"";s:23:"settings_icons_image_15";s:0:"";s:23:"settings_icons_image_16";s:0:"";s:23:"settings_icons_image_17";s:0:"";s:23:"settings_icons_image_18";s:0:"";s:23:"settings_icons_image_19";s:0:"";s:22:"settings_icons_image_2";s:15:"/video_file.svg";s:23:"settings_icons_image_20";s:0:"";s:22:"settings_icons_image_3";s:9:"/book.svg";s:22:"settings_icons_image_4";s:9:"/game.svg";s:22:"settings_icons_image_5";s:10:"/money.svg";s:22:"settings_icons_image_6";s:10:"/slide.svg";s:22:"settings_icons_image_7";s:12:"/support.svg";s:22:"settings_icons_image_8";s:13:"/download.svg";s:22:"settings_icons_image_9";s:0:"";s:21:"settings_icons_name_1";s:5:"Audio";s:22:"settings_icons_name_10";s:0:"";s:22:"settings_icons_name_11";s:0:"";s:22:"settings_icons_name_12";s:0:"";s:22:"settings_icons_name_13";s:0:"";s:22:"settings_icons_name_14";s:0:"";s:22:"settings_icons_name_15";s:0:"";s:22:"settings_icons_name_16";s:0:"";s:22:"settings_icons_name_17";s:0:"";s:22:"settings_icons_name_18";s:0:"";s:22:"settings_icons_name_19";s:0:"";s:21:"settings_icons_name_2";s:6:"Vidéo";s:22:"settings_icons_name_20";s:0:"";s:21:"settings_icons_name_3";s:5:"Livre";s:21:"settings_icons_name_4";s:3:"Jeu";s:21:"settings_icons_name_5";s:9:"Financier";s:21:"settings_icons_name_6";s:12:"Diapositives";s:21:"settings_icons_name_7";s:7:"Support";s:21:"settings_icons_name_8";s:16:"Téléchargement";s:21:"settings_icons_name_9";s:0:"";s:18:"settings_icons_num";s:1:"8";s:9:"sitefonts";s:741:"<style>
+@import url('https://fonts.googleapis.com/css2?&family=Briem+Hand:wght@100..900&family=Epilogue:ital,wght@0,100..900;1,100..900&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Manrope:wght@200..800&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&family=Oxygen:wght@300;400;700&family=Poetsen+One&family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+</style>";s:17:"slideshow_image_1";s:0:"";s:17:"slideshow_image_2";s:0:"";s:17:"slideshow_image_3";s:0:"";s:17:"slideshow_image_4";s:0:"";s:17:"slideshow_image_5";s:0:"";s:17:"slideshow_image_6";s:0:"";s:17:"slideshow_image_7";s:0:"";s:17:"slideshow_image_8";s:0:"";s:17:"slideshow_image_9";s:0:"";s:16:"slideshow_info_1";s:0:"";s:16:"slideshow_info_2";s:0:"";s:16:"slideshow_info_3";s:0:"";s:16:"slideshow_info_4";s:0:"";s:16:"slideshow_info_5";s:0:"";s:16:"slideshow_info_6";s:0:"";s:16:"slideshow_info_7";s:0:"";s:16:"slideshow_info_8";s:0:"";s:16:"slideshow_info_9";s:0:"";s:19:"slideshow_numslides";s:1:"0";s:16:"slideshow_text_1";s:0:"";s:16:"slideshow_text_2";s:0:"";s:16:"slideshow_text_3";s:0:"";s:16:"slideshow_text_4";s:0:"";s:16:"slideshow_text_5";s:0:"";s:16:"slideshow_text_6";s:0:"";s:16:"slideshow_text_7";s:0:"";s:16:"slideshow_text_8";s:0:"";s:16:"slideshow_text_9";s:0:"";s:15:"slideshow_url_1";s:21:"https://bia-facile.fr";s:15:"slideshow_url_2";s:21:"https://bia-facile.fr";s:15:"slideshow_url_3";s:21:"https://bia-facile.fr";s:15:"slideshow_url_4";s:21:"https://bia-facile.fr";s:15:"slideshow_url_5";s:21:"https://bia-facile.fr";s:15:"slideshow_url_6";s:21:"https://bia-facile.fr";s:15:"slideshow_url_7";s:21:"https://bia-facile.fr";s:15:"slideshow_url_8";s:21:"https://bia-facile.fr";s:15:"slideshow_url_9";s:21:"https://bia-facile.fr";s:15:"social_facebook";s:0:"";s:16:"social_instagram";s:0:"";s:15:"social_linkedin";s:0:"";s:14:"social_twitter";s:0:"";s:14:"social_youtube";s:0:"";s:34:"theme_boost_magnific_customicon_81";s:1:"8";s:34:"theme_boost_magnific_customicon_83";s:1:"4";s:11:"theme_color";s:16:"theme_color_blue";s:26:"theme_color__color_buttons";s:7:"#183054";s:24:"theme_color__color_names";s:7:"#c0ccdc";s:26:"theme_color__color_primary";s:7:"#2b4e84";s:28:"theme_color__color_secondary";s:7:"#3e65a0";s:25:"theme_color__color_titles";s:7:"#e8f0fb";s:10:"top_scroll";s:1:"0";s:27:"top_scroll_background_color";s:7:"#1a2a6c";s:21:"top_scroll_text_color";s:7:"#ffffff";s:7:"version";s:10:"2024122702";}

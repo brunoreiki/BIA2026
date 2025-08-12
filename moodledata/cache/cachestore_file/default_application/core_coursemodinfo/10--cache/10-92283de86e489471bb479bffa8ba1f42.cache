@@ -1,0 +1,192 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:3:{i:380;O:8:"stdClass":17:{s:2:"id";s:2:"10";s:2:"cm";s:3:"380";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"89";s:6:"module";s:1:"9";s:5:"added";s:10:"1749891368";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:8:"Annonces";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:382;O:8:"stdClass":17:{s:2:"id";s:3:"134";s:2:"cm";s:3:"382";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"89";s:6:"module";s:2:"13";s:5:"added";s:10:"1750052268";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:19:"Le contenu du cours";s:7:"content";s:1343:"<div class="no-overflow"><p>Ce cours propose une exploration des <strong>principales formules mathématiques utilisées dans le domaine de l’aéronautique</strong>, en lien direct avec les attendus du Brevet d’Initiation Aéronautique (BIA).</p>
+<p>Voici un aperçu des chapitres abordés à travers les équations présentes dans ce cours :</p>
+<ul>
+<li><strong>Navigation et orientation</strong> : conversion entre cap compas, cap magnétique et cap vrai.</li>
+<li><strong>Cinémanique du vol</strong> : calcul de distances, vitesses, temps et rayons de virage, application des équations de base :<br>\( D = V \cdot t \),    \( t = \frac{D}{V} \), etc.</li>
+<li><strong>Aérodynamique</strong> : équations de portance et de traînée, compréhension des coefficients :<br>\( C_L \), \( C_D \), \( C_x \), \( C_z \).</li>
+<li><strong>Énergie en vol</strong> : énergie cinétique et potentielle, travail, puissance, force.</li>
+<li><strong>Conditions atmosphériques</strong> : pression, température, densité de l’air en fonction de l’altitude, gradient thermique.</li>
+<li><strong>Vitesses caractéristiques</strong> : vitesse vraie, vitesse sol, vitesse de décrochage, influence du vent.</li>
+<li><strong>Performances en virage et sécurité</strong> : rayon de virage, facteur de charge, finesse.</li>
+</ul></div>";}i:381;O:8:"stdClass":18:{s:2:"id";s:3:"133";s:2:"cm";s:3:"381";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"90";s:6:"module";s:2:"13";s:5:"added";s:10:"1749894197";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Les équations usuelles";s:7:"content";s:8166:"<div class="no-overflow"><h2>A. Météorologie et aérologie</h2>
+<h3>Atmosphère standard</h3>
+<p class="formula">\( T = T_0 - 0.0065 \cdot h \)</p>
+<p class="formula">\( P = P_0 \cdot \left(1 - \frac{0.0065 \cdot h}{T_0} \right)^{5.256} \)</p>
+<ul>
+<li>\(h\) : altitude (m)</li>
+<li>\(T_0 = 288.15\ K\), \(P_0 = 101325\ Pa\)</li>
+</ul>
+<h3>Point de rosée</h3>
+<p class="formula">\( T_d = T - \left( \frac{100 - RH}{5} \right) \)</p>
+<ul>
+<li>\(T_d\) : température du point de rosée (°C), \(RH\) : humidité relative (%)</li>
+</ul>
+<h3>Gradient thermique</h3>
+<p>Gradient vertical standard : \(6.5\ ^\circ C / 1000\ m\)</p>
+<h2>B. Aérodynamique et mécanique du vol</h2>
+<h3>Forces aérodynamiques</h3>
+<p class="formula">\( L = \frac{1}{2} \rho V^2 S C_z \)</p>
+<p class="formula">\( D = \frac{1}{2} \rho V^2 S C_x \)</p>
+<ul>
+<li>\(L\) : portance, \(D\) : traînée (N)</li>
+<li>\(\rho\) : densité (kg/m³), \(V\) : vitesse (m/s), \(S\) : surface alaire (m²)</li>
+<li>\(C_z, C_x\) : coefficients de portance / traînée</li>
+</ul>
+<h3>Facteur de charge</h3>
+<p class="formula">\( n = \frac{L}{P} \), \( n = \frac{1}{\cos(\phi)} \)</p>
+<ul>
+<li>\(n\) : facteur de charge (sans unité), \(\phi\) : inclinaison du virage</li>
+</ul>
+<h3>Finesse</h3>
+<p class="formula">\( \text{Finesse} = \frac{L}{D} = \frac{\text{distance parcourue}}{\text{altitude perdue}} \)</p>
+<h2>C. Étude des aéronefs et moteurs</h2>
+<h3>Énergie</h3>
+<p class="formula">\( E_c = \frac{1}{2} m V^2 \)</p>
+<p class="formula">\( E_p = m g h \)</p>
+<h3>Puissance</h3>
+<p class="formula">\( P = \frac{W}{t} = F V \)</p>
+<ul>
+<li>\(m\) : masse (kg), \(g = 9.81\ m/s^2\), \(h\) : hauteur (m), \(V\) : vitesse (m/s)</li>
+<li>\(F\) : force (N), \(W\) : travail (J), \(t\) : temps (s)</li>
+</ul>
+<h2>D. Navigation et sécurité des vols</h2>
+<h3>Temps, vitesse, distance</h3>
+<p class="formula">\( T = \frac{D}{V} \)</p>
+<p class="formula">\( D = V \cdot T \)</p>
+<p class="formula">\( V = \frac{D}{T} \)</p>
+<ul>
+<li>\(D\) : distance (NM ou km), \(T\) : temps (h), \(V\) : vitesse (kt ou km/h)</li>
+</ul>
+<h3>Facteur de base</h3>
+<p class="formula">\( \text{Fb} = \frac{60}{\text{Vp}} \)</p>
+<p>\( \text{TSV} = \text{distance} \cdot \text{Fb} \)</p>
+<h3>Triangle des vitesses</h3>
+<p class="formula">\( \vec{V_{sol}} = \vec{V_{air}} + \vec{V_{vent}} \)</p>
+<h3>Calcul de dérive</h3>
+<p class="formula">\( V_t = V \cdot \sin(\alpha),\quad V_e = V \cdot \cos(\alpha) \)</p>
+<ul>
+<li>\(\alpha\) : angle entre le vent et la route (rad)</li>
+</ul>
+<h2>E. Histoire et culture aéronautique</h2>
+<p>Pas d'équations mais notions clés à connaître (dates, inventeurs, innovations).</p>
+<h2>F. Systèmes de coordonnées</h2>
+<p class="formula">\( d = R \cdot \arccos(\sin \phi_1 \cdot \sin \phi_2 + \cos \phi_1 \cdot \cos \phi_2 \cdot \cos(\lambda_2 - \lambda_1)) \)</p>
+<ul>
+<li>\(R = 6371\ km\), \(\phi\) : latitude (rad), \(\lambda\) : longitude (rad)</li>
+</ul>
+<h2>G. Unités et conversions</h2>
+<ul>
+<li>1 NM = 1.852 km</li>
+<li>1 kt = 1.852 km/h</li>
+<li>1 ft = 0.3048 m</li>
+<li>1 CV = 736 W</li>
+<li>1 hPa = 100 Pa</li>
+</ul>
+<h2>A. Météorologie et aérologie</h2>
+<h3>Équations fondamentales</h3>
+<p class="formula">\( P = P_0 \cdot \left(1 - \frac{L h}{T_0} \right)^{\frac{gM}{RL}} \)</p>
+<p class="formula">\( \rho = \frac{P}{R T} \)</p>
+<p class="formula">\( T_d = T - \left(\frac{100 - RH}{5}\right) \)</p>
+<ul>
+<li>\(P\) : pression (Pa), \(h\) : altitude (m), \(T\) : température (K), \(RH\) : humidité relative (%)</li>
+<li>\(\rho\) : masse volumique (kg/m³), \(R = 287\ J\cdot kg^{-1}\cdot K^{-1}\), \(M\) : masse molaire</li>
+</ul>
+<h2>2. Aérodynamique et principes du vol</h2>
+<h3>Portance et traînée</h3>
+<p class="formula">\( L = \frac{1}{2} \cdot \rho \cdot V^2 \cdot S \cdot C_L \)</p>
+<p class="formula">\( D = \frac{1}{2} \cdot \rho \cdot V^2 \cdot S \cdot C_D \)</p>
+<h3>Facteur de charge</h3>
+<p class="formula">\( n = \frac{1}{\cos(\phi)} \)</p>
+<h3>Vol plané</h3>
+<p class="formula">\( \text{Finesse} = \frac{\text{distance horizontale}}{\text{hauteur perdue}} \)</p>
+<h3>Vol motorisé</h3>
+<p class="formula">\( T = D \) en palier</p>
+<p class="formula">\( P = T \cdot V \)</p>
+<h2>3. Étude des aéronefs et moteurs</h2>
+<h3>Énergie et travail</h3>
+<p class="formula">\( E_c = \frac{1}{2} m V^2 \), \( E_p = m g h \)</p>
+<p class="formula">\( W = F \cdot d \cdot \cos(\theta) \)</p>
+<p class="formula">\( P = \frac{W}{t} = F \cdot V \)</p>
+<ul>
+<li>\(m\) : masse (kg), \(F\) : force (N), \(d\) : distance (m), \(t\) : temps (s)</li>
+</ul>
+<h2>4. Navigation</h2>
+<h3>Temps, vitesse, distance</h3>
+<p class="formula">\( D = V \cdot t \)</p>
+<p class="formula">\( t = \frac{D}{V} \)</p>
+<p class="formula">\( V = \frac{D}{t} \)</p>
+<h3>Formule de distance entre deux points</h3>
+<p class="formula">\( d = R \cdot \arccos(\sin \phi_1 \cdot \sin \phi_2 + \cos \phi_1 \cdot \cos \phi_2 \cdot \cos(\lambda_2 - \lambda_1)) \)</p>
+<h3>Triangle des vitesses</h3>
+<p class="formula">\( \vec{V_{sol}} = \vec{V_{air}} + \vec{V_{vent}} \)</p>
+<h2>H. Approfondissements : performances et Mach</h2>
+<h3>Nombre de Mach</h3>
+<p class="formula">\( M = \frac{V}{a} \)</p>
+<ul>
+<li>\(M\) : nombre de Mach (sans unité)</li>
+<li>\(V\) : vitesse de l'avion (m/s)</li>
+<li>\(a\) : vitesse du son (m/s), dépend de la température</li>
+</ul>
+<h3>Vitesse du son</h3>
+<p class="formula">\( a = \sqrt{\gamma \cdot R \cdot T} \)</p>
+<ul>
+<li>\(\gamma = 1.4\) (air sec), \(R = 287\ J/kg/K\), \(T\) : température (K)</li>
+</ul>
+<h3>Vitesse de décrochage</h3>
+<p class="formula">\( V_s = \sqrt{\frac{2W}{\rho S C_{L_{max}}}} \)</p>
+<ul>
+<li>\(V_s\) : vitesse de décrochage (m/s), \(W\) : poids (N), \(\rho\) : densité (kg/m³)</li>
+<li>\(S\) : surface alaire (m²), \(C_{L_{max}}\) : portance maximale</li>
+</ul>
+<h3>Vitesse vraie à partir de la vitesse indiquée</h3>
+<p class="formula">\( V_{vraie} = V_{indiquée} \cdot \sqrt{\frac{\rho_0}{\rho}} \)</p>
+<ul>
+<li>\(\rho_0\) : densité au niveau de la mer</li>
+</ul>
+<h3>Temps de virage standard</h3>
+<p class="formula">\( R = \frac{V^2}{g \tan(\phi)} \)</p>
+<p class="formula">\( t_{virage} = \frac{\pi R}{V} \)</p>
+<h3>Formule de Breguet (autonomie)</h3>
+<p class="formula">\( R = \frac{V}{c} \cdot \frac{L}{D} \cdot \ln \left( \frac{W_i}{W_f} \right) \)</p>
+<ul>
+<li>\(R\) : rayon d’action, \(V\) : vitesse, \(c\) : consommation spécifique, \(L/D\) : finesse</li>
+<li>\(W_i\), \(W_f\) : poids initial/final (kg)</li>
+</ul>
+<h2>I. Navigation avancée et magnétisme</h2>
+<h3>Relations entre caps</h3>
+<p class="formula">\( Cap\ vrai = Cap\ compas + Variation + Déclinaison \)</p>
+<p class="formula">\( Cap\ magnétique = Cap\ vrai - Déclinaison \)</p>
+<p class="formula">\( Cap\ compas = Cap\ magnétique - Déviation \)</p>
+<ul>
+<li><strong>Variation</strong> : angle entre le nord vrai et le nord magnétique</li>
+<li><strong>Déclinaison</strong> = variation locale (souvent fournie par les cartes aéronautiques)</li>
+<li><strong>Déviation</strong> : erreur du compas due à l’environnement électrique ou magnétique de l’avion</li>
+</ul>
+<h3>Triangle des vitesses (navigation)</h3>
+<p class="formula">\( \text{Cap} = \text{Route} \pm \text{Angle de dérive} \)</p>
+<p class="formula">\( \text{Vitesse sol} = \text{composante parallèle du vent + composante parallèle de l’avion} \)</p>
+<h3>Composantes du vent</h3>
+<p class="formula">\( V_{vent\ travers} = V_{vent} \cdot \sin(\alpha) \)</p>
+<p class="formula">\( V_{vent\ avant/arrière} = V_{vent} \cdot \cos(\alpha) \)</p>
+<ul>
+<li>\(\alpha\) : angle entre la route et la direction du vent</li>
+</ul>
+<h3>Détermination de la dérive</h3>
+<p class="formula">\( \text{Angle\ de\ dérive} = \arcsin \left( \frac{V_{vent\ travers}}{V_{avion}} \right) \)</p>
+<h3>Rappel unité et angles</h3>
+<ul>
+<li>Les angles sont mesurés en degrés depuis le nord (0°)</li>
+<li>Les cap sont mesurés dans le sens horaire (0° à 360°)</li>
+<li>\(1\ NM = 1\ minute d’arc = 1852\ m\)</li>
+</ul></div>";}}s:12:"sectioncache";a:3:{i:89;O:8:"stdClass":6:{s:2:"id";s:2:"89";s:7:"section";s:1:"0";s:4:"name";s:12:"introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:90;O:8:"stdClass":6:{s:2:"id";s:2:"90";s:7:"section";s:1:"1";s:4:"name";s:18:"Les indispensables";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:95;O:8:"stdClass":7:{s:2:"id";s:2:"95";s:7:"section";s:1:"2";s:4:"name";s:19:"Exercices pratiques";s:7:"summary";s:1547:"<p>Les équations que vous avez vues dans ce cours ne sont pas seulement théoriques : elles sont au cœur des situations réelles rencontrées en vol. Pour mieux les comprendre et les maîtriser, rien de tel que la pratique !</p>
+<p>Cette section vous propose une série d'exercices concrets, inspirés des situations aéronautiques courantes et des sujets du Brevet d’Initiation Aéronautique (BIA).</p>
+<p>Vous serez amené(e) à :</p>
+<ul>
+<li>Convertir des vitesses, des distances et des altitudes dans les unités utilisées en aéronautique.</li>
+<li>Appliquer les formules comme \( D = V \cdot t \), \( V = \frac{D}{t} \), ou \( t = \frac{D}{V} \) pour résoudre des problèmes de navigation.</li>
+<li>Utiliser les équations de portance \( L = \frac{1}{2} \rho V^2 S C_L \) ou de traînée \( D = \frac{1}{2} \rho V^2 S C_D \).</li>
+<li>Déterminer des grandeurs physiques comme l'énergie cinétique \( E_c = \frac{1}{2} m V^2 \) ou la pression atmosphérique selon l’altitude \( P = P_0 \left(1 - \frac{L h}{T_0} \right)^{\frac{gM}{RL}} \).</li>
+<li>Analyser des virages, des variations de température ou les effets du vent sur la trajectoire d’un avion.</li>
+</ul>
+<p>Ces exercices sont conçus pour vous aider à comprendre <strong>quand</strong> et <strong>comment</strong> utiliser les formules, mais aussi à interpréter correctement les résultats obtenus dans un contexte aéronautique.</p>
+<p>🛫 <em>À vous de jouer ! Prenez vos instruments, vos unités et vos formules : vous êtes aux commandes.</em></p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:4:"Math";s:8:"fullname";s:37:"Les mathématiques de l'aéronautique";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1754997965";}s:7:"version";i:1754997965;}

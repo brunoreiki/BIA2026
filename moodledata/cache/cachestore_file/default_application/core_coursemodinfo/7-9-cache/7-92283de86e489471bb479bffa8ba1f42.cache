@@ -1,0 +1,1408 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:25:{i:32;O:8:"stdClass":17:{s:2:"id";s:1:"7";s:2:"cm";s:2:"32";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:1:"9";s:5:"added";s:10:"1734105391";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:40:"Testez votre niveau avec un premier test";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:33;O:8:"stdClass":16:{s:2:"id";s:2:"19";s:2:"cm";s:2:"33";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:2:"17";s:5:"added";s:10:"1734167870";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:43:"Votre premier test en anglais aéronautique";}i:39;O:8:"stdClass":17:{s:2:"id";s:2:"20";s:2:"cm";s:2:"39";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:2:"17";s:5:"added";s:10:"1734269127";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"completionexpected";s:10:"1734593340";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Votre premier test d'autopositionnement";}i:42;O:8:"stdClass":27:{s:2:"id";s:1:"1";s:2:"cm";s:2:"42";s:3:"mod";s:11:"studentquiz";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:2:"29";s:5:"added";s:10:"1734274196";s:5:"score";s:1:"0";s:8:"idnumber";s:0:"";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"0";s:10:"groupingid";s:1:"0";s:6:"indent";s:1:"0";s:10:"completion";s:1:"0";s:5:"extra";s:0:"";s:25:"completiongradeitemnumber";N;s:19:"completionpassgrade";s:1:"0";s:14:"completionview";s:1:"0";s:18:"completionexpected";s:1:"0";s:15:"showdescription";s:1:"0";s:12:"availability";N;s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";}i:49;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:2:"49";s:3:"mod";s:8:"feedback";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:1:"7";s:5:"added";s:10:"1734337776";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:13:"Test feedback";s:10:"customdata";a:1:{s:9:"anonymous";s:1:"1";}}i:66;O:8:"stdClass":18:{s:2:"id";s:2:"10";s:2:"cm";s:2:"66";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"31";s:6:"module";s:2:"13";s:5:"added";s:10:"1734417756";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";s:7:"content";s:336:"<div class="no-overflow"><h4>Présentation des différents cursus pour devenir pilote</h4>
+<h4><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/137/mod_label/intro/WhatsApp%20Image%202024-12-08%20at%2016.45.05.jpeg" alt="présentation des différents cursus pour devenir pilote" width="1600" height="896"></h4></div>";}i:343;O:8:"stdClass":16:{s:2:"id";s:3:"170";s:2:"cm";s:3:"343";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"85";s:6:"module";s:2:"17";s:5:"added";s:10:"1744956394";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:344;O:8:"stdClass":16:{s:2:"id";s:3:"171";s:2:"cm";s:3:"344";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"85";s:6:"module";s:2:"17";s:5:"added";s:10:"1744956507";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:345;O:8:"stdClass":16:{s:2:"id";s:3:"172";s:2:"cm";s:3:"345";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"85";s:6:"module";s:2:"17";s:5:"added";s:10:"1744956608";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:346;O:8:"stdClass":16:{s:2:"id";s:3:"173";s:2:"cm";s:3:"346";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"85";s:6:"module";s:2:"17";s:5:"added";s:10:"1744956646";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:347;O:8:"stdClass":16:{s:2:"id";s:3:"174";s:2:"cm";s:3:"347";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"85";s:6:"module";s:2:"17";s:5:"added";s:10:"1744956728";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:36;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"36";s:3:"mod";s:8:"glossary";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"10";s:5:"added";s:10:"1734170987";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:17:"Glossaire anglais";}i:34;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:2:"34";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"13";s:5:"added";s:10:"1734170881";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:6:"Sigles";}i:35;O:8:"stdClass":16:{s:2:"id";s:1:"2";s:2:"cm";s:2:"35";s:3:"mod";s:4:"data";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:1:"6";s:5:"added";s:10:"1734170918";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"Anglais sigles";}i:43;O:8:"stdClass":18:{s:2:"id";s:1:"4";s:2:"cm";s:2:"43";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"13";s:5:"added";s:10:"1734274683";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:53:"Les sigles et leurs significations ADF Automatic D...";s:7:"content";s:22402:"<div class="no-overflow"><h4>Les sigles et leurs significations</h4>
+<p></p>
+<table style="border-collapse: collapse; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1">
+<thead>
+<tr>
+<th style="border-color: #000000;">Sigle</th>
+<th style="border-color: #000000;">English</th>
+<th style="border-color: #000000;">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ADF&quot;}">ADF</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Automatic Direction Finder&quot;}">Automatic Direction Finder</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Radiocompas&quot;}">Radiocompas</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;APU&quot;}">APU</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Auxiliary Power Unit Groupe&quot;}">Auxiliary Power Unit Groupe</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Auxiliaire de Puissance (GAP)&quot;}">Auxiliaire de Puissance (GAP)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ATC&quot;}">ATC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Air Traffic Control&quot;}">Air Traffic Control</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;contrôle de la circulation aérienne&quot;}">Contrôle de la circulation aérienne</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;BKN&quot;}">BKN</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;BroKeN&quot;}">BroKeN</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;fragmentés (5-7 octas)&quot;}">Fragmentés (5-7 octas)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;CAT&quot;}">CAT</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Clear Air Turbulence&quot;}">Clear Air Turbulence</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;turbulence en ciel clair&quot;}">Turbulence en ciel clair</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;CAVOK&quot;}">CAVOK</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ceiling And Visibility OK&quot;}">Ceiling And Visibility OK</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;plafond et visibilité OK&quot;}">Plafond et visibilité OK</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;CVR&quot;}">CVR</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cockpit Voice Recorder&quot;}">Cockpit Voice Recorder</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;enregistreur de conversations de poste de pilotage&quot;}">Enregistreur de conversations de poste de pilotage</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;DZ&quot;}">DZ</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Drizzle&quot;}">Drizzle</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;bruine&quot;}">Bruine</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;EGT&quot;}">EGT</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Exhaust Gaz Temperature&quot;}">Exhaust Gaz Temperature</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Contrôleur de température des gaz d’échappement&quot;}">Contrôleur de température des gaz d’échappement</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FCST&quot;}">FCST</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ForeCaST&quot;}">ForeCaST</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;météo prévu (temps)&quot;}">Météo prévu (temps)</td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FDR&quot;}">FDR</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Flight Data Recorder (the black box)&quot;}">Flight Data Recorder (the black box)</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Enregistreur des paramètres de vol (boîte noire)&quot;}">Enregistreur des paramètres de vol (boîte noire)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FEW&quot;}">FEW</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FEW&quot;}">FEW</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;peu ou quelques (1 à 2 octas)&quot;}">Peu ou quelques (1 à 2 octas)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FG&quot;}">FG</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FoG&quot;}">FoG</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;brouillard&quot;}">Brouillard</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FM&quot;}">FM</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FroM&quot;}">FroM</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;à partir de&quot;}">À partir de</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FZ&quot;}">FZ</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;FreeZing&quot;}">FreeZing</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;surfondu, se congelant&quot;}">Surfondu, se congelant</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;GR&quot;}">GR</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;hail&quot;}">hail</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;GRêle&quot;}">GRêle</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;HZ&quot;}">HZ</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;HaZe&quot;}">HaZe</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;brume sèche&quot;}">Brume sèche</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ILS&quot;}">ILS</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Instrument Landing System&quot;}">Instrument Landing System</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;système d'atterrissage aux instruments&quot;}">Système d'atterrissage aux instruments</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;KT&quot;}">KT</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;KnoT&quot;}">KnoT</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;nœud&quot;}">Nœud</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LOC&quot;}">LOC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LoCally&quot;}">LoCally</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;localement&quot;}">Localement</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LYR&quot;}">LYR</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;LaYeR&quot;}">LaYeR</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;en couches&quot;}">En couches</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;METAR&quot;}">METAR</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;METeorologicAl Report&quot;}">METeorologicAl Report</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;message d'observation régulière&quot;}">Message d'observation régulière</td>
+</tr>
+<tr style="height: 51px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;NOSIG&quot;}">NOSIG</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;No significant change in next two hours&quot;}">No significant change in next two hours</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pas de changement significatif au cours des 2 heures à venir&quot;}">Pas de changement significatif au cours des 2 heures à venir</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;NSC&quot;}">NSC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;No Significant Cloud&quot;}">No Significant Cloud</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pas de nuages (0 octa) (remplace SKC en 2010)&quot;}">Pas de nuages (0 octa) (remplace SKC en 2010)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;OVC&quot;}">OVC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;OVerCast&quot;}">OVerCast</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;couvert (bouché 8 octas)&quot;}">Couvert (bouché 8 octas)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;PROB&quot;}">PROB</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;PROBably&quot;}">PROBably</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Probablement&quot;}">Probablement</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;RA&quot;}">RA</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;RAin&quot;}">RAin</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;pluie&quot;}">Pluie</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;RPM&quot;}">RPM</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Révolutions Per Minute&quot;}">Révolutions Per Minute</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Tours par minutes&quot;}">Tours par minutes</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SCT&quot;}">SCT</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SCaTtered&quot;}">SCaTtered</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;épars (3-4 octas)&quot;}">Épars (3-4 octas)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SH&quot;}">SH</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SHower&quot;}">SHower</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;averse&quot;}">Averse</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SNSH&quot;}">SNSH</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SNow SHower&quot;}">SNow SHower</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;averse de neige&quot;}">Averse de neige</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SIGMET&quot;}">SIGMET</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SIGnifiant METeorology&quot;}">SIGnifiant METeorology</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;phénomènes significatifs&quot;}">Phénomènes significatifs</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SKC&quot;}">SKC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SKy Clear&quot;}">SKy Clear</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ciel clair (remplacé par NSC en 2010)&quot;}">Ciel clair (remplacé par NSC en 2010)</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SN&quot;}">SN</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;SNow&quot;}">SNow</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Neige&quot;}">Neige</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;TAF&quot;}">TAF</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Terminal Area Forecast&quot;}">Terminal Area Forecast</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;bulletin de prévision d'aérodrome&quot;}">Bulletin de prévision d'aérodrome</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;TEMPO&quot;}">TEMPO</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Temporarily&quot;}">Temporarily</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Temporairement&quot;}">Temporairement</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;TEMSI&quot;}">TEMSI</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Temps Significatif&quot;}">Temps Significatif</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Temps Significatif&quot;}">Temps Significatif</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;TS&quot;}">TS</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;ThunderStorm&quot;}">ThunderStorm</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;orage&quot;}">Orage</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;UTC&quot;}">UTC</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot; Universal Time Coordinated&quot;}">Universal Time Coordinated</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;temps universel coordonné&quot;}">Temps universel coordonné</td>
+</tr>
+<tr style="height: 27px;">
+<td style="width: 9.35077%; border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;VALID&quot;}">VALID</td>
+<td style="width: 35.7558%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Validity&quot;}">Validity</td>
+<td style="width: 54.7965%; border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Validité&quot;}">Validité</td>
+</tr>
+</tbody>
+</table></div>";}i:44;O:8:"stdClass":18:{s:2:"id";s:1:"5";s:2:"cm";s:2:"44";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"13";s:5:"added";s:10:"1734275011";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:42:"Les métiers de l'aéronautique en anglais";s:7:"content";s:7270:"<div class="no-overflow"><h4>Les métiers de l'aéronautique en anglais</h4>
+<p></p>
+<table style="border-collapse: collapse; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1">
+<thead>
+<tr>
+<th style="border-color: #000000;">English</th>
+<th style="border-color: #000000;">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pilot&quot;}">Pilot</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pilote&quot;}">Pilote</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Air Traffic Controller&quot;}">Air Traffic Controller</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Contrôleur aérien&quot;}">Contrôleur aérien</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aircraft Engineer&quot;}">Aircraft Engineer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ingénieur aéronautique&quot;}">Ingénieur aéronautique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aircraft Technician&quot;}">Aircraft Technician</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Technicien aéronautique&quot;}">Technicien aéronautique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aerospace Scientist&quot;}">Aerospace Scientist</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Scientifique en aérospatiale&quot;}">Scientifique en aérospatiale</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Flight Attendant&quot;}">Flight Attendant</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Agent de bord&quot;}">Agent de bord</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Avionics Technician&quot;}">Avionics Technician</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Technicien en avionique&quot;}">Technicien en avionique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aerospace Engineer&quot;}">Aerospace Engineer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ingénieur aérospatial&quot;}">Ingénieur aérospatial</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aircraft Dispatcher&quot;}">Aircraft Dispatcher</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Dispatcheur aérien&quot;}">Dispatcheur aérien</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Airport Manager&quot;}">Airport Manager</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Gestionnaire d'aéroport&quot;}">Gestionnaire d'aéroport</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aerospace Technician&quot;}">Aerospace Technician</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Technicien en aérospatiale&quot;}">Technicien en aérospatiale</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aviation Maintenance&quot;}">Aviation Maintenance</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Technician Technicien de maintenance aéronautique&quot;}">Technician Technicien de maintenance aéronautique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Avionics Engineer&quot;}">Avionics Engineer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Ingénieur en avionique&quot;}">Ingénieur en avionique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aviation Inspector&quot;}">Aviation Inspector</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Inspecteur aéronautique&quot;}">Inspecteur aéronautique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aerospace Analyst&quot;}">Aerospace Analyst</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Analyste en aérospatiale&quot;}">Analyste en aérospatiale</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aviation Safety Officer&quot;}">Aviation Safety Officer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Officier de sécurité aéronautique&quot;}">Officier de sécurité aéronautique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Airport Security Officer&quot;}">Airport Security Officer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Agent de sécurité aéroportuaire&quot;}">Agent de sécurité aéroportuaire</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aircraft Sales Representative&quot;}">Aircraft Sales Representative</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Représentant commercial d'aéronefs&quot;}">Représentant commercial d'aéronefs</td>
+</tr>
+<tr>
+<td style="border-color: #000000;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Aerospace Lawyer&quot;}">Aerospace Lawyer</td>
+<td style="border-color: #000000;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Avocat spécialisé en aérospatiale&quot;}">Avocat spécialisé en aérospatiale</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:76;O:8:"stdClass":17:{s:2:"id";s:2:"16";s:2:"cm";s:2:"76";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"13";s:5:"added";s:10:"1735123397";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:36:"Lexique des termes météorologiques";s:7:"content";s:6026:"<div class="no-overflow"><h3>Lexique des termes météorologiques</h3>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid rgb(0, 0, 0); width: 54.4601%;" border="1" cellspacing="0"><colgroup width="194"></colgroup> <colgroup width="171"></colgroup>
+<tbody>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Anglais&quot;}"><strong>Anglais</strong></td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Français&quot;}"><strong>Français</strong></td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Cold Front...boundary between&quot;}">Cold Front...boundary between</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Front froid... frontière entre&quot;}">Front froid... frontière entre</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Dense Fog&quot;}">Dense Fog</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Brouillard dense&quot;}">Brouillard dense</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Freezing Rain&quot;}">Freezing Rain</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pluie verglaçante&quot;}">Pluie verglaçante</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Heavy Rain&quot;}">Heavy Rain</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pluie forte&quot;}">Pluie forte</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Moderate Rain&quot;}">Moderate Rain</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pluie modérée&quot;}">Pluie modérée</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Moderate Snow&quot;}">Moderate Snow</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Neige modérée&quot;}">Neige modérée</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rain&quot;}">Rain</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pluie&quot;}">Pluie</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rain Showers&quot;}">Rain Showers</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Averses de pluie&quot;}">Averses de pluie</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Rain, Snow, &amp; Fog&quot;}">Rain, Snow, &amp; Fog</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Pluie, neige et brouillard&quot;}">Pluie, neige et brouillard</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Snow and Fog&quot;}">Snow and Fog</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Neige et brouillard&quot;}">Neige et brouillard</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Thunderstorms&quot;}">Thunderstorms</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Orages&quot;}">Orages</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Thunderstorms with Hail&quot;}">Thunderstorms with Hail</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Orages avec grêle&quot;}">Orages avec grêle</td>
+</tr>
+<tr>
+<td style="border-color: #000000; border-width: 1px; width: 53.1507%;" align="left" height="17" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Warm Front...&quot;}">Warm Front...</td>
+<td style="border-color: #000000; border-width: 1px; width: 46.8493%;" align="left" data-sheets-value="{ &quot;1&quot;: 2, &quot;2&quot;: &quot;Front chaud...&quot;}">Front chaud...</td>
+</tr>
+</tbody>
+</table></div>";}i:77;O:8:"stdClass":16:{s:2:"id";s:2:"33";s:2:"cm";s:2:"77";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"17";s:5:"added";s:10:"1735124096";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:65:"Testez votre connaissance des termes météorologiques an anglais";}i:46;O:8:"stdClass":18:{s:2:"id";s:1:"7";s:2:"cm";s:2:"46";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"13";s:5:"added";s:10:"1734276536";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:43:"Liste du vocabulaire aéronautique exigible";s:7:"content";s:31391:"<div class="no-overflow"><h4>Liste du vocabulaire aéronautique exigible</h4>
+<p></p>
+<table style="border-collapse: collapse; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1">
+<thead>
+<tr>
+<th style="border-color: #000000;">English</th>
+<th style="border-color: #000000;">Français</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-color: #000000;">a control</td>
+<td style="border-color: #000000;">commande (une)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">a fly-by-wire (FBW) flight-control system</td>
+<td style="border-color: #000000;">système de commandes de vol électrique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">aft</td>
+<td style="border-color: #000000;">arrière (vers l'arrière de l'appareil)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">aileron</td>
+<td style="border-color: #000000;">aileron</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">air cooling</td>
+<td style="border-color: #000000;">refroidissement par air</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airbrakes</td>
+<td style="border-color: #000000;">aérofreins</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airbrakes lever</td>
+<td style="border-color: #000000;">commande d'aérofreins</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airflow</td>
+<td style="border-color: #000000;">écoulement de l’air (vent relatif)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airfoil</td>
+<td style="border-color: #000000;">profil</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airport control tower</td>
+<td style="border-color: #000000;">tour de contrôle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">airspeed indicator</td>
+<td style="border-color: #000000;">anémomètre ou Badin</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">altimeter</td>
+<td style="border-color: #000000;">altimètre</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">altitude</td>
+<td style="border-color: #000000;">altitude</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">approach</td>
+<td style="border-color: #000000;">approche</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">automatic direction finder (ADF)</td>
+<td style="border-color: #000000;">radio compas</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bolt</td>
+<td style="border-color: #000000;">boulon</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">burner</td>
+<td style="border-color: #000000;">brûleur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cabin (or cockpit)</td>
+<td style="border-color: #000000;">cabine (ou habitacle)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">canard plane</td>
+<td style="border-color: #000000;">avion canard (ou plan canard)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">canopy</td>
+<td style="border-color: #000000;">verrière</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">ceiling</td>
+<td style="border-color: #000000;">plafond</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">clearance</td>
+<td style="border-color: #000000;">autorisation (clairance)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cleared (for something)</td>
+<td style="border-color: #000000;">autorisé (pour une option)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cloud</td>
+<td style="border-color: #000000;">nuage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cockpit</td>
+<td style="border-color: #000000;">habitacle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">compass</td>
+<td style="border-color: #000000;">boussole ou compas</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">connecting rod</td>
+<td style="border-color: #000000;">bielle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">constant speed propeller</td>
+<td style="border-color: #000000;">hélice à vitesse constante</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">contrails</td>
+<td style="border-color: #000000;">traînée de condensation</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">crankcase</td>
+<td style="border-color: #000000;">carter</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">crankshaft</td>
+<td style="border-color: #000000;">vilebrequin</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">crew</td>
+<td style="border-color: #000000;">équipage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">crosswind</td>
+<td style="border-color: #000000;">vent de travers</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cruising speed</td>
+<td style="border-color: #000000;">vitesse de croisière</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cylinder</td>
+<td style="border-color: #000000;">cylindre</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">device</td>
+<td style="border-color: #000000;">dispositif [système]</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">diffuser</td>
+<td style="border-color: #000000;">diffuseur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">drag</td>
+<td style="border-color: #000000;">traînée</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">drift</td>
+<td style="border-color: #000000;">dérive (au sens d’écart entre cap et route)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">drizzle</td>
+<td style="border-color: #000000;">bruine</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">elevator</td>
+<td style="border-color: #000000;">gouverne de profondeur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">empennage</td>
+<td style="border-color: #000000;">empennage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">engine</td>
+<td style="border-color: #000000;">moteur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">(duct) fan</td>
+<td style="border-color: #000000;">soufflante (conduit de)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">fixed gear</td>
+<td style="border-color: #000000;">train (d'atterrissage) fixe</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">flap</td>
+<td style="border-color: #000000;">volet (hypersustentateur)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">flight controls</td>
+<td style="border-color: #000000;">commandes de vol</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">flight data recorder</td>
+<td style="border-color: #000000;">enregistreur de vol (données)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">float</td>
+<td style="border-color: #000000;">flotteurs</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">flying boat</td>
+<td style="border-color: #000000;">hydravion à coque</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">fog</td>
+<td style="border-color: #000000;">brouillard</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">ft/min (feet/minute)</td>
+<td style="border-color: #000000;">pieds par minute</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">fuselage</td>
+<td style="border-color: #000000;">fuselage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">gear box</td>
+<td style="border-color: #000000;">boîte de vitesse (ou réducteur)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">gust</td>
+<td style="border-color: #000000;">rafale</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">heading</td>
+<td style="border-color: #000000;">cap</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">headwind</td>
+<td style="border-color: #000000;">vent de face (ou vent contraire)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">height</td>
+<td style="border-color: #000000;">hauteur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">horizontal stabilizer</td>
+<td style="border-color: #000000;">plan fixe horizontal</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">ignition</td>
+<td style="border-color: #000000;">allumage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">inlet</td>
+<td style="border-color: #000000;">orifice (ou entrée) d'admission</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">instrument panel</td>
+<td style="border-color: #000000;">tableau de bord</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">jet aircraft</td>
+<td style="border-color: #000000;">avion à réaction</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">knot</td>
+<td style="border-color: #000000;">nœud</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">landing gear</td>
+<td style="border-color: #000000;">train d'atterrissage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">layer</td>
+<td style="border-color: #000000;">couche</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">leading edge</td>
+<td style="border-color: #000000;">bord d'attaque</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">lever</td>
+<td style="border-color: #000000;">levier</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">lift</td>
+<td style="border-color: #000000;">portance</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">load factor</td>
+<td style="border-color: #000000;">facteur de charge</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">magnetic road</td>
+<td style="border-color: #000000;">route magnétique</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">main (landing) gear</td>
+<td style="border-color: #000000;">train (d'atterrissage) principal</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">mist</td>
+<td style="border-color: #000000;">brume</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">motion</td>
+<td style="border-color: #000000;">mouvement</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nose</td>
+<td style="border-color: #000000;">nez</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nose wheel</td>
+<td style="border-color: #000000;">roulette de nez</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nose wheel aeroplane</td>
+<td style="border-color: #000000;">avion à train tricycle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nozzle</td>
+<td style="border-color: #000000;">tuyère</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">part of an airplane</td>
+<td style="border-color: #000000;">partie d'un avion</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pitch</td>
+<td style="border-color: #000000;">tangage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">power plant</td>
+<td style="border-color: #000000;">bloc moteur (Groupe Moto Propulseur)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pressurized aircraft</td>
+<td style="border-color: #000000;">avion pressurisé</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">propeller</td>
+<td style="border-color: #000000;">hélice</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">reactor, jet engine</td>
+<td style="border-color: #000000;">réacteur</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">retractable gear</td>
+<td style="border-color: #000000;">train rentrant</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">reverser or thrust reverser</td>
+<td style="border-color: #000000;">inverseur de poussée</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rib</td>
+<td style="border-color: #000000;">nervure</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rivet</td>
+<td style="border-color: #000000;">rivet</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">roll</td>
+<td style="border-color: #000000;">roulis</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rotating light, beacon light, rotating beacon</td>
+<td style="border-color: #000000;">feu tournant, feu anticollision, strobe</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rpm (round per minute)</td>
+<td style="border-color: #000000;">tr/min (tour par minute)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rudder</td>
+<td style="border-color: #000000;">palonnier(s) – (gouverne de direction)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rudder pedals (rudder bar)</td>
+<td style="border-color: #000000;">(pédale ou commande de) palonniers</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">runway</td>
+<td style="border-color: #000000;">piste (d'aéroport)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">screw</td>
+<td style="border-color: #000000;">vis</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">seaplane</td>
+<td style="border-color: #000000;">hydravion à flotteurs</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr>
+<p></p>
+<table style="border-collapse: collapse; background-color: #ecf0f1; border-color: #000000; border-style: solid;" border="1">
+<thead>
+<tr>
+<th style="border-color: #000000;">Français</th>
+<th style="border-color: #000000;">Anglais</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border-color: #000000;">aérofreins</td>
+<td style="border-color: #000000;">airbrakes</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">aileron</td>
+<td style="border-color: #000000;">aileron</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">aile</td>
+<td style="border-color: #000000;">wing</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">ailette d’extrémité d’aile (ou penne)</td>
+<td style="border-color: #000000;">winglet</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">allumage</td>
+<td style="border-color: #000000;">ignition</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">altimètre</td>
+<td style="border-color: #000000;">altimeter</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">altitude</td>
+<td style="border-color: #000000;">altitude</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">amortir</td>
+<td style="border-color: #000000;">to damp</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">anémomètre ou Badin</td>
+<td style="border-color: #000000;">airspeed indicator</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">approche</td>
+<td style="border-color: #000000;">approach</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">arrière (vers l'arrière de l'appareil)</td>
+<td style="border-color: #000000;">aft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">atterrir</td>
+<td style="border-color: #000000;">to land</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">autorisation (clairance)</td>
+<td style="border-color: #000000;">clearance</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">autorisé (pour une option)</td>
+<td style="border-color: #000000;">cleared (for something)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avertisseur de décrochage</td>
+<td style="border-color: #000000;">stall warning indicator, stick shaker</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avion à réaction</td>
+<td style="border-color: #000000;">jet aircraft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avion à train classique</td>
+<td style="border-color: #000000;">taildragger, tail-dragger, tailwheel aircraft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avion à train tricycle</td>
+<td style="border-color: #000000;">nose wheel aeroplane (or airplane or aircraft) – [tricycle landing gear aeroplane (or airplane or aircraft)]</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avion canard (ou plan canard)</td>
+<td style="border-color: #000000;">canard plane</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">avion pressurisé</td>
+<td style="border-color: #000000;">pressurized aircraft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bec (de bord d'attaque)</td>
+<td style="border-color: #000000;">slat (of the leading edge)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bielle</td>
+<td style="border-color: #000000;">connecting rod</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bimoteur</td>
+<td style="border-color: #000000;">twin-engine aircraft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bloc moteur (Groupe Moto Propulseur)</td>
+<td style="border-color: #000000;">powerplant</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">boîte de vitesse (ou réducteur)</td>
+<td style="border-color: #000000;">gear box</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bord d'attaque</td>
+<td style="border-color: #000000;">leading edge</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bord de fuite</td>
+<td style="border-color: #000000;">trailing edge</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bougie</td>
+<td style="border-color: #000000;">spark plug</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">boulon</td>
+<td style="border-color: #000000;">bolt</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">boussole ou compas</td>
+<td style="border-color: #000000;">compass</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">brouillard</td>
+<td style="border-color: #000000;">fog</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">bruine</td>
+<td style="border-color: #000000;">drizzle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">brûleur</td>
+<td style="border-color: #000000;">burner</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">brume</td>
+<td style="border-color: #000000;">mist</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cabine (ou habitacle)</td>
+<td style="border-color: #000000;">cabin (or cockpit)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cap</td>
+<td style="border-color: #000000;">heading</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">carter</td>
+<td style="border-color: #000000;">crankcase</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cisaillement (de vent)</td>
+<td style="border-color: #000000;">windshear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">commande (une)</td>
+<td style="border-color: #000000;">a control</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">commande d'aérofreins</td>
+<td style="border-color: #000000;">airbrakes lever</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">commandes de vol</td>
+<td style="border-color: #000000;">flight controls</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">compenser</td>
+<td style="border-color: #000000;">to trim</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">compte-tours</td>
+<td style="border-color: #000000;">tachometer</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">couche</td>
+<td style="border-color: #000000;">layer</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">cylindre</td>
+<td style="border-color: #000000;">cylinder</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">décoller</td>
+<td style="border-color: #000000;">to take off</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">déraper</td>
+<td style="border-color: #000000;">to skid</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">dérive (au sens d’objet)</td>
+<td style="border-color: #000000;">vertical fin [or tail]</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">dérive (écart entre cap et route)</td>
+<td style="border-color: #000000;">drift</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">diffuseur</td>
+<td style="border-color: #000000;">diffuser</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">dispositif [système]</td>
+<td style="border-color: #000000;">device</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">écoulement de l’air (vent relatif)</td>
+<td style="border-color: #000000;">airflow</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">empennage</td>
+<td style="border-color: #000000;">empennage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">enregistreur de vol (données)</td>
+<td style="border-color: #000000;">flight data recorder</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">équipage</td>
+<td style="border-color: #000000;">crew</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">essuie-glace</td>
+<td style="border-color: #000000;">windshield (or windscreen) wiper</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">facteur de charge</td>
+<td style="border-color: #000000;">load factor</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">feu tournant, feu anticollision, strobe</td>
+<td style="border-color: #000000;">rotating light, beacon light, rotating beacon</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">flotteurs</td>
+<td style="border-color: #000000;">float</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">fuselage</td>
+<td style="border-color: #000000;">fuselage</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">glisser</td>
+<td style="border-color: #000000;">to slip</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">gouverne de profondeur</td>
+<td style="border-color: #000000;">elevator</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">habitacle</td>
+<td style="border-color: #000000;">cockpit</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">hauteur</td>
+<td style="border-color: #000000;">height</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">hélice</td>
+<td style="border-color: #000000;">propeller</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">hélice à vitesse constante</td>
+<td style="border-color: #000000;">constant speed propeller</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">hydravion à coque</td>
+<td style="border-color: #000000;">flying boat</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">hydravion à flotteurs</td>
+<td style="border-color: #000000;">seaplane</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">indicateur de virage (bille-aiguille)</td>
+<td style="border-color: #000000;">turn and slip indicator (turn coordinator)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">Informer le contrôle aérien</td>
+<td style="border-color: #000000;">to advise ATC (Air Traffic Control)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">inverser (la poussée)</td>
+<td style="border-color: #000000;">to reverse (thrust)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">inverseur de poussée</td>
+<td style="border-color: #000000;">reverser or thrust reverser</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">lacet</td>
+<td style="border-color: #000000;">yaw</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">levier</td>
+<td style="border-color: #000000;">lever</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">lisse [dans la structure de l'aile]</td>
+<td style="border-color: #000000;">stringer</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">longeron</td>
+<td style="border-color: #000000;">spar</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">manche à air</td>
+<td style="border-color: #000000;">wind sock, wind cone</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">manche à balai – [volant]</td>
+<td style="border-color: #000000;">stick – control column – [control wheel]</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">moteur</td>
+<td style="border-color: #000000;">engine</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">mouvement</td>
+<td style="border-color: #000000;">motion</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nervure</td>
+<td style="border-color: #000000;">rib</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nez</td>
+<td style="border-color: #000000;">nose</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nœud</td>
+<td style="border-color: #000000;">knot</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">nuage</td>
+<td style="border-color: #000000;">cloud</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">orifice (ou entrée) d'admission</td>
+<td style="border-color: #000000;">inlet</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">(pédale de) palonnier</td>
+<td style="border-color: #000000;">rudder pedal</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">palonnier(s) – gouverne de direction</td>
+<td style="border-color: #000000;">rudder</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pare-brise</td>
+<td style="border-color: #000000;">windshield (or windscreen)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">partie d'un avion</td>
+<td style="border-color: #000000;">part of an airplane</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">patins ou skis</td>
+<td style="border-color: #000000;">skids</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">phare de roulage</td>
+<td style="border-color: #000000;">taxi light</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pieds par minute</td>
+<td style="border-color: #000000;">ft/min (feet/minute)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pilote automatique</td>
+<td style="border-color: #000000;">the autopilot, the automatic pilot (AP)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">piste (d'aéroport)</td>
+<td style="border-color: #000000;">runway</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">plafond</td>
+<td style="border-color: #000000;">ceiling</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">plan fixe horizontal</td>
+<td style="border-color: #000000;">horizontal stabilizer</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">portance</td>
+<td style="border-color: #000000;">lift</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">poussée</td>
+<td style="border-color: #000000;">thrust</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">pousser sur le manche</td>
+<td style="border-color: #000000;">to push the stick forward</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">prendre un cap</td>
+<td style="border-color: #000000;">to set a heading</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">profil</td>
+<td style="border-color: #000000;">airfoil</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">propulser</td>
+<td style="border-color: #000000;">to propel</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">queue</td>
+<td style="border-color: #000000;">tail</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">radio compas</td>
+<td style="border-color: #000000;">automatic direction finder (ADF)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rafale</td>
+<td style="border-color: #000000;">gust</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">réacteur</td>
+<td style="border-color: #000000;">reactor, jet engine</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">refroidissement par air</td>
+<td style="border-color: #000000;">air cooling</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">réservoir (d'essence)</td>
+<td style="border-color: #000000;">(fuel) tank</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">revêtement (d'aile)</td>
+<td style="border-color: #000000;">skin</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">rivet</td>
+<td style="border-color: #000000;">rivet</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">roulette de nez</td>
+<td style="border-color: #000000;">nose wheel</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">roulette de queue</td>
+<td style="border-color: #000000;">tail wheel</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">roulis</td>
+<td style="border-color: #000000;">roll</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">route magnétique</td>
+<td style="border-color: #000000;">magnetic road</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">s’aligner</td>
+<td style="border-color: #000000;">to line up</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">saumon [d'aile]</td>
+<td style="border-color: #000000;">wing tip</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">scruter le ciel</td>
+<td style="border-color: #000000;">to scan the sky</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">se déplacer (au sol)</td>
+<td style="border-color: #000000;">to taxi</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">sortir le train</td>
+<td style="border-color: #000000;">to extend the gear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">soufflante (conduit de)</td>
+<td style="border-color: #000000;">(duct) fan</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">soupape (d'admission, d'échappement)</td>
+<td style="border-color: #000000;">(intake, exhaust) valve</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">système de commandes de vol électrique</td>
+<td style="border-color: #000000;">a fly-by-wire (FBW) flight-control system</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tableau de bord</td>
+<td style="border-color: #000000;">instrument panel</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tangage</td>
+<td style="border-color: #000000;">pitch</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tôle ou feuille (d’aluminium)</td>
+<td style="border-color: #000000;">(aluminium) sheet</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tour de contrôle</td>
+<td style="border-color: #000000;">airport control tower</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tr/min (tour par minute)</td>
+<td style="border-color: #000000;">rpm (round per minute)</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">train (d'atterrissage) fixe</td>
+<td style="border-color: #000000;">fixed gear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">train (d'atterrissage) principal</td>
+<td style="border-color: #000000;">main (landing) gear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">train (d'atterrissage) tricycle</td>
+<td style="border-color: #000000;">tricycle landing gear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">train d'atterrissage</td>
+<td style="border-color: #000000;">landing gear (ou simplement gear) – [undercarriage]</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">train rentrant</td>
+<td style="border-color: #000000;">retractable gear</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">traînée</td>
+<td style="border-color: #000000;">drag</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">traînée de condensation</td>
+<td style="border-color: #000000;">contrails</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">transpondeur</td>
+<td style="border-color: #000000;">transponder</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">tuyère</td>
+<td style="border-color: #000000;">nozzle</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">variomètre</td>
+<td style="border-color: #000000;">vertical speed indicator</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vent arrière</td>
+<td style="border-color: #000000;">tailwind</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vent de face (ou vent contraire)</td>
+<td style="border-color: #000000;">headwind</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vent de travers</td>
+<td style="border-color: #000000;">crosswind</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">verrière</td>
+<td style="border-color: #000000;">canopy</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vilebrequin</td>
+<td style="border-color: #000000;">crankshaft</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vis</td>
+<td style="border-color: #000000;">screw</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">vitesse de croisière</td>
+<td style="border-color: #000000;">cruising speed</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">volant</td>
+<td style="border-color: #000000;">wheel</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">volet (hypersustentateur)</td>
+<td style="border-color: #000000;">flap</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">volet compensateur</td>
+<td style="border-color: #000000;">trim tab</td>
+</tr>
+<tr>
+<td style="border-color: #000000;">volet à fente</td>
+<td style="border-color: #000000;">slotted wing flap (or slot flap)</td>
+</tr>
+</tbody>
+</table></div>";}i:52;O:8:"stdClass":16:{s:2:"id";s:2:"24";s:2:"cm";s:2:"52";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"32";s:6:"module";s:2:"17";s:5:"added";s:10:"1734418065";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:24:"Testez votre vocabulaire";}i:45;O:8:"stdClass":18:{s:2:"id";s:1:"6";s:2:"cm";s:2:"45";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"36";s:6:"module";s:2:"13";s:5:"added";s:10:"1734275826";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:17:"Un avion de ligne";s:7:"content";s:8858:"<div class="no-overflow"><h4>Schémas légendés des appareils en anglais</h4>
+<p><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/87/mod_label/intro/NASA-Glenn-Airplane-Parts-Image-2.jpg" alt="Airbus parties en anglais" width="1168" height="765"></p>
+<h3>Explications traduites de certaines fonctions d’un avion</h3>
+<p></p>
+<table style="border-collapse: collapse; width: 100%; height: 551.6px; background-color: #ecf0f1; margin-left: 0px; margin-right: auto; border: 1px solid #000000;" border="1"><colgroup><col style="width: 50%;"><col style="width: 50%;"></colgroup>
+<tbody>
+<tr style="height: 27px;">
+<td style="border-color: #000000;">
+<h3>Anglais</h3>
+</td>
+<td style="border-color: #000000;">
+<h3>Français</h3>
+</td>
+</tr>
+<tr style="height: 524.6px;">
+<td style="border-color: #000000;">
+<p>This schematic illustrates the components of an aircraft and their respective functions.Aircraft are transportation devices engineered to facilitate the movement of people and cargo between locations.They are available in a wide range of sizes and shapes, tailored to the specific requirements of each mission.The aircraft depicted here is a turbine-powered airliner, selected to exemplify the principles of aircraft design.</p>
+<h4>Wings</h4>
+<p>Wings play a crucial role in the flight of an aircraft by providing lift, enabling it to take off, fly, and land. The wings generate most of the lift to hold the plane in the air, and to generate lift, the airplane must be pushed through the air, with the air resisting this motion in the form of aerodynamic drag.Modern airliners use winglets on the tips of the wings to reduce this drag.The turbine engines, which are located beneath the wings, provide the thrust to overcome drag and push the airplane forward through the air. Smaller, low-speed airplanes use propellers for the propulsion system instead of turbine engines.</p>
+<h4>Vertical and Horizontal Stabilizers</h4>
+<p>To control and manoeuvre the aircraft, smaller wings are located at the tail of the plane.The tail usually has a fixed horizontal piece, called the horizontal stabiliser, and a fixed vertical piece, called the vertical stabiliser.The job of the stabilisers is to provide stability for the aircraft, to keep it flying straight. The vertical stabiliser prevents the nose of the plane from swinging from side to side, a process known as yaw, while the horizontal stabiliser prevents an up-and-down motion of the nose, called pitch.In the Wright brothers' first aircraft, the horizontal stabiliser was placed in front of the wings, a configuration known as a canard after the French word for "duck".</p>
+<p>At the rear of the wings and stabilisers are small movable sections attached to the fixed sections by hinges (see figure). Changing the rear portion of a wing will alter the amount of force that the wing produces, and the ability to modify forces gives us a means of controlling and manoeuvring the aeroplane. The hinged component of the vertical stabiliser is designated the rudder, which is utilised to deflect the tail in the left and right directions when viewed from the front of the fuselage.The hinged component of the horizontal stabiliser is referred to as the elevator, and its function is to deflect the tail in the upward and downward directions.The outboard hinged part of the wing is known as the aileron, which is employed to roll the wings from side to side. Most airliners can also be rolled from side to side using spoilers, which are small plates that disrupt the flow over the wing and change the amount of force by decreasing the lift when deployed.</p>
+<h4>Flaps and Spoilers</h4>
+<p>The wings feature additional hinged, rear sections, known as flaps, which are deployed downward during takeoff and landing to increase the wing's force production. On certain aircraft, the front part of the wing may also deflect. Slats are utilised during takeoff and landing to generate additional force, while spoilers are employed during landing to decelerate the aircraft and counteract the flaps when the plane is on the ground. Observing the wing shape changes during takeoff and landing is highly recommended for future reference.</p>
+<h4>Fuselage</h4>
+<p>The fuselage, also known as the body of the aircraft, is integral to the structural integrity of the aircraft. The cockpit, which houses the pilots, is located at the front of the fuselage, with passengers and cargo being carried in the rear. In some aircraft, the fuselage is used for fuel storage, while in others, the wings are utilised for this purpose.</p>
+<p></p>
+</td>
+<td style="border-color: #000000;">
+<p>Ce schéma illustre les composants d'un avion et leurs fonctions respectives.Les avions sont des appareils de transport conçus pour faciliter le déplacement des personnes et des marchandises d'un endroit à l'autre.Ils sont disponibles dans une large gamme de tailles et de formes, adaptées aux exigences spécifiques de chaque mission.L'avion représenté ici est un avion de ligne à turbine, choisi pour illustrer les principes de la conception des avions.</p>
+<h4>Les ailes</h4>
+<p>Les ailes jouent un rôle crucial dans le vol d'un aéronef en assurant sa portance, ce qui lui permet de décoller, de voler et d'atterrir. Les ailes génèrent la majeure partie de la portance nécessaire pour maintenir l'avion en l'air, et pour générer cette portance, l'avion doit être poussé dans l'air, l'air s'opposant à ce mouvement sous la forme d'une traînée aérodynamique.Les avions de ligne modernes utilisent des winglets aux extrémités des ailes pour réduire cette traînée.Les moteurs à turbine, situés sous les ailes, fournissent la poussée nécessaire pour vaincre la traînée et pousser l'avion vers l'avant dans l'air. Les avions plus petits et à faible vitesse utilisent des hélices pour le système de propulsion au lieu des moteurs à turbine.</p>
+<h4>Stabilisateurs verticaux et horizontaux</h4>
+<p>Pour contrôler et manœuvrer l'avion, des ailes plus petites sont situées à la queue de l'avion.La queue comporte généralement une pièce horizontale fixe, appelée stabilisateur horizontal, et une pièce verticale fixe, appelée stabilisateur vertical.Le rôle des stabilisateurs est d'assurer la stabilité de l'avion, de le maintenir en ligne droite. Le stabilisateur vertical empêche le nez de l'avion de se balancer de l'avant vers l'arrière. </p>
+<p>À l'arrière des ailes et des stabilisateurs se trouvent de petites sections mobiles attachées aux sections fixes par des charnières (voir figure). Le fait de modifier la partie arrière d'une aile modifie la force produite par l'aile, et la capacité de modifier les forces nous donne un moyen de contrôler et de manœuvrer l'avion. L'élément articulé du stabilisateur vertical est appelé gouvernail et sert à orienter la queue vers la gauche et vers la droite, vu de l'avant du fuselage.L'élément articulé du stabilisateur horizontal est appelé gouvernail de profondeur et sert à orienter la queue vers le haut et vers le bas.L'élément articulé extérieur de l'aile est appelé aileron et sert à faire rouler les ailes d'un côté à l'autre. La plupart des avions de ligne peuvent également être déplacés d'un côté à l'autre à l'aide de spoilers, qui sont de petites plaques qui perturbent l'écoulement sur l'aile et modifient l'intensité de la force en diminuant la portance lorsqu'ils sont déployés.</p>
+<h4>Volets et spoilers</h4>
+<p>Les ailes comportent des parties arrière articulées supplémentaires, appelées volets, qui sont déployées vers le bas pendant le décollage et l'atterrissage pour augmenter la production de force de l'aile. Sur certains avions, la partie avant de l'aile peut également se déformer. Les becs de bord d'attaque sont utilisés au décollage et à l'atterrissage pour générer une force supplémentaire, tandis que les spoilers sont utilisés à l'atterrissage pour décélérer l'avion et contrebalancer les volets lorsque l'avion est au sol. Il est vivement recommandé d'observer les changements de forme des ailes au décollage et à l'atterrissage pour pouvoir s'y référer ultérieurement.</p>
+<h4>Fuselage</h4>
+<p>Le fuselage, également appelé corps de l'avion, fait partie intégrante de l'intégrité structurelle de l'avion. Le cockpit, qui abrite les pilotes, est situé à l'avant du fuselage, tandis que les passagers et le fret sont transportés à l'arrière. Dans certains avions, le fuselage sert à stocker le carburant, tandis que dans d'autres, ce sont les ailes qui sont utilisées à cette fin.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Source <a href="https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/airplane-parts-function/">Nasa</a></strong></p></div>";}i:50;O:8:"stdClass":16:{s:2:"id";s:2:"23";s:2:"cm";s:2:"50";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"37";s:6:"module";s:2:"17";s:5:"added";s:10:"1734417164";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:37:"Votre premier test complet en anglais";}i:348;O:8:"stdClass":17:{s:2:"id";s:3:"175";s:2:"cm";s:3:"348";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"86";s:6:"module";s:2:"17";s:5:"added";s:10:"1734417164";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Votre deuxième test complet en anglais";}i:349;O:8:"stdClass":16:{s:2:"id";s:3:"176";s:2:"cm";s:3:"349";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"86";s:6:"module";s:2:"17";s:5:"added";s:10:"1744957211";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Votre deuxième test complet en anglais";}i:51;O:8:"stdClass":17:{s:2:"id";s:1:"8";s:2:"cm";s:2:"51";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"38";s:6:"module";s:2:"13";s:5:"added";s:10:"1734417756";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";s:7:"content";s:337:"<div class="no-overflow"><h4>Présentation des différents cursus pour devenir pilote</h4>
+<h4><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/114/mod_label/intro/WhatsApp%20Image%202024-12-08%20at%2016.45.05.jpeg" alt="présentation des différents cursus pour devenir pilote" width="1600" height="896"></h4></div>";}}s:12:"sectioncache";a:7:{i:31;O:8:"stdClass":6:{s:2:"id";s:2:"31";s:7:"section";s:1:"0";s:4:"name";s:9:"Bienvenue";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:85;O:8:"stdClass":6:{s:2:"id";s:2:"85";s:7:"section";s:1:"1";s:4:"name";s:28:"Testez vous avec les annales";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:32;O:8:"stdClass":6:{s:2:"id";s:2:"32";s:7:"section";s:1:"2";s:4:"name";s:38:"Le vocabulaire indispensable à savoir";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:36;O:8:"stdClass":6:{s:2:"id";s:2:"36";s:7:"section";s:1:"3";s:4:"name";s:44:"Schémas légendés des appareils en anglais";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:37;O:8:"stdClass":6:{s:2:"id";s:2:"37";s:7:"section";s:1:"4";s:4:"name";s:42:"Testez vous avec un premier examen complet";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:86;O:8:"stdClass":6:{s:2:"id";s:2:"86";s:7:"section";s:1:"5";s:4:"name";s:44:"Testez vous avec un deuxième examen complet";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:38;O:8:"stdClass":6:{s:2:"id";s:2:"38";s:7:"section";s:1:"6";s:4:"name";s:39:"Bravo, vous êtes prêt pour l'examen !";s:12:"availability";s:78:"{"op":"&","c":[{"type":"xp","requiredlvl":"2","operator":"0"}],"showc":[true]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"ANG";s:8:"fullname";s:21:"Anglais aéronautique";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1754997965";}s:7:"version";i:1754997965;}

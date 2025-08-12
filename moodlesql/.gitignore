@@ -1,0 +1,7 @@
+
+# Gros fichiers
+*.sql
+*.dump
+*.zip
+*.tar.gz
+

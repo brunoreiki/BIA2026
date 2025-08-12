@@ -1,0 +1,161 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <title>Test3000: Free Toeic tests and annales BIA et CAEA</title>
+        <meta name="description" content="9 free complete tests to prepare for the TOEIC® exam And préparation aux BIA et CAEA"/>
+        <meta name="keywords" content="BIA, CAEA, brevet, initiation, aéronautique, certificat, aptitude, enseignement, Toeic®, free, Toeic, Toefl, Toefl®, english, test, tests, learning, comprehensive, test online,
+        tests online, Toeic online, Toefl online, exam, examination, free, exercise, exercises, lesson, lessons, question, questions, 
+        bilingual, english, préparation, business school, universitée, university, école ingénieur, école commerce, cours, entrainement, réussir, préparer,
+        préparation au toeic, niveau anglais, english level, listening, reading, en ligne, test of english for international communication, toeic® gratuit "/>
+        <meta name="robot" content="index, follow"/>
+        <meta name="subject" content="Free preparation for the official Toeic® exam or BIA and CAEA"/>
+        <link rel="icon" type="image/x-icon" href="/bia-caea/autresimages/favicon.png" />
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" 
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <!-- /bootstrap -->
+       
+		<!-- bibliothèque d'icones -->
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+		<!-- validation formulaires modal_test1.php -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    	<link rel="stylesheet" href="/vendors/formvalidation/dist/css/formValidation.min.css">
+		<!-- /validation formulaires -->
+	
+        <!-- Begin Cookie Consent plugin by Silktide - http://silktide.coms/cookieconsent -->
+        <script type="text/javascript">
+            window.cookieconsent_options = {"message":"Cookies help us deliver our services. By using our services, you agree to our use of cookies.","dismiss":"Got it!","learnMore":"More info","link":"http://www.google.com/intl/en/policies/technologies/cookies/","theme":"light-bottom"};
+        </script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/cookieconsent.min.js"></script>
+        <!-- End Cookie Consent plugin-->
+		<link href="toeic/style.css" rel="stylesheet" type="text/css"/>
+   	</head>
+
+    <body>
+        <!-- Google analytics -->
+	 		
+		<header>
+			<div class="container">	
+				<nav class="navbar navbar-dark bg-dark navbar-expand-lg fixed-top ">	
+               <a class="" href="#" title="TOEIC or BIA">
+                  <img class="navbar-brand  diapo_04 mr-3"  src="toeic/autresimages/home.gif" alt="An efficient online preparation for the toeic® exam"/>
+               </a> 
+               <a class="" href="toeic/toeic-session.php" title="9 exams to be successful at toeic">
+                  <img class="navbar-brand  diapo_01"  src="toeic/autresimages/logo03.gif" alt="An efficient online preparation for the toeic® exam"/>
+               </a> 
+           
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+						aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse " id="navbarSupportedContent">
+						<ul class="navbar-nav mr-auto">
+							
+
+							<li class="nav-item  mr-2">
+								<a class="nav-link " href="toeic/toeic-session.php" >TOEIC®<span class="sr-only">(current)</span></a>
+							</li>
+
+                     <li class="nav-item  mr-2">
+								<a class="nav-link" href="bia-caea/index.php">BIA et CAEA<span class="sr-only">(current)</span></a>
+							</li>
+
+							
+						</ul>
+				
+					</div>
+				</nav>
+			</div><!-- /container -->
+
+		</header> <!-- /header -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		                <!--
+                <div class="zoom opacity1 mozaique col-sm-6 ">
+                demo test
+                    <a href="alltests/demo/free-toeic-test.php" title="demo test"><img class="rounded" src="images/DSCN0238.jpg" alt="demo test link"></a>
+                </div>
+                -->
+
+
+
+      <div class="container ">
+         <div class="row cadre_index">
+            
+            <div class="zoom opacity1 mozaique col-sm-6 mt-3">
+               <div class="col-11 titre_index">
+                  The best way  to  succeed
+               </div>
+               <a href="toeic/toeic-session.php" title="9 free tests"><img class="rounded dimension" src="images/t1011873-2.jpg" alt="9 free tests link"></a>
+               <div class="col-12  listepageindex ">
+                  <ul>
+                     <li>only original tests</li>
+                     <li>real-life situations</li>
+                     <li>variety of accents</li>
+                     <li>texts read by native speakers</li>
+                     <li>educational and examination modes</li>
+                     <li>detailed statistics</li>
+                     <li>unlimited access</li>
+                     <li>16 hours of free training</li>
+                  </ul>
+               </div>         
+            </div>
+            
+            <div class="zoom opacity1 mozaique col-sm-6 mt-3">
+                <div class="col-12 titre_index">
+                  Un passeport pour l'avenir
+               </div>
+               <a href="bia-caea/index.php" title="BIA et CAEA"><img class="rounded dimension" src="images/P1250989.jpg" alt="lien BIA et CAEA"></a>
+               <div class="col-12  listepageindex ">
+                  <ul>
+                     <li>annales du BIA et du CAEA</li>
+                     <li>mode entraînement </li>
+                     <li>mode examen</li>
+                     <li>mini examens aléatoires</li>
+                     <li>focus sur une discipline</li>
+                     <li>statistiques détaillées</li>
+                  </ul>
+               </div>   
+            </div>
+            
+            
+		   </div>	
+      </div>
+		<!--
+		<footer>
+			<div class="container">
+				<div class="row text-center mt-4 ">  	
+					
+						<div class="col-6 legal">
+							<a href="contact.php" title="contact">contact</a>
+						</div>	
+						<div class="col-6 legal">	
+							<a href="legal.php" title="legal terms">legal terms</a>
+						</div>	
+					
+				</div>	
+			</div>
+		</footer>
+      -->
+        
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    </body>
+</html>

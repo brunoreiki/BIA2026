@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/2019</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/Autopositionnement/Aérodynamique, aérostatique et principes du vol</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 4649  -->
+  <question type="multichoice">
+    <name>
+      <text>En montée rectiligne uniforme, la portance est:</text>
+    </name>
+    <questiontext format="html">
+      <text>En montée rectiligne uniforme, la portance est:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[En l'absence de toute accélération, ni verticale ni horizontale, le poids de l’appareil est compensé par la résultante de la portance mais aussi de la traction de l'hélice (ou poussée du réacteur ...), comme la diagonale d'un rectangle (ici le poids) est plus longue que chacun des côtés (l’un d’eux à la valeur de la portance), la portance est plus faible que le poids.
+
+Auteur: Roger Julien<br><img src='https://bia-caea.fr/images/avion01.jpg' alt='Image de la solution'>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>inférieure au poids</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>égale à la traînée</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>supérieure au poids</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>égale au poids</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 4669  -->
+  <question type="multichoice">
+    <name>
+      <text>En montée, l’assiette d’un appareil est toujours:</text>
+    </name>
+    <questiontext format="html">
+      <text>En montée, l’assiette d’un appareil est toujours:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est supérieure à l’angle d’incidence parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>inférieure à l’angle d’incidence</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>égale à l’angle d’incidence</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>supérieure à l’angle d’incidence</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>égale à l’angle de la pente</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 4658  -->
+  <question type="multichoice">
+    <name>
+      <text>En phase de décollage, le pilote sort les volets hypersustentateurs, l’effet sera:</text>
+    </name>
+    <questiontext format="html">
+      <text>En phase de décollage, le pilote sort les volets hypersustentateurs, l’effet sera:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font color="blue">Le braquage des volets hypersustentateurs de bord de fuite</font color="blue"> sur les ailes d'un avion <font color="blue">augmente le coefficient de portance (Cz)</font color="blue">, ce qui permet à l'avion de voler à des vitesses plus basses et à des incidences plus fortes sans risque de décrochage, comme lors du décollage et de l'atterrissage. Cependant, cette augmentation de la portance s'accompagne également d'une <font color="blue">augmentation du coefficient de traînée (Cx)</font color="blue">, ce qui signifie que l'avion subit plus de résistance à son avancement dans l'air. <font color="blue">Sa finesse diminue</font color="blue">, car le coefficient de traînée (Cx) augmente plus que le coefficient de portance (Cz). En descente, <font color="blue">il lui devient possible de prendre une pente plus forte</font color="blue">. Enfin, la sortie des volets modifie le profil de l'aile et crée <font color="blue">un couple piqueur</font color="blue">.
+<b>Marin D.</b><br><img src='https://bia-caea.fr/images/volet01.png' alt='Image de la solution'>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>d’augmenter la distance de décollage</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>d’augmenter la portance</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>d’augmenter la vitesse</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>de diminuer la portance</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 4656  -->
+  <question type="multichoice">
+    <name>
+      <text>En soufflerie, si on multiplie par 3 la vitesse du vent relatif, la valeur de la portance est:</text>
+    </name>
+    <questiontext format="html">
+      <text>En soufflerie, si on multiplie par 3 la vitesse du vent relatif, la valeur de la portance est:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<font color="red">Rz = ½.ρ.V².S.Cz</font color="red">
+<font color="blue">Rz est la portance (en Newton).
+ρ masse volumique de l’air (en kg/m3) .
+V vitesse de l’avion dans l’air (vitesse vraie en m/s).
+S surface de l’aile (en m²).
+Cz est le coefficient de portance de l’aile (sans unité).</font color="blue">
+Si l’on triple la vitesse, dans la formule on remplace V par 3.V :
+<font color="red">Rz′ =</font color="red"> ½.ρ.(3.V)².S.Cz = ½.ρ.9.V².S.Cz = 9.(½.ρ.V².S.Cz) = <font color="red">9.Rz</font color="red">
+Nous venons de démontrer que lorsque la vitesse triple la portance est multipliée par 9.]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>multipliée par 3</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>multipliée par 9</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>multipliée par 6</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>multipliée par 12</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 4667  -->
+  <question type="multichoice">
+    <name>
+      <text>L’assistance gravitationnelle:</text>
+    </name>
+    <questiontext format="html">
+      <text>L’assistance gravitationnelle:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est est utilisée comme « moteur » afin d’accélérer les sondes lors de leurs voyages interstellaires parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>permet le retour du lanceur sur Terre</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>est une ligne téléphonique entre l’ISS et la Terre en cas de besoin d’assistance</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>est utilisée comme « moteur » afin d’accélérer les sondes lors de leurs voyages interstellaires</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>est un propulseur</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+</quiz>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <!-- Définition de la catégorie -->
+    <question type="category">
+        <category>
+            <text>$course$/Catégorie d'exemple</text>
+        </category>
+    </question>
+
+    <!-- Question à choix multiple -->
+    <question type="multichoice">
+        <name>
+            <text>Quel est le résultat de 2 + 2 ?</text>
+        </name>
+        <questiontext format="html">
+            <text><![CDATA[<p>Quelle est la réponse correcte pour 2 + 2 ?</p>]]></text>
+        </questiontext>
+        <generalfeedback format="html">
+            <text><![CDATA[<p>C'est une question de base d'arithmétique.</p>]]></text>
+        </generalfeedback>
+        <defaultgrade>1.0</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>true</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+
+        <!-- Réponses possibles -->
+        <answer fraction="100">
+            <text>4</text>
+            <feedback format="html">
+                <text>Correct !</text>
+            </feedback>
+        </answer>
+        <answer fraction="0">
+            <text>3</text>
+            <feedback format="html">
+                <text>Incorrect, essayez encore.</text>
+            </feedback>
+        </answer>
+        <answer fraction="0">
+            <text>5</text>
+            <feedback format="html">
+                <text>Non, ce n'est pas la bonne réponse.</text>
+            </feedback>
+        </answer>
+    </question>
+</quiz>

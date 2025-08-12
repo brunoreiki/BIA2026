@@ -1,0 +1,27 @@
+<quiz>
+  <question type="multichoice">
+    <name>
+      <text>Nom de la question</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[
+        <p>Voici l'énoncé de la question avec une image :</p>
+        <img src="@@PLUGINFILE@@/image_question.jpg" alt="Image de la question"/>
+      ]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[
+        <p>Voici la solution avec l'image :</p>
+        <img src="@@PLUGINFILE@@/image_solution.jpg" alt="Image de la solution"/>
+      ]]></text>
+    </generalfeedback>
+    <answer fraction="100">
+      <text>Réponse correcte</text>
+      <feedback><text>Bonne réponse</text></feedback>
+    </answer>
+    <answer fraction="0">
+      <text>Réponse incorrecte</text>
+      <feedback><text>Mauvaise réponse</text></feedback>
+    </answer>
+  </question>
+</quiz>

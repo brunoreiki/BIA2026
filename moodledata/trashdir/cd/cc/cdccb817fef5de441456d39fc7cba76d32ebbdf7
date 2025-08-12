@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Défaut pour BIA</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text>La catégorie par défaut pour les questions partagées dans le contexte « BIA ».</text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Défaut pour BIA/2024</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$cat1$/top/Défaut pour BIA/2024/Anglais</text>
+    </category>
+    <info format="moodle_auto_format">
+      <text></text>
+    </info>
+    <idnumber></idnumber>
+  </question>
+
+<!-- question: 5511  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA["Fox Victor Bravo, line up, clear for take-off runway three one left." signifie:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA["Fox Victor Bravo, line up, clear for take-off runway three one left." signifie:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[• FVB = Fox Victor Bravo en alphabet aéronautique.
+• "<font color="blue">Line up</font>": le verbe "aligner" à l’impératif.
+• "<font color="blue">Clear</font>": autoriser à l’impératif.
+• "<font color="blue">Take off</font>": décollage
+• "<font color="blue">Runway</font>": le chemin ou l’aéronef se déplace = la piste.
+• "<font color="blue">Three One</font>" = 3 1
+• "<font color="blue">Left</font>": gauche son opposé étant "Right": droite.
+
+<b>Albert Scius</b>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>Fox Victor Bravo, alignez-vous, autorisé à l'atterrissage, piste 31 gauche</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Fox Victor Bravo, alignez-vous,temps clair pour le décollage, piste 31 gauche</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Fox Victor Bravo, alignez-vous, autorisé au décollage, piste 31 droite</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>Fox Victor Bravo, alignez-vous, autorisé au décollage, piste 31 gauche</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5508  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA["Vent de face" en anglais se dit:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA["Vent de face" en anglais se dit:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est headwind parce que les vents sont générés par des différences de pression atmosphérique causées par les variations de température à la surface de la Terre.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>gust wind</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>windshield</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>crosswind</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>headwind</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5499  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[À la radio l'indication "number two, clear to land, runway two two" émise par le contrôleur signifie:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[À la radio l'indication "number two, clear to land, runway two two" émise par le contrôleur signifie:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est numéro 2 autorisé à l'atterrissage piste 22 parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>numéro 2 autorisé à l'atterrissage piste 22</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>autorisé à l'atterrissage piste 2 ou 22</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>autorisé à l'atterrissage piste 22, vous dégagerez par la sortie n°2</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>autorisé au décollage piste 2 ou piste 22</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5510  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[À quoi sert le "trim tab"?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[À quoi sert le "trim tab"?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est to reduce the force needed to move a control surface parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>to roll the aircraft</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>to set the landing gear down</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>to reduce the force needed to move a control surface</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>to communicate with the control tower</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5503  -->
+  <question type="multichoice">
+    <name>
+      <text>Dans un message météo, que signifie le terme CAVOK:</text>
+    </name>
+    <questiontext format="html">
+      <text>Dans un message météo, que signifie le terme CAVOK:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est ceiling and visibility ok parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>Ceiling And Visibility OK</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Clear And Visibility OK</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Control And View OK</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Cockpit And Vision OK</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5501  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[En anglais le terme "runway" désigne:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[En anglais le terme "runway" désigne:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est une piste parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>un anneau de vitesse</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>un passage rapide</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>une piste</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>une aire de dégagement</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5498  -->
+  <question type="multichoice">
+    <name>
+      <text>En Anglais un hydravion se nomme:</text>
+    </name>
+    <questiontext format="html">
+      <text>En Anglais un hydravion se nomme:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est seaplane parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>seaplane</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>hydroplane</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>floatting craft</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>seacraft</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5512  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[En anglais, l'expression "prêt au décollage, piste 12" se dit:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[En anglais, l'expression "prêt au décollage, piste 12" se dit:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est ready for take off runway one two parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>stand by to take off runway one two</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>holding short take off runway twelve</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>ready for take off runway one two</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>clear for take off runway twelve</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5504  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[En entendant à la radio "Fox Bravo Mike — Please Maintain Holding point runway one one", vous comprenez:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[En entendant à la radio "Fox Bravo Mike — Please Maintain Holding point runway one one", vous comprenez:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est le pilote du fox bravo mike doit maintenir sa position au point d'attente de la piste 11 parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>le pilote du Fox Bravo Mike doit maintenir sa position au point d'attente de la piste 11</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>Mike est félicité pour avoir su s'arrêter avant d'entrer sur la piste 11</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>le pilote du Fox Bravo Mike doit revenir à sa position au point d'attente de la piste 11</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>le pilote du Fox Bravo Mike doit maintenant s'arrêter à 11 m du point d'attente</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5515  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[L'expression "prendre un cap" se dit:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[L'expression "prendre un cap" se dit:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est to set a heading parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>to set a heading</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>to fix a magnetic course</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>to take a road</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>to take a cap</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5516  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[l'expression: "Hold short runway 27" signifie:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[l'expression: "Hold short runway 27" signifie:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[• <font color="blue">To Hold</font> = maintenir, garder
+• <font color="blue">Short</font> = court, bref, petit, loin …
+• <font color="blue">Runway</font> = piste
+• La seule réponse avec le mot "<font color="blue">Maintenez</font>" est la réponse C.
+• Le mot "<font color="blue">short</font>" indique qu’il faut s'arrêter avant la piste 27. Ce point ou l’on s’arrête s’appelle le point d’arrêt ou le point d’attente.
+
+<b>Albert Scius</b>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>autorisation de traverser la piste 27</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>remonter la piste 27</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>maintenez position au point d'attente piste 27</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>retournez au point de parking 27</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5497  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Le terme anglais "airship" désigne principalement:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Le terme anglais "airship" désigne principalement:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est les ballons dirigeables parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>tout type d'aéronef</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>les planeurs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>les ballons dirigeables</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>les avions gros porteurs</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5502  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Le terme anglais "pitch" concernant une hélice fait référence à:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Le terme anglais "pitch" concernant une hélice fait référence à:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est son pas parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>sa longueur</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>son pas</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>son mode de fixation au moyeu</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>sa corde</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5509  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Le terme anglais "Ramp" désigne:]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Le terme anglais "Ramp" désigne:]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est l'aire de trafic parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>la piste de décollage</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>la piste d'atterrissage</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>les cales de l'avion</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>l'aire de trafic</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5514  -->
+  <question type="multichoice">
+    <name>
+      <text>Le terme anglais qui désigne la manche à air est:</text>
+    </name>
+    <questiontext format="html">
+      <text>Le terme anglais qui désigne la manche à air est:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est windsock parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>wind pipe</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>windsock</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>wind handle</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>air sock</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5500  -->
+  <question type="multichoice">
+    <name>
+      <text>Le variomètre est appelé en anglais:</text>
+    </name>
+    <questiontext format="html">
+      <text>Le variomètre est appelé en anglais:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est vertical speed indicator parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>airspeed indicator</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>turn and bank indicator</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>vertical speed indicator</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>attitude indicator</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5513  -->
+  <question type="multichoice">
+    <name>
+      <text>Les 3 axes autour desquels un avion peut se mouvoir sont les axes de roulis, tangage et lacet. En anglais et dans l'ordre, il s'agit de:</text>
+    </name>
+    <questiontext format="html">
+      <text>Les 3 axes autour desquels un avion peut se mouvoir sont les axes de roulis, tangage et lacet. En anglais et dans l'ordre, il s'agit de:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est roll, pitch, yaw parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>pitch, yaw, roll</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>roll, tangy, turn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>roll, pitch, yaw</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>roll, hill, turn</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5506  -->
+  <question type="multichoice">
+    <name>
+      <text>Si vous n'avez pas compris le message d'un contrôleur aérien, votre réponse la plus appropriée est:</text>
+    </name>
+    <questiontext format="html">
+      <text>Si vous n'avez pas compris le message d'un contrôleur aérien, votre réponse la plus appropriée est:</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est say again parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>roger</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>will comply</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>no comment</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>say again</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5505  -->
+  <question type="multichoice">
+    <name>
+      <text>Sur quel axe la gouverne de profondeur fait-elle bouger l'avion?</text>
+    </name>
+    <questiontext format="html">
+      <text>Sur quel axe la gouverne de profondeur fait-elle bouger l'avion?</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est pitching parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="100" format="html">
+      <text>pitching</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>rolling</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>rudding system</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>yawing</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 5507  -->
+  <question type="multichoice">
+    <name>
+      <text><![CDATA[Sur quel instrument de bord vous pouvez lire "two thousands feet"?]]></text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[Sur quel instrument de bord vous pouvez lire "two thousands feet"?]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>La réponse à cette question est an altimeter parce que ceci est la meilleure réponse en fonction des principes scientifiques sous-jacents à cette question.  Écrit par chatgpt.</text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>false</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>1</showstandardinstruction>
+    <correctfeedback format="html">
+      <text></text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text></text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text></text>
+    </incorrectfeedback>
+    <answer fraction="0" format="html">
+      <text>a voltmeter</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>a tachometer</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text>an altimeter</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text>an airspeed indicator</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+</quiz>
