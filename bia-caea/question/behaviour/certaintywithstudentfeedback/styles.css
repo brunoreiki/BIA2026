@@ -1,0 +1,59 @@
+.que.certaintywithstudentfeedback table.certainty {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.que.certaintywithstudentfeedback table.certainty tr > * {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 0 3px;
+}
+
+.que.certaintywithstudentfeedback table.certainty td * {
+    padding: 0 3px;
+}
+
+.que.certaintywithstudentfeedback table.certainty th {
+    background-color: #7840a1;
+    color: white;
+    overflow: hidden;
+}
+
+.que.certaintywithstudentfeedback table.certainty td {
+    background-color: lavender;
+    color: black;
+}
+
+.que.certaintywithstudentfeedback table.certainty + input.submit {
+    margin-top: 1em;
+}
+
+.que.certaintywithstudentfeedback .chip {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    border-radius: .5em;
+    top: .1em;
+    position: relative;
+    margin-right: .5em;
+}
+
+.que.certaintywithstudentfeedback .student-feedback {
+    position: relative;
+    margin-top: 1em;
+}
+
+.que.certaintywithstudentfeedback .buttons-feedback {
+    float: right;
+    margin-top: 3px;
+}
+
+.que.certaintywithstudentfeedback .cancel-feedback {
+    margin-left: 3px;
+}
+
+.que.certaintywithstudentfeedback .edit-feedback {
+    position: absolute;
+    top: 1.3em;
+    right: 0;
+}

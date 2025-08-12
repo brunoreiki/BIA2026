@@ -1,0 +1,175 @@
+.que.certaintywithstudentfbdeferred table.certainty {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty tr > * {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 0 3px;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty td * {
+    padding: 0 3px;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty th {
+    background-color: #7840a1;
+    color: white;
+    overflow: hidden;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty td {
+    background-color: lavender;
+    color: black;
+}
+
+.que.certaintywithstudentfbdeferred .chip {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    border-radius: .5em;
+    top: .1em;
+    position: relative;
+    margin-right: .5em;
+}
+
+.que.certaintywithstudentfbdeferred .student-feedback {
+    position: relative;
+    margin-top: 1em;
+}
+
+.que.certaintywithstudentfbdeferred .buttons-feedback {
+    float: right;
+    margin-top: 3px;
+}
+
+.que.certaintywithstudentfbdeferred .cancel-feedback {
+    margin-left: 3px;
+}
+
+.que.certaintywithstudentfbdeferred .edit-feedback {
+    position: absolute;
+    top: 1.3em;
+    right: 0;
+}
+
+/***************************/
+/** General Quiz Feedback **/
+/***************************/
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-legend {
+    margin-top: 1em;
+    text-align: center;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-legend div {
+    display: flex;
+    justify-content: space-around;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-legend-element {
+    flex-basis: 25%;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-legend-icon {
+    margin-right: .3em;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-legend-bar-icon {
+    display: inline-block;
+    width: 2.6em;
+    height: 1.3em;
+    position: relative;
+    top: .2em;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-image:empty + .chart-legend {
+    display: none;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-area .chart-image {
+    width: 100%;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-bottom-legend {
+    padding-left: 3em;
+    margin-top: 0;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-bottom-legend span {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .numanswers,
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .indicator {
+    color: grey;
+    font-weight: bold;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .lucidity-indicator {
+    font-weight: bolder;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .lucidity-indicator .indicator {
+    color: inherit;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred canvas {
+    /* Necessary for Chrome. */
+    max-width: 100%;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .indicators-grid {
+    display: grid;
+    grid-template-columns: max-content max-content;
+    grid-column-gap: .5em;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .chart-tooltip {
+    background: rgba(0, 0, 0, 0.7);
+    width: 16rem;
+    border-radius: 3px;
+    color: white;
+    opacity: 1;
+    pointer-events: none;
+    position: absolute;
+    transform: translate(-50%, 0);
+    transition: all .5s ease;
+    z-index: 100;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .charts-sidebar {
+  display: flex;
+  align-items: center;
+  opacity: 1;
+  transition: opacity 500ms linear, visibility 0s linear;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .charts-content {
+  width: 100%;
+  transition: all 400ms ease;
+}
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .charts-content.reducedwidth {
+  width: 67%;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .circle-indicator,
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .rotated-square-indicator {
+    display: inline-block;
+    height: var(--shape-size);
+    width: var(--shape-size);
+    border: 2px solid black;
+    background-color: var(--shape-color);
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .circle-indicator {
+    --shape-size: 22px;
+    border-radius: 50%;
+}
+
+.quizreviewsummary .qbehaviour-certaintywithstudentfbdeferred .rotated-square-indicator {
+    --shape-size: 16px;
+    transform: rotate(45deg);
+    margin-left: 3px;
+}

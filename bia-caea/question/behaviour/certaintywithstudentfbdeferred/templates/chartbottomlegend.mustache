@@ -1,0 +1,109 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/chartbottomlegend
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * answercategoriespercentages List of certainty percentages for each answer category.
+    * answerclasses List of answer classes.
+        * display Whether this class name should be displayed.
+        * spacepercentage Amount of width space percentage this class legend should take.
+        * name The name of the answer class.
+        * numanswers The number of answers in this class.
+
+    Example context (json):
+    {
+        "answercategoriespercentages": [
+            "100%",
+            "90%",
+            "80%",
+            "70%",
+            "60%",
+            "&le;50%",
+            "60%",
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+        ],
+        "answerclasses": [
+            {
+                "display": true,
+                "spacepercentage": 27,
+                "name": "Unexpected error",
+                "numanswers": 10
+            },
+            {
+                "display": true,
+                "spacepercentage": 18,
+                "name": "Alleged error",
+                "numanswers": 16
+            },
+            {
+                "display": true,
+                "spacepercentage": 9,
+                "name": "Declared ignorance",
+                "numanswers": 5
+            },
+            {
+                "display": true,
+                "spacepercentage": 18,
+                "name": "Unsure knowledge",
+                "numanswers": 15
+            },
+            {
+                "display": true,
+                "spacepercentage": 27,
+                "name": "Sure knowledge",
+                "numanswers": 90
+            }
+        ]
+    }
+}}
+<div class="chart-legend chart-bottom-legend">
+    <div style="font-size: .7em;">
+        {{# answercategoriespercentages}}
+        <span style="flex-basis: 100%;">
+             ({{{.}}})
+        </span>
+        {{/ answercategoriespercentages}}
+    </div>
+    <div>
+        {{# answerclasses}}
+        {{# display}}
+        <span style="flex-basis: {{spacepercentage}}%;">
+            {{# numanswers}}
+            <span style="flex-basis: {{spacepercentage}}%;">
+                <span class="numanswers">{{numanswers}}</span> {{name}}
+            </span>
+            {{/ numanswers}}
+            {{^ numanswers}}
+            <span style="flex-basis: {{spacepercentage}}%;">
+                {{name}}
+            </span>
+            {{/ numanswers}}
+        </span>
+        {{/ display}}
+        {{/ answerclasses}}
+    </div>
+</div>

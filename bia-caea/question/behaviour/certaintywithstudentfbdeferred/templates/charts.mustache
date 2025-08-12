@@ -1,0 +1,24 @@
+<details>
+	<summary>
+	   <h4 class="d-inline" style="vertical-align:sub">{{# str}} attemptsevolution, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</h4>
+	</summary>
+	<div class="d-flex">
+	    <div class="charts-content p-4">
+	        <div class="d-flex mt-1">
+	            <div class="d-flex align-items-center justify-content-center" style="flex: 1 1 0; --shape-color: #dedede"><span class="rotated-square-indicator mr-1"></span><span class="ml-2">{{# str}} thisattempt, qbehaviour_certaintywithstudentfbdeferred, {{attemptnum}} {{/ str}}</span></div>
+	            <div class="d-flex align-items-center justify-content-center" style="flex: 1 1 0; --shape-color: #dedede"><span class="circle-indicator"></span><span class="ml-2">{{# str}} otherattempts, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</span></div>
+	        </div>
+	        <hr>
+	        {{{grade_progress_chart}}}
+	        {{> qbehaviour_certaintywithstudentfbdeferred/declaredignoranceindicators}}
+	        <hr>
+	        {{{lucidity_progress_chart}}}
+	        {{> qbehaviour_certaintywithstudentfbdeferred/lucidityindicators}}
+	    </div>
+	    <div id="charts-sidebar-container" hidden="" style="width:33%;position:relative;">
+	        {{# attemptsdata}}
+	            {{> qbehaviour_certaintywithstudentfbdeferred/charts_sidebar}}
+	        {{/ attemptsdata}}
+	    </div>
+	</div>
+</details>

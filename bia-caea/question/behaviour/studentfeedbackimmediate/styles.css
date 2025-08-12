@@ -1,0 +1,18 @@
+.que.studentfeedbackimmediate .student-feedback {
+    position: relative;
+}
+
+.que.studentfeedbackimmediate .buttons-feedback {
+    float: right;
+    margin-top: 3px;
+}
+
+.que.studentfeedbackimmediate .cancel-feedback {
+    margin-left: 3px;
+}
+
+.que.studentfeedbackimmediate .edit-feedback {
+    position: absolute;
+    top: 1.3em;
+    right: 0;
+}

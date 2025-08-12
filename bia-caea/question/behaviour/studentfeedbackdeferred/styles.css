@@ -1,0 +1,22 @@
+.que.studentfeedbackdeferred .student-feedback,
+.qbehaviour-studentfeedbackdeferred .student-feedback {
+    position: relative;
+}
+
+.que.studentfeedbackdeferred .buttons-feedback,
+.qbehaviour-studentfeedbackdeferred .buttons-feedback {
+    float: right;
+    margin-top: 3px;
+}
+
+.que.studentfeedbackdeferred .cancel-feedback,
+.qbehaviour-studentfeedbackdeferred .cancel-feedback {
+    margin-left: 3px;
+}
+
+.que.studentfeedbackdeferred .edit-feedback,
+.qbehaviour-studentfeedbackdeferred .edit-feedback {
+    position: absolute;
+    top: 1.3em;
+    right: 0;
+}

@@ -1,0 +1,52 @@
+<div class="charts-sidebar" hidden="" data-role="charts-sidebar" data-attemptnum="{{attemptnum}}" style="position: sticky; top: 10vh;">
+    <div class="charts-sidebar-menu p-2 border border-dark mx-auto">
+        <div>{{attempttitle}}</div>
+        <hr class="my-2">
+        <div class="d-flex">
+            <div class="my-auto mr-3 {{cssshape}}-indicator" style="--shape-color:{{ignorancerateindicatorcolor}}"></div>
+            <div>
+                {{# hasdeclaredignorance}}
+                    <div>{{# str}} declaredignoranceratea, qbehaviour_certaintywithstudentfbdeferred, {{declaredignorancerate}} {{/ str}}</div>
+                {{/ hasdeclaredignorance}}
+                <div>{{# str}} gradeover100a, qbehaviour_certaintywithstudentfbdeferred, {{gradeover100}} {{/ str}}</div>
+            </div>
+        </div>
+        <hr class="my-2">
+        <div class="mb-2">
+            <div><b>{{# str}} answersrepartition, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</b></div>
+            <div class="mt-1 pl-3 indicators-grid">
+                <span>{{# str}} ncorrectanswers, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{nright}}/{{questioncount}}</span>
+                <span>{{# str}} nincorrectanswers, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{nwrong}}/{{questioncount}}</span>
+                {{# hasdeclaredignorance}}
+                    <span>{{# str}} ndeclaredignorance, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                    <span>{{nrandom}}/{{questioncount}}</span>
+                {{/ hasdeclaredignorance}}
+            </div>
+        </div>
+        <div class="mb-2">
+            <div><b>{{# str}} metacognitiveindicators, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</b></div>
+            <div class="mt-1 pl-3 indicators-grid">
+                <span>{{# str}} confidenceratea, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{confidencerate}}</span>
+                <span>{{# str}} imprudenceratea, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{imprudencerate}}</span>
+            </div>
+        </div>
+        <hr class="my-3">
+        <div class="d-flex">
+            <div class="my-auto mr-3 {{cssshape}}-indicator" style="--shape-color:{{lucidityindicatorcolor}}"></div>
+            <div>
+                <div>{{lucidityindicatorlabel}}</div>
+                <div>
+                    <b>{{# str}} lucidityindexa, qbehaviour_certaintywithstudentfbdeferred, {{lucidityindex}} {{/ str}}</b>
+                </div>
+            </div>
+        </div>
+        <hr class="my-3">
+        <div class="text-center">
+            <a href="{{attempturl}}" class="btn btn-secondary {{# iscurrentattempt}}disabled{{/ iscurrentattempt}}">{{# str}} showthatattempt, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</a>
+        </div>
+    </div>
+</div>

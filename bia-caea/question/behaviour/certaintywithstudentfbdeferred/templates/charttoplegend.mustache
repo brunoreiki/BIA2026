@@ -1,0 +1,70 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/charttoplegend
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * displaydeclaredignorance Whether the declared ignorance legend should be displayed.
+    * unexpectederrorcolor CSS color for unexpected error.
+    * allegederrorcolor CSS color for alleged error.
+    * declaredignorancecolor CSS color for declared ignorance.
+    * unsureknowledgecolor CSS color for unsure knowledge.
+    * sureknowledgecolor CSS color for sure knowledge.
+    * expectedtrendcolor CSS color for expected trend.
+
+    Example context (json):
+    {
+        "displaydeclaredignorance": true,
+        "unexpectederrorcolor": "red",
+        "allegederrorcolor": "lightpink",
+        "declaredignorancecolor": "#ebebeb",
+        "unsureknowledgecolor": "palegreen",
+        "sureknowledgecolor": "green",
+        "expectedtrendcolor": "black"
+    }
+}}
+<div class="chart-legend">
+    <div>
+        <span class="chart-legend-element">
+            <span class="chart-legend-icon">
+                <span class="d-inline-block align-middle" style="width: 2em; height: 3px; border-radius: 2px; margin-top: -2px; background-color: {{{expectedtrendcolor}}}"></span>
+            </span>
+            {{# str}} expectedtrend, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+            {{{expectedtrendhelpicon}}}
+        </span>
+        <span class="chart-legend-element">
+            <span class="chart-legend-icon chart-legend-bar-icon" style="background-image: linear-gradient(90deg, {{{unexpectederrorcolor}}}, {{{unexpectederrorcolor}}} 1.3em, {{{allegederrorcolor}}} 1.3em, {{{allegederrorcolor}}});"></span>
+            {{# str}} incorrectanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+        </span>
+        {{# displaydeclaredignorance}}
+        <span class="chart-legend-element">
+            <span class="chart-legend-icon chart-legend-bar-icon" style="background-color: {{{declaredignorancecolor}}};"></span>
+            {{# str}} declaredignoranceplural, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+        </span>
+        {{/ displaydeclaredignorance}}
+        <span class="chart-legend-element">
+            <span class="chart-legend-icon chart-legend-bar-icon" style="background-image: linear-gradient(90deg, {{{unsureknowledgecolor}}}, {{{unsureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}});"></span>
+            {{# str}} correctanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+        </span>
+    </div>
+</div>

@@ -1,0 +1,103 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/certaintyselection
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * controlname
+    * readonly
+    * addprompt
+    * certaintylevels
+        * i
+        * name
+        * percentage
+        * checked
+
+    Example context (json):
+    {
+        "controlname": "q1:1_-certainty",
+        "readonly": false,
+        "addprompt": false,
+        "certaintylevels": [
+            {
+                "i": 0,
+                "name": "Answered at random",
+                "checked": false,
+                "percentage": "0%"
+            },
+            {
+                "i": 1,
+                "name": "Unsure",
+                "checked": false,
+                "percentage": "30%"
+            },
+            {
+                "i": 2,
+                "name": "Quite unsure",
+                "checked": false,
+                "percentage": "60%"
+            },
+            {
+                "i": 3,
+                "name": "Quite sure",
+                "checked": false,
+                "percentage": "80%"
+            },
+            {
+                "i": 4,
+                "name": "Almost sure",
+                "checked": false,
+                "percentage": "95%"
+            },
+            {
+                "i": 5,
+                "name": "Sure",
+                "checked": false,
+                "percentage": "100%"
+            }
+        ]
+    }
+}}
+<div>
+    {{# str}} whatisyourcertaintylevel, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+    {{# addprompt}}<span class="validationerror">{{# str}} pleaseselectcertainty, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</span>{{/ addprompt}}
+</div>
+<table class="certainty">
+    <thead>
+        <tr>
+        {{# certaintylevels}}
+            <th><label for="{{controlname}}_level{{i}}">{{{name}}}</label></th>
+        {{/ certaintylevels}}
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            {{# certaintylevels}}
+            <td>
+                <input id="{{controlname}}_level{{i}}" type=radio name="{{controlname}}" value="{{i}}" {{# readonly}}disabled="disabled"{{/ readonly}} {{# checked}}checked="checked"{{/ checked}}>
+                <label for="{{controlname}}_level{{i}}" {{# readonly}}{{# checked}}class="font-weight-bold"{{/ checked}}{{/ readonly}}>{{{percentage}}}</label>
+            </td>
+            {{/ certaintylevels}}
+        </tr>
+    </tbody>
+</table>

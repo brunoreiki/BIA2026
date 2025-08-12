@@ -1,0 +1,7 @@
+{{# hasdeclaredignorance}}
+<div aria-hidden="true">
+    {{# declaredignoranceindicators}}
+    <div class="d-flex align-items-center mt-1" style="grid-gap:5px; --shape-color: {{color}}"><span class="circle-indicator"></span>{{^ circleonly}}<span class="rotated-square-indicator"></span>{{/ circleonly}}<span class="ml-1">{{label}}</span></div>
+    {{/ declaredignoranceindicators}}
+</div>
+{{/ hasdeclaredignorance}}

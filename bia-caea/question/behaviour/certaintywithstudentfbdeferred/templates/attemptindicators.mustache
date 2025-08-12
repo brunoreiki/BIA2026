@@ -1,0 +1,74 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/attemptindicators
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * nrightanswers
+    * nwronganswers
+    * hasdeclaredignorance
+    * ndeclaredignorance
+    * nquestions
+    * declaredignorancerate
+    * declaredignorancerate_help
+    * confidencerate
+    * confidencerate_help
+    * imprudencerate
+    * imprudencerate_help
+    * lucidityindex
+    * lucidityindex_help
+
+    Example context (json):
+    {
+    }
+}}
+<table class="generaltable mt-1">
+    <tr>
+        <th class="cell" scope="row">{{# str}} answersrepartition, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</th>
+        <td class="cell">
+            {{# str}} ncorrectanswers, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nrightanswers}} / {{nquestions}}</span> {{/ str}}<br>
+            {{# str}} nincorrectanswers, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nwronganswers}} / {{nquestions}}</span> {{/ str}}<br>
+            {{# hasdeclaredignorance}}
+            {{# str}} ndeclaredignorance, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{ndeclaredignorance}} / {{nquestions}}</span> {{/ str}}
+            {{/ hasdeclaredignorance}}
+        </td>
+    </tr>
+    <tr>
+        <th class="cell" scope="row">{{# str}} metacognitiveindicators, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</th>
+        <td class="cell d-flex flex-row">
+            <div>
+                {{# hasdeclaredignorance}}
+                {{# str}} declaredignoranceratea, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{declaredignorancerate}}</span> {{/ str}} {{{declaredignorancerate_help}}}<br>
+                {{/ hasdeclaredignorance}}
+                {{# str}} confidenceratea, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{confidencerate}}</span> {{/ str}} {{{confidencerate_help}}}<br>
+                {{# str}} imprudenceratea, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{imprudencerate}}</span> {{/ str}} {{{imprudencerate_help}}}<br>
+                <span class="lucidity-indicator">{{# str}} lucidityindexa, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{lucidityindex}}</span> {{/ str}}</span> {{{lucidityindex_help}}}
+            </div>
+            {{# linktoreport}}
+            <div class="align-content-center ml-4">
+                {{{.}}}
+            </div>
+            {{/ linktoreport}}
+        </td>
+    </tr>
+</table>
