@@ -41,4 +41,4 @@ git add .
 git commit -m "fichiers et bdd - ${STAMP}" || echo "Aucun changement à valider"
 git push
 
-echo "git fait"
+echo "✅ git fait"
