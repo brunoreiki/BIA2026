@@ -50,8 +50,8 @@ $CFG->admin     = 'admin';
 
 // local
 
-$CFG->wwwroot   = 'http://127.0.0.1/BIA/bia-caea';
-$CFG->dataroot  = '/var/www/html/BIA/moodledata';
+$CFG->wwwroot   = 'http://127.0.0.1/bia2026/bia-caea';
+$CFG->dataroot  = '/var/www/html/bia2026/moodledata';
 $CFG->admin     = 'admin';
 
 // $CFG->theme = 'boost';
