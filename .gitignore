@@ -1,0 +1,9 @@
+# Ignorer le dossier moodlesql (peu importe son contenu)
+moodlesql/
+
+# Ignorer un fichier notes.md à la racine
+notes.md
+
+# Ignorer ces scripts à la racine
+restauration.sh
+sauvegarde.sh

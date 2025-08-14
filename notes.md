@@ -9,10 +9,17 @@ emriHy22o
 
 ## Nouvelle BDD sur ovh
 
+mysql -h flashculbia2026.mysql.db -u flashculbia2026 -p flashculbia2026 < flashculture_2025-08-14_13h26m57s.sql 
+
+
 flashculbia2026
 flashculbia2026
 flashculbia2026.mysql.db
 emriHy22o
+
+## Installation de la base de données
+
+mysql -u admin -p flashculture < /var/www/html/moodlesql/flashculture.sql
 
 ## Thème
 
