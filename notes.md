@@ -2,6 +2,18 @@
 
 Projet thèse BIA 2026
 
+# GIT BIA SSH 
+
+ssh flashcul@ssh.cluster013.hosting.ovh.net
+emriHy22o
+
+## Nouvelle BDD sur ovh
+
+flashculbia2026
+flashculbia2026
+flashculbia2026.mysql.db
+emriHy22o
+
 ## Thème
 
 Stream, move, adaptable, almond
