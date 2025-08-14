@@ -1,0 +1,8 @@
+define(["jquery", "theme_eadtraining/minicolors"], function($, minicolors) {
+    return {
+        minicolors: function(elementid) {
+            window.$ = $;
+            $("#" + elementid).minicolors();
+        }
+    };
+});
