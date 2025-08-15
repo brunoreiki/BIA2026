@@ -2,6 +2,25 @@
 
 Projet thèse BIA 2026
 
+## Droits sur les dossiers
+
+chown -R root:www-data /var/www/html/bia2026/bia-caea
+chown -R root:www-data /var/www/html/bia2026/moodledata
+
+### Dans le dossier de Moodle (le code)
+
+find /var/www/html/bia2026/bia-caea -type f -exec chmod 644 {} \;
+find /var/www/html/bia2026/bia-caea -type d -exec chmod 755 {} \;
+
+### Dans le dossier de Moodledata (le code)
+
+find /var/www/html/bia2026/moodledata-type f -exec chmod 664 {} \;
+find /var/www/html/bia2026/moodledata -type d -exec chmod 775 {} \;
+
+php /var/www/html/bia2026/bia-caea/admin/cli/purge_caches.php
+
+
+
 # GIT BIA SSH 
 
 ssh flashcul@ssh.cluster013.hosting.ovh.net
