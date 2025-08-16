@@ -19,12 +19,22 @@ find /var/www/html/bia2026/moodledata -type d -exec chmod 775 {} \;
 
 php /var/www/html/bia2026/bia-caea/admin/cli/purge_caches.php
 
+## Cron
 
+OVH
+
+/homez.291/flashcul/bb/BIA2026/bia-caea/admin/cli/cron.php
+
+Local
+*/5 * * * * /usr/bin/php /var/www/html/bia2026/bia-caea/admin/cli/cron.php >/dev/null 2>&1
 
 # GIT BIA SSH 
 
 ssh flashcul@ssh.cluster013.hosting.ovh.net
 emriHy22o
+
+config.php chez ovh 
+/homez.291/flashcul/bb/BIA2026
 
 ## Nouvelle BDD sur ovh
 
