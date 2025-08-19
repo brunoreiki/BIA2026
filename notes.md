@@ -6,15 +6,16 @@ Projet thèse BIA 2026
 
 Mettre activités dans tous les cours
 https
-Statistiques de la plateforme
+x Statistiques de la plateforme
 Contacter Boost Magnific
-Contacter Astor
+x Contacter Astor
 Voir les deux plug ins de l'étudiant différé et immédiat
 Comité scientitifique de la recherche
 Courrier au rectorat
 Faire un document de présentation pour le rectorat pour les proviseurs
 Refaire le découpage en séquence
-Refaire les questions BIA / CAEA et leur catégories
+x Refaire les questions BIA / CAEA et leur catégories
+Refaire la page d'accueil pour mettre un texte sur le rectorat
 
 Montpellier
 Adresse : Rectorat de l’Académie de Montpellier, 31 rue de l’Université, CS 39004, 34064 Montpellier Cedex 2
