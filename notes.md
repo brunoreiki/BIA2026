@@ -2,6 +2,38 @@
 
 Projet thèse BIA 2026
 
+## A faire 
+
+Mettre activités dans tous les cours
+https
+Statistiques de la plateforme
+Contacter Boost Magnific
+Contacter Astor
+Voir les deux plug ins de l'étudiant différé et immédiat
+Comité scientitifique de la recherche
+Courrier au rectorat
+Faire un document de présentation pour le rectorat pour les proviseurs
+
+Montpellier
+Adresse : Rectorat de l’Académie de Montpellier, 31 rue de l’Université, CS 39004, 34064 Montpellier Cedex 2
+Téléphone : 04 67 91 47 00
+
+Objet : Contact pour webmaster des vidéos YouTube de l’Académie de Montpellier
+Bonjour,
+
+Je cherche à entrer en contact avec la personne en charge de la chaîne YouTube "Académie de Montpellier Vidéos". Pouvez-vous m’indiquer le service ou l’adresse email appropriés ?
+
+Merci par avance pour votre aide,
+Cordialement,
+[Votre nom / fonction]
+
+## Nouvelle base de données
+
+bb106669-001.eu.clouddb.ovh.net:35903
+bb106669-001.eu.clouddb.ovh.net
+flashculbia2026
+emriHy22o
+
 ## Droits sur les dossiers
 
 chown -R root:www-data /var/www/html/bia2026/bia-caea
@@ -46,6 +78,15 @@ flashculbia2026
 flashculbia2026.mysql.db
 emriHy22o
 
+Nom d'hôte
+
+    bb106669-001.eu.clouddb.ovh.net 
+
+Port
+    35903 
+
+
+
 ## Installation de la base de données
 
 mysql -u admin -p flashculture < /var/www/html/moodlesql/flashculture.sql
@@ -54,29 +95,6 @@ mysql -u admin -p flashculture < /var/www/html/moodlesql/flashculture.sql
 
 Stream, move, adaptable, almond
 
-## A faire 
-
-Mettre activités dans tous les cours
-https
-Statistiques de la plateforme
-Contacter Boost Magnific
-Contacter Astor
-Comité scientitifique de la recherche
-Courrier au rectorat
-Faire un document de présentation pour le rectorat pour les proviseurs
-
-Montpellier
-Adresse : Rectorat de l’Académie de Montpellier, 31 rue de l’Université, CS 39004, 34064 Montpellier Cedex 2
-Téléphone : 04 67 91 47 00
-
-Objet : Contact pour webmaster des vidéos YouTube de l’Académie de Montpellier
-Bonjour,
-
-Je cherche à entrer en contact avec la personne en charge de la chaîne YouTube "Académie de Montpellier Vidéos". Pouvez-vous m’indiquer le service ou l’adresse email appropriés ?
-
-Merci par avance pour votre aide,
-Cordialement,
-[Votre nom / fonction]
 
 ## Configuration du cron
 
