@@ -13,6 +13,8 @@ Voir les deux plug ins de l'étudiant différé et immédiat
 Comité scientitifique de la recherche
 Courrier au rectorat
 Faire un document de présentation pour le rectorat pour les proviseurs
+Refaire le découpage en séquence
+Refaire les questions BIA / CAEA et leur catégories
 
 Montpellier
 Adresse : Rectorat de l’Académie de Montpellier, 31 rue de l’Université, CS 39004, 34064 Montpellier Cedex 2
