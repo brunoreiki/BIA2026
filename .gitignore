@@ -9,4 +9,4 @@
 #sauvegarde.sh
 
 # Ignorer le fichier config
-#/bia-caea/config.php
+/bia-caea/config.php
