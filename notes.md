@@ -96,7 +96,7 @@ mysql -u admin -p flashculture < /var/www/html/moodlesql/flashculture.sql
 
 ## Thème
 
-Stream, move, adaptable, almond
+Stream, moove, adaptable, almond
 
 
 ## Configuration du cron
