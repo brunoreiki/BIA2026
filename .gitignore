@@ -5,8 +5,8 @@
 # notes.md
 
 # Ignorer ces scripts à la racine
-#restauration.sh
-#sauvegarde.sh
+restauration.sh
+sauvegarde.sh
 
 # Ignorer le fichier config
 /bia-caea/config.php
