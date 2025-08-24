@@ -5,17 +5,24 @@ Projet thèse BIA 2026
 ## A faire 
 
 Mettre activités dans tous les cours
-https
+https en local
 x Statistiques de la plateforme
 Contacter Boost Magnific
 x Contacter Astor
 Voir les deux plug ins de l'étudiant différé et immédiat
-Comité scientitifique de la recherche
+x Comité scientitifique de la recherche
 Courrier au rectorat
 Faire un document de présentation pour le rectorat pour les proviseurs
 Refaire le découpage en séquence
 x Refaire les questions BIA / CAEA et leur catégories
 Refaire la page d'accueil pour mettre un texte sur le rectorat
+Intégrer les vidéos
+
+<p><strong>Règlementation aéronautique : organisations, survol, règles de priorité, emport de carburant</strong></p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AkC1y3ezMJ0?si=TWlREW292nKxfiVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 Montpellier
 Adresse : Rectorat de l’Académie de Montpellier, 31 rue de l’Université, CS 39004, 34064 Montpellier Cedex 2
@@ -49,7 +56,7 @@ find /var/www/html/bia2026/bia-caea -type d -exec chmod 755 {} \;
 
 ### Dans le dossier de Moodledata (le code)
 
-find /var/www/html/bia2026/moodledata-type f -exec chmod 664 {} \;
+find /var/www/html/bia2026/moodledata -type f -exec chmod 664 {} \;
 find /var/www/html/bia2026/moodledata -type d -exec chmod 775 {} \;
 
 php /var/www/html/bia2026/bia-caea/admin/cli/purge_caches.php
