@@ -11,13 +11,14 @@ Contacter Boost Magnific
 x Contacter Astor
 Voir les deux plug ins de l'étudiant différé et immédiat
 x Comité scientitifique de la recherche
-Courrier au rectorat
+Courrier au rectorat (Moodle 5, implication dans le cours,  cours CAEA vidéo intégrées, tests de positionnement, annales, cours officiel, examene blanc)
 Faire un document de présentation pour le rectorat pour les proviseurs
 Refaire le découpage en séquence
 x Refaire les questions BIA / CAEA et leur catégories
 Refaire la page d'accueil pour mettre un texte sur le rectorat
 Faire les annales du CAEA
 Intégrer les vidéos
+Mettre les liens dans toutes les actualités de la bare progression pas seulement les tests
 
 <p><strong>Règlementation aéronautique : organisations, survol, règles de priorité, emport de carburant</strong></p>
 
@@ -80,6 +81,12 @@ config.php chez ovh
 /homez.291/flashcul/bb/BIA2026
 
 ## Nouvelle BDD sur ovh
+
+Nouvelle
+
+mysql -h bb106669-001.eu.clouddb.ovh.net -u flashculbia2026 -p flashculbia2026 < flashculture.sql 
+
+Ancienne 
 
 mysql -h flashculbia2026.mysql.db -u flashculbia2026 -p flashculbia2026 < flashculture_2025-08-14_13h26m57s.sql 
 
