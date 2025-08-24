@@ -16,6 +16,7 @@ Faire un document de présentation pour le rectorat pour les proviseurs
 Refaire le découpage en séquence
 x Refaire les questions BIA / CAEA et leur catégories
 Refaire la page d'accueil pour mettre un texte sur le rectorat
+Faire les annales du CAEA
 Intégrer les vidéos
 
 <p><strong>Règlementation aéronautique : organisations, survol, règles de priorité, emport de carburant</strong></p>
