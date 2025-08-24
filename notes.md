@@ -11,7 +11,7 @@ Contacter Boost Magnific
 x Contacter Astor
 Voir les deux plug ins de l'étudiant différé et immédiat
 x Comité scientitifique de la recherche
-Courrier au rectorat (Moodle 5, implication dans le cours,  cours CAEA vidéo intégrées, tests de positionnement, annales, cours officiel, examene blanc)
+Courrier au rectorat (Moodle 5, implication dans le cours (temps passé par l'élève visible par lui),  cours CAEA vidéo intégrées, tests de positionnement, annales, cours officiel, examene blanc, test des réponses et question de la session 2025 par une IA et vérifié par un pilote et controleur aérien)
 Faire un document de présentation pour le rectorat pour les proviseurs
 Refaire le découpage en séquence
 x Refaire les questions BIA / CAEA et leur catégories
