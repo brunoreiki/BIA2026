@@ -11,13 +11,13 @@ Contacter Boost Magnific
 x Contacter Astor
 Voir les deux plug ins de l'étudiant différé et immédiat
 x Comité scientitifique de la recherche
-Courrier au rectorat (Moodle 5, implication dans le cours (temps passé par l'élève visible par lui),  cours CAEA vidéo intégrées, tests de positionnement, annales, cours officiel, examene blanc, test des réponses et question de la session 2025 par une IA et vérifié par un pilote et controleur aérien)
+x Courrier au rectorat (Moodle 5, implication dans le cours (temps passé par l'élève visible par lui),  cours CAEA vidéo intégrées, tests de positionnement, annales, cours officiel, examene blanc, test des réponses et question de la session 2025 par une IA et vérifié par un pilote et controleur aérien)
 Faire un document de présentation pour le rectorat pour les proviseurs
-Refaire le découpage en séquence
+Refaire le découpage en séquence pour que la progression se voit 
 x Refaire les questions BIA / CAEA et leur catégories
-Refaire la page d'accueil pour mettre un texte sur le rectorat
-Faire les annales du CAEA
-Intégrer les vidéos
+x Refaire la page d'accueil pour mettre un texte sur le rectorat
+x Faire les annales du CAEA
+x Intégrer les vidéos
 Mettre les liens dans toutes les actualités de la bare progression pas seulement les tests
 
 <p><strong>Règlementation aéronautique : organisations, survol, règles de priorité, emport de carburant</strong></p>

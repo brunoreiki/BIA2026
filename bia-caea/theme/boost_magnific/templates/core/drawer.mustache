@@ -1,0 +1,85 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+    (licence header identique à l'original)
+}}
+{{!
+    @template theme_boost/drawer
+}}
+<div {{!
+    }} class="{{$drawerclasses}}{{/drawerclasses}} d-print-none not-initialized"{{!
+    }} data-region="fixed-drawer"{{!
+    }} id="{{$id}}{{/id}}"{{!
+    }} data-preference="{{$drawerpreferencename}}{{/drawerpreferencename}}"{{!
+    }} data-state="{{$drawerstate}}{{/drawerstate}}"{{!
+    }} data-forceopen="{{$forceopen}}0{{/forceopen}}"{{!
+    }} data-close-on-resize="{{$drawercloseonresize}}0{{/drawercloseonresize}}"{{!
+    }}>
+    <div class="drawerheader">
+        <button
+            class="btn btn-icon drawertoggle hidden"
+            data-toggler="drawers"
+            data-action="closedrawer"
+            data-target="{{$id}}{{/id}}"
+            data-bs-toggle="tooltip"
+            data-bs-placement="{{$tooltipplacement}}right{{/tooltipplacement}}"
+            title="{{$closebuttontext}}{{#str}}closedrawer, core{{/str}}{{/closebuttontext}}"
+        >
+            {{#pix}} e/cancel, core {{/pix}}
+        </button>
+        {{$drawerheading}}{{/drawerheading}}
+        <div class="drawerheadercontent hidden">
+            {{$drawerheadercontent}}{{/drawerheadercontent}}
+        </div>
+    </div>
+
+    <div class="drawercontent drag-container" data-usertour="scroller">
+        {{$drawercontent}}{{/drawercontent}}
+
+        {{! -- Injecte toujours le Course index (sections) dans le drawer -- }}
+        {{> core_courseformat/local/courseindex/drawer }}
+    </div>
+</div>
+
+{{#js}}
+M.util.js_pending('theme_boost/drawers:load');
+require(['theme_boost/drawers'], function() {
+    M.util.js_complete('theme_boost/drawers:load');
+});
+
+/**
+ * Déplier systématiquement toutes les sections/éléments du Course index.
+ * Robuste : fonctionne même si le DOM varie un peu entre 4.5 / 5.x.
+ */
+require([], function() {
+    try {
+        // Racine du course index si présente, sinon document.
+        var roots = [];
+        var ci = document.querySelector('[data-region="courseindex"]');
+        if (ci) { roots.push(ci); }
+        document.querySelectorAll('.courseindex').forEach(function(el){ roots.push(el); });
+        if (!roots.length) { return; }
+
+        roots.forEach(function(root) {
+            // 1) Boutons repliables (aria-expanded)
+            root.querySelectorAll('[aria-expanded="false"]').forEach(function(btn){
+                btn.setAttribute('aria-expanded', 'true');
+            });
+
+            // 2) Conteneurs "collapse" Bootstrap
+            root.querySelectorAll('.collapse, .collapsing').forEach(function(el){
+                el.classList.remove('collapsing');
+                el.classList.add('collapse', 'show');
+                el.style.height = 'auto';
+            });
+
+            // 3) Classes spécifiques éventuelles marquant le repli
+            root.querySelectorAll('.is-collapsed, .collapsed').forEach(function(el){
+                el.classList.remove('is-collapsed', 'collapsed');
+            });
+        });
+    } catch (e) {
+        // Pas bloquant.
+    }
+});
+{{/js}}
+
