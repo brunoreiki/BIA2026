@@ -18,7 +18,7 @@
  * A frontpage based layout for the boost theme.
  *
  * @package   theme_eadtraining
- * @copyright 2025 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2025 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -26,8 +26,8 @@ defined('MOODLE_INTERNAL') || die;
 
 global $CFG, $PAGE, $OUTPUT, $USER, $DB;
 
-require_once($CFG->libdir . "/behat/lib.php");
-require_once($CFG->dirroot . "/course/lib.php");
+require_once("{$CFG->libdir}/behat/lib.php");
+require_once("{$CFG->dirroot}/course/lib.php");
 
 // Add block button in editing mode.
 $addblockbutton = $OUTPUT->addblockbutton();
@@ -68,7 +68,7 @@ $templatecontext = [
     "bodyattributes" => $bodyattributes,
     "primarymoremenu" => $primarymenu["moremenu"],
     "secondarymoremenu" => $secondarynavigation ?: false,
-    "mobileprimarynav" => $primarymenu["mobileprimarynav"],
+    "mobileprimarynav" => $primarymenu["moremenu"]["nodearray"],
     "usermenu" => $primarymenu["user"],
     "langmenu" => $primarymenu["lang"],
     "forceblockdraweropen" => $forceblockdraweropen,
@@ -81,14 +81,18 @@ $templatecontext = [
 
 $config = get_config("theme_eadtraining");
 
+$brandcolor = get_config("theme_boost", "brandcolor");
 $templatecontext["footercount"] = 0;
 $templatecontext["footercontents"] = [];
-$templatecontext["footer_background_color"] = $config->footer_background_color;
+$templatecontext["footer_background_color"] =
+    theme_eadtraining_default_color("footer_background_color", $brandcolor);
+$templatecontext["footer_background_text_color"] =
+    theme_eadtraining_get_footer_color($templatecontext["footer_background_color"], "#333", false);
 for ($i = 1; $i <= 4; $i++) {
     $footertitle = $config->{"footer_title_{$i}"};
     $footerhtml = $config->{"footer_html_{$i}"};
 
-    if (isset($footerhtml[20])) {
+    if (isset($footerhtml[5])) {
         $templatecontext["footercount"]++;
         $templatecontext["footercontents"][] = [
             "footertitle" => $footertitle,

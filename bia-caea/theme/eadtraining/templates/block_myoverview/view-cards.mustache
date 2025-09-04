@@ -37,20 +37,15 @@
 }}
 
 {{< core_course/coursecards }}
-    {{$menu}}
-        <div class="card-footer menu border-0 ms-auto pl-0 pr-0 pt-4 pb-0">
-            {{> block_myoverview/course-action-menu }}
-        </div>
-    {{/menu}}
     {{$progress}}
         {{#hasprogress}}
-            <div class="card-footer border-0 w-100 ">
-                {{> block_myoverview/progress-bar}}
+            <div class="card-footer card-footer-progress border-0 w-100">
+                {{> theme_eadtraining/block_myoverview/progress-bar}}
             </div>
         {{/hasprogress}}
     {{/progress}}
     {{$coursename}}
-        <span class="multiline" title="{{fullname}}">
+        <span class="multiline" title="{{{fullname}}}">
             <span class="sr-only">{{{fullname}}}</span>
             <span class="coursename">
                 {{#shortentext}}55, {{{fullname}}} {{/shortentext}}

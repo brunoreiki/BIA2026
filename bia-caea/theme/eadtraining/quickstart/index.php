@@ -23,7 +23,6 @@
  */
 
 use theme_eadtraining\editor\editor_tiny;
-use theme_eadtraining\images\git;
 
 require_once("../../../config.php");
 global $CFG, $PAGE, $OUTPUT, $DB, $USER;
@@ -39,8 +38,6 @@ if (optional_param("POST", false, PARAM_INT)) {
 
         // Course.
         "course_summary_banner" => PARAM_INT,
-        "course_summary_banner_position" => PARAM_INT,
-        "svg_animate" => PARAM_INT,
 
         // Brandcolor.
         "brandcolor" => PARAM_RAW,
@@ -71,7 +68,7 @@ if (optional_param("POST", false, PARAM_INT)) {
     // Save banners home.
     require_once("../_editor/editor-lib.php");
     $pages = $DB->get_records("theme_eadtraining_pages", ["local" => "home"]);
-    $homemodebanners = optional_param_array("homemode_banners", false, PARAM_TEXT);
+    $homemodebanners = optional_param_array("homemode_banners", [], PARAM_TEXT);
     foreach ($homemodebanners as $template) {
         $located = false;
         foreach ($pages as $page) {
@@ -202,20 +199,15 @@ echo $OUTPUT->render_from_template("theme_eadtraining/quickstart/home", $homemus
 // Course.
 $bannerfile = theme_eadtraining_setting_file_url("banner_course_file");
 $coursesmustache = [
-    "svg_animate" => get_config("theme_eadtraining", "svg_animate"),
     "course_summary_banner_0" => get_config("theme_eadtraining", "course_summary_banner") == 0,
     "course_summary_banner_1" => get_config("theme_eadtraining", "course_summary_banner") == 1,
     "course_summary_banner_2" => get_config("theme_eadtraining", "course_summary_banner") == 2,
-    "banners" => git::list_all("banner", ""),
-    "course_summary_banner_position" => get_config("theme_eadtraining", "course_summary_banner_position"),
     "banner_course_file_url" => $bannerfile ? $bannerfile->out() : false,
     "banner_course_file_extensions" => "PNG, JPG",
     "return" => "home",
     "next" => "logos",
 ];
 echo $OUTPUT->render_from_template("theme_eadtraining/quickstart/courses", $coursesmustache);
-$PAGE->requires->js_call_amd("theme_eadtraining/default_image", "generateimage", ["svg-courseid-111", 111, true]);
-$PAGE->requires->js_call_amd("theme_eadtraining/default_image", "generateimage", ["svg-courseid-222", 222, false]);
 
 // Logos.
 $logosmustache = [
@@ -235,6 +227,7 @@ $brandcolormustache = [
     "htmlselect" => $OUTPUT->render_from_template("theme_eadtraining/settings/colors", [
         "brandcolor" => true,
         "colors" => $themecolors,
+        "defaultcolor" => theme_eadtraining_default_color("brandcolor", "#1a2a6c", "theme_boost"),
     ]),
     "return" => "logos",
     "next" => "user-profile",
@@ -267,7 +260,7 @@ $numblocks = 0;
 for ($i = 1; $i <= 4; $i++) {
     $footertitle = get_config("theme_eadtraining", "footer_title_{$i}");
     $footerhtml = get_config("theme_eadtraining", "footer_html_{$i}");
-    if (isset($footertitle[3]) && isset($footerhtml[20])) {
+    if (isset($footertitle[2]) && isset($footerhtml[5])) {
         $numblocks++;
     }
 }
@@ -276,6 +269,7 @@ $footermustache = [
     "htmlselect" => $OUTPUT->render_from_template("theme_eadtraining/settings/colors", [
         "footercolor" => true,
         "colors" => $themecolors,
+        "defaultcolor" => theme_eadtraining_default_color("brandcolor", "#1a2a6c"),
     ]),
     "blocks" => [
         [

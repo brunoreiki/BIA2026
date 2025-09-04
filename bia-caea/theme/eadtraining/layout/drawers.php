@@ -25,8 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-require_once($CFG->libdir . '/behat/lib.php');
-require_once($CFG->dirroot . '/course/lib.php');
+require_once("{$CFG->libdir}/behat/lib.php");
+require_once("{$CFG->dirroot}/course/lib.php");
 
 // Add block button in editing mode.
 $addblockbutton = $OUTPUT->addblockbutton();
@@ -94,7 +94,7 @@ $templatecontext = [
     "courseindex" => $courseindex,
     "primarymoremenu" => $primarymenu["moremenu"],
     "secondarymoremenu" => $secondarynavigation ?: false,
-    "mobileprimarynav" => $primarymenu["mobileprimarynav"],
+    "mobileprimarynav" => $primarymenu["moremenu"]["nodearray"],
     "usermenu" => $primarymenu["user"],
     "langmenu" => $primarymenu["lang"],
     "forceblockdraweropen" => $forceblockdraweropen,
@@ -128,17 +128,19 @@ if (optional_param("embed-frame-top", 0, PARAM_INT)) {
         $templatecontext += theme_eadtraining_progress_content();
     }
 
+    $brandcolor = get_config("theme_boost", "brandcolor");
     $templatecontext["footercount"] = 0;
     $templatecontext["footercontents"] = [];
-    $templatecontext["footer_background_color"] = get_config("theme_eadtraining", "footer_background_color");
-    if (!isset($templatecontext["footer_background_color"][3])) {
-        $templatecontext["footer_background_color"] = get_config("theme_boost", "brandcolor");
-    }
+    $templatecontext["footer_background_color"] =
+        theme_eadtraining_default_color("footer_background_color", $brandcolor);
+    $templatecontext["footer_background_text_color"] =
+        theme_eadtraining_get_footer_color($templatecontext["footer_background_color"], "#333", false);
+
     for ($i = 1; $i <= 4; $i++) {
         $footertitle = get_config("theme_eadtraining", "footer_title_{$i}");
         $footerhtml = get_config("theme_eadtraining", "footer_html_{$i}");
 
-        if (isset($footertitle[3]) && isset($footerhtml[20])) {
+        if (isset($footertitle[2]) && isset($footerhtml[5])) {
             $templatecontext["footercount"]++;
             $templatecontext["footercontents"][] = [
                 "footertitle" => $footertitle,
@@ -148,6 +150,7 @@ if (optional_param("embed-frame-top", 0, PARAM_INT)) {
     }
 
     $templatecontext["footer_show_copywriter"] = get_config("theme_eadtraining", "footer_show_copywriter");
+    $templatecontext["editing"] = $PAGE->user_is_editing();
 
     echo $OUTPUT->render_from_template("theme_eadtraining/drawers", $templatecontext);
 }

@@ -21,9 +21,8 @@ use core_course\external\course_summary_exporter;
 use core_message\api;
 use core_message\helper;
 use Exception;
-use moodle_url;
 use html_writer;
-use theme_eadtraining\eadtrainingnavbar;
+use moodle_url;
 use user_picture;
 
 /**
@@ -67,7 +66,7 @@ class core_renderer extends \core_renderer {
      * @throws Exception
      */
     public function navbar(): string {
-        $newnav = new eadtrainingnavbar($this->page);
+        $newnav = new navbar($this->page);
         return $this->render_from_template("core/navbar", $newnav);
     }
 
@@ -338,14 +337,6 @@ class core_renderer extends \core_renderer {
                             $DB->get_field("course_categories", "name", ["id" => $this->page->course->category]);
                         $header->hasbannercourse = true;
                         $header->banner_course_file_url = $bannerfileurl;
-
-                        $header->hasbannercourse_position =
-                            get_config("theme_eadtraining", "course_summary_banner_position");
-                        $hasbannercoursepositioncourse =
-                            get_config("theme_eadtraining", "course_summary_banner_position_{$courseid}");
-                        if ($hasbannercoursepositioncourse !== false) {
-                            $header->hasbannercourse_position = $hasbannercoursepositioncourse;
-                        }
                     }
                 }
             }
@@ -572,12 +563,8 @@ class core_renderer extends \core_renderer {
      * @throws Exception
      */
     public function get_default_image_for_courseid($courseid): string {
-        $animate = get_config("theme_eadtraining", "svg_animate");
-        $imageid = "svg-courseid-{$courseid}-" . uniqid();
-        $this->page->requires->js_call_amd("theme_eadtraining/default_image", "generateimage", [$imageid, $courseid, $animate]);
-
-        $imagesvg = "<svg xmlns='http://www.w3.org/2000/svg' id={$imageid}></svg>";
-        return "data:image/svg+xml;utf8,{$imagesvg}";
+        global $CFG;
+        return "{$CFG->wwwroot}/theme/eadtraining/course-image-default.php?id={$courseid}";
     }
 
     /**
@@ -586,7 +573,14 @@ class core_renderer extends \core_renderer {
      * @throws Exception
      */
     public function brandcolor_background_menu_class() {
-        $background = get_config("theme_eadtraining", "brandcolor_background_menu");
-        return $background ? "brandcolor-background" : "";
+        $class = [];
+        if (get_config("theme_eadtraining", "brandcolor_background_menu")) {
+            $class[] = "brandcolor-background";
+        }
+        if (get_config("theme_eadtraining", "top_scroll_fix")) {
+            $class[] = "top-scroll-fix";
+        }
+
+        return implode(" ", $class);
     }
 }

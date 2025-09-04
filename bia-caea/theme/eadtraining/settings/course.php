@@ -18,7 +18,7 @@
  * Course file
  *
  * @package   theme_eadtraining
- * @copyright 2025 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2025 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -48,21 +48,6 @@ $setting = new admin_setting_configselect("theme_eadtraining/course_summary_bann
     get_string("course_summary_banner", "theme_eadtraining"),
     get_string("course_summary_banner_desc", "theme_eadtraining"),
     0, $options);
-$page->add($setting);
-
-$options = [
-    0 => get_string("course_summary_banner_down", "theme_eadtraining"),
-    1 => get_string("course_summary_banner_under", "theme_eadtraining"),
-];
-$setting = new admin_setting_configselect("theme_eadtraining/course_summary_banner_position",
-    get_string("course_summary_banner_default", "theme_eadtraining"),
-    get_string("course_summary_banner_default_desc", "theme_eadtraining"),
-    0, $options);
-$page->add($setting);
-
-$setting = new admin_setting_configcheckbox("theme_eadtraining/svg_animate",
-    get_string("svg_animate", "theme_eadtraining"),
-    get_string("svg_animate_desc", "theme_eadtraining"), 0);
 $page->add($setting);
 
 $settings->add($page);
