@@ -1,0 +1,79 @@
+.path-report-certaintyquizzes .btn.report-toggler-button {
+    flex-basis: 0;
+    height: 100%;
+    align-content: center;
+    min-width: 15vw;
+}
+
+.path-report-certaintyquizzes .chart-area .chart-image {
+    width: 100%;
+}
+
+.path-report-certaintyquizzes canvas {
+    /* Necessary for Chrome. */
+    max-width: 100%;
+}
+
+.path-report-certaintyquizzes .student-attempts-table {
+    width: 100%;
+    margin: 1.5rem;
+    max-height: 30vh;
+    overflow-y: auto;
+    border: solid 2px;
+    text-align: center;
+    background-color: lavender;
+    color: black;
+}
+
+.path-report-certaintyquizzes .student-attempts-table th,
+.path-report-certaintyquizzes .student-attempts-table td {
+    padding: 0 .4em;
+}
+
+.path-report-certaintyquizzes .student-attempts-table thead {
+    background-color: #7840a1;
+    color: white;
+    overflow: hidden;
+}
+
+.path-report-certaintyquizzes .student-attempts-table th:not(:last-child),
+.path-report-certaintyquizzes .student-attempts-table td:not(:last-child) {
+    border-right: solid 1px gray;
+}
+
+.path-report-certaintyquizzes .student-attempts-table thead,
+.path-report-certaintyquizzes .student-attempts-table tr:not(:last-child) {
+    border-bottom: 1px solid gray;
+}
+
+.path-report-certaintyquizzes .charts-sidebar {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    opacity: 1;
+    padding-top: 4.5rem;
+    padding-bottom: 8rem;
+    transition: opacity 500ms linear;
+    background-color: floralwhite;
+}
+
+.path-report-certaintyquizzes .charts-content {
+    width: 100%;
+    padding: 2rem;
+    transition: all 400ms ease;
+}
+
+.path-report-certaintyquizzes .charts-content.reducedwidth {
+    width: 50%;
+}
+
+.path-report-certaintyquizzes .circle-indicator {
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    min-height: 18px;
+    min-width: 18px;
+    border: 2px solid black;
+    border-radius: 50%;
+    background-color: var(--shape-color);
+}

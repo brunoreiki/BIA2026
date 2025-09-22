@@ -1,0 +1,49 @@
+<?php
+// This file is part of Moodle - http://moodle.org/
+//
+// Moodle is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+//
+// Moodle is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+//
+// You should have received a copy of the GNU General Public License
+// along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
+/**
+ * Empty enrolment form.
+ *
+ * Useful to mimic valid enrol instances UI when the enrolment instance is not available.
+ *
+ * @package   enrol_selfwithcapability
+ * @copyright 2022 Astor Bizard, 2015 David Monllaó
+ * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+namespace enrol_selfwithcapability;
+
+use enrol_self_empty_form;
+
+/**
+ * Self enrolment with capability empty form definition.
+ * @copyright  2022 Astor Bizard
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+class empty_form extends enrol_self_empty_form {
+
+    /**
+     * {@inheritDoc}
+     * @see enrol_self_empty_form::definition()
+     */
+    public function definition() {
+        global $OUTPUT;
+        parent::definition();
+        $this->_form->setExpanded('selfheader', false);
+        $icon = $OUTPUT->pix_icon('locked', get_string('notavailable'), 'enrol_selfwithcapability', [ 'class' => 'mx-1' ]);
+        $this->_form->getElement('selfheader')->_text .= $icon;
+    }
+}

@@ -67,6 +67,9 @@ php /var/www/html/bia2026/bia-caea/admin/cli/purge_caches.php
 
 OVH
 
+php /homez.291/flashcul/bb/BIA2026/bia-caea/admin/cli/cron.php
+
+
 /homez.291/flashcul/bb/BIA2026/bia-caea/admin/cli/cron.php
 
 Local
