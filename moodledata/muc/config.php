@@ -1075,6 +1075,58 @@
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),
+    'format_tiles/modalcmids' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 30,
+      'invalidationevents' => 
+      array (
+        0 => 'format_tiles/modaladminsettingchanged',
+      ),
+      'component' => 'format_tiles',
+      'area' => 'modalcmids',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'format_tiles/videocmids' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 30,
+      'component' => 'format_tiles',
+      'area' => 'videocmids',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'format_tiles/formatoptionelementids' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 30,
+      'component' => 'format_tiles',
+      'area' => 'formatoptionelementids',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'format_tiles/formatoptions' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 30,
+      'component' => 'format_tiles',
+      'area' => 'formatoptions',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
     'repository_googledocs/folder' => 
     array (
       'mode' => 1,
@@ -1207,6 +1259,347 @@
       'staticaccelerationsize' => 1,
       'component' => 'tool_usertours',
       'area' => 'stepdata',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_adaptable/adaptablefontawesomeiconmapping' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 1,
+      'component' => 'theme_adaptable',
+      'area' => 'adaptablefontawesomeiconmapping',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_magnific/css_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_boost_magnific',
+      'area' => 'css_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_magnific/course_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 21600,
+      'component' => 'theme_boost_magnific',
+      'area' => 'course_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_magnific/frontpage_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_boost_magnific',
+      'area' => 'frontpage_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/flavours' => 
+    array (
+      'mode' => 2,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'invalidationevents' => 
+      array (
+        0 => 'theme_boost_union_flavours_resorted',
+        1 => 'theme_boost_union_flavours_created',
+        2 => 'theme_boost_union_flavours_edited',
+        3 => 'theme_boost_union_flavours_deleted',
+        4 => 'theme_boost_union_cohort_deleted',
+      ),
+      'component' => 'theme_boost_union',
+      'area' => 'flavours',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/touchiconsios' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'component' => 'theme_boost_union',
+      'area' => 'touchiconsios',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/smartmenus' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'overrideclass' => '\\theme_boost_union\\cache\\loader',
+      'component' => 'theme_boost_union',
+      'area' => 'smartmenus',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/smartmenu_items' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'overrideclass' => '\\theme_boost_union\\cache\\loader',
+      'component' => 'theme_boost_union',
+      'area' => 'smartmenu_items',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/hookoverrides' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'canuselocalstore' => true,
+      'staticacceleration' => false,
+      'component' => 'theme_boost_union',
+      'area' => 'hookoverrides',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_union/fontawesomeicons' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'canuselocalstore' => true,
+      'component' => 'theme_boost_union',
+      'area' => 'fontawesomeicons',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_degrade/css_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_degrade',
+      'area' => 'css_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_degrade/logo_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_degrade',
+      'area' => 'logo_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_degrade/layout_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_degrade',
+      'area' => 'layout_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_degrade/darkmode_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_degrade',
+      'area' => 'darkmode_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_eadtraining/css_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_eadtraining',
+      'area' => 'css_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_eadtraining/course_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 21600,
+      'component' => 'theme_eadtraining',
+      'area' => 'course_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_eadtraining/frontpage_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'theme_eadtraining',
+      'area' => 'frontpage_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_foundation/foundationfontawesomeiconmapping' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => true,
+      'staticaccelerationsize' => 1,
+      'component' => 'theme_foundation',
+      'area' => 'foundationfontawesomeiconmapping',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/webservicedefinitions' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => false,
+      'simpledata' => false,
+      'component' => 'theme_snap',
+      'area' => 'webservicedefinitions',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_completion_progress_ts' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'staticacceleration' => false,
+      'component' => 'theme_snap',
+      'area' => 'course_completion_progress_ts',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_completion_progress' => 
+    array (
+      'mode' => 2,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'staticacceleration' => false,
+      'component' => 'theme_snap',
+      'area' => 'course_completion_progress',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/activity_deadlines' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'staticacceleration' => false,
+      'invalidationevents' => 
+      array (
+        0 => 'groupmemberschanged',
+      ),
+      'component' => 'theme_snap',
+      'area' => 'activity_deadlines',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/generalstaticappcache' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'staticacceleration' => true,
+      'component' => 'theme_snap',
+      'area' => 'generalstaticappcache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/profile_based_branding' => 
+    array (
+      'mode' => 2,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'staticacceleration' => false,
+      'component' => 'theme_snap',
+      'area' => 'profile_based_branding',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_card_bg_image' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => true,
+      'component' => 'theme_snap',
+      'area' => 'course_card_bg_image',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_card_teacher_avatar' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'component' => 'theme_snap',
+      'area' => 'course_card_teacher_avatar',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_card_teacher_avatar_index' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'simpledata' => false,
+      'component' => 'theme_snap',
+      'area' => 'course_card_teacher_avatar_index',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_users_assign_ungraded' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'component' => 'theme_snap',
+      'area' => 'course_users_assign_ungraded',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_snap/course_users_quiz_ungraded' => 
+    array (
+      'mode' => 1,
+      'simplekeys' => true,
+      'component' => 'theme_snap',
+      'area' => 'course_users_quiz_ungraded',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_trema/dashboardadmin' => 
+    array (
+      'mode' => 1,
+      'ttl' => 3600,
+      'component' => 'theme_trema',
+      'area' => 'dashboardadmin',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'local_kopere_dashboard/performancemonitor_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 600,
+      'component' => 'local_kopere_dashboard',
+      'area' => 'performancemonitor_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'local_kopere_dashboard/report_getdata_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 172800,
+      'component' => 'local_kopere_dashboard',
+      'area' => 'report_getdata_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'local_kopere_dashboard/courses_all_courses' => 
+    array (
+      'mode' => 1,
+      'ttl' => 86400,
+      'component' => 'local_kopere_dashboard',
+      'area' => 'courses_all_courses',
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),

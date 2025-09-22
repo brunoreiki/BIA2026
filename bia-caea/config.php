@@ -40,10 +40,27 @@ $CFG = new stdClass();
 
 $CFG->dbtype    = 'mysqli';      // 'pgsql', 'mariadb', 'mysqli', 'auroramysql', or 'sqlsrv'
 $CFG->dblibrary = 'native';     // 'native' only at the moment
-$CFG->dbhost    = '127.0.0.1';  // eg 'localhost' or 'db.isp.com' or IP
-$CFG->dbname    = 'flashculture';     // database name, eg moodle
-$CFG->dbuser    = 'admin';   // your database username
-$CFG->dbpass    = 'emriHy22%';   // your database password
+
+/*
+
+// ancienne base
+
+$CFG->dbhost    = 'flashculbia2026.mysql.db';  // eg 'localhost' or 'db.isp.com' or IP
+$CFG->dbname    = 'flashculbia2026';     // database name, eg moodle
+$CFG->dbuser    = 'flashculbia2026';   // your database username
+$CFG->dbpass    = 'emriHy22o';   // your database password
+
+*/
+
+// nouvelle base
+
+$CFG->dbhost    = 'bb106669-001.eu.clouddb.ovh.net';  // eg 'localhost' or 'db.isp.com' or IP
+$CFG->dbname    = 'flashculbia2026';     // database name, eg moodle
+$CFG->dbuser    = 'flashculbia2026';   // your database username
+$CFG->dbpass    = 'emriHy22o';   // your database password
+
+
+
 $CFG->prefix    = 'mdl_';       // prefix to use for all table names
 $CFG->dboptions = array(
     'dbpersist' => false,       // should persistent database connections be
@@ -56,7 +73,7 @@ $CFG->dboptions = array(
                                 //  (please note mysql is always using socket
                                 //  if dbhost is 'localhost' - if you need
                                 //  local port connection use '127.0.0.1')
-    'dbport'    => '',          // the TCP port number to use when connecting
+    'dbport'    => '35903',          // the TCP port number to use when connecting
                                 //  to the server. keep empty string for the
                                 //  default port
     'dbhandlesoptions' => false,// On PostgreSQL poolers like pgbouncer don't
@@ -162,7 +179,10 @@ $CFG->dboptions = array(
 // If you need both intranet and Internet access please read
 // http://docs.moodle.org/en/masquerading
 
-$CFG->wwwroot   = 'http://127.0.0.1/bia2026/bia-caea';
+// ovh
+//$CFG->wwwroot   = 'https://brunobernard.org/BIA2026/bia-caea';
+
+$CFG->wwwroot   = 'https://bia-facile.fr';
 
 
 //=========================================================================
@@ -178,7 +198,7 @@ $CFG->wwwroot   = 'http://127.0.0.1/bia2026/bia-caea';
 //
 // - On Windows systems you might specify something like 'c:\moodledata'
 
-$CFG->dataroot  = '/var/www/html/moodledata';
+$CFG->dataroot  = '/homez.291/flashcul/bb/BIA2026/moodledata';
 
 // Whether the Moodle router is fully configured.
 //

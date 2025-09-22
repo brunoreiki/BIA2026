@@ -1,4 +1,4 @@
-O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:37:{i:4;O:8:"stdClass":17:{s:2:"id";s:1:"4";s:2:"cm";s:1:"4";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"17";s:6:"module";s:1:"9";s:5:"added";s:10:"1730585395";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:8:"Annonces";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:204;O:8:"stdClass":17:{s:2:"id";s:3:"101";s:2:"cm";s:3:"204";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"13";s:5:"added";s:10:"1737280424";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:61:"Avant de commencer ce cours, faites un test de positionnement";s:7:"content";s:1827:"<div class="no-overflow"><p>Le chapitre 4 du manuel traite de la <strong>navigation, réglementation et sécurité des vols</strong>. Il est structuré en quatre parties principales :</p>
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:32:{i:204;O:8:"stdClass":17:{s:2:"id";s:3:"101";s:2:"cm";s:3:"204";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"17";s:6:"module";s:2:"13";s:5:"added";s:10:"1737280424";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:61:"Avant de commencer ce cours, faites un test de positionnement";s:7:"content";s:1827:"<div class="no-overflow"><p>Le chapitre 4 du manuel traite de la <strong>navigation, réglementation et sécurité des vols</strong>. Il est structuré en quatre parties principales :</p>
 <p><strong>1. Réglementation et sécurité</strong></p>
 <ul>
 <li><strong>Organismes de réglementation</strong> : Ils définissent les normes aéronautiques.</li>
@@ -27,25 +27,25 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li><strong>Documents à emporter</strong> : Plan de vol, dossiers météo, NOTAM (Notice to Airmen).</li>
 </ul>
 <p></p>
-<p>Vous trouverez également trois parties supplémentaires : le vocabulaire aéronautique anglais, les annales et un test de positionnement.</p></div>";}i:252;O:8:"stdClass":17:{s:2:"id";s:1:"7";s:2:"cm";s:3:"252";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"74";s:6:"module";s:2:"18";s:5:"added";s:10:"1740947391";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:48:"TD de navigation du 27 février du pilote Pascal";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:167:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:12:"Document PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:199;O:8:"stdClass":18:{s:2:"id";s:2:"98";s:2:"cm";s:3:"199";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737237786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:47:"‌1. Organismes chargés de la Réglementation";s:7:"content";s:3530:"<div class="no-overflow"><h3 class="s17"><a name="bookmark179"></a>‌1. Organismes chargés de la Réglementation</h3>
+<p>Vous trouverez également trois parties supplémentaires : le vocabulaire aéronautique anglais, les annales et un test de positionnement.</p></div>";}i:252;O:8:"stdClass":17:{s:2:"id";s:1:"7";s:2:"cm";s:3:"252";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"74";s:6:"module";s:2:"18";s:5:"added";s:10:"1740947391";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:48:"TD de navigation du 27 février du pilote Pascal";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:167:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:12:"Document PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:199;O:8:"stdClass":18:{s:2:"id";s:2:"98";s:2:"cm";s:3:"199";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737237786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:47:"‌1. Organismes chargés de la Réglementation";s:7:"content";s:4176:"<div class="no-overflow"><h3 class="s17"><a name="bookmark179"></a>‌1. Organismes chargés de la Réglementation</h3>
 <p>Passant des avions de loisirs, réservés à quelques pilotes, à un moyen de transport pour des passagers de plus en plus nombreux, l’aviation a dû développer des règles et donc des organismes de régulation pour assurer la sécurité des personnes et des biens.</p>
 <p class="s8">Il existe aujourd’hui plusieurs niveaux de régulation :</p>
 <ul>
 <li class="s78" style="font-weight: bold;"><strong>Mondiale : Organisation de l’Aviation Civile Internationale (OACI).</strong></li>
 </ul>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_330.png" alt="image" width="199" height="133"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_330.png" alt="image" width="199" height="133"></p>
 <p>C’est la convention de Chicago du 7 décembre 1944 est à l’origine de l’Organisation Internationale de l’Aviation Civile (OACI). Elle a pour but de définir les règles de circulation des aéronefs au niveau international. Les langues reconnues comme langues aéronautiques internationales sont par ordre : l’Anglais, le Français, l’Espagnol, le Russe et le Chinois.</p>
 <ul>
 <li class="s8"><strong>Continentale : European Aviation Safety Agency (EASA)</strong></li>
 </ul>
 <div class="textbox">
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_331.png" alt="image" width="139" height="46"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_331.png" alt="image" width="139" height="46"></p>
 <p class="s55">C’est le niveau pour les décisions pour la sécurité aérienne en <strong>Europe</strong>. Elle est basée à <strong>Cologne (Allemagne).</strong></p>
 </div>
 <ul>
 <li class="s8"><strong>Nationale : Direction Générale de l’Aviation Civile (DGAC)</strong></li>
 </ul>
-<p><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/319/mod_label/intro/DGAC.svg" alt="DGAC" width="180" height="179"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/319/mod_label/intro/DGAC.svg" alt="DGAC" width="180" height="179"></p>
 <p>C’est le niveau de décisions pour la sécurité aérienne en <strong>France</strong>. Elle gère la sécurité et la sureté du transport aérien et le contrôle aérien dans l’espace aérien français. Elle assure les examens des personnels navigants professionnels, des pilotes privés et forme des cadres de l’Aviation Civile par l’intermédiaire de <strong>l’ENAC</strong>.</p>
 <p></p>
 <p>Les aéronefs civils sont alors soumis aux règles de la <strong>Circulation Aérienne Générale (CAG)</strong> tandis que les aéronefs militaires sont soumis à d’autres règles, qui dépendent notamment de leurs missions.</p>
@@ -62,7 +62,12 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li class="s14">Fédération Française des Constructeurs et Collectionneurs d’Aéronefs (RSA)</li>
 </ul>
 <p></p>
-<p>Le <strong>Groupement des Industries Françaises Aéronautiques et Spatiales (GIFAS)</strong> regroupe les entreprises françaises du secteur.</p></div>";}i:207;O:8:"stdClass":18:{s:2:"id";s:3:"102";s:2:"cm";s:3:"207";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737286812";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"‌2. Licences et Brevets";s:7:"content";s:4247:"<div class="no-overflow"><h3 class="s17"><a name="bookmark180"></a>‌2. Licences et Brevets</h3>
+<p>Le <strong>Groupement des Industries Françaises Aéronautiques et Spatiales (GIFAS)</strong> regroupe les entreprises françaises du secteur.</p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Règlementation aéronautique : organisations, survol, règles de priorité, emport de carburant</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AkC1y3ezMJ0?si=TWlREW292nKxfiVP" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div></div>";}i:207;O:8:"stdClass":18:{s:2:"id";s:3:"102";s:2:"cm";s:3:"207";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"13";s:5:"added";s:10:"1737286812";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"‌2. Licences et Brevets";s:7:"content";s:4247:"<div class="no-overflow"><h3 class="s17"><a name="bookmark180"></a>‌2. Licences et Brevets</h3>
 <p class="s4">Tout pilote doit posséder un Brevet et une Licence pour voler.</p>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_333.jpg" alt="image" width="259" height="172"></p>
 <p class="s4" style="text-align: center;"><strong>Un Brevet</strong></p>
@@ -279,7 +284,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>A +5g : Perte de la vision centrale (voile noir).</li>
 </ul>
 <p>Les facteurs de charge négatifs peuvent se traduire par un voile rouge (afflux de sang vers la tête) à partir de – 3g</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_346.jpg" alt="image" width="215" height="227"></p></div>";}i:333;O:8:"stdClass":16:{s:2:"id";s:3:"160";s:2:"cm";s:3:"333";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"17";s:5:"added";s:10:"1743702705";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:210;O:8:"stdClass":18:{s:2:"id";s:3:"105";s:2:"cm";s:3:"210";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737289373";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:29:"1.‌Les zones aéronautiques";s:7:"content";s:12780:"<div class="no-overflow"><h3 class="s17"><a name="bookmark190"></a>1.‌Les zones aéronautiques</h3>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_346.jpg" alt="image" width="215" height="227"></p></div>";}i:333;O:8:"stdClass":16:{s:2:"id";s:3:"160";s:2:"cm";s:3:"333";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"18";s:6:"module";s:2:"17";s:5:"added";s:10:"1743702705";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:210;O:8:"stdClass":18:{s:2:"id";s:3:"105";s:2:"cm";s:3:"210";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737289373";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:29:"1.‌Les zones aéronautiques";s:7:"content";s:14123:"<div class="no-overflow"><h3 class="s17"><a name="bookmark190"></a>1.‌Les zones aéronautiques</h3>
 <h4 class="s18"><a name="bookmark191"></a>‌1. VFR (Visual Flight Rules) ou « Vol à vue »</h4>
 <p>Il y a deux types de règles de vol :</p>
 <ul>
@@ -294,7 +299,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>une distance minimale par rapport aux nuages.</li>
 </ul>
 <p></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_347.jpg" alt="image" width="412" height="367"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_347.jpg" alt="image" width="412" height="367"></p>
 <p class="s22">Figure 4.1.</p>
 <p>Les conditions <strong>VMC</strong> s'opposent aux conditions <strong>IMC</strong> (Instrumental Meteorological Conditions) où le vol doit s'effectuer selon les règles de vol aux instruments ou IFR.</p>
 <table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border-color: #000000; border-style: solid; width: 100%;" border="1" cellspacing="0">
@@ -367,10 +372,10 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>le <strong>QNH</strong> : permet de lire l’altitude par rapport au niveau de la mer</li>
 <li>le calage 1013 (dit standard ou <strong>QNE</strong>), utilisé en vol au-dessus 3000 ft AGL en espace aérien non contrôlé. Il permet de lire le niveau de vol (ou FL Flight Level) en centaine de ft</li>
 </ul>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_348.jpg" alt="image" width="305" height="190"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_348.jpg" alt="image" width="305" height="190"></p>
 <p class="s22">Figure 4.2.</p>
 <p>Lorsqu’on utilise les niveaux de vol, la règle semi-circulaire s’applique.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_349.jpg" alt="image" width="389" height="200"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_349.jpg" alt="image" width="389" height="200"></p>
 <p class="s22">Figure 4.3.</p>
 <p>Les chiffres des dizaines des niveaux de vol sont Impairs suivant la route magnétique 0 à 179° (vers l’Italie) et Pairs de 180 à 359° (vers le Portugal). Pour les vols VFR on ajoute 5, pour assurer une séparation de 500 ft entre vols IFR et VFR.</p>
 <p><strong>Impairs</strong> : 35, 55, 75, 95, 115, … en VFR et 30, 50, 70, 90, 110, … en IFR</p>
@@ -386,10 +391,10 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>A statut particulier</li>
 </ul>
 <p>Selon les espaces il est possible d’y évoluer en IFR, en VFR ou les deux.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_350.jpg" alt="image" width="429" height="263"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_350.jpg" alt="image" width="429" height="263"></p>
 <p class="s22">Figure 4.4.</p>
 <p>L’Espace aérien français est divisé en plusieurs classes d’espaces : A, C, D, E et G (les espaces de classes B et F n’existent pas en France).</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_351.jpg" alt="image" width="422" height="247"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_351.jpg" alt="image" width="422" height="247"></p>
 <p class="s22">Figure 4.5.</p>
 <p class="s4"><strong>Pour le vol VFR :</strong></p>
 <p>De la plus contraignante à la moins contraignante A -&gt; G</p>
@@ -401,7 +406,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li class="s4"><strong>Classe G</strong> <span class="p">: Vol non contrôlé. Visibilité minimale : 1,5 Km.</span></li>
 </ul>
 <p></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_357.jpg" alt="image" width="610" height="152"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_357.jpg" alt="image" width="610" height="152"></p>
 <p>On trouve aussi des zones soumises à restrictions (aussi signalées et indiquées par une lettre) :</p>
 <ul>
 <li class="s4"><strong>P : Prohibited </strong><span class="p">(Zones interdites à tout aéronef)</span></li>
@@ -416,11 +421,16 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>les <strong>zones de Contrôle (CTR) </strong>: Ils comprennent les trajectoires de décollage et d’approche finale des avions opérant sur l’aéroport.</li>
 </ul>
 <p></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_358.jpg" alt="image" width="470" height="223"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_358.jpg" alt="image" width="470" height="223"></p>
 <p class="s22">Figure 4.6.</p>
 <p class="s22"></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_359.jpg" alt="image" width="512" height="324"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_359.jpg" alt="image" width="512" height="324"></p>
 <p class="s22">Figure 4.7.</p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Organisation de l'espace aérien (classes d'espaces aériens et contrôle aérien)</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/p8Wmuioi8WQ?si=xMW1xXZa09Ezn4ez" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
 <h4 class="s18"><a name="bookmark194"></a>D. ‌Les services de la circulation aérienne</h4>
 <p class="s4">Le service du contrôle est chargé :</p>
 <ul>
@@ -434,16 +444,16 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <h5 class="s4">1. Le radar primaire</h5>
 <p>C’est un système dont dispose les contrôleurs aériens pour détecter un avion et déterminer sa position par rapport à une station au sol.</p>
 <p class="s8">Ce système n’a besoin d’aucun dispositif particulier à bord de l’avion.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_360.jpg" alt="image" width="389" height="229"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_360.jpg" alt="image" width="389" height="229"></p>
 <p class="s22">Figure 4.8.</p>
 <p>Au sol, une antenne parabolique tourne sur elle-même en émettant des impulsions radioélectriques. Lorsqu’une impulsion atteint les surfaces de l’avion, elle revient en écho à l’émetteur. Le temps d’aller-retour, ainsi que l’orientation de l’antenne lors de la réception, permet de situer l’écho, et de visualiser l’avion sur l’écran du radar. Ce radar est utilisé essentiellement pour les approches. Le but est de repérer tous les mouvements dans un espace aérien.</p>
 <h5 class="s4">2. Le radar secondaire</h5>
 <p>Il est généralement associé au radar primaire et permet l’identification des différents aéronefs.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_361.jpg" alt="image" width="350" height="229"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_361.jpg" alt="image" width="350" height="229"></p>
 <p class="s22">Figure 4.9.</p>
 <p>Le radar envoie à l’avion une interrogation à laquelle le transpondeur de bord fournit une réponse sur l’appareil (identification, altitude, …)</p>
-<p>Cette réponse apparait sur le scope radar sous la forme d’un écho, auquel est associée une étiquette qui retranscrit les 4 chiffres que le pilote a affichés sur son transpondeur à la demande du contrôleur.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_362.jpg" alt="image" width="660" height="91"></p>
+<p>Cette réponse apparaît sur le scope radar sous la forme d’un écho, auquel est associée une étiquette qui retranscrit les 4 chiffres que le pilote a affichés sur son transpondeur à la demande du contrôleur.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_362.jpg" alt="image" width="660" height="91"></p>
 <p class="s22">Figure 4.10.</p>
 <p>Le radar secondaire est destiné au contrôle « en route » d’une portée de 250 NM.</p>
 <p>En cas de difficultés, le pilote affiche, de sa propre initiative, un code signifiant sa difficulté :</p>
@@ -452,8 +462,13 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li class="s4"><strong>7600</strong> (panne radio)</li>
 <li class="s4"><strong>7700</strong> (détresse)</li>
 </ul>
-<p></p>
-<p class="s4"><strong>Le code 7000 correspond à un vol VFR.</strong></p></div>";}i:211;O:8:"stdClass":18:{s:2:"id";s:3:"106";s:2:"cm";s:3:"211";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737328984";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"2. ‌L’Aérodrome";s:7:"content";s:2446:"<div class="no-overflow"><h3 class="s17"><a name="bookmark196"></a>2. ‌L’Aérodrome</h3>
+<p class="s4"><strong>Le code 7000 correspond à un vol VFR.</strong></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Le transpondeur</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/dKENxg-TjfA?si=P-SGopOYyPjtCTSH" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p class="s4"></p></div>";}i:211;O:8:"stdClass":18:{s:2:"id";s:3:"106";s:2:"cm";s:3:"211";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737328984";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"2. ‌L’Aérodrome";s:7:"content";s:2446:"<div class="no-overflow"><h3 class="s17"><a name="bookmark196"></a>2. ‌L’Aérodrome</h3>
 <h4 class="s18"><a name="bookmark197"></a>‌A. Aérodrome contrôlé / non contrôlé</h4>
 <p>On appelle aérodrome contrôlé, un aérodrome où le service du contrôle de la circulation aérienne est assuré (par la Tour ou TWR). La circulation des aéronefs, au sol et en vol, est soumise à une autorisation délivrée par un contrôleur. En l’absence de TWR, les pilotes font de l’auto-information ou bien il existe un AFIS (Aerodrome Flight Information Service).</p>
 <p>Les paramètres d’information sont :</p>
@@ -483,22 +498,26 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p>Lorsqu’un avion arrive sur un aérodrome non contrôlé, il survole l’aire à signaux, grand carré qui contient des indications pour les appareils en vol, sous forme de panneaux de signalisation.</p>
 <p><strong>La manche à air qui permet de déterminer la piste en service (décollage et atterrissage face au vent)</strong></p>
 <p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_365.jpg" alt="image" width="320" height="280"></p>
-<p>On trouve également des parkings, des hangars, des terminaux et des installations de maintenance.</p></div>";}i:212;O:8:"stdClass":18:{s:2:"id";s:3:"107";s:2:"cm";s:3:"212";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329294";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"3. ‌Règles de vol";s:7:"content";s:4653:"<div class="no-overflow"><h3 class="s17"><a name="bookmark199"></a>3. ‌Règles de vol</h3>
+<p>On trouve également des parkings, des hangars, des terminaux et des installations de maintenance.</p></div>";}i:212;O:8:"stdClass":18:{s:2:"id";s:3:"107";s:2:"cm";s:3:"212";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329294";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"3. ‌Règles de vol";s:7:"content";s:5250:"<div class="no-overflow"><h3 class="s17"><a name="bookmark199"></a>3. ‌Règles de vol</h3>
 <h4 class="s18"><a name="bookmark200"></a>A. ‌Règles de priorité</h4>
 <p>Le pilote en VFR est responsable de l’anti-abordage et de l’anti-collision :</p>
 <p class="s4" style="text-align: center;">Voir et Eviter.</p>
-<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_366.jpg" alt="image" width="485" height="364"></p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_366.jpg" alt="image" width="485" height="364"></p>
 <p class="s22" style="text-align: center;">Figure 4.13.</p>
 <p>Un aéronef en vol a toujours la priorité sur un aéronef au sol. Le dépassement d’un aéronef s’effectue toujours sur la droite. En cas de rapprochement de face, chaque appareil effectue un virage à droite. Lorsque deux aéronefs se préparent à atterrir, c’est celui qui est le plus bas, qui est prioritaire. Un aéronef à l’atterrissage ou en approche finale ne doit pas franchir le seuil de piste tant que l’aéronef qui le précède n’a pas franchi l’extrémité de piste ou amorcé un virage.</p>
 <h4 class="s18"><a name="bookmark201"></a>B. ‌Le Circuit d’aérodrome</h4>
 <p>Le tour de piste est le premier vol réalisé par un jeune pilote. Le sens peut se faire à droite ou à gauche selon le terrain et une altitude de 1000 ft/sol (cela est indiqué sur la carte VAC).</p>
 <p></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_367.jpg" alt="image" width="419" height="282"></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_367.jpg" alt="image" width="419" height="282"></p>
 <p class="s22" style="text-align: center;">Figure 4.14.</p>
 <p class="s8" style="text-align: center;">Taux 1 : 360° / 2mn en virage</p>
-<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_368.png" alt="image" width="366" height="246"></p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_368.png" alt="image" width="366" height="246"></p>
 <p class="s22" style="text-align: center;">Figure 4.15. Tour de piste main droite</p>
-<p class="s22" style="text-align: center;"></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Aérodromes, tour de piste, cartes VAC</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/eE7jrWVOmzE?si=CNbMNmxXKo_enU3d" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
 <h4 class="s18"><a name="bookmark202"></a>C. ‌Communication en cas de panne radio</h4>
 <p>Si la radio n’est plus utilisable, la tour peut communiquer avec le pilote avec des signaux lumineux.</p>
 <p><strong>Si l’avion est en vol :</strong></p>
@@ -521,7 +540,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <h4> </h4>
 <h4 class="s18"><a name="bookmark203"></a>D. ‌Hauteurs de survol</h4>
 <p>Il existe des hauteurs minimales de vol :</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_369.jpg" alt="image" width="639" height="441"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_369.jpg" alt="image" width="639" height="441"></p>
 <p class="s22">Figure 4.16.</p>
 <p><strong>En particulier, aucun survol VFR n’est effectué :</strong></p>
 <ul>
@@ -530,11 +549,11 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 </ul>
 <p>Dans les autres endroits que ceux spécifiés ci-dessus, un vol VFR ne doit pas être effectué à une hauteur inférieure à 150 m (500 ft) au-dessus du sol ou de l’eau.</p>
 <p>Les cartes aéronautiques précisent par des pictogrammes spécifiques les hauteurs minimales de survol.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_370.jpg" alt="image" width="595" height="530"></p>
-<p class="s22">Figure 4.17.</p></div>";}i:334;O:8:"stdClass":16:{s:2:"id";s:3:"161";s:2:"cm";s:3:"334";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703402";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:213;O:8:"stdClass":18:{s:2:"id";s:3:"108";s:2:"cm";s:3:"213";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329891";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"1. ‌La mesure du temps";s:7:"content";s:2257:"<div class="no-overflow"><h3 class="s17"><a name="bookmark205"></a>1. ‌La mesure du temps</h3>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_370.jpg" alt="image" width="595" height="530"></p>
+<p class="s22">Figure 4.17.</p></div>";}i:334;O:8:"stdClass":16:{s:2:"id";s:3:"161";s:2:"cm";s:3:"334";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"19";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703402";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:213;O:8:"stdClass":18:{s:2:"id";s:3:"108";s:2:"cm";s:3:"213";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737329891";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"1. ‌La mesure du temps";s:7:"content";s:2883:"<div class="no-overflow"><h3 class="s17"><a name="bookmark205"></a>1. ‌La mesure du temps</h3>
 <h4 class="s18"><a name="bookmark206"></a>‌A. Le Mouvement de la Terre autour du Soleil</h4>
 <p>Le rythme des saisons ainsi que l’alternance jour-nuit découlent du mouvement de révolution de la Terre autour du soleil et du mouvement de rotation de la Terre autour de son axe Nord-Sud incliné de 23° par rapport à la normale au plan de l’orbite Terre- Soleil (écliptique).</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_371.jpg" alt="image" width="554" height="257"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_371.jpg" alt="image" width="554" height="257"></p>
 <p>Figure 4.18.</p>
 <p>La Terre tourne sur elle-même d’Ouest en Est, de 15° par heure et par conséquent 1° équivaut à 4 minutes.</p>
 <p class="s22"></p>
@@ -548,24 +567,31 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p>L’heure du fuseau a été créé afin d’avoir la même heure sur une grande étendue. On a divisé la terre en 24 fuseaux de 15° de différence de longitude chacun (15°x24=360°).</p>
 <p></p>
 <p class="s4" style="text-align: center;">L’heure est constante à l’intérieur d’un même fuseau.</p>
-<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_372.jpg" alt="image" width="570" height="398"></p>
-<p class="s104" style="text-align: center;">Figure 4.19.</p></div>";}i:214;O:8:"stdClass":18:{s:2:"id";s:3:"109";s:2:"cm";s:3:"214";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737330722";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"2. ‌Se repérer sur la Terre";s:7:"content";s:7369:"<div class="no-overflow"><h4 class="s17"><a name="bookmark207"></a>2. ‌Se repérer sur la Terre</h4>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_372.jpg" alt="image" width="570" height="398"></p>
+<p class="s104" style="text-align: center;">Figure 4.19.</p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Heure du coucher de soleil en fonction de la longitude</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/s4cEIhBhQpE?si=jYNCGD0R1vMQ3D9_" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:214;O:8:"stdClass":18:{s:2:"id";s:3:"109";s:2:"cm";s:3:"214";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737330722";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"2. ‌Se repérer sur la Terre";s:7:"content";s:9092:"<div class="no-overflow"><h4 class="s17"><a name="bookmark207"></a>2. ‌Se repérer sur la Terre</h4>
 <p>Pour pouvoir définir la position d’un point sur la surface de la Terre, l’Homme a élaboré un système de référence géographique : <strong>les parallèles </strong>et <strong>les méridiens</strong>.</p>
 <h4 class="s18"><a name="bookmark208"></a>A. ‌Les parallèles</h4>
 <p>Pour pouvoir déterminer la position d’un point dans l’axe nord/sud, il faut déterminer des <strong>parallèles</strong>. L’équateur est le grand cercle <span class="p">(son centre est le centre de la Terre) </span>de la sphère terrestre perpendiculaire à la ligne des pôles. À partir de celui-ci, on a tracé des parallèles sur la sphère terrestre. On peut donc repérer un point, à la surface de la Terre, selon qu’il se trouve sur un parallèle situé au nord ou au sud de l’équateur.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_373.jpg" alt="image" width="280" height="289"></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_373.jpg" alt="image" width="280" height="289"></p>
 <p class="s22" style="text-align: center;">Figure 4.20.</p>
 <p></p>
 <p>L’angle entre la position du point et l’équateur s’appelle <strong>la latitude</strong>.</p>
 <p>On indique une latitude en écrivant N ou S selon le fait que nous soyons au nord ou au sud de l’équateur.</p>
 <p></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_374.jpg" alt="image" width="274" height="264"></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_374.jpg" alt="image" width="274" height="264"></p>
 <p class="s22" style="text-align: center;">Figure 4.21.</p>
 <p class="s22" style="text-align: center;"></p>
 <p>La latitude varie de 0° à 90° (indiquée par 2 chiffres). Par exemple pour Toulouse : 43°36′15″ Nord</p>
 <h4 class="s18"><a name="bookmark209"></a>B. ‌Les méridiens</h4>
 <p>Ce sont des demi-cercles sur la surface de la Terre qui rejoignent les deux pôles. Les méridiens se comptent <strong>en degrés</strong>.</p>
-<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_375.jpg" alt="image" width="224" height="222"></p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_375.jpg" alt="image" width="224" height="222"></p>
 <p class="s22" style="text-align: center;">Figure 4.22.</p>
 <p>Il a été nécessaire de déterminer un méridien de référence. Il a été convenu que ce serait <u>le méridien</u> qui passe par l’observatoire de Londres, à <strong>Greenwich</strong><u>. </u>On peut donc repérer un point, à la surface de la terre, selon qu’il se trouve sur un méridien à l’est (E) ou à l’ouest (W) du méridien d’origine (Greenwich). L’angle entre le méridien du point et celui de référence est appelé <strong>longitude</strong>. Les longitudes varient donc de 0° à 180° (3 chiffres). Par exemple pour Toulouse : 001°26′37″ Est</p>
 <p class="s4"><strong>Il y a une heure de décalage entre 2 fuseaux, ou encore 4 minutes pour un écart de 1° de longitude (à la même latitude).</strong></p>
@@ -576,11 +602,11 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p></p>
 <h5 class="s4">1. La projection Mercator (ou cylindrique)</h5>
 <p>La projection de Mercator a pour avantage d’être conforme mais l’échelle se dilate lorsqu’on va vers les pôles et les continents sont déformés (le Groenland semble plus gros que l’Amérique du Sud alors qu’en réalité c’est l’inverse). Cette carte permet de naviguer entre l’Equateur et les Latitudes de 60° N/S environ.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_377.jpg" alt="image" width="218" height="174"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_377.jpg" alt="image" width="218" height="174"></p>
 <p class="s22">Figure 4.23.</p>
 <h5 class="s22">2. La projection Lambert (ou conique)</h5>
 <p>Parallèle de tangence</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_378.png" alt="image" width="341" height="216"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_378.png" alt="image" width="341" height="216"></p>
 <div class="textbox"> </div>
 <p class="s22">Figure 4.24.</p>
 <p>La projection Lambert a l’avantage de restituer plus fidèlement les proportions des continents. L’échelle se dilate lorsque l’on s’éloigne du parallèle de tangence. Elle est également conforme.</p>
@@ -591,7 +617,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <div class="textbox">
 <p class="s105"><strong>1 NM = 1,852 km</strong></p>
 </div>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_380.png" alt="image" width="197" height="216"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_380.png" alt="image" width="197" height="216"></p>
 <p class="s22">Figure 4.25</p>
 <p>NB : Le Pied ou Foot / Feet (Ft) : <strong>1 Ft = 0,3048 m</strong></p>
 <p>Pour transformer les mètres en pieds, on multiplie par <strong>10/3</strong></p>
@@ -603,6 +629,13 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 </div>
 <p>Les deux distances sont exprimées <strong>dans la même unité</strong>.</p>
 <p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Définition du mile nautique</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/TimNFBSfW50?si=35ao3Lh_E8tBjlZ0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<p></p>
 <h5 class="s4">4. Les principales cartes aéronautiques</h5>
 <div class="textbox">
 <p><a href="https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr" target="_blank" rel="noopener">Elles sont consultables à l’adresse suivante : </a><a class="s108" href="https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr" target="_blank" rel="noopener">https://www.geoportail.gouv.fr/donnees/carte-oaci-vfr</a></p>
@@ -610,11 +643,11 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p></p>
 <p><strong>La Carte OACI <br></strong></p>
 <p>C’est une carte au 1/500 000<span class="s67">e </span>(échelle : 1cm = 5 km). Il faut 4 cartes (une Nord-Ouest, Nord-Est, Sud-Ouest, Sud-Est) pour couvrir toute la France. Elles permettent de naviguer à vue jusqu’à 3000 Ft AFSC ou FL115.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_383.jpg" alt="image" width="612" height="341"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_383.jpg" alt="image" width="612" height="341"></p>
 <p class="s22">Figure 4.26.</p>
 <p class="s48"><span class="s4"><strong>La Carte SIA (France) </strong></span></p>
 <p>C’est une carte au 1/1 000 000<span class="s67">e </span>(échelle 1cm=10 km) Il faut 2 cartes (Nord et Sud) pour couvrir la France.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_385.jpg" alt="image" width="516" height="388"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_385.jpg" alt="image" width="516" height="388"></p>
 <p class="s22">Figure 4.27.</p>
 <p class="s4">Cette carte fait apparaitre :</p>
 <ul>
@@ -624,12 +657,21 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>des itinéraires aéronautiques</li>
 <li>les aérodromes et aéroports</li>
 </ul>
-<p>Elle permet une première approche de la navigation et un suivi des zones en vol mais <strong>ce n’est pas la carte principale utilisée pour naviguer à vue</strong>. L’espace aérien couvert s’étend de la surface au niveau de vol 195.</p></div>";}i:215;O:8:"stdClass":18:{s:2:"id";s:3:"110";s:2:"cm";s:3:"215";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331188";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"3. ‌Déclinaison et dérive";s:7:"content";s:3063:"<div class="no-overflow"><h3 class="s17"><a name="bookmark211"></a>3. ‌Déclinaison et dérive</h3>
+<p>Elle permet une première approche de la navigation et un suivi des zones en vol mais <strong>ce n’est pas la carte principale utilisée pour naviguer à vue</strong>. L’espace aérien couvert s’étend de la surface au niveau de vol 195.</p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressources vidéo</h3>
+<p><strong>Routes orthodromique et loxodromique</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/LY0juzqB-tM?si=oN5BmdcJb3DWSnlS" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p><strong>Les outils de la navigation : cartes aéronautiques</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/D5ewZoe1rWo?si=Lr4YJyqxSkV6z1aU" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:215;O:8:"stdClass":18:{s:2:"id";s:3:"110";s:2:"cm";s:3:"215";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331188";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"3. ‌Déclinaison et dérive";s:7:"content";s:3690:"<div class="no-overflow"><h3 class="s17"><a name="bookmark211"></a>3. ‌Déclinaison et dérive</h3>
 <h4 class="s18"><a name="bookmark212"></a>A. ‌La déclinaison</h4>
 <h5 class="s4">1. La Direction</h5>
 <p>Une direction est toujours comptée dans le sens des aiguilles d’une montre à partir d’une origine (le nord géographique ou le nord magnétique).</p>
 <p>Les angles sont compris entre 0 et 360° (Toujours 3 chiffres – Ex : Cap vrai 005°).</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_387.jpg" alt="image" width="175" height="163"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_387.jpg" alt="image" width="175" height="163"></p>
 <p>Figure 4.28.</p>
 <h5 class="s4"> </h5>
 <h5 class="s4">2. Les différents « Nord »</h5>
@@ -637,7 +679,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p class="s4"><strong>Le Nord vrai : Pôle Nord géographique</strong></p>
 <p>Toute direction mesurée par rapport au Nord vrai est dite « vraie ». <i>(Ex : Cap vrai – </i>Route vraie)</p>
 <p><strong>Le Nord magnétique <span class="p">: Il existe un champ magnétique terrestre.</span></strong></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_388.jpg" alt="image" width="379" height="278"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_388.jpg" alt="image" width="379" height="278"></p>
 <p>Figure 4.29.</p>
 <p class="s14">Tout se passe comme si la Terre contenait un aimant gigantesque, passant par son centre, mais dont l’axe ne coïnciderait pas exactement avec la ligne des pôles géographiques. Le pôle nord (magnétique) se trouve aux environs du nord du Canada) 86°N – 172° Ouest en 2017 et se déplace de 55 km/an actuellement vers la Sibérie.</p>
 <p>Toute direction mesurée par rapport au nord magnétique est dite « magnétique » <i>(Ex : Cap magnétique / Route Magnétique).</i></p>
@@ -647,7 +689,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>Dm est Ouest ou négative si le Nord magnétique est à l’Ouest du Nord vrai.</li>
 </ul>
 <p></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_389.png" alt="image" width="178" height="208"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_389.png" alt="image" width="178" height="208"></p>
 <p class="s22">Figure 4.30.</p>
 <p>Si on a choisi sur la carte de suivre un cap vrai Cv=56°, il faudra en vol suivre un cap magnétique Cm = 56° - Dm</p>
 <h4 class="s18"><a name="bookmark213"></a>B. ‌Cap, route et dérive</h4>
@@ -659,23 +701,28 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p></p>
 <p class="s48">Le vent venant de la droite, je derive vers la gauche (la dérive Négative) Le vent venant de la gauche, je derive vers la droite (la derive est positive)</p>
 <p class="s4"><strong>Route = Cap + Dérive</strong></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_390.png" alt="image" width="278" height="364"></p>
-<p class="s22">Figure 4.31.</p></div>";}i:216;O:8:"stdClass":18:{s:2:"id";s:3:"111";s:2:"cm";s:3:"216";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331727";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"4. ‌Méthodes de navigation";s:7:"content";s:5143:"<div class="no-overflow"><h3 class="s17"><a name="bookmark214"></a>4. ‌Méthodes de navigation</h3>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_390.png" alt="image" width="278" height="364"></p>
+<p class="s22">Figure 4.31.</p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Les grands principes de la navigation</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/vCBe4pfSV3o?si=7wp3Ve8NHjJnfNZD" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div></div>";}i:216;O:8:"stdClass":18:{s:2:"id";s:3:"111";s:2:"cm";s:3:"216";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331727";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"4. ‌Méthodes de navigation";s:7:"content";s:8685:"<div class="no-overflow"><h3 class="s17"><a name="bookmark214"></a>4. ‌Méthodes de navigation</h3>
 <h4 class="s18"><a name="bookmark215"></a>A. ‌Le cheminement à vue</h4>
 <p>Il consiste à suivre les lignes naturelles caractéristiques du relief (cours d’eau, voies ferrées, des routes …</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_392.jpg" alt="image" width="360" height="202"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_392.jpg" alt="image" width="360" height="202"></p>
 <h4 class="s18"><a name="bookmark216"></a>B. ‌L’estime</h4>
 <p>Suivre un cap donné pendant un temps donné pour naviguer entre 2 points (on utilise le <strong>cap et la montre</strong>). Durant le vol on utilise des repères intermédiaires de contrôle (avec estimation et correction du vent).</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_393.jpg" alt="image" width="618" height="299"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_393.jpg" alt="image" width="618" height="299"></p>
 <p class="s22">Figure 4.33.</p>
 <h4 class="s18"><a name="bookmark217"></a>C. ‌La radionavigation</h4>
 <p>La <strong>radionavigation </strong>consiste à naviguer de balises en balises, qui émettent des ondes électromagnétiques.</p>
 <p class="s48" style="text-align: center;"><strong>Le VOR (VHF OMNI RANGE)</strong></p>
 <p>Il est quelques fois implanté sur un aérodrome, le plus souvent en campagne, aux points clés des régions de contrôle.</p>
 <p>La station sol <span class="p">émet un signal dans toutes les directions. </span>Le VOR matérialise dans l’espace les 360°, directions d’une rose centrée sur la station et calée sur le nord magnétique.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_394.jpg" alt="image" width="286" height="210"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_394.jpg" alt="image" width="286" height="210"></p>
 <p>Figure 4.34.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_395.jpg" alt="image" width="479" height="336"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_395.jpg" alt="image" width="479" height="336"></p>
 <p>Figure 4.35.</p>
 <div class="textbox">
 <p class="s56">Le <strong>QDM </strong><a class="s110" href="http://dictionnaire.sensagent.leparisien.fr/Rel%C3%83%C2%A8vement/fr-fr/" target="_blank" rel="noopener">est le </a>relèvement magnétique de la station par l'aéronef ou la route magnétique à suivre pour rejoindre la station.</p>
@@ -683,10 +730,10 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 </div>
 <div class="textbox"> </div>
 <p class="s22">Le récepteur de bord permet de matérialiser les informations sur la position de l’avion. Le bouton « OBS » permet de sélectionner la route choisie en faisant tourner la couronne graduée.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_396.jpg" alt="image" width="376" height="275"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_396.jpg" alt="image" width="376" height="275"></p>
 <p class="s22">Figure 4.36.</p>
-<p></p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_397.jpg" alt="image" width="452" height="345"></p>
+<p class="s22"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_397.jpg" alt="image" width="452" height="345"></p>
 <p>Figure 4.37.</p>
 <p><strong>La barre de tendance donne la position de l’aéronef par rapport à la route :</strong></p>
 <ul>
@@ -694,21 +741,48 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>barre à droite, je tourne à droite pour revenir sur ma route jusqu’à ce que ma barre de tendance soit centrée.</li>
 <li>Le triangle “TO ou FROM” m’indique si j’ai passé la station ou non.</li>
 </ul>
-<p></p>
-<p>Le VOR est précis, peu sensible à la météo mais sa portée est limitée aux faibles altitudes. Sur la même fréquence, il y a souvent un DME (Distance Measuring Equipment) qui mesure la distance oblique entre l’avion et la station au sol.</p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Le VOR</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/HsftBiYxrSg?si=StSLhyHjc6URGhXl" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p><br>Le VOR est précis, peu sensible à la météo mais sa portée est limitée aux faibles altitudes. Sur la même fréquence, il y a souvent un DME (Distance Measuring Equipment) qui mesure la distance oblique entre l’avion et la station au sol.<br><br></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>La radionavigation</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/cz8tJbpn1Hs?si=xsAHGqUH0DbAuOIz" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<h5 class="s4"> </h5>
 <h5 class="s4">1. L’ADF (Automatic Direction Finder ou radiocompas)</h5>
 <p>C’est un moyen de Radionavigation implanté à proximité de certains aérodromes.</p>
 <p>La balise au sol <span class="p">émet des signaux. </span>À bord de l’avion, l’aiguille du radiocompas indique la direction de la balise. Plus précisément le <u><strong>Gisement</strong></u><strong> </strong>est l’angle entre l’axe avion et la direction de la station.</p>
-<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_398.png" alt="image" width="149" height="264"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_398.png" alt="image" width="149" height="264"></p>
 <p>Figure 4.38.</p>
 <p class="s22"></p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_399.png" alt="image" width="312" height="203"></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_399.png" alt="image" width="312" height="203"></p>
 <p class="s22" style="text-align: center;">Figure 4.39.</p>
 <p class="s4" style="text-align: center;"><strong>Relèvement Magnétique (QDM) = Cap Magnétique + gisement</strong></p>
 <h5 class="s4">2. Le GPS (Global Positioning System)</h5>
 <p>C’est un instrument permettant, à l’aide de signaux émis par plusieurs satellites, de connaître à bord de l’avion, sa position (latitude, longitude et altitude). Certains modèles sont certifiés pour le VFR mais la route DOIT être confirmée régulièrement par d’autres moyens de radionavigation. Et/ou des repères au sol.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_400.jpg" alt="image" width="321" height="187"></p>
-<p class="s22" style="text-align: center;">Figure 4.40.</p></div>";}i:335;O:8:"stdClass":16:{s:2:"id";s:3:"162";s:2:"cm";s:3:"335";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703885";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:217;O:8:"stdClass":18:{s:2:"id";s:3:"112";s:2:"cm";s:3:"217";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"64";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331947";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:35:"‌1. Préparation de la navigation";s:7:"content";s:6393:"<div class="no-overflow"><h3 class="s17"><a name="bookmark219"></a>‌1. Préparation de la navigation</h3>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_400.jpg" alt="image" width="321" height="187"></p>
+<p class="s22" style="text-align: center;">Figure 4.40.</p>
+<p class="s22" style="text-align: center;"></p>
+<h5>3. Le Système d’atterrissage aux instruments (ILS)</h5>
+<p>Le Système d’atterrissage aux instruments, ou ILS (Instrument Landing System), est une aide radio utilisée pour guider les avions lors des phases d’approche et d’atterrissage, en particulier lorsque la visibilité est réduite (brouillard, pluie, nuit).</p>
+<p><strong>Il fournit au pilote deux indications essentielles :</strong></p>
+<ul>
+<li>L’alignement horizontal (Localizer) : une antenne située au bout de la piste émet un signal qui permet au pilote (ou au pilote automatique) de s’aligner correctement dans l’axe de la piste.</li>
+<li>La pente de descente (Glide Slope) : une autre antenne, placée sur le côté de la piste, envoie un signal indiquant la pente idéale (généralement environ 3°) pour descendre vers la piste de manière régulière et sécurisée.</li>
+</ul>
+<p>Le cockpit reçoit ces informations via les instruments de bord. Le pilote voit apparaître des barres mobiles sur son indicateur de vol, qui lui montrent s’il est trop haut, trop bas, trop à gauche ou trop à droite.</p>
+<p>En complément, des balises radio appelées marqueurs (outer, middle, inner marker) ou des systèmes modernes comme le DME (Distance Measuring Equipment) indiquent à quelle distance l’avion se trouve par rapport à la piste.</p>
+<p>Grâce à l’ILS, les avions peuvent atterrir en toute sécurité même lorsque la visibilité est fortement réduite. Il existe différents niveaux de précision (CAT I, II, III), selon la qualité du système et la certification de l’équipage, permettant parfois d’atterrir quasiment sans visibilité au sol.<br><br></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Instrument Landing System (ILS)</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/AT-xrdbjbAQ?si=ABWVbPzokyrqib8i" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:335;O:8:"stdClass":16:{s:2:"id";s:3:"162";s:2:"cm";s:3:"335";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"20";s:6:"module";s:2:"17";s:5:"added";s:10:"1743703885";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:217;O:8:"stdClass":18:{s:2:"id";s:3:"112";s:2:"cm";s:3:"217";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"64";s:6:"module";s:2:"13";s:5:"added";s:10:"1737331947";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:35:"‌1. Préparation de la navigation";s:7:"content";s:6381:"<div class="no-overflow"><h3 class="s17"><a name="bookmark219"></a>‌1. Préparation de la navigation</h3>
 <p class="s4">Avant le décollage il est nécessaire de préparer sa navigation. <span class="p">Pour cela, le pilote utilise :</span></p>
 <ul>
 <li>des cartes aéronautiques</li>
@@ -732,7 +806,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <p style="text-align: center;"><strong>1° = 60 NM</strong></p>
 <p style="text-align: center;"></p>
 <p style="text-align: center;"><strong>Tracé d’une route sur une carte : Nord vrai</strong></p>
-<p style="text-align: center;"><strong><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-54-45.png" alt="Carte" width="930" height="484"></strong></p>
+<p style="text-align: center;"><strong><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-54-45.png" alt="Carte" width="930" height="484"></strong></p>
 <p class="s22" style="text-align: center;">Figure 4.43.</p>
 <p class="s10"><strong>Le tracé fait apparaître :</strong></p>
 <ul>
@@ -746,7 +820,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li>Le temps sans vent entre 2 points</li>
 <li>Des repères de temps permettant de contrôler la route au fur et mesure de la navigation</li>
 </ul>
-<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-58-32.png" alt="Carte " width="850" height="441"></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2006-58-32.png" alt="Carte " width="850" height="441"></p>
 <p class="s22" style="text-align: center;">Figure 4.44.</p>
 <h4 class="s18"><a name="bookmark222"></a>C. ‌Estimation des vitesses sol</h4>
 <ul>
@@ -755,7 +829,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 </ul>
 <p></p>
 <p><span class="p">L’écart entre les 2 provient du vent. Le <strong>vent effectif </strong>est à ajouter ou retrancher à votre vitesse selon le cas.</span></p>
-<p><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2007-00-27.png" alt="Vent et vitesse" width="754" height="350"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/337/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-20%2007-00-27.png" alt="Vent et vitesse" width="754" height="350"></p>
 <p>Figure 4.45.</p>
 <p>Le <strong>vent latéral ou traversier </strong>génère une dérive, qui est l’angle entre le cap et la route : route = cap + dérive</p>
 <p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_407.jpg" alt="image" width="300" height="225"></p>
@@ -1513,7 +1587,7 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 </table>
 <p></p>
 <p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_418.png" alt="image" width="243" height="331"></p>
-<p class="s22">Figure 4.55.</p></div>";}i:69;O:8:"stdClass":16:{s:2:"id";s:1:"1";s:2:"cm";s:2:"69";s:3:"mod";s:4:"page";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"46";s:6:"module";s:2:"16";s:5:"added";s:10:"1734503628";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";}i:70;O:8:"stdClass":17:{s:2:"id";s:2:"13";s:2:"cm";s:2:"70";s:3:"mod";s:5:"label";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"46";s:6:"module";s:2:"13";s:5:"added";s:10:"1734504960";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";s:7:"content";s:7356:"<div class="no-overflow"><p>Le parcours pour devenir pilote varie en fonction des objectifs de chacun, que ce soit pour voler en tant que passionné ou en tant que professionnel. Les cursus incluent la formation pour obtenir une <strong>licence de pilote privé</strong> (PPL), une <strong>licence de pilote commercial</strong> (CPL), ou une <strong>licence de pilote de ligne</strong> (ATPL). Les formations peuvent être dispensées dans des écoles spécialisées, des aéroclubs ou des programmes intégrés. Pour ceux qui veulent servir dans l'aviation militaire, des programmes dédiés sont également disponibles. Quel que soit le chemin choisi, devenir pilote nécessite un engagement important en termes de temps, d’efforts et de ressources financières, mais c’est une carrière passionnante pour ceux qui souhaitent explorer le ciel.</p>
+<p class="s22">Figure 4.55.</p></div>";}i:70;O:8:"stdClass":17:{s:2:"id";s:2:"13";s:2:"cm";s:2:"70";s:3:"mod";s:5:"label";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"46";s:6:"module";s:2:"13";s:5:"added";s:10:"1734504960";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Présentation des différents cursus pour devenir pilote";s:7:"content";s:7531:"<div class="no-overflow"><p>Le parcours pour devenir pilote varie en fonction des objectifs de chacun, que ce soit pour voler en tant que passionné ou en tant que professionnel. Les cursus incluent la formation pour obtenir une <strong>licence de pilote privé</strong> (PPL), une <strong>licence de pilote commercial</strong> (CPL), ou une <strong>licence de pilote de ligne</strong> (ATPL). Les formations peuvent être dispensées dans des écoles spécialisées, des aéroclubs ou des programmes intégrés. Pour ceux qui veulent servir dans l'aviation militaire, des programmes dédiés sont également disponibles. Quel que soit le chemin choisi, devenir pilote nécessite un engagement important en termes de temps, d’efforts et de ressources financières, mais c’est une carrière passionnante pour ceux qui souhaitent explorer le ciel.</p>
 <h3>Les différents cursus pour devenir pilote</h3>
 <p>Devenir pilote est un rêve pour de nombreuses personnes passionnées par l'aviation. Que ce soit pour voler à titre professionnel ou pour un simple hobby, plusieurs cursus sont disponibles en fonction de l'objectif, du type de pilotage souhaité et du niveau d'engagement. Voici un aperçu des principales voies pour devenir pilote, qu'il s'agisse de pilote privé, pilote de ligne ou pilote d'avion militaire.</p>
 <h4><strong>Devenir pilote privé (PPL)</strong></h4>
@@ -1530,8 +1604,9 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li><strong>Conditions d'admission</strong> : Un diplôme d'études secondaires est souvent requis, ainsi qu’une bonne maîtrise de l'anglais (qui est la langue internationale de l’aviation). Un examen médical de classe 1 est également nécessaire pour garantir une bonne condition physique et mentale.</li>
 <li><strong>Durée de la formation</strong> : La formation pour obtenir un CPL dure en moyenne entre 18 et 24 mois, avec un total de 200 à 250 heures de vol.</li>
 <li><strong>Contenu de la formation</strong> : En plus des compétences de vol de base, la formation inclut des modules plus avancés sur la gestion de la sécurité, la gestion du cockpit, la navigation avancée, et les procédures d'atterrissage et de décollage dans diverses conditions. Les pilotes suivent également une formation théorique rigoureuse.</li>
-<li><strong>Coût</strong> : La formation complète coûte généralement entre 50 000 et 100 000 euros.</li>
+<li><strong>Coût</strong> : La formation complète coûte généralement entre 50 000 et 100 000 euros.<br><br></li>
 </ul>
+<p><a href="https://bia-facile.fr/pluginfile.php/141/mod_label/intro/guide_devenir_pilote_de_ligne.pdf">Guide complet pour devenir guide devenir pilote de ligne.</a></p>
 <h4><strong>La formation en école de pilotage</strong></h4>
 <p>Il existe de nombreuses écoles privées et des <strong>aéroclubs</strong> qui proposent des formations pour devenir pilote, qu'elles soient privées ou commerciales. Certaines écoles offrent des <strong>programmes intégrés</strong> qui permettent d'obtenir une <strong>formation complète</strong>, de la PPL à la CPL, voire à la <strong>ATPL</strong> (Airline Transport Pilot License), la licence nécessaire pour devenir pilote de ligne. Ces écoles offrent un parcours tout-en-un qui inclut la formation théorique et pratique, avec une structure qui suit les règles de l’<strong>Agence européenne de la sécurité aérienne (EASA)</strong> ou de la <strong>Federal Aviation Administration (FAA)</strong> aux États-Unis.</p>
 <h4><strong>Devenir pilote de ligne avec un programme intégré</strong></h4>
@@ -1551,5 +1626,5 @@ O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";
 <li><strong>Coût</strong> : Cette formation est généralement financée par l'État, car elle fait partie du service militaire.</li>
 </ul>
 <h4>Présentation des différents cursus pour devenir pilote professionnel</h4>
-<h4><img class="img-fluid" src="http://127.0.0.1/bia-caea/pluginfile.php/141/mod_label/intro/WhatsApp%20Image%202024-12-08%20at%2016.45.05.jpeg" alt="présentation des différents cursus pour devenir pilote" width="1600" height="896"></h4></div>";}i:205;O:8:"stdClass":16:{s:2:"id";s:2:"64";s:2:"cm";s:3:"205";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737285162";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:362;O:8:"stdClass":16:{s:2:"id";s:3:"189";s:2:"cm";s:3:"362";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1747115254";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:88:"Annales 2024 – Entraînez-vous à nouveau sur les questions 2024 sur cette thématique";}i:242;O:8:"stdClass":16:{s:2:"id";s:2:"73";s:2:"cm";s:3:"242";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501640";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:251;O:8:"stdClass":16:{s:2:"id";s:2:"82";s:2:"cm";s:3:"251";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1740476006";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Les questions de Pascal";}i:255;O:8:"stdClass":16:{s:2:"id";s:2:"85";s:2:"cm";s:3:"255";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1741288976";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:257;O:8:"stdClass":15:{s:2:"id";s:2:"87";s:2:"cm";s:3:"257";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1741290498";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:353;O:8:"stdClass":16:{s:2:"id";s:3:"180";s:2:"cm";s:3:"353";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999282";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:354;O:8:"stdClass":16:{s:2:"id";s:3:"181";s:2:"cm";s:3:"354";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999388";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:355;O:8:"stdClass":16:{s:2:"id";s:3:"182";s:2:"cm";s:3:"355";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999552";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:206;O:8:"stdClass":16:{s:2:"id";s:2:"65";s:2:"cm";s:3:"206";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1737285666";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:43:"Lancez votre premier test de positionnement";}i:243;O:8:"stdClass":16:{s:2:"id";s:2:"74";s:2:"cm";s:3:"243";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501888";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"Lancez le test";}i:259;O:8:"stdClass":16:{s:2:"id";s:2:"89";s:2:"cm";s:3:"259";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741559543";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Passez au niveau suivant avec cinq nouvelles questions !";}i:262;O:8:"stdClass":16:{s:2:"id";s:2:"92";s:2:"cm";s:3:"262";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741560696";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:94:"Testez si vous êtes prêt avec 10 questions et atteignez 100 % de certitude à votre niveau !";}i:339;O:8:"stdClass":16:{s:2:"id";s:3:"166";s:2:"cm";s:3:"339";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1744868157";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Défi des 100 questions";}}s:12:"sectioncache";a:10:{i:17;O:8:"stdClass":6:{s:2:"id";s:2:"17";s:7:"section";s:1:"0";s:4:"name";s:12:"Introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:74;O:8:"stdClass":7:{s:2:"id";s:2:"74";s:7:"section";s:1:"1";s:4:"name";s:16:"Les TD en classe";s:7:"summary";s:85:"<p>Dépôt des éléments spécifiques distribués en classe par les enseignants.</p>";s:12:"availability";s:57:"{"op":"&","c":[{"type":"cohort","id":1}],"showc":[false]}";s:9:"component";N;s:6:"itemid";N;}i:18;O:8:"stdClass":6:{s:2:"id";s:2:"18";s:7:"section";s:1:"2";s:4:"name";s:46:"Cours partie 1 : Réglementation et Sécurité";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:19;O:8:"stdClass":6:{s:2:"id";s:2:"19";s:7:"section";s:1:"3";s:4:"name";s:38:"Cours partie 2 : Circulation Aérienne";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:20;O:8:"stdClass":6:{s:2:"id";s:2:"20";s:7:"section";s:1:"4";s:4:"name";s:43:"Cours partie 3 : Principes de la Navigation";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:64;O:8:"stdClass":6:{s:2:"id";s:2:"64";s:7:"section";s:1:"5";s:4:"name";s:34:"Cours partie 4 : Préparer son vol";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:65;O:8:"stdClass":6:{s:2:"id";s:2:"65";s:7:"section";s:1:"6";s:4:"name";s:32:"Complément : English vocabulary";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:46;O:8:"stdClass":6:{s:2:"id";s:2:"46";s:7:"section";s:1:"7";s:4:"name";s:14:"Devenir pilote";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:69;O:8:"stdClass":6:{s:2:"id";s:2:"69";s:7:"section";s:1:"8";s:4:"name";s:72:"Les annales des examens du BIA et leurs corrigées sur cette thématique";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:70;O:8:"stdClass":7:{s:2:"id";s:2:"70";s:7:"section";s:1:"9";s:4:"name";s:24:"Tests de positionnement ";s:7:"summary";s:307:"<p></p>
-<p>Pour aborder plus efficacement les cours et les notions de ce chapitre, commencez par réaliser un test de positionnement pour évaluer vos connaissances sur les aéronefs et les engins spatiaux. Les résultats de ce test nous permettront de vous proposer des cours adaptés à votre niveau.</p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"NRS";s:8:"fullname";s:48:"Navigation, réglementation, sécurité des vols";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1754997965";}s:7:"version";i:1754997965;}
+<h4><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/141/mod_label/intro/WhatsApp%20Image%202024-12-08%20at%2016.45.05.jpeg" alt="présentation des différents cursus pour devenir pilote" width="1600" height="896"></h4></div>";}i:205;O:8:"stdClass":16:{s:2:"id";s:2:"64";s:2:"cm";s:3:"205";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737285162";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:362;O:8:"stdClass":16:{s:2:"id";s:3:"189";s:2:"cm";s:3:"362";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1747115254";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:88:"Annales 2024 – Entraînez-vous à nouveau sur les questions 2024 sur cette thématique";}i:242;O:8:"stdClass":16:{s:2:"id";s:2:"73";s:2:"cm";s:3:"242";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501640";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:257;O:8:"stdClass":15:{s:2:"id";s:2:"87";s:2:"cm";s:3:"257";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1741290498";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:353;O:8:"stdClass":16:{s:2:"id";s:3:"180";s:2:"cm";s:3:"353";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999282";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:354;O:8:"stdClass":16:{s:2:"id";s:3:"181";s:2:"cm";s:3:"354";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999388";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:355;O:8:"stdClass":16:{s:2:"id";s:3:"182";s:2:"cm";s:3:"355";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"69";s:6:"module";s:2:"17";s:5:"added";s:10:"1744999552";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:243;O:8:"stdClass":16:{s:2:"id";s:2:"74";s:2:"cm";s:3:"243";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1737501888";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"Lancez le test";}i:259;O:8:"stdClass":16:{s:2:"id";s:2:"89";s:2:"cm";s:3:"259";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741559543";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Passez au niveau suivant avec cinq nouvelles questions !";}i:262;O:8:"stdClass":16:{s:2:"id";s:2:"92";s:2:"cm";s:3:"262";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1741560696";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:94:"Testez si vous êtes prêt avec 10 questions et atteignez 100 % de certitude à votre niveau !";}i:339;O:8:"stdClass":16:{s:2:"id";s:3:"166";s:2:"cm";s:3:"339";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"9";s:13:"sectionnumber";s:1:"9";s:9:"sectionid";s:2:"70";s:6:"module";s:2:"17";s:5:"added";s:10:"1744868157";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Défi des 100 questions";}}s:12:"sectioncache";a:10:{i:17;O:8:"stdClass":6:{s:2:"id";s:2:"17";s:7:"section";s:1:"0";s:4:"name";s:12:"Introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:74;O:8:"stdClass":7:{s:2:"id";s:2:"74";s:7:"section";s:1:"1";s:4:"name";s:16:"Les TD en classe";s:7:"summary";s:85:"<p>Dépôt des éléments spécifiques distribués en classe par les enseignants.</p>";s:12:"availability";s:57:"{"op":"&","c":[{"type":"cohort","id":1}],"showc":[false]}";s:9:"component";N;s:6:"itemid";N;}i:18;O:8:"stdClass":6:{s:2:"id";s:2:"18";s:7:"section";s:1:"2";s:4:"name";s:46:"Cours partie 1 : Réglementation et Sécurité";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:19;O:8:"stdClass":6:{s:2:"id";s:2:"19";s:7:"section";s:1:"3";s:4:"name";s:38:"Cours partie 2 : Circulation Aérienne";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:20;O:8:"stdClass":6:{s:2:"id";s:2:"20";s:7:"section";s:1:"4";s:4:"name";s:43:"Cours partie 3 : Principes de la Navigation";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:64;O:8:"stdClass":6:{s:2:"id";s:2:"64";s:7:"section";s:1:"5";s:4:"name";s:34:"Cours partie 4 : Préparer son vol";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:65;O:8:"stdClass":6:{s:2:"id";s:2:"65";s:7:"section";s:1:"6";s:4:"name";s:32:"Complément : English vocabulary";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:46;O:8:"stdClass":6:{s:2:"id";s:2:"46";s:7:"section";s:1:"7";s:4:"name";s:14:"Devenir pilote";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:69;O:8:"stdClass":6:{s:2:"id";s:2:"69";s:7:"section";s:1:"8";s:4:"name";s:72:"Les annales des examens du BIA et leurs corrigées sur cette thématique";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:70;O:8:"stdClass":7:{s:2:"id";s:2:"70";s:7:"section";s:1:"9";s:4:"name";s:24:"Tests de positionnement ";s:7:"summary";s:307:"<p></p>
+<p>Pour aborder plus efficacement les cours et les notions de ce chapitre, commencez par réaliser un test de positionnement pour évaluer vos connaissances sur les aéronefs et les engins spatiaux. Les résultats de ce test nous permettront de vous proposer des cours adaptés à votre niveau.</p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"NRS";s:8:"fullname";s:48:"Navigation, réglementation, sécurité des vols";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1758522014";}s:7:"version";i:1758522014;}

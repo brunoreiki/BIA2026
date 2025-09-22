@@ -155,6 +155,8 @@ $string['blockmaintopradius'] = 'Rayon haut du bloc principal';
 $string['blockmaintopradiusdesc'] = 'Paramétrer le rayon haut du bloc principal pour donner un effet courbe/arrondi.';
 $string['blockregionbackground'] = 'Couleur d’arrière-plan de la zone de blocs';
 $string['blockregionbackgrounddesc'] = 'Couleur d’arrière-plan de la zone de la page d’accueil dans lequel se trouvent les blocs personnalisés.';
+$string['blockregioneditingtitleshown'] = 'Afficher le titre de la région du bloc lors de l\'édition';
+$string['blockregioneditingtitleshowndesc'] = 'Vous pouvez afficher/masquer le titre de la région du bloc lors de l\'édition.';
 $string['blockshowhide'] = 'Afficher / masquer le bloc';
 $string['blockside'] = 'Emplacement des blocs';
 $string['blocksidedesc'] = 'Choisir si les blocs apparaissent à gauche ou à droite de la page.';
@@ -166,6 +168,7 @@ $string['breadcrumbdisplaydesc'] = 'Définissez l’affichage de ce qui devrait 
 $string['breadcrumbhome'] = 'Accueil du fil d’ariane';
 $string['breadcrumbhomedesc'] = 'Définir l’accueil du fil d’Ariane sous forme d’icône ou de texte.';
 $string['breadcrumbhomeicon'] = 'Icône';
+$string['breadcrumbhomeoff'] = 'Désactivé';
 $string['breadcrumbhometext'] = 'Texte';
 $string['breadcrumbseparator'] = 'Séparateur du fil d’ariane';
 $string['breadcrumbseparatordesc'] = 'Définir <a href="https://fontawesome.com/icons">l’icône de la Police Awesome</a> qui doit être utilisée comme séparateur dans le fil d’Ariane. Entrer le nom de l’icône sans son préfixe fa-.';
@@ -297,6 +300,8 @@ $string['configtitle'] = 'Adaptable';
 $string['course'] = 'Cours';
 $string['courseactivitynavigationenabled'] = 'Navigation par activité';
 $string['courseactivitynavigationenableddesc'] = 'Navigation par activité activée.';
+$string['courseindexenabled'] = 'Activé';
+$string['courseindexenableddesc'] = 'Activer ou désactiver l\'« index du cours ».';
 $string['courseindexitemcolor'] = 'Couleur de l’élément';
 $string['courseindexitemcolordesc'] = 'La couleur de l’élément sur l\'« Index du cours » dans un cours.';
 $string['courseindexitemhovercolor'] = 'Couleur de survol de l’élément';
@@ -420,6 +425,16 @@ $string['customjsrestricted'] = 'JavaScript conditionnel';
 $string['customjsrestricteddesc'] = 'Ajouter du JavaScript au site de manière conditionnelle en fonction d’un champ de profil personnalisé. Ce JavaScript n’apparaîtra que si cette condition est remplie.';
 $string['customjssettings'] = 'JS personnalisé';
 $string['customjssettingsdescription'] = 'Voici différents paramètres pour ajouter son propre JavaScript au thème. Remarque : les balises de script sont automatiquement ajoutées, ne pas en ajouter.';
+$string['custommenu'] = 'Personnalisé';
+$string['custommenuitemscoredesc'] = 'Un menu personnalisé peut être configuré dans les paramètres principaux. Saisissez chaque élément de menu sur une nouvelle ligne. Les lignes commençant par un tiret apparaîtront comme des éléments de menu dans le menu principal précédent, et ### servira de séparateur.';
+$string['custommenutitle'] = 'Titre du menu personnalisé';
+$string['custommenutitledesc'] = 'Définir le titre du menu personnalisé qui contiendra tous les menus personnalisés de la barre de navigation. Si ce champ est vide, chaque entrée de niveau supérieur créera un nouveau menu dans la barre de navigation.';
+$string['customusermenuitemscoredesc'] = 'Vous pouvez configurer le contenu du menu utilisateur (à l\'exception du lien de déconnexion, ajouté automatiquement). Chaque ligne est séparée par des barres verticales et comprend : 1) une chaîne au format « langstringname, componentname » ou texte brut, 2) une URL et 3) le nom de l\'icône Font Awesome ou des classes CSS (facultatif). Vous pouvez utiliser des séparateurs en ajoutant une ligne d\'un ou plusieurs caractères # si nécessaire. Pour trouver les classes FontAwesome (gratuites) de l\'icône que vous souhaitez utiliser, accédez à <a href="https://fontawesome.com/search?o=r&m=free" target="_blank">Font Awesome gratuit</a> et recherchez l\'icône. Vous pouvez utiliser son nom, par exemple « graduation-cap », ou la liste complète des classes « fa-solid fa-graduation-cap ». Par exemple :
+<pre>
+messages,message|/message/index.php|fa-regular fa-comment
+privatefiles,moodle|/user/files.php|folder-tree
+</pre>
+Remarque : La valeur par défaut peut contenir des doublons. Veuillez l\'ajuster si nécessaire.';
 $string['dangericoncolor'] = 'Couleur de l’icône d’avertissement';
 $string['dangericoncolordesc'] = 'Définit la couleur de l’icône d’avertissement/danger principalement utilisée dans les champs obligatoires.';
 $string['dashblocklayoutbuilder'] = 'Zones des blocs du tableau de bord';

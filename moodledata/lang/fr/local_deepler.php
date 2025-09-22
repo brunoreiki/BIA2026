@@ -51,8 +51,132 @@ $string['formalityless'] = 'moins';
 $string['formalitymore'] = 'plus';
 $string['formalitypreferless'] = 'moins, de préférence';
 $string['formalityprefermore'] = 'plus, de préférence';
-$string['glossaryid'] = 'id d’un glossaire';
-$string['glossaryid_placeholder'] = 'id d’un glossaire si vous en avez un…';
+$string['glossary:actions'] = 'Actions';
+$string['glossary:deepl:link'] = 'Documentation de l’API DeepL';
+$string['glossary:deeplid'] = 'UUID';
+$string['glossary:delete:deeplissue:body'] = 'Le glossaire {$a} n’a pas pu être supprimé sur DeepL.';
+$string['glossary:delete:deeplissue:title'] = 'Problême avec DeepL';
+$string['glossary:delete:failed:body'] = 'Échec de la suppression du glossaire {$a}';
+$string['glossary:delete:failed:title'] = 'Suppression échouée';
+$string['glossary:delete:idmissing:body'] = 'Échec de la suppression du glossaire {$a}';
+$string['glossary:delete:idmissing:title'] = 'Identifiant manquant';
+$string['glossary:delete:invalidsesskey:body'] = 'Échec de la suppression du glossaire {$a}';
+$string['glossary:delete:invalidsesskey:title'] = 'Clé de session non valide';
+$string['glossary:delete:success:body'] = '{$a} a été supprimé !';
+$string['glossary:delete:success:title'] = 'Suppression réussie';
+$string['glossary:id'] = 'Identifiant du glossaire';
+$string['glossary:id_placeholder'] = 'Glossaire id si vous en avez un...';
+$string['glossary:lastused'] = 'Dernière utilisation';
+$string['glossary:listempty'] = 'Il n’y a pas de glossaires disponibles pour cette combinaison de langues. Rendez-vous dans « Glossaires DeepLer » de vos préférences utilisateur pour en déposer.';
+$string['glossary:manage:title'] = 'Glossaires DeepLer';
+$string['glossary:name'] = 'Nom';
+$string['glossary:nbentries'] = 'Entrées';
+$string['glossary:neverused'] = 'Jamais';
+$string['glossary:notselected'] = 'Aucun glossaire sélectionné';
+$string['glossary:pool'] = 'Équipe';
+$string['glossary:pool:admin'] = 'Propriété des administrateurs';
+$string['glossary:pool:title'] = 'Glossaires de l’équipe';
+$string['glossary:private:title'] = 'Glossaires privés';
+$string['glossary:public:title'] = 'Glossaires publiques';
+$string['glossary:select'] = 'Sélectionner un glossaire';
+$string['glossary:selectplaceholder'] = 'Saisir le nom d’un glossaire';
+$string['glossary:sourcelang'] = 'Source';
+$string['glossary:targetlang'] = 'Cible';
+$string['glossary:upload'] = 'Déposer';
+$string['glossary:upload:btn'] = 'Créer un glossaire';
+$string['glossary:upload:deeplissue:body'] = 'Impossible de déposer le glossaire pour la raison suivante : {$a}';
+$string['glossary:upload:deeplissue:title'] = 'DeepL issue';
+$string['glossary:upload:failed:body'] = 'Échec du dépôt du glossaire pour la raison suivante : {$a}';
+$string['glossary:upload:failed:title'] = 'Erreur lors du dépôt';
+$string['glossary:upload:file:supported'] = 'Types de fichiers pris en charge : CSV, TSV, XLSX, XLS, ODS';
+$string['glossary:upload:fileerror:body'] = 'Échec du dépôt du glossaire : aucun fichier trouvé.';
+$string['glossary:upload:fileerror:title'] = 'Erreur due au fichier';
+$string['glossary:upload:filetypeunsupported:body'] = 'Type de fichier non pris en charge';
+$string['glossary:upload:filetypeunsupported:title'] = '${a} n’est pas un format valide. Veuillez déposer un fichier CSV, TSV, XLSX, XLS ou ODS.';
+$string['glossary:upload:helpmodal:col1'] = '##### FR > ES (conventions de nommage des fichiers)
+
+**Fichier : \'litérature\\_fr-es.csv**\'
+
+belle      , hermosa
+
+delicieux  , exquisito
+
+mouse      , mouse
+
+##### ES > FR (en utilisant les en-têtes)
+**Fichier : « litérature-es-fr.csv »**
+
+ES   , FR
+
+hermosa   , belle
+
+exquisito , delicieux
+
+mouse     , mouse';
+$string['glossary:upload:helpmodal:col2'] = '##### Exemples de conventions de nommage des fichiers :
+
+**Expl OK**
+
+*   私の用語集**_en-ja.xls**
+*   Tech\\_jargon**\\_FR-ES.CSV**
+*   myGlossary**-**en-fr.csv (ok uniquement s\'il comporte une ligne d\'en-tête EN FR)
+
+**Expl NOT OK (lorsque les en-têtes ne sont pas utilisés)**
+
+*   myGlossary**-**en-fr.csv (ici, le programme recherchera les langues dans la ligne d\'en-tête)
+*   Tech\\_jargon\\_**FRA-SPA**.ods (codes à 3 lettres, mais ne recherchera pas la ligne d\'en-tête)
+*   myHistoricalGlo_fr-es.**txt** (extension non prise en charge)';
+$string['glossary:upload:helpmodal:intro'] = '#### Règles
+
+Les glossaires bidirectionnels (v3) ne sont pas encore autorisés.
+
+Le tableur doit contenir une seule feuille avec deux colonnes et soit (1) :
+
+- Des en-têtes de colonne avec des codes à deux lettres valides (par exemple EN et JA) en majuscules ou en minuscules.
+- Un nom de fichier valide respectant les conventions ci-dessous.
+
+##### Conventions de nommage des fichiers :
+
+1.  Renommez le fichier GLOSSARYNAME\\_SOURCE-TARGET.EXTENSION
+2.  Donnez-lui un nom significatif mais pas trop long (pour un affichage correct dans les tableaux).
+3.  Pas d##### Exemples de conventions de nommage des fichiers :
+
+**Expl OK**
+
+*   私の用語集**_en-ja.xls**
+*   Tech\\_jargon**\\_FR-ES.CSV**
+*   myGlossary**-**en-fr.csv (ok uniquement s\'il comporte une ligne d\'en-tête EN FR)
+
+**Expl NOT OK (lorsque les en-têtes ne sont pas utilisés)**
+
+*   myGlossary**-**en-fr.csv (ici, le programme recherchera les langues dans la ligne d\'en-tête)
+*   Tech\\_jargon\\_**FRA-SPA**.ods (codes à 3 lettres, mais ne recherchera pas la ligne d\'en-tête)
+*   myHistoricalGlo_fr-es.**txt** (extension non prise en charge)en-tête dans le fichier csv.
+4.  SOURCE et TARGET dans le nom du fichier doivent être des codes de langue à 2 caractères.
+
+(1)_Le nom du fichier a priorité sur les en-têtes.
+Si vous souhaitez utiliser les en-têtes mais ajouter les paires de langues dans le nom du fichier,
+ assurez-vous que le nom ne comporte pas de suffixe tel que \\_SOURCE-TARGET, et évitez d\'utiliser un « \\_ » suivi d\'un « - ».
+Utilisez par exemple GLOSSARYNAME-SOURCE-TARGET.EXTENSION.';
+$string['glossary:upload:helpmodal:title'] = 'Déposer un simple tableur Source|Cible à 2 colonnes.';
+$string['glossary:upload:invalidsesskey:body'] = 'Échec du dépôt du glossaire pour la raison suivante : {$a}';
+$string['glossary:upload:invalidsesskey:title'] = 'Clé de session non valide';
+$string['glossary:upload:langpair:notresolved:body'] = 'Ni dans le titre du fichier, ni dans les en-têtes.';
+$string['glossary:upload:langpair:notresolved:title'] = 'Impossible de déterminer la paire source-cible de langues';
+$string['glossary:upload:sourcenotsupported:body'] = '{$a} nest pas une langue source prise en charge.';
+$string['glossary:upload:sourcenotsupported:title'] = 'DeepL ne prend pas en charge cette langue source.';
+$string['glossary:upload:success:body'] = '{$a} a été déposer !';
+$string['glossary:upload:success:title'] = 'Dépôt réussi';
+$string['glossary:upload:suffixerror:body'] = 'Échec du dépôt du glossaire pour la raison suivante : {$a}, veuillez vérifier les instructions.';
+$string['glossary:upload:suffixerror:title'] = 'Suffixe incorrect';
+$string['glossary:upload:targetnotsupported:body'] = '{$a} n’est pas une langue cible prise en charge.';
+$string['glossary:upload:targetnotsupported:title'] = 'DeepL ne prend pas en charge cette langue cible.';
+$string['glossary:upload:unknownerror:body'] = 'Échec du dépôt du glossaire pour la raison suivante : {$a}, veuillez vérifier les instructions.';
+$string['glossary:upload:unknownerror:title'] = 'Incorrect suffix';
+$string['glossary:visibility'] = 'Visibilité';
+$string['glossary:visibility:pool'] = 'Équipe';
+$string['glossary:visibility:private'] = 'Privé';
+$string['glossary:visibility:public'] = 'Public';
 $string['hideiframes'] = 'Afficher les iframes intégrées dans le texte source.';
 $string['hideiframesadmin'] = 'Sélectionner cette option si vous souhaitez que le rendu des iframes intégrées soit l\'option par défaut.';
 $string['hideiframesadmin_desc'] = 'Parfois, les iframes peuvent chevaucher l\'interface utilisateur ou altérer les performances du navigateur.';
@@ -63,6 +187,7 @@ $string['latexescapeadmin'] = 'Réglage par défaut de « Ignorer LaTeX » (« 
 $string['latexescapeadmin_desc'] = 'La valeur « true » permet de cocher la case « Ignorer les formules LaTeX » dans le formulaire de traduction du cours.
 Cela aura pour effet d’activer par défaut la non-traduction des formules LaTeX dans les cours (lorsque la valeur est réglée à true).
 Décocher cette case, valeur false, si votre organisation utilise rarement des formules LaTeX dans les cours afin d‘améliorer légèrement les performances de Deepler.';
+$string['missingmainapikey'] = 'Ajoutez d’abord une clé API générique pour utiliser cette fonctionnalité.';
 $string['modeltpreferqualityoptimized'] = 'Optimiser de préférence la qualité';
 $string['modeltype'] = 'Modèle';
 $string['modeltypelatencyoptimized'] = 'Optimiser la latence';
@@ -116,6 +241,7 @@ $string['statuswait'] = 'Pas sélectionné';
 $string['taghandling'] = 'Gestion des balises :';
 $string['tagsplaceholder'] = 'Lister tous les tags (séparer les tags par une virgule &quot;,&quot;)';
 $string['targetcompatibleexplain'] = 'Choisissez une langue cible à enregistrer dans {mlang xx}.';
+$string['tokenmanager_desc'] = 'Ici, vous pouvez associer vos clés API DeepL aux attributs des utilisateurs afin de créer des pools de traducteurs. Cela peut être utile si vous avez besoin de mesurer et de contrôler la consommation de chaque clé API.';
 $string['toneconfident'] = 'Ton confiant';
 $string['tonediplomatic'] = 'Ton diplomatique';
 $string['toneenthusiastic'] = 'Ton enthousiaste';

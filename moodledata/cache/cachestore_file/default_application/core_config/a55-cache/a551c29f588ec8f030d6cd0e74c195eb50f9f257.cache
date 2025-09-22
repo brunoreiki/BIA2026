@@ -1,0 +1,506 @@
+a:57:{s:25:"activitynavigationenabled";s:1:"1";s:29:"activitynavigationmodulenames";s:1:"1";s:27:"breadcrumbdisplaythiscourse";s:1:"1";s:21:"courseendblocksperrow";s:1:"3";s:15:"customlogouturl";s:0:"";s:10:"customscss";s:0:"";s:22:"displayhiddenmycourses";s:1:"1";s:16:"displaymycourses";s:1:"1";s:17:"displaythiscourse";s:1:"1";s:4:"faiv";s:0:"";s:3:"fav";s:1:"0";s:33:"footerantigravityhorizontaloffset";s:1:"0";s:31:"footerantigravityverticaloffset";s:1:"0";s:23:"frontpagecarouselslides";s:1:"2";s:21:"frontpageenableslide1";s:1:"1";s:21:"frontpageenableslide2";s:0:"";s:22:"frontpageslidecaption1";s:0:"";s:22:"frontpageslidecaption2";s:0:"";s:20:"frontpageslideimage1";s:0:"";s:20:"frontpageslideimage2";s:0:"";s:20:"frontpageslidetitle1";s:3:"BIA";s:20:"frontpageslidetitle2";s:0:"";s:16:"headerbackground";s:0:"";s:28:"headerbackgroundbottomcolour";s:0:"";s:29:"headerbackgroundbottomopacity";s:3:"0.9";s:27:"headerbackgroundcourseimage";s:2:"no";s:24:"headerbackgroundposition";s:6:"center";s:21:"headerbackgroundstyle";s:5:"cover";s:25:"headerbackgroundtopcolour";s:0:"";s:26:"headerbackgroundtopopacity";s:3:"0.1";s:14:"headerlangmenu";s:44:"course,frontpage,mycourses,mydashboard,login";s:12:"hvpcustomcss";s:0:"";s:10:"hvpfontcss";s:17363:"            @font-face {
+                font-family: 'Cabin Sketch';
+                font-style: normal;
+                font-weight: normal;
+                src: url('[[font:theme|CabinSketch-Regular.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Cabin Sketch';
+                font-style: normal;
+                font-weight: bold;
+                src: url('[[font:theme|CabinSketch-Bold.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Inter-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 400;
+                src: url('[[font:theme|Inter-Italic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 500;
+                src: url('[[font:theme|Inter-Medium.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 500;
+                src: url('[[font:theme|Inter-MediumItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Inter-Bold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                font-style: italic;
+                font-weight: 700;
+                src: url('[[font:theme|Inter-BoldItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: normal;
+                font-weight: 300;
+                src: url('[[font:theme|Lato-Light.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: italic;
+                font-weight: 300;
+                src: url('[[font:theme|Lato-LightItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Lato-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-weight: 400;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|Lato-Italic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Lato-Bold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Lato';
+                font-style: italic;
+                font-weight: 700;
+                src: url('[[font:theme|Lato-BoldItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 100;
+                src: url('[[font:theme|Montserrat-Thin.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 100;
+                src: url('[[font:theme|Montserrat-ThinItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 200;
+                src: url('[[font:theme|Montserrat-ExtraLight.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 200;
+                src: url('[[font:theme|Montserrat-ExtraLightItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 300;
+                src: url('[[font:theme|Montserrat-Light.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 300;
+                src: url('[[font:theme|Montserrat-LightItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Montserrat-Regular.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 400;
+                src: url('[[font:theme|Montserrat-Italic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                src: url('[[font:theme|Montserrat-Medium.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 500;
+                src: url('[[font:theme|Montserrat-MediumItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 600;
+                src: url('[[font:theme|Montserrat-SemiBold.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 600;
+                src: url('[[font:theme|Montserrat-SemiBoldItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Montserrat-Bold.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 700;
+                src: url('[[font:theme|Montserrat-BoldItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 800;
+                src: url('[[font:theme|Montserrat-ExtraBold.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 800;
+                src: url('[[font:theme|Montserrat-ExtraBoldItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 900;
+                src: url('[[font:theme|Montserrat-Black.otf]]');
+            }
+
+            @font-face {
+                font-family: 'Montserrat';
+                font-style: italic;
+                font-weight: 900;
+                src: url('[[font:theme|Montserrat-BlackItalic.otf]]');
+            }
+
+            @font-face {
+                font-family: 'News Cycle';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|NewsCycle-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'News Cycle';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|NewsCycle-Bold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Nunito-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: italic;
+                font-weight: 400;
+                src: url('[[font:theme|Nunito-Italic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: normal;
+                font-weight: 600;
+                src: url('[[font:theme|Nunito-SemiBold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: italic;
+                font-weight: 600;
+                src: url('[[font:theme|Nunito-SemiBoldItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Nunito-Bold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito';
+                font-style: italic;
+                font-weight: 700;
+                src: url('[[font:theme|Nunito-BoldItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito Sans';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|NunitoSans-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito Sans';
+                font-style: italic;
+                font-weight: 400;
+                src: url('[[font:theme|NunitoSans-Italic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito Sans';
+                font-style: normal;
+                font-weight: 600;
+                src: url('[[font:theme|NunitoSans-SemiBold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Nunito Sans';
+                font-style: italic;
+                font-weight: 600;
+                src: url('[[font:theme|NunitoSans-SemiBoldItalic.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-style: normal;
+                font-weight: 300;
+                src: url('[[font:theme|OpenSans-Light-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-weight: 300;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|OpenSans-LightItalic-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|OpenSans-Regular-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-weight: 400;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|OpenSans-Italic-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|OpenSans-Bold-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Open Sans';
+                font-weight: 700;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|OpenSans-BoldItalic-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Raleway-Regular.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Raleway';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Raleway-Bold.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 300;
+                src: url('[[font:theme|Roboto-Light-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Roboto-Regular-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 500;
+                src: url('[[font:theme|Roboto-Medium-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Roboto-Black-webfont.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 200;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-ExtraLight.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 200;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-ExtraLightIt.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 300;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-Light.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 300;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-LightIt.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 400;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-Regular.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 400;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-It.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 600;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-Semibold.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 600;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-SemiboldIt.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 700;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-Bold.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 700;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-BoldIt.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 900;
+                font-style: normal;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-Black.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Source Sans Pro';
+                font-weight: 900;
+                font-style: italic;
+                font-stretch: normal;
+                src: url('[[font:theme|SourceSansPro-BlackIt.woff]]') format('woff');
+            }
+
+            @font-face {
+                font-family: 'Ubuntu';
+                font-style: normal;
+                font-weight: 400;
+                src: url('[[font:theme|Ubuntu-R.ttf]]') format('truetype');
+            }
+
+            @font-face {
+                font-family: 'Ubuntu';
+                font-style: normal;
+                font-weight: 700;
+                src: url('[[font:theme|Ubuntu-B.ttf]]') format('truetype');
+            }
+        ";s:15:"loginbackground";s:0:"";s:22:"loginbackgroundopacity";s:3:"0.8";s:20:"loginbackgroundstyle";s:5:"cover";s:21:"marketingblocksperrow";s:1:"2";s:12:"mycoursesmax";s:1:"0";s:14:"mycoursesorder";s:1:"1";s:21:"mycoursesorderidorder";s:1:"1";s:13:"mycoursetitle";s:6:"course";s:18:"navbardisplayicons";s:1:"1";s:19:"navbardisplaytitles";s:1:"1";s:16:"navbareditswitch";s:1:"1";s:14:"navbarposition";s:3:"top";s:11:"navbarstyle";s:4:"dark";s:14:"numberofalerts";s:1:"0";s:14:"numberofbrands";s:1:"0";s:7:"prescss";s:0:"";s:13:"propertyfiles";s:0:"";s:8:"putprops";s:0:"";s:6:"swatch";s:7:"default";s:19:"swatchcustomcolours";s:0:"";s:22:"swatchcustomtypography";s:0:"";s:4:"trio";s:0:"";s:15:"unaddableblocks";s:0:"";s:7:"version";s:10:"2025060800";}

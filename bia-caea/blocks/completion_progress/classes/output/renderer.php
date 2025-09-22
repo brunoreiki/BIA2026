@@ -146,6 +146,59 @@ class renderer extends plugin_renderer_base {
         }
 
         // Determine links to activities.
+        
+        // chatgpt
+        
+        // Determine links to activities (redirige vers la section/tuile si format Tiles).
+$istiles = false;
+try {
+    $format = course_get_format($courseid);
+    $istiles = ($format->get_format() === 'tiles');
+} catch (\Throwable $e) {
+    $istiles = false;
+}
+
+// On prépare modinfo une seule fois (perf).
+$modinfo = get_fast_modinfo($courseid);
+
+for ($i = 0; $i < $numactivities; $i++) {
+    // Lien par défaut = lien d'origine (activité) ou lien alternatif si rôle enseignant.
+    if (
+        $userid != $USER->id &&
+        array_key_exists($activities[$i]->type, $alternatelinks) &&
+        has_capability($alternatelinks[$activities[$i]->type]['capability'], $activities[$i]->context)
+    ) {
+        $substitutions = [
+            '/:courseid/' => $courseid,
+            '/:eventid/'  => $activities[$i]->instance,
+            '/:cmid/'     => $activities[$i]->id,
+            '/:userid/'   => $userid,
+        ];
+        $link = $alternatelinks[$activities[$i]->type]['url'];
+        $link = preg_replace(array_keys($substitutions), array_values($substitutions), $link);
+        $activities[$i]->link = $CFG->wwwroot . $link; // string OK
+    } else {
+        $activities[$i]->link = $activities[$i]->url; // moodle_url attendu
+    }
+
+    // Si format Tiles, on remplace par un lien vers la section (tuile).
+    if ($istiles) {
+        $cmid = $activities[$i]->id; // cm id
+        if (isset($modinfo->cms[$cmid])) {
+            $sectionnum = $modinfo->cms[$cmid]->sectionnum;
+            // Construire l'URL de section/tuile.
+            $sectionurl = new \moodle_url('/course/view.php', [
+                'id'      => $courseid,
+                'section' => $sectionnum,
+            ]);
+            // Important : garder un moodle_url pour $this->action_link plus bas.
+            $activities[$i]->link = $sectionurl;
+        }
+    }
+}
+
+        
+/*
         for ($i = 0; $i < $numactivities; $i++) {
             if ($userid != $USER->id &&
                 array_key_exists($activities[$i]->type, $alternatelinks) &&
@@ -164,6 +217,8 @@ class renderer extends plugin_renderer_base {
                 $activities[$i]->link = $activities[$i]->url;
             }
         }
+        
+*/
 
         // Start progress bar.
         $content .= html_writer::start_div(implode(' ', $barclasses), $rowoptions);

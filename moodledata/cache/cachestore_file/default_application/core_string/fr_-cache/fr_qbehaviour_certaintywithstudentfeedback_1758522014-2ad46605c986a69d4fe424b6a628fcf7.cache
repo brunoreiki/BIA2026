@@ -1,0 +1,4 @@
+a:4:{s:10:"pluginname";s:50:"Niveau de certitude avec feedback de l’étudiant";s:32:"privacy:metadata:attemptstepdata";s:60:"This plugin stores some data submitted during quiz attempts.";s:21:"privacy:metadata:name";s:92:"Attempt step data variable name, among [certainty, studentfeedback, generalstudentfeedback].";s:22:"privacy:metadata:value";s:387:"Attempt step data variable value.
+For certainty, certainty that submitted answer would be considered correct, for each attempted question using this behaviour.
+For studentfeedback, feedback submitted after a question attempt, for each attempted question using this behaviour.
+For generalstudentfeedback, global feedback submitted after a quiz attempt, for each quiz using this behaviour.";}
