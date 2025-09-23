@@ -83,6 +83,12 @@ emriHy22o
 config.php chez ovh 
 /homez.291/flashcul/bb/BIA2026
 
+Git garde une référence automatique appelée **`ORIG_HEAD`** qui pointe sur la position avant le dernier `reset --hard`.\
+Donc pour revenir à ton état juste avant :
+
+git reset --hard ORIG_HEAD
+
+
 ## Nouvelle BDD sur ovh
 
 Nouvelle
