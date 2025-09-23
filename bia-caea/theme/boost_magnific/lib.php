@@ -42,9 +42,9 @@ function theme_boost_magnific_css_tree_post_processor($tree, $theme) {
  */
 function theme_boost_magnific_get_extra_scss($theme) {
     $content = "";
-    $imageurl = $theme->setting_file_url("backgroundimage", "backgroundimage");
 
     // Sets the background image, and its settings.
+    $imageurl = $theme->setting_file_url("backgroundimage", "backgroundimage");
     if (!empty($imageurl)) {
         $content .= "
             @media (min-width: 768px) {
@@ -63,8 +63,7 @@ function theme_boost_magnific_get_extra_scss($theme) {
             }";
     }
 
-    // Always return the background image with the scss when we have it.
-    return !empty($theme->settings->scss) ? "{$theme->settings->scss}  \n  {$content}" : $content;
+    return "{$content}\n{$theme->settings->scsspos}";
 }
 
 /**
@@ -151,14 +150,29 @@ function theme_boost_magnific_get_main_scss_content($theme) {
  * @throws Exception
  */
 function theme_boost_magnific_get_pre_scss($theme) {
+    global $CFG;
+
     $scss = "";
     $brandcolor = get_config("theme_boost", "brandcolor");
     if ($brandcolor) {
         $scss .= "\$primary: {$brandcolor};\n";
     }
 
-    if ($topscrollbackgroundcolor = get_config("theme_boost_magnific", "top_scroll_background_color")) {
-        $scss .= "\$top_scroll_background_color: {$topscrollbackgroundcolor};\n";
+    if ($CFG->theme == "degrade") {
+        $angle = theme_degrade_default_color("angle", 30);
+        $gradient1 = theme_degrade_default_color("brandcolor_gradient_1", "#f54266");
+        $gradient2 = theme_degrade_default_color("brandcolor_gradient_2", "#3858f9");
+        $scss .= "
+            .navbar.fixed-top.brandcolor-background {
+                background: linear-gradient({$angle}deg, {$gradient1}, {$gradient2}) !important;
+            }
+            .navbar.fixed-top.brandcolor-background .navbar-content-background {
+                background-color: transparent !important;
+            }\n";
+    } else {
+        if ($topscrollbackgroundcolor = get_config("theme_boost_magnific", "top_scroll_background_color")) {
+            $scss .= "\$top_scroll_background_color: {$topscrollbackgroundcolor};\n";
+        }
     }
 
     $callbacks = get_plugins_with_function("theme_boost_magnific_get_pre_scss");
@@ -487,20 +501,20 @@ function theme_boost_magnific_change_color() {
 
 
 /**
- * theme_boost_magnific_default_color
+ * get_config default
  *
  * @param string $configname
- * @param string $defaultcolor
+ * @param string $default
  * @return string
  * @throws Exception
  */
-function theme_boost_magnific_default_color($configname, $defaultcolor, $plugin = "theme_boost_magnific") {
-    $color = get_config($plugin, $configname);
-
-    if (isset($color[4])) {
-        return $color;
+function theme_boost_magnific_default($configname, $default, $plugin = "theme_boost_magnific") {
+    $value = get_config($plugin, $configname);
+    if ($value === false) {
+        return $default;
     }
-    return $defaultcolor;
+
+    return $value;
 }
 
 /**
@@ -527,20 +541,4 @@ function theme_boost_magnific_get_footer_color($bgcolor, $darkcolor, $lightcolor
     $luminance = (0.299 * $r + 0.587 * $g + 0.114 * $b) / 255;
 
     return $luminance > 0.6 ? $darkcolor : $lightcolor;
-}
-
-
-if (!function_exists('str_starts_with')) {
-    /**
-     * The function returns {@see true} if the passed $haystack starts from the
-     * $needle string or {@see false} otherwise.
-     *
-     * @param string $haystack
-     * @param string $needle
-     * @return bool
-     * @since 8.0
-     */
-    function str_starts_with(string $haystack, string $needle): bool {
-        return $needle !== '' && strncmp($haystack, $needle, strlen($needle)) === 0;
-    }
 }

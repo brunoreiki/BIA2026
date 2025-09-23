@@ -66,7 +66,7 @@ if (required_param("dataid", PARAM_TEXT) == "create") {
     $template = required_param("template", PARAM_TEXT);
     $lang = required_param("lang", PARAM_TEXT);
     $local = required_param("local", PARAM_TEXT);
-    $page = editor_create_page($template, $lang, $local);
+    $page = theme_boost_magnific_editor_create_page($template, $lang, $local);
     redirect("{$CFG->wwwroot}/theme/boost_magnific/_editor/editor.php?dataid={$page->id}");
     die;
 }
@@ -92,13 +92,18 @@ $local = $page->local;
 
 $pageinfo = json_decode($page->info);
 
-$cssfiles = "@import url(\"model/{$page->template}/style.css\"); \n";
+$cssfiles = "@import url('model/{$page->template}/style.css');\n";
+$cssfiles .= "@import url('css/bootstrap.css');\n";
+if (file_exists(__DIR__ . "/model/{$page->template}/editor-plugin.js")) {
+    $csscontent = file_get_contents(__DIR__ . "/model/_assets/editor.css");
+    $cssfiles .= theme_boost_magnific_replace_lang_by_string($csscontent);
+}
 if(isset($pageinfo->form->styles)) {
     foreach ($pageinfo->form->styles as $styles) {
         if ($styles == "bootstrap") {
             continue;
         }
-        $cssfiles .= "@import url(\"model/{$page->template}/{$styles}\"); \n";
+        $cssfiles .= "@import url('model/{$page->template}/{$styles}'); \n";
     }
 }
 
@@ -126,7 +131,7 @@ $languages = get_string_manager()->get_list_of_translations();
     <title>GrapesJs</title>
 </head>
 <body style="margin: 0;">
-<form method="post" action="<?php echo actionurl("page-save") ?>" id="form-save-editor">
+<form method="post" action="<?php echo theme_boost_magnific_actionurl("page-save") ?>" id="form-save-editor">
     <input type="hidden" name="html" id="html-body" value="<?php echo htmlentities($page->html) ?>">
     <input type="hidden" name="css" id="css-body">
     <input type="hidden" id="editor-sesskey" value="<?php echo sesskey() ?>">
@@ -186,9 +191,8 @@ if ($page->type == "form") { // Only form.
 <script>
     window.GrapesJsCSS = `<?php echo $cssfiles; ?>`
 
-    GrapesJsStudioSDK.createStudioEditor({
+    GrapesJs.createEditor({
         root: "#studio-editor",
-        licenseKey: "DEMO_LOCALHOST_KEY",
         theme: "dark",
         fonts: {
             enableFontManager: true,
@@ -303,7 +307,7 @@ if ($page->type == "form") { // Only form.
         assets: {
             storageType: "self",
             onLoad: async function () {
-                const response = await fetch("<?php echo actionurl("file-list") ?>", {method: "GET"});
+                const response = await fetch("<?php echo theme_boost_magnific_actionurl("file-list") ?>", {method: "GET"});
 
                 if (!response.ok) {
                     throw new Error(`Erro na requisição: ${response.status}`);
@@ -316,7 +320,7 @@ if ($page->type == "form") { // Only form.
                 for (const file of files) {
                     body.append("files", file);
                 }
-                const response = await fetch("<?php echo actionurl("file-upload") ?>", {
+                const response = await fetch("<?php echo theme_boost_magnific_actionurl("file-upload") ?>", {
                     method: "POST",
                     body
                 });
@@ -329,7 +333,7 @@ if ($page->type == "form") { // Only form.
                 }
 
                 const body = JSON.stringify(assets[0].attributes);
-                await fetch("<?php echo actionurl("file-delete") ?>", {
+                await fetch("<?php echo theme_boost_magnific_actionurl("file-delete") ?>", {
                     method: "POST",
                     body
                 });
@@ -356,12 +360,19 @@ if ($page->type == "form") { // Only form.
             autosaveIntervalMs: 500,
         },
         plugins: [
-            StudioSdkPlugins_prosemirror.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/rte/prosemirror */ }),
-            StudioSdkPlugins_layoutSidebarButtons.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/layout/sidebar-buttons */ }),
-            StudioSdkPlugins_tableComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/table */}),
-            StudioSdkPlugins_iconifyComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/iconify */}),
-            StudioSdkPlugins_flexComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/flex */}),
-            StudioSdkPlugins_canvasEmptyState.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/canvas/emptyState */}),
+            GrapesJsPlugins_prosemirror.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/rte/prosemirror */ }),
+            GrapesJsPlugins_layoutSidebarButtons.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/layout/sidebar-buttons */ }),
+            GrapesJsPlugins_tableComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/table */}),
+            GrapesJsPlugins_iconifyComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/iconify */}),
+            GrapesJsPlugins_flexComponent.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/components/flex */}),
+            GrapesJsPlugins_canvasEmptyState.init({ /* Plugin options: https://app.grapesjs.com/docs-sdk/plugins/canvas/emptyState */}),
+
+            <?php
+            if (file_exists(__DIR__ . "/model/{$page->template}/editor-plugin.js")) {
+                $pluginjs = file_get_contents(__DIR__ . "/model/{$page->template}/editor-plugin.js");
+                echo theme_boost_magnific_replace_lang_by_string($pluginjs);
+            }
+            ?>
         ],
     });
 </script>

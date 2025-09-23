@@ -1286,7 +1286,7 @@
     'theme_boost_magnific/course_cache' => 
     array (
       'mode' => 1,
-      'ttl' => 21600,
+      'ttl' => 86400,
       'component' => 'theme_boost_magnific',
       'area' => 'course_cache',
       'selectedsharingoption' => 2,
@@ -1298,6 +1298,15 @@
       'ttl' => 86400,
       'component' => 'theme_boost_magnific',
       'area' => 'frontpage_cache',
+      'selectedsharingoption' => 2,
+      'userinputsharingkey' => '',
+    ),
+    'theme_boost_magnific/data_cache' => 
+    array (
+      'mode' => 1,
+      'ttl' => 432000,
+      'component' => 'theme_boost_magnific',
+      'area' => 'data_cache',
       'selectedsharingoption' => 2,
       'userinputsharingkey' => '',
     ),

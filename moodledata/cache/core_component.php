@@ -6947,6 +6947,7 @@ $cache = array (
     'theme_boost_magnific\\output\\core\\admin_renderer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/output/core/admin_renderer.php',
     'theme_boost_magnific\\output\\core\\course_renderer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/output/core/course_renderer.php',
     'theme_boost_magnific\\output\\core_renderer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/output/core_renderer.php',
+    'theme_boost_magnific\\output\\footer_renderer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/output/footer_renderer.php',
     'theme_boost_magnific\\output\\navbar' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/output/navbar.php',
     'theme_boost_magnific\\privacy\\provider' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/privacy/provider.php',
     'theme_boost_magnific_autoprefixer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/autoprefixer.php',
