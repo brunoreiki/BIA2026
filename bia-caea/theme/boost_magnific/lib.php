@@ -23,6 +23,9 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
+use theme_boost_magnific\admin\setting_scss;
+use theme_boost_magnific\autoprefixer;
+
 /**
  * Post process the CSS tree.
  *
@@ -30,7 +33,7 @@
  * @param theme_config $theme The theme config object.
  */
 function theme_boost_magnific_css_tree_post_processor($tree, $theme) {
-    $prefixer = new theme_boost_magnific\autoprefixer($tree);
+    $prefixer = new autoprefixer($tree);
     $prefixer->prefix();
 }
 
@@ -54,16 +57,15 @@ function theme_boost_magnific_get_extra_scss($theme) {
              }";
     }
 
-    // Sets the login background image.
-    $loginbackgroundimageurl = $theme->setting_file_url("loginbackgroundimage", "loginbackgroundimage");
-    if (!empty($loginbackgroundimageurl)) {
-        $content .= "
-            body.pagelayout-login #page-wrapper {
-                background-image: url('$loginbackgroundimageurl'); background-size: cover;
-            }";
+    $scsspos = "";
+    if (isset($theme->settings->scsspos[5])) {
+        $settingscss = new setting_scss("test", "test", "", "");
+        if ($settingscss->validate($theme->settings->scsspos) === true) {
+            $scsspos = $theme->settings->scsspos;
+        }
     }
 
-    return "{$content}\n{$theme->settings->scsspos}";
+    return "{$content}\n{$scsspos}";
 }
 
 /**
@@ -159,9 +161,9 @@ function theme_boost_magnific_get_pre_scss($theme) {
     }
 
     if ($CFG->theme == "degrade") {
-        $angle = theme_degrade_default_color("angle", 30);
-        $gradient1 = theme_degrade_default_color("brandcolor_gradient_1", "#f54266");
-        $gradient2 = theme_degrade_default_color("brandcolor_gradient_2", "#3858f9");
+        $angle = theme_boost_magnific_default("angle", 30);
+        $gradient1 = theme_boost_magnific_default("brandcolor_gradient_1", "#f54266");
+        $gradient2 = theme_boost_magnific_default("brandcolor_gradient_2", "#3858f9");
         $scss .= "
             .navbar.fixed-top.brandcolor-background {
                 background: linear-gradient({$angle}deg, {$gradient1}, {$gradient2}) !important;
@@ -185,8 +187,11 @@ function theme_boost_magnific_get_pre_scss($theme) {
     }
 
     // Prepend pre-scss.
-    if (!empty($theme->settings->scsspre)) {
-        $scss .= $theme->settings->scsspre;
+    if (isset($theme->settings->scsspre[5])) {
+        $settingscss = new setting_scss("test", "test", "", "");
+        if ($settingscss->validate($theme->settings->scsspre) === true) {
+            $scss .= $theme->settings->scsspre;
+        }
     }
 
     return $scss;

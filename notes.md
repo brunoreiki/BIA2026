@@ -1,3 +1,48 @@
+
+<h3>Les avions en temps réel</h3>
+<p></p>
+<div id="map"></div>
+<p></p>
+
+
+# MathJax
+
+https://bia-facile.fr/local/MathJax/tex-mml-chtml.js
+
+Moodle 5.0.2
+https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js
+
+{
+  "loader": { "load": ["[tex]/ams", "[tex]/physics", "[tex]/color"] },
+  "tex": {
+    "inlineMath": [["\\(", "\\)"]],
+    "displayMath": [["\\[", "\\]"], ["$$", "$$"]],
+    "packages": { "[+]": ["ams", "physics", "color"] },
+    "macros": {
+      "R": "\\mathbb{R}",
+      "N": "\\mathbb{N}",
+      "vect": ["\\overrightarrow{#1}", 1],
+      "dd": "\\,\\mathrm{d}"
+    }
+  },
+  "options": {
+    "skipHtmlTags": ["script", "noscript", "style", "textarea", "pre", "code"]
+  },
+  "chtml": { "scale": 1 }
+}
+
+
+Moodle 4.5.1
+https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js
+
+MathJax.Hub.Config({
+    config: ["Accessible.js", "Safe.js"],
+    errorSettings: { message: ["!"] },
+    skipStartupTypeset: true,
+    messageStyle: "none"
+});
+
+
 # BIA CAEA
 
 Projet thèse BIA 2026
