@@ -27,6 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['allcourses'] = 'Tous les cours';
 $string['backupsize'] = 'Taille des sauvegardes';
+$string['backupsizemb'] = 'Taille des sauvegardes (Mo)';
 $string['cachedef_topuserdata'] = 'Informations en cache sur les utilisateurs ayant la plus grande quantité totale de données.';
 $string['calcmethod'] = 'Mise à jour du rapport principal';
 $string['calcmethodcron'] = 'Tâche programmée';
@@ -42,6 +43,7 @@ $string['coursesize:view'] = 'Voir le rapport des cours';
 $string['coursesize_desc'] = '<p>Ce rapport fourni seulement des valeurs indicatives : si un fichier est utilisé plusieurs fois dans un cours, ou dans plusieurs cours, le rapport comptera chaque instance, alors que Moodle ne le stocke qu’une seule fois sur le disque.</p>';
 $string['coursesummary'] = '(voir statistiques)';
 $string['diskusage'] = 'Total';
+$string['diskusagemb'] = 'Total (Mo)';
 $string['emptycourseshidden'] = 'Les cours qui n’utilisent pas de stockage de documents n’apparaissent pas dans ce rapport.';
 $string['error_unsupported_branch'] = 'Impossible de mettre à jour cet ancien plugin Poids des cours - vous devriez vérifier/supprimer l’ancienne table avant de mettre à jour vers cette version.';
 $string['exportcsv'] = 'Export CSV';

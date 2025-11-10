@@ -31,7 +31,7 @@ $string['automatictemplate_help'] = 'Le modèle de cours a été automatiquement
 $string['buypro'] = 'Acheter Kickstart Pro';
 $string['buypromaxtemplates'] = 'Vous utilisez le nombre maximum (<b>4</b>) de modèles autorisés dans l’édition gratuite de Kickstart. Pour créer plus de modèles, achetez <a target="_blank" href="http://bdecent.de/kickstart">Kickstart Pro</a>.';
 $string['buyprosummary'] = 'Pour déverrouiller toutes les fonctionnalités de Kickstart, achetez Kickstart Pro.';
-$string['confirmtemplate'] = 'Voulez-vous vraiment utiliser ce modèle ?';
+$string['confirmtemplate'] = 'Voulez-vous vraiment utiliser ce modèle « {$a->name} » ?';
 $string['course_backup'] = 'Fichier de sauvegarde du cours (.mbz)';
 $string['course_backup_help'] = 'Lorsqu’un utilisateur sélectionne ce modèle dans un cours, cette sauvegarde de cours .mbz sera importée dans le cours.';
 $string['course_templates'] = 'Modèles de cours';

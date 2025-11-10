@@ -1,1 +1,146 @@
-a:29:{s:24:"background_profile_image";s:26:"/user-modal-background.jpg";s:15:"backgroundimage";s:0:"";s:26:"brandcolor_background_menu";s:1:"1";s:14:"course_summary";s:1:"0";s:21:"course_summary_banner";s:1:"0";s:20:"enable_accessibility";s:1:"0";s:14:"enable_vlibras";s:1:"0";s:23:"footer_background_color";s:7:"#1a2a6c";s:13:"footer_html_1";s:0:"";s:13:"footer_html_2";s:0:"";s:13:"footer_html_3";s:0:"";s:13:"footer_html_4";s:0:"";s:22:"footer_show_copywriter";s:1:"0";s:14:"footer_title_1";s:0:"";s:14:"footer_title_2";s:0:"";s:14:"footer_title_3";s:0:"";s:14:"footer_title_4";s:0:"";s:20:"loginbackgroundimage";s:72:"/Gulfstream_G600,_EBACE_2018,_Le_Grand-Saconnex_(BL7C0704)(1)petite.jpeg";s:10:"logintheme";s:6:"aurora";s:10:"logo_write";s:1:"0";s:4:"scss";s:0:"";s:7:"scsspos";s:0:"";s:7:"scsspre";s:0:"";s:10:"startcolor";s:4:"#000";s:36:"theme_boost_magnific_customcolor_401";s:0:"";s:27:"top_scroll_background_color";s:7:"#3261c7";s:14:"top_scroll_fix";s:1:"1";s:21:"top_scroll_text_color";s:7:"#FFFFFF";s:7:"version";s:10:"2025091900";}
+a:35:{s:24:"background_profile_image";s:26:"/user-modal-background.jpg";s:15:"backgroundimage";s:0:"";s:26:"brandcolor_background_menu";s:1:"1";s:14:"course_summary";s:1:"0";s:21:"course_summary_banner";s:1:"0";s:20:"enable_accessibility";s:1:"1";s:14:"enable_vlibras";s:1:"0";s:23:"footer_background_color";s:7:"#1a2a6c";s:13:"footer_html_1";s:0:"";s:13:"footer_html_2";s:0:"";s:13:"footer_html_3";s:0:"";s:13:"footer_html_4";s:0:"";s:22:"footer_show_copywriter";s:1:"0";s:14:"footer_title_1";s:0:"";s:14:"footer_title_2";s:0:"";s:14:"footer_title_3";s:0:"";s:14:"footer_title_4";s:0:"";s:20:"loginbackgroundimage";s:72:"/Gulfstream_G600,_EBACE_2018,_Le_Grand-Saconnex_(BL7C0704)(1)petite.jpeg";s:9:"loginlogo";s:10:"/gulf.jpeg";s:10:"logintheme";s:6:"aurora";s:10:"logo_write";s:1:"0";s:4:"scss";s:0:"";s:7:"scsspos";s:3281:"
+.difficulty-facile::before {
+content: url('https://bia-caea/images/facile.png');
+margin-right: 5px;
+}
+
+.difficulty-difficile::before {
+content: url('https://bia-caea/images/difficile.png');
+margin-right: 5px;
+}   
+
+/* image = légende */
+
+    .gallery {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 20px;
+      padding: 20px;
+      background-color: #00274d; /* Bleu foncé */
+      color: white;
+    }
+
+
+
+    .gallery-titre {
+      text-align: center;
+      color: white;
+      font-weight: bold;
+      margin: 0;
+      font-size: 2em;
+    }
+
+    .gallery-items {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-end;
+      gap: 20px;
+      flex-wrap: wrap;
+      width: 100%;
+    }
+
+    .gallery-item {
+      text-align: center;
+      max-width: 250px;
+    }
+
+    .gallery-item img {
+      max-width: 100%;
+      height: auto;
+      border: 2px solid white;
+      border-radius: 0; /* Coins carrés */
+    }
+
+    .gallery-item figcaption {
+      color: white; /* Légendes en blanc */
+      font-style: italic;
+      margin-top: 10px;
+    }
+
+/* epicea */
+        .bloc-image-text {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            color: white;
+        }
+        .column {
+            flex: 1 1 calc(50% - 40px);
+            box-sizing: border-box;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #004488;
+        }
+        .entry {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            grid-template-rows: auto auto;
+            align-items: start;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .entry img {
+            grid-row: 1 / span 2;
+            grid-column: 1;
+            flex-shrink: 0;
+        }
+        .entry .text {
+            grid-column: 2;
+            grid-row: 1;
+        }
+        .entry .legend {
+            grid-column: 2;
+            grid-row: 2;
+            font-style: italic;
+            margin-top: 10px;
+            color: #cce6ff;
+        }
+        .titre-bloc-image {
+            margin-top: 0;
+            color: #ffffff;
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+
+        .text p {
+            margin-top: 0;
+            color: #ffffff;
+            font-weight: bold;
+            margin: 0 0 10px;
+        }
+
+/* image carrée */
+
+.activity-item .activity-altcontent img {
+  border-radius:0rem;
+}
+
+.que.certaintywithstudentfbdeferred table.certainty th {
+  background-color: #183054;
+  /* #0f6cbf */
+  /* #2B4E84#3E65A0#183054 */
+}
+
+/* enlever gris et arrondis */
+
+.course-section .course-section-header[id^="course-section-header-"] {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.activity-item {
+  background: transparent !important;
+  border: none !important;
+}
+
+.course-card, .theme-card {
+  border-radius: none !important;
+}
+";s:7:"scsspre";s:0:"";s:10:"startcolor";s:4:"#000";s:36:"theme_boost_magnific_customcolor_252";s:0:"";s:36:"theme_boost_magnific_customcolor_397";s:0:"";s:36:"theme_boost_magnific_customcolor_401";s:0:"";s:36:"theme_boost_magnific_customcolor_417";s:0:"";s:36:"theme_boost_magnific_customcolor_418";s:0:"";s:36:"theme_boost_magnific_customcolor_419";s:0:"";s:27:"top_scroll_background_color";s:7:"#3261c7";s:14:"top_scroll_fix";s:1:"1";s:21:"top_scroll_text_color";s:7:"#FFFFFF";s:7:"version";s:10:"2025101300";}

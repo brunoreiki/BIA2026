@@ -43,13 +43,13 @@ $string['parentlangbehaviour_desc'] = '<p>
       <li>
         Il s’agit de la valeur par défaut du paramètre. Le filtre
         utilise à la fois les langues spécifiées dans le bloc de
-        langue <code>{mlang ...}</code>, ainsi que toutes ses langues
+        langue <code>{mlang …}</code>, ainsi que toutes ses langues
         parentes (jusqu’à, mais sans inclure, la langue
         racine <code>en</code>).
       </li>
       <li>
         Exemple : si un bloc de langue spécifie <code>{mlang
-        en_us_k12}...{mlang}</code>, ce bloc sera uniquement affiché
+        en_us_k12}…{mlang}</code>, ce bloc sera uniquement affiché
         si la langue de l’utilisateur est <code>en_us_k12</code>
         ou <code>en_us</code>, mais pas s’il s’agit
         de <code>en</code>.
@@ -73,7 +73,7 @@ $string['parentlangbehaviour_desc'] = '<p>
       </li>
       <li>
         Exemple : si un bloc de langue spécifie <code>{mlang
-        en_us_k12}...{mlang}</code>, ce bloc sera affiché si la langue
+        en_us_k12}…{mlang}</code>, ce bloc sera affiché si la langue
         de l’utilisateur est <code>en_us_k12</code>, comme si elle
         est <code>en_us</code>, ou si elle est <code>en</code>.
       </li>
@@ -90,7 +90,7 @@ $string['parentlangbehaviour_desc'] = '<p>
       </li>
       <li>
         Exemple : si un bloc de langue spécifie <code> {mlang
-        en_us_k12}...{mlang}</code>, ce bloc sera affiché uniquement
+        en_us_k12}…{mlang}</code>, ce bloc sera affiché uniquement
         si la langue de l’utilisateur est <code>en_us_k12</code>,
         mais pas si est <code>en_us</code> ou <code>en</code>.
       </li>

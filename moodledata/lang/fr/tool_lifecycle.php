@@ -47,7 +47,6 @@ $string['all_delays'] = 'Tous les reports';
 $string['anonymous_user'] = 'Utilisateur anonyme';
 $string['apply'] = 'Appliquer';
 $string['backupcreated'] = 'Créé le';
-$string['backupworkflow'] = 'Processus de sauvegarde';
 $string['cannot_trigger_workflow_manually'] = 'La chaîne de traitement demandée n’a pas pu être déclenché manuellement.';
 $string['config_backup_path'] = 'Chemin du dossier de sauvegarde du cycle de vie';
 $string['config_backup_path_desc'] = 'Ce paramètre définit l’emplacement de stockage des sauvegardes créées à l’étape de sauvegarde. Le chemin doit être spécifié comme un chemin absolu sur votre serveur.';

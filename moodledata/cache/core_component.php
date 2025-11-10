@@ -397,6 +397,7 @@ $cache = array (
     'report' => 
     array (
       'backups' => '/home/flashcul/bb/BIA2026/bia-caea/report/backups',
+      'certaintyquizzes' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes',
       'competency' => '/home/flashcul/bb/BIA2026/bia-caea/report/competency',
       'completion' => '/home/flashcul/bb/BIA2026/bia-caea/report/completion',
       'configlog' => '/home/flashcul/bb/BIA2026/bia-caea/report/configlog',
@@ -634,6 +635,7 @@ $cache = array (
     ),
     'local' => 
     array (
+      'courseindexfix' => '/home/flashcul/bb/BIA2026/bia-caea/local/courseindexfix',
       'kopere_dashboard' => '/home/flashcul/bb/BIA2026/bia-caea/local/kopere_dashboard',
       'learningtools' => '/home/flashcul/bb/BIA2026/bia-caea/local/learningtools',
     ),
@@ -6680,6 +6682,14 @@ $cache = array (
     'renderer_factory' => '/home/flashcul/bb/BIA2026/bia-caea/lib/classes/output/renderer_factory/renderer_factory_interface.php',
     'renderer_factory_base' => '/home/flashcul/bb/BIA2026/bia-caea/lib/classes/output/renderer_factory/renderer_factory_base.php',
     'report_backups\\privacy\\provider' => '/home/flashcul/bb/BIA2026/bia-caea/report/backups/classes/privacy/provider.php',
+    'report_certaintyquizzes\\external\\get_question_data' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/external/get_question_data.php',
+    'report_certaintyquizzes\\external\\get_users_attempts_data' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/external/get_users_attempts_data.php',
+    'report_certaintyquizzes\\locallib' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/locallib.php',
+    'report_certaintyquizzes\\privacy\\provider' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/privacy/provider.php',
+    'report_certaintyquizzes\\reports\\report' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/reports/report.php',
+    'report_certaintyquizzes\\reports\\singlequiz' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/reports/singlequiz.php',
+    'report_certaintyquizzes\\reports\\studentsalongcourse' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/reports/studentsalongcourse.php',
+    'report_certaintyquizzes_locallib' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/classes/locallib.php',
     'report_competency\\external' => '/home/flashcul/bb/BIA2026/bia-caea/report/competency/classes/external.php',
     'report_competency\\output\\renderer' => '/home/flashcul/bb/BIA2026/bia-caea/report/competency/classes/output/renderer.php',
     'report_competency\\output\\report' => '/home/flashcul/bb/BIA2026/bia-caea/report/competency/classes/output/report.php',
@@ -6940,6 +6950,7 @@ $cache = array (
     'theme_boost_admin_settingspage_tabs' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost/classes/admin_settingspage_tabs.php',
     'theme_boost_autoprefixer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost/classes/autoprefixer.php',
     'theme_boost_boostnavbar' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost/classes/boostnavbar.php',
+    'theme_boost_magnific\\admin\\setting_scss' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/admin/setting_scss.php',
     'theme_boost_magnific\\autoprefixer' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/autoprefixer.php',
     'theme_boost_magnific\\core_hook_output' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/core_hook_output.php',
     'theme_boost_magnific\\editor\\editor_tiny' => '/home/flashcul/bb/BIA2026/bia-caea/theme/boost_magnific/classes/editor/editor_tiny.php',
@@ -8164,6 +8175,7 @@ $cache = array (
       ),
       'report' => 
       array (
+        'certaintyquizzes' => '/home/flashcul/bb/BIA2026/bia-caea/report/certaintyquizzes/lib.php',
         'competency' => '/home/flashcul/bb/BIA2026/bia-caea/report/competency/lib.php',
         'completion' => '/home/flashcul/bb/BIA2026/bia-caea/report/completion/lib.php',
         'insights' => '/home/flashcul/bb/BIA2026/bia-caea/report/insights/lib.php',
@@ -8326,6 +8338,7 @@ $cache = array (
       ),
       'local' => 
       array (
+        'courseindexfix' => '/home/flashcul/bb/BIA2026/bia-caea/local/courseindexfix/lib.php',
         'kopere_dashboard' => '/home/flashcul/bb/BIA2026/bia-caea/local/kopere_dashboard/lib.php',
         'learningtools' => '/home/flashcul/bb/BIA2026/bia-caea/local/learningtools/lib.php',
       ),

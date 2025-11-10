@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['braceerror'] = 'Impossible de trouver une paire d\'accolades {...} autour du (des) mot(s) à deviner -> {$a}';
+$string['braceerror'] = 'Impossible de trouver une paire d\'accolades {…} autour du (des) mot(s) à deviner -> {$a}';
 $string['bracketserror'] = 'Crochets mal appariés dans cette question -> {$a}';
 $string['giftnovalidquestion'] = 'Il y a une erreur dans le formatage de votre question Devinette. Consultez la documentation.';
 $string['nbtrieserror'] = 'Le nombre d\'essais {$a->nbtries} n\'est pas dans la plage de valeurs autorisée : 6, 8, 10, 12, 14 -> {$a->line}';

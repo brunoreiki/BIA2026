@@ -1,0 +1,46 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template report_certaintyquizzes/report_toggler
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * courseid Course id
+    * studentsalongcourse Optional, true if current report is "Evolution along Quizzes"
+    * singlequiz Optional, true if current report is "Single Quiz"
+
+    Example context (json):
+    {
+        "courseid": 2,
+        "studentsalongcourse": true
+    }
+}}
+<div class="d-flex justify-content-center my-4">
+    <div class="btn-group align-items-center" role="group">
+        <a href="?courseid={{courseid}}&report=studentsalongcourse" class="btn btn-outline-primary report-toggler-button {{#studentsalongcourse}}active{{/studentsalongcourse}}">
+            {{# str}} studentsalongcourse, report_certaintyquizzes {{/ str}}
+        </a>
+        <a href="?courseid={{courseid}}&report=singlequiz" class="btn btn-outline-primary report-toggler-button {{#singlequiz}}active{{/singlequiz}}">
+            {{# str}} singlequiz, report_certaintyquizzes {{/ str}}
+        </a>
+    </div>
+</div>

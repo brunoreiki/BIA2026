@@ -25,4 +25,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['notsupported'] = 'Ce type de question n\'est pas pris en charge';
+$string['pluginname'] = 'Imprimer pour révision';
+$string['pluginname_help'] = 'Exporte les questions, y compris toutes les réponses, pour impression. Supprime le code HTML des textes.';
 $string['pluginname_link'] = 'qformat/printout';
+$string['privacy:metadata'] = 'Le plugin de format de question Imprimer pour révision n’enregistre aucune donnée personnelle.';

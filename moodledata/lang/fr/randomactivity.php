@@ -38,7 +38,7 @@ $string['completiontrackactivity_help'] = 'Quand cette option est activée, l’
 <b>Note :</b> Cela peut prendre le pas sur les autres méthodes de suivi d’achèvement.';
 $string['confirmreassign'] = 'Vous êtes sur le point de modifier le pool d’activités utilisé par cette activité aléatoire. Les étudiants se verront attribuer de nouvelles activités. <br>
 Les étudiants qui ont commencé à travailler sur leur activité précédemment attribuée perdront leur progression si une autre activité leur est attribuée. <br>
-Les étudiants qui ont obtenu une note pour leur activité précédemment attribuée perdront leur note pour cette activité  si une autre activité leur est attribuée.';
+Les étudiants qui ont obtenu une note pour leur activité précédemment attribuée perdront leur note pour cette activité si une autre activité leur est attribuée.';
 $string['continuetoactivity'] = 'Continuer vers l’activité';
 $string['duedate'] = 'Date de fin';
 $string['duedate_help'] = 'Date limite pour que les étudiants terminent cette activité aléatoire (apparaîtra dans le calendrier).<br>

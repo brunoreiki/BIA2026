@@ -30,6 +30,7 @@ $string['cannotfindanyrunforrunid'] = 'Impossible de trouver le profilage « {$
 $string['cannotfindanyrunforurl'] = 'Impossible de trouver aucun profilage pour l’URL « {$a} »';
 $string['comment'] = 'Commentaire';
 $string['cputime'] = 'Temps CPU';
+$string['detailview'] = 'Résumé d’exécution';
 $string['differencesbetween2runsof'] = 'Différences entre 2 lancements de {$a}';
 $string['executiontime'] = 'Durée d’exécution';
 $string['export'] = 'Exporter';

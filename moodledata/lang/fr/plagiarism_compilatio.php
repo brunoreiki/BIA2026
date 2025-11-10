@@ -414,10 +414,10 @@ $string['short_error_too_short'] = 'documents trop courts.';
 $string['short_error_unsupported'] = 'documents non pris en charge.';
 $string['show_area'] = 'Afficher les informations de Compilatio';
 $string['showstudentreport'] = 'Montrer le rapport d’analyse à l’étudiant';
-$string['showstudentreport_help'] = 'Le rapport d\'analyse indique les parties suspectes du document et l\'emplacement des sources détectées pour les similitudes.';
+$string['showstudentreport_help'] = 'Le rapport d\'analyse indique les parties suspectes du document et l\'emplacement des sources détectées pour lesquelles des similitudes ont été constatées.';
 $string['showstudentscore'] = 'Afficher le score de textes suspects à l’étudiant.';
-$string['showstudentscore_help'] = 'Le score du texte suspect est le pourcentage de la soumission qui peut potentiellement ne pas être authentique.
-<br>Il peut s\'agir de similitudes, de contenu potentiellement généré par l\'IA ou de textes altérés (textes transformés pour contourner le logiciel de détection).';
+$string['showstudentscore_help'] = 'Le score de texte suspect correspond au pourcentage du document soumis qui pourrait ne pas être authentique.
+<br>Il peut inclure : des similitudes, du contenu potentiellement généré par une IA ou des textes altérés (textes transformés pour contourner les logiciels de détection).';
 $string['showwhenclosed'] = 'Quand l’activité est fermée';
 $string['similarities'] = 'Textes suspects';
 $string['similarities_disclaimer'] = 'Vous pouvez analyser les textes suspects dans les documents de cette activité avec <a href=\'http://www.compilatio.net\' target=\'_blank\'>Compilatio</a>.<br/>

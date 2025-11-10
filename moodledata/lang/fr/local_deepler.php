@@ -44,6 +44,8 @@ $string['editbutton'] = 'Modifier la source dans le champ d’origine.';
 $string['errordbpartial'] = '{$a} champs n’ont pas pu être sauvegardés dans la base de données. Vérifier chacun dans la liste.';
 $string['errordbtitle'] = 'Erreur de base de données';
 $string['errortoolong'] = '(Il se peut que le texte soit trop long pour ce champ… Vérifier manuellement)';
+$string['fieldmaxlengtha'] = '{$a} caractères';
+$string['fieldmaxlengthb'] = '(max {$a})';
 $string['filters'] = 'Filtres';
 $string['formality'] = 'Formalités';
 $string['formalitydefault'] = 'par défaut';
@@ -192,6 +194,8 @@ $string['modeltpreferqualityoptimized'] = 'Optimiser de préférence la qualité
 $string['modeltype'] = 'Modèle';
 $string['modeltypelatencyoptimized'] = 'Optimiser la latence';
 $string['modeltypequalityoptimized'] = 'Optimiser la qualité';
+$string['module:select:label'] = 'Choisir une activité';
+$string['moduleall'] = 'TOUTES LES ACTIVITÉS';
 $string['needsupdate'] = 'Mise à jour requise';
 $string['neverrephrased'] = 'Ce texte n\'a jamais été amélioré.';
 $string['nevertranslated'] = 'Aucune traduction en «{$a}» pour l’instant';
@@ -221,6 +225,9 @@ $string['saveallmodaltitle'] = 'Sauvegarde des traductions dans la base de donn�
 $string['scannedfieldsize'] = 'Taille minimale des champs de texte';
 $string['scannedfieldsize_desc'] = 'Les petits champs de texte sont souvent limités dans la base de données. Le contenu du texte augmente assez rapidement (en plus des balises mlang) à chaque étape de la traduction.
 Après la traduction, si le texte est trop grand, la base de données affichera une erreur. Régler cettte valeur en fonction des propriétés de la langue principale et du nombre de langues supportées par votre Moodle.';
+$string['section:coursesettings'] = 'Paramètres du cours';
+$string['section:select:label'] = 'Choisir une section';
+$string['sectionall'] = 'TOUTES LES SECTIONS';
 $string['seesetting'] = 'Réglages avancés';
 $string['selectall'] = 'Tout';
 $string['selecttargetlanguage'] = 'Langue cible <em>{mlang {$a}}</em>';
@@ -353,6 +360,8 @@ $string['tour_advancedsettings23saveall'] = '<p>Lorsque des traductions sont ré
 <p>Vous pouvez donc les enregistrer une par une ou en cliquant sur le bouton « Enregistrer tout ».
 </p> <p>Si vous ne souhaitez pas enregistrer certaines traductions dans le lot, il vous suffit de les désélectionner avant de cliquer sur « enregistrer tout »</p>.';
 $string['tour_advancedsettings23savealltitle'] = 'Enregistrer toutes les traductions dans la base de données.';
+$string['translate:modal:body'] = 'Cela peut prendre un certain temps si vous avez beaucoup de contenu.';
+$string['translate:modal:title'] = 'Envoit à DeepL';
 $string['translatebutton'] = 'Traduire &rarr; {$a}';
 $string['translateexplain'] = 'Traduire tout les rangées sélectionées vers {$a}';
 $string['translationdisabled'] = 'La traduction est désactivée car ce lien est utilisé dans la base de données.';

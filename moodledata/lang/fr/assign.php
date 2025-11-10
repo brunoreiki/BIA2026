@@ -109,8 +109,8 @@ $string['attempthistory'] = 'Tentatives précédentes';
 $string['attemptnumber'] = 'Numéro de tentative';
 $string['attemptreopenmethod'] = 'Accorder des tentatives';
 $string['attemptreopenmethod_automatic'] = 'Automatiquement';
-$string['attemptreopenmethod_automatic_help'] = 'Après chaque tentative, la prochaine est accordée automatiquement.';
-$string['attemptreopenmethod_help'] = 'Ce paramètre définit la manière dont les étudiants se voient accorder des tentatives pour ce devoir. Pour chaque tentative, la note et le feedback sont enregistrés et peuvent être consultés par l’enseignant et l’étudiant. Les options disponibles sont :
+$string['attemptreopenmethod_automatic_help'] = 'Après chaque tentative, la prochaine est accordée automatiquement après évaluation.';
+$string['attemptreopenmethod_help'] = 'Ce paramètre définit la manière dont les étudiants se voient accorder des tentatives pour ce devoir. Pour chaque tentative, la note et le feedback sont enregistrés et peuvent être consultés par l’enseignant et l’étudiant. Les options sont :
 
 * Manuellement - Après chaque tentative, vous pouvez accorder la suivante depuis la page de remise ou la page d’évaluation.
 * Automatiquement - Après chaque tentative, la prochaine est accordée automatiquement.
@@ -119,7 +119,7 @@ $string['attemptreopenmethod_manual'] = 'Manuellement';
 $string['attemptreopenmethod_manual_help'] = 'Après chaque tentative, il est possible d’accorder la prochaine depuis la page des travaux remis ou la page d’évaluation.';
 $string['attemptreopenmethod_none'] = 'Jamais';
 $string['attemptreopenmethod_untilpass'] = 'Automatiquement jusqu’à réussite';
-$string['attemptreopenmethod_untilpass_help'] = 'Après chaque tentative, la prochaine sera octroyée automatiquement jusqu’à ce que l’étudiant atteignent la note minimale de réussite.';
+$string['attemptreopenmethod_untilpass_help'] = 'Après chaque tentative, la prochaine sera octroyée automatiquement après évaluation, jusqu’à ce que l’étudiant atteigne la note minimale de réussite.';
 $string['attemptsettings'] = 'Réglages de tentative';
 $string['availability'] = 'Disponibilité';
 $string['back'] = 'Retour';
@@ -150,13 +150,14 @@ $string['blindmarking'] = 'Remises anonymes';
 $string['blindmarking_help'] = 'Les remises anonymes cachent aux évaluateurs l’identité des étudiants. Les réglages des remises anonymes seront verrouillés dès qu’un travail aura été remis ou une note donnée pour ce devoir.';
 $string['blindmarkingenabledwarning'] = 'Les remises anonymes sont activées pour cette activité.';
 $string['blindmarkingnogradewarning'] = 'Les remises anonymes sont activées pour cette activité. Les notes ne seront pas ajoutées au carnet de notes jusqu’à ce que les identités des étudiants soient révélées dans le menu « Actions ».';
+$string['bulkactionsselection'] = 'Sélection des actions en lots';
 $string['cachedef_overrides'] = 'Informations sur les dérogations utilisateur et de groupe';
 $string['calendardue'] = '{$a} doit être rendu';
 $string['calendarextension'] = '{$a} doit être rendu (prolongation)';
 $string['calendargradingdue'] = '{$a} doit être évalué';
 $string['caneditsubmission'] = 'Vous pouvez modifier le devoir et l’envoyer après la fin du temps imparti, mais il sera marqué comme en retard.';
 $string['changefilters'] = 'Modifier les filtres';
-$string['changeuser'] = 'Modifier l’utilisateur';
+$string['changeuser'] = 'Changer d’utilisateur';
 $string['choosegradingaction'] = 'Action d’évaluation';
 $string['choosemarker'] = 'Sélectionner…';
 $string['chooseoperation'] = 'Choisir une opération';
@@ -248,7 +249,7 @@ $string['eventsubmissionduplicated'] = 'L’utilisateur a dupliqué son travail'
 $string['eventsubmissionformviewed'] = 'Formulaire de remise consulté';
 $string['eventsubmissiongraded'] = 'Travail de devoir évalué';
 $string['eventsubmissionlocked'] = 'Travaux d’un utilisateur verrouillés';
-$string['eventsubmissionremoved'] = 'Travail remis supprimé.';
+$string['eventsubmissionremoved'] = 'Travail remis supprimé';
 $string['eventsubmissionstatusupdated'] = 'Statut du travail modifié';
 $string['eventsubmissionstatusviewed'] = 'Statut du travail remis consulté';
 $string['eventsubmissionunlocked'] = 'Travaux d’un utilisateur déverrouillés';
@@ -266,7 +267,7 @@ $string['extensionnotafterfromdate'] = 'La date de prolongation doit être ulté
 $string['feedback'] = 'Feedback';
 $string['feedbackavailableanonhtml'] = 'Vous avez un nouveau feedback pour votre travail remis pour « {$a->assignment} ».<br /><br />Vous pouvez le voir au-dessous de <a href="{$a->url}">votre travail</a>.';
 $string['feedbackavailableanonsmall'] = 'Nouveau feedback pour le devoir {$a->assignment}';
-$string['feedbackavailableanonsms'] = 'Nouveau feedback pour « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour consulter';
+$string['feedbackavailableanonsms'] = 'Nouveau feedback pour « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour consulter';
 $string['feedbackavailableanontext'] = 'Vous avez un nouveau feedback pour votre travail remis pour « {$a->assignment} ».
 
 Vous pouvez le voir au-dessous de votre travail remis :
@@ -275,7 +276,7 @@ Vous pouvez le voir au-dessous de votre travail remis :
 $string['feedbackavailablehtml'] = '{$a->username} a donné un feedback pour le travail remis pour « {$a->assignment} ».
 Vous pouvez le consulter en annexe à <a href="{$a->url}">votre travail</a>.';
 $string['feedbackavailablesmall'] = '{$a->username} a donné un feedback pour le devoir {$a->assignment}';
-$string['feedbackavailablesms'] = 'Nouveau feedback pour « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour consulter';
+$string['feedbackavailablesms'] = 'Nouveau feedback pour « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour consulter';
 $string['feedbackavailabletext'] = '{$a->username} a donné un feedback pour le travail remis pour « {$a->assignment} ».
 
 Vous pouvez le consulter en annexe à votre travail : {$a->url}';
@@ -317,7 +318,7 @@ $string['gradepenalty'] = 'Pénalités de note';
 $string['gradepenalty_help'] = 'Si ce réglage est activé, les pénalités seront appliquées aux travaux remis après la date limite.';
 $string['gradersubmissionupdatedhtml'] = '{$a->username} a modifié son travail remis pour le devoir « {$a->assignment} » le {$a->timeupdated}. Le travail remis est <a href="{$a->url}">disponible sur le site web</a>.';
 $string['gradersubmissionupdatedsmall'] = '{$a->username} a modifié son travail remis pour le devoir {$a->assignment}.';
-$string['gradersubmissionupdatedsms'] = '{$a->username} a modifié son travail pour le devoir « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour consulter';
+$string['gradersubmissionupdatedsms'] = '{$a->username} a modifié son travail pour le devoir « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour consulter';
 $string['gradersubmissionupdatedtext'] = '{$a->username} a modifié son travail remis pour le devoir « {$a->assignment} » le {$a->timeupdated}.
 
 Ce travail est disponible ici :
@@ -379,9 +380,9 @@ $string['marker'] = 'Évaluateur';
 $string['markerfilter'] = 'Filtre d’évaluateurs';
 $string['markerfilternomarker'] = 'Pas d’évaluateur';
 $string['markingallocation'] = 'Utiliser l’attribution d’évaluateurs';
-$string['markingallocation_help'] = 'Si ce réglage est activé en même temps que les flux d’évaluation, les évaluateurs peuvent être attribués à des participants.';
+$string['markingallocation_help'] = 'Si ce réglage est activé en même temps que les flux d’évaluation, des évaluateurs peuvent être attribués à des participants spécifiques.';
 $string['markinganonymous'] = 'Permettre la publication partielle des notes lors de l’évaluation anonyme';
-$string['markinganonymous_help'] = 'Si ce réglage est activé de concert avec les remises anonymes et un flux d’évaluation, la publication partielle des notes est permise lors de l’évaluation anonyme.';
+$string['markinganonymous_help'] = 'Si ce réglage est activé en même temps que les remises anonymes et les flux d’évaluation, la publication partielle des notes est permise lors de l’évaluation anonyme.';
 $string['markingstate'] = 'État d’évaluation';
 $string['markingworkflow'] = 'Utiliser les flux d’évaluation';
 $string['markingworkflow_help'] = 'Si ce réglage est activé, l’évaluation passera par différentes étapes d’un flux de travail avant d’être publiée pour les participants. Ce processus permet une évaluation en plusieurs tours, ainsi que la publication simultanée des évaluations de tous les participants.';
@@ -559,7 +560,7 @@ $string['sendnotificationoverdue'] = 'Notifier l’utilisateur d’un devoir en 
 $string['sendnotifications'] = 'Informer les évaluateurs des travaux remis';
 $string['sendnotifications_help'] = 'Si ce réglage est activé, les évaluateurs (en principe les enseignants) recevront un message chaque fois qu’un étudiant remet un travail pour ce devoir, qu’il soit en avance, à temps ou en retard. La méthode d’envoi des messages est configurable.';
 $string['sendstudentnotifications'] = 'Notifier l’étudiant';
-$string['sendstudentnotifications_help'] = 'Si ce réglage est activé, les étudiants reçoivent une notification lors de la modification d’une note ou d’un feedback. Si un flux d’évaluation est activé pour le devoir, la notification ne sera pas envoyés avant que la note ne soit publiée.';
+$string['sendstudentnotifications_help'] = 'Si ce réglage est activé, les étudiants reçoivent une notification lors de la modification d’une note ou d’un feedback. Si un flux d’évaluation est activé pour le devoir, la notification ne sera pas envoyée avant que la note ne soit publiée.';
 $string['sendstudentnotificationsdefault'] = 'Réglages par défaut pour « Notifier l’étudiant »';
 $string['sendstudentnotificationsdefault_help'] = 'Lors de l’évaluation de chaque étudiant, la case à cocher «Notifier l’étudiant » doit-elle être cochée par défaut ?';
 $string['sendsubmissionreceipts'] = 'Envoyer aux étudiants un accusé de réception';
@@ -580,7 +581,7 @@ $string['submissioncontains'] = 'Votre travail remis contient :';
 $string['submissioncopiedhtml'] = '<p>Vous avez copié votre travail remis précédent pour « {$a->assignment} ».</p>
 <p>Vous pouvez consulter l’état de <a href="{$a->url}">votre travail</a>.</p>';
 $string['submissioncopiedsmall'] = 'Vous avez copié votre travail remis précédent pour <em>{$a->assignment}</em>.';
-$string['submissioncopiedsms'] = 'Vous avez fait une copie de votre travail remis précédemment pour « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour consulter';
+$string['submissioncopiedsms'] = 'Vous avez fait une copie de votre travail remis précédemment pour « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour consulter';
 $string['submissioncopiedtext'] = 'Vous avez copié votre travail remis précédent pour « {$a->assignment} ».
 
 Vous pouvez consulter le statut de votre travail remis&nbsp;:
@@ -604,7 +605,7 @@ $string['submissionreceipthtml'] = '<p>Vous avez remis un travail pour le devoir
 {$a->submissionsummaryhtml}';
 $string['submissionreceiptotherhtml'] = 'Votre travail pour « {$a->assignment} » a été remis. Vous pouvez consulter le statut de <a href="{$a->url}">votre travail</a>.';
 $string['submissionreceiptothersmall'] = 'Votre travail pour {$a->assignment} a été remis.';
-$string['submissionreceiptothersms'] = 'Travail remis pour « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour voir le statut de votre travail';
+$string['submissionreceiptothersms'] = 'Travail remis pour « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour voir le statut de votre travail';
 $string['submissionreceiptothertext'] = 'Votre travail pour « {$a->assignment} » a été remis.
 
 Vous pouvez consulter le statut de votre travail remis :
@@ -612,7 +613,7 @@ Vous pouvez consulter le statut de votre travail remis :
     {$a->url}';
 $string['submissionreceipts'] = 'Envoyer les accusés de réception';
 $string['submissionreceiptsmall'] = 'Confirmation de remise de travail - {$a->assignment}';
-$string['submissionreceiptsms'] = 'Vous avez remis pour « {$a->assignment} » dans « {$a-> coursefullname} ». Connectez-vous pour voir le statut de votre travail';
+$string['submissionreceiptsms'] = 'Vous avez remis pour « {$a->assignment} » dans « {$a->coursefullname} ». Connectez-vous pour voir le statut de votre travail';
 $string['submissionreceipttext'] = 'Vous avez remis un travail pour le devoir « {$a->assignment} ».
 
 Vous pouvez consulter l’état de votre travail :

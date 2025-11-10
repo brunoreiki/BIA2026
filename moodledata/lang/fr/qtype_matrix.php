@@ -34,6 +34,7 @@ $string['colsheader'] = 'Colonnes de matrice';
 $string['colsheader_desc'] = '<p>Le texte court sera utilisé lorsqu’il est présent, avec un texte plus long comme info-bulle.<br />Soyez attentif à la façon dont il sera affiché.</p>
 <p>Les étudiants peuvent sélectionner plusieurs ou une seule colonne par ligne, selon la configuration de la question, et chaque ligne reçoit une note, définie par l’une des méthodes de notation.</p>
 <p>La note finale pour la question est une moyenne de leurs notes pour chacune des lignes à l’exception du type Kprime où toutes les réponses doivent être correctes.</p>';
+$string['correctresponse'] = 'Réponse correcte';
 $string['difference'] = 'Différence';
 $string['false'] = 'Faux';
 $string['grademethod'] = 'Méthode de notation';
@@ -65,6 +66,7 @@ $string['rowsheader'] = 'Lignes de la matrice';
 $string['rowsheader_desc'] = '<p>Le texte court sera utilisé lorsqu’il est présent, avec du texte plus long comme info-bulle.<br />Soyez attentif à la façon dont il sera affiché</p>
 <p>Les étudiants peuvent sélectionner plusieurs ou une seule colonne par ligne, selon la configuration de la question, et chaque ligne reçoit une note, définie par l’une des méthodes de notation.</p>
 <p>La note finale pour la question est une moyenne de leurs notes pour chacune des lignes à l’exception du type Kprime où toutes les réponses doivent être correctes.</p>';
+$string['show_non_kprime_gui'] = 'Afficher l\'interface graphique pour les options qui ne sont pas strictement des options de la matrice kprime (plus de quatre lignes, plus de deux colonnes, options multiples).';
 $string['shuffleanswers'] = 'Mélanger les propositions de réponse ?';
 $string['shuffleanswers_help'] = 'Si cette option est activée, l’ordre des propositions de réponse est mélangé de manière aléatoire pour chaque tentative, à condition que « Mélanger les questions » dans les paramètres de l’activité soit également activé.';
 $string['true'] = 'Vrai';

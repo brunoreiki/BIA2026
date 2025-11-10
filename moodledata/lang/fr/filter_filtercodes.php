@@ -30,7 +30,7 @@ $string['categorycardshowpic'] = 'Afficher l’arrière-plan de {categorycards}'
 $string['categorycardshowpic_desc'] = 'Si activé, affichera une couleur/un motif d’arrière-plan pour la balise {categorycards} similaire aux images du cours lorsqu’aucune image n’a été spécifiée.';
 $string['chartprogressbarlabel'] = '{$a->label} : {$a->value}';
 $string['contentmissing'] = '<h1>Le contenu est manquant.</h1><p>Veuillez en informer l’administrateur.</p>';
-$string['coursecardsbyenrol'] = 'Maximum de cartes pour {coursecardsbyenrol} .';
+$string['coursecardsbyenrol'] = 'Maximum de cartes pour {coursecardsbyenrol}';
 $string['coursecardsbyenrol_desc'] = 'Nombre maximum de cartes de cours à afficher pour la balise {coursecardsbyenrol}. Mettre à zéro pour illimité (non recommandé).';
 $string['coursecardsformat'] = 'Disposition des cartes de cours';
 $string['coursecardsformat_desc'] = 'Affichez {coursecards}, {coursecardsbyenrol} et {mycoursescards} soit :<br>
@@ -41,7 +41,7 @@ $string['coursecardsformat_desc'] = 'Affichez {coursecards}, {coursecardsbyenrol
 </ul>';
 $string['coursecontactlinktype'] = 'Type de lien de contact';
 $string['coursecontactlinktype_desc'] = 'Choisissez le type de lien pour le lien du contact dans les balises {coursecontacts}.';
-$string['coursecontactshowdesc'] = 'Afficher la description du profil du contact.';
+$string['coursecontactshowdesc'] = 'Afficher la description du profil du contact';
 $string['coursecontactshowdesc_desc'] = 'Si activé, affichera la description du profil du contact dans les balises {coursecontacts}.';
 $string['coursecontactshowpic'] = 'Afficher la photo du contact';
 $string['coursecontactshowpic_desc'] = 'Si activé, affichera la photo de profil du contact dans les balises {coursecontacts}.';
@@ -192,7 +192,7 @@ $string['formsupport'] = '<form action="{wwwroot}/local/contact/index.php" metho
 </form>';
 $string['globaltagcontentdesc'] = 'C’est le contenu que votre balise globale remplacera. Exemple : si votre balise s’appelle « {global_adresse} », cette balise sera remplacée par le contenu entré dans ce champ.';
 $string['globaltagcontenttitle'] = 'Contenu';
-$string['globaltagcount'] = 'Nombre de balises globales.';
+$string['globaltagcount'] = 'Nombre de balises globales';
 $string['globaltagcountdesc'] = 'Sélectionner le nombre de balises que vous souhaitez définir. Pour des performances optimales, sélectionner uniquement le nombre dont vous aurez besoin.';
 $string['globaltagheadingdesc'] = 'Définir vos propres balises globales, parfois également appelées blocs globaux.';
 $string['globaltagheadingtitle'] = 'Balises personnalisées globales';
@@ -200,8 +200,8 @@ $string['globaltagnamedesc'] = 'Cela fera partie du nom de votre balise, précé
 $string['globaltagnametitle'] = 'Balise&nbsp;: global_';
 $string['hidecompletedcourses'] = 'Masquer les cours achevés';
 $string['hidecompletedcourses_desc'] = 'Activer pour filtrer les cours achevés dans la liste des balises {mycoursesmenu}.';
-$string['ifprofilefiedonlyvisible'] = '{ifprofile_field_} uniquement visible.';
-$string['ifprofilefiedonlyvisible_desc'] = 'Lorsque cette case est cochée, la balise {ifprofile_field_...} accède uniquement aux champs de profil utilisateur visibles. Les champs cachés se comporteront comme s’ils étaient vides. Si elle n’est pas cochée, cette balise pourra également vérifier les champs masqués.';
+$string['ifprofilefiedonlyvisible'] = '{ifprofile_field_} uniquement visible';
+$string['ifprofilefiedonlyvisible_desc'] = 'Lorsque cette case est cochée, la balise {ifprofile_field_…} accède uniquement aux champs de profil utilisateur visibles. Les champs cachés se comporteront comme s’ils étaient vides. Si elle n’est pas cochée, cette balise pourra également vérifier les champs masqués.';
 $string['moremenu'] = 'Plus';
 $string['narrowpage'] = 'Page étroite';
 $string['narrowpage_desc'] = 'Activez cette option pour optimiser l’affichage des informations si Moodle utilise un thème avec une largeur de page limitée (par exemple, Boost dans Moodle 4.0).';

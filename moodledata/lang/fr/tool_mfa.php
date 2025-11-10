@@ -148,6 +148,7 @@ $string['settings:redir_exclusions'] = 'Les URLs qui ne doivent pas rediriger la
 $string['settings:redir_exclusions_help'] = 'Chaque ligne est une URL relative à partir de la racine du site pour laquelle la vérification d’authentification multifacteur ne sera pas redirigée';
 $string['settings:weight'] = 'Poids du facteur';
 $string['settings:weight_help'] = 'Le poids de ce facteur en cas de réussite. Un utilisateur nécessite au moins 100 points pour se connecter.';
+$string['setup'] = 'Paramétrer';
 $string['setupfactor'] = 'Paramétrer le facteur';
 $string['setupfactorbuttonadditional'] = 'Ajouter un facteur additionnel';
 $string['setuprequired'] = 'Réglage utilisateur';

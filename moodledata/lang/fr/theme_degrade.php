@@ -26,13 +26,8 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['background_color'] = 'Couleur d’arrière-plan';
-$string['background_color_black'] = 'Thème noir {$a}';
-$string['background_color_blue'] = 'Thème bleu {$a}';
 $string['background_color_default'] = 'Thème par défaut {$a}';
 $string['background_color_desc'] = 'Couleur de fond de l’en-tête et du pied de page !';
-$string['background_color_green'] = 'Thème vert {$a}';
-$string['background_color_random'] = 'Thème aléatoire {$a}';
-$string['background_color_red'] = 'Thème rouge {$a}';
 $string['background_text_color'] = 'Couleur du texte';
 $string['background_text_color_desc'] = 'Couleur du texte du haut et du pied de page !';
 $string['choosereadme'] = 'Degrade est un thème créé avec soin pour apporter des couleurs vives à Moodle.';
@@ -53,7 +48,6 @@ $string['countlesson'] = '{$a} leçon';
 $string['countlessons'] = '{$a} leçons';
 $string['course_access'] = 'Accéder au cours';
 $string['course_moore'] = 'Plus de détails';
-$string['customcss'] = 'CSS personnalisé';
 $string['customcss_desc'] = 'Toutes les règles CSS que vous ajoutez à cette zone de texte seront reflétées sur toutes les pages, facilitant la personnalisation de ce thème.';
 $string['custommenuitems'] = 'Éléments personnalisés du menu principal';
 $string['custommenuitems_desc'] = 'Vous pouvez créer un menu personnalisé à côté des menus supérieurs. Le menu racine doit commencer au bord et les sous-menus doivent être précédés d’un trait d’union (-). Le nombre de traits d’union détermine la profondeur de l’élément. Ainsi, les éléments avec un seul trait d’union apparaissent dans un sous-menu sous l’élément de niveau supérieur précédent, et les éléments avec deux traits d’union apparaissent dans un sous-menu sous le sous-menu précédent.

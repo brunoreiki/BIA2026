@@ -173,6 +173,7 @@ $string['nogroup'] = 'Aucun groupe';
 $string['nogrouping'] = 'Pas de groupement';
 $string['nogroups'] = 'Il n’y a pas encore de groupe dans ce cours';
 $string['nogroupsassigned'] = 'Aucun groupe n’a été attribué';
+$string['nonparticipation'] = 'Non-participation';
 $string['nopermissionforcreation'] = 'Impossible de créer le groupe « {$a} », car vous n’avez pas les permissions requises';
 $string['nosmallgroups'] = 'Empêcher un petit groupe pour terminer';
 $string['notingroup'] = 'Ignorer les utilisateurs dans des groupes';

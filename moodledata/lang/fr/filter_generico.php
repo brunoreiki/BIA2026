@@ -25,6 +25,11 @@
 
 defined('MOODLE_INTERNAL') || die();
 
+$string['allowedcontextids'] = 'Identifiants de contexte autorisés';
+$string['allowedcontextids_desc'] = 'Liste séparée par des virgules des identifiants de contexte dans lesquels ce modèle peut être utilisé. Si elle est vide, elle n\'est pas appliquée.';
+$string['allowedcontexts'] = 'Contextes autorisés';
+$string['allowedcontexts_desc'] = 'Liste séparée par des virgules des types de contexte dans lesquels ce modèle peut être utilisé. Par exemple, « système », « cours », « utilisateur ». Les activités peuvent être référencées à l\'aide du format « mod_pluginname ». Si ce champ est vide, cela ne s\'applique pas.';
+$string['alternateheading'] = 'Alternatif';
 $string['appauthorised'] = 'Poodll Cloud est autorisé sur ce site.';
 $string['appnotauthorised'] = 'Poodll Cloud n’est pas autorisé sur ce site.';
 $string['bundle'] = 'Paquet';
@@ -39,6 +44,7 @@ $string['cpapiuser_details'] = 'C’est le même que votre nom d’utilisateur s
 $string['credentialsinvalid'] = 'Le nom d’utilisateur et le secret de l’API saisis n’ont pas pu être utilisés pour obtenir l’accès. Veuillez les vérifier.';
 $string['dataset'] = 'Jeu de données';
 $string['dataset_desc'] = 'Generico vous permet d’extraire un jeu de données de la base de données pour l’utiliser dans votre modèle. Il s’agit d’une fonctionnalité avancée. Entrez la partie sql d’un appel $DB->get_records_sql ici.';
+$string['datasetheading'] = 'Ensemble de données';
 $string['datasetvars'] = 'Variables du jeu de données';
 $string['datasetvars_desc'] = 'Mettez une liste de variables séparées par des virgules qui constituent les variables pour SQL. Vous pouvez et vous voudrez probablement utiliser des variables ici.';
 $string['displaysubs'] = '{$a->subscriptionname} : expire le {$a->expiredate}';
@@ -48,6 +54,7 @@ $string['generico:managetemplates'] = 'Gérer les modèles Generico';
 $string['genericotemplatesadmin'] = 'Admin des modèles Generico';
 $string['jumpcat_explanation'] = 'L’ensemble complet des paramètres du filtre Generico se trouve <a href="{$a}">ici</a>.';
 $string['jumpcat_heading'] = 'Réglages des filtres Generico';
+$string['key'] = 'Clé du modèle';
 $string['noapisecret'] = 'Aucun mot secret d’API saisi.';
 $string['noapiuser'] = 'Aucun nom d’utilisateur d’API saisi.';
 $string['notokenincache'] = 'Actualisez les informations de licence Cloud Poodll pour voir les détails.';
@@ -56,8 +63,9 @@ $string['presets'] = 'Modèle de remplissage automatique avec un préréglage';
 $string['presets_desc'] = 'Generico est livré avec des préréglages par défaut que vous pouvez utiliser directement ou pour vous aider à démarrer avec votre propre modèle. Choisissez-en un ici, ou créez simplement votre propre modèle à partir de zéro. Vous pouvez exporter un modèle sous forme de paquet en cliquant sur la case verte ci-dessus. Vous pouvez importer un paquet en le faisant glisser sur la case verte.';
 $string['privacy:metadata'] = 'Le plugin filtre Generico n’enregistre aucune donnée personnelle.';
 $string['refreshtoken'] = 'Actualiser les informations de licence Cloud Poodll.';
+$string['securityheading'] = 'Sécurité';
 $string['template'] = 'Le corps du modèle {$a}';
-$string['template_desc'] = 'Placer le modèle ici ; définir les variables en les entourant de marques @@ par exemple @@variable@@';
+$string['template_desc'] = 'Placez le modèle ici, définissez les variables en les entourant de marques @@ à chaque extrémité, par exemple @@variable@@. Soyez conscient des vulnérabilités IDOR potentielles <a href="https://cheatsheetseries.owasp.org/cheatsheets/Insecure_Direct_Object_Reference_Prevention_Cheat_Sheet.html"> vulnérabilités IDOR </a> lorsque vous choisissez les variables à utiliser : les utilisateurs peuvent modifier la plupart des variables saisies ici pour leur attribuer n\'importe quelle valeur.';
 $string['templatealternate'] = 'Contenu alternatif';
 $string['templatealternate_desc'] = 'Contenu pouvant être utilisé lorsque le contenu CSS et javascript personnalisé et téléchargé n’est pas disponible. Actuellement, cela est utilisé lorsque le modèle est traité par un service Web, probablement pour le contenu de l’application mobile';
 $string['templatealternate_end'] = 'Fin de contenu alternative (modèle {$a})';
@@ -88,7 +96,7 @@ $string['templaterequirejsshim'] = 'Exiger l’export Shim';
 $string['templaterequirejsshim_desc'] = 'Laisser vide sauf si vous savez ce qu’est le calage (Shim)';
 $string['templates'] = 'Modèles';
 $string['templatescript'] = 'JS personnalisé (modèle {$a})';
-$string['templatescript_desc'] = 'Si votre modèle doit exécuter un javascript personnalisé, saisissez-le ici. Il sera exécuté une fois tous les éléments chargés sur la page.';
+$string['templatescript_desc'] = 'Si votre modèle doit exécuter un javascript personnalisé, entrez-le ici. Il sera exécuté une fois que tous les éléments auront été chargés sur la page. Sachez que les variables utilisées ici peuvent présenter un <a href="https://owasp.org/www-community/attacks/xss/"> risque XSS </a>, car les utilisateurs sont susceptibles de les modifier pour leur attribuer n\'importe quelle valeur.';
 $string['templatestyle'] = 'CSS personnalisé (modèle {$a})';
 $string['templatestyle_desc'] = 'Saisir ici n’importe quel CSS personnalisé utilisé par votre modèle. Les variables de modèle ne fonctionneront pas ici ; juste du CSS de base.';
 $string['templateupdated'] = '{$a} modèles Poodll mis à jour.';

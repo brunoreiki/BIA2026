@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['contenthash'] = 'Hâchage du contenu';
-$string['eventfileaddedtodraftarea'] = 'Fichier ajouter à la zone brouillon';
+$string['eventfileaddedtodraftarea'] = 'Fichier ajouté à la zone brouillon';
 $string['eventfiledeletedfromdraftarea'] = 'Fichier supprimé de la zone de brouillon';
 $string['privacy:metadata:core_userkey'] = 'Un jeton privé est généré et enregistré. Ce jeton peut être utilisé pour accéder aux fichiers de Moodle sans nécessiter de connexion via mot de passe.';
 $string['privacy:metadata:file_conversion:usermodified'] = 'L’utilisateur qui a commencé la conversion du fichier.';
@@ -47,7 +47,7 @@ $string['redactor'] = 'Caviardage de fichiers';
 $string['redactor:exifremover'] = 'Nettoyeur EXIF';
 $string['redactor:exifremover:emptyremovetags'] = 'Les balises à supprimer ne peuvent pas être vides !';
 $string['redactor:exifremover:enabled'] = 'Activer le nettoyeur EXIF';
-$string['redactor:exifremover:enabled_desc'] = 'Par défaut, le nettoyeur EXIF ne prend en charge les fichiers JPG qu’avec PHP GD ou ExifTool, s\'il est configuré.
+$string['redactor:exifremover:enabled_desc'] = 'Par défaut, le nettoyeur EXIF ne prend en charge les fichiers JPG qu’avec PHP GD ou ExifTool, s’il est configuré.
 L’utilisation de PHP GD à cet effet peut dégrader la qualité de l’image.
 
 Pour améliorer la performance du nettoyeur EXIF, veuillez configurer ExifTool ci-dessous.
@@ -58,7 +58,7 @@ $string['redactor:exifremover:failedprocessgd'] = 'Échec du caviardage : impos
 $string['redactor:exifremover:heading'] = 'ExifTool';
 $string['redactor:exifremover:mimetype'] = 'Types MIME pris en charge';
 $string['redactor:exifremover:mimetype_desc'] = 'Caviardage de fichiers';
-$string['redactor:exifremover:removetags'] = 'Les tags EXIF qui seront supprimés.';
+$string['redactor:exifremover:removetags'] = 'Les tags EXIF à supprimer.';
 $string['redactor:exifremover:removetags_desc'] = 'Les tags EXIF qui doivent être supprimés.';
 $string['redactor:exifremover:tag:all'] = 'Tous';
 $string['redactor:exifremover:tag:gps'] = 'Seulement GPS';

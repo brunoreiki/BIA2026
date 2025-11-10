@@ -63,6 +63,7 @@ $string['movesectiontotheend'] = 'À la fin';
 $string['newsectionname'] = 'Nouveau nom pour la section {$a}';
 $string['page-course-view-flexsections'] = 'Toute page principale du cours en format sections flexibles';
 $string['page-course-view-flexsections-x'] = 'Toute page du cours en format sections flexibles';
+$string['plugin_description'] = 'Le cours est organisé en sections, affichables sur la page du cours ou comme liens. Chaque section peut contenir des sous-sections.';
 $string['pluginname'] = 'Format sections flexibles';
 $string['privacy:metadata'] = 'Le plugin du format des sections flexibles n’enregistre aucune donnée personnelle.';
 $string['removemarker'] = 'Cette section est en évidence (section en cours)';

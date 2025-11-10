@@ -56,7 +56,6 @@ $string['nameidnumberandcount'] = '{$a->name} [{$a->idnumber}] ({$a->count})';
 $string['noguests'] = 'Les utilisateurs invités n’ont pas la permission d’interagir avec des questions intégrées.';
 $string['notyourattempt'] = 'Ceci n’est pas votre tentative.';
 $string['pluginname'] = 'Intégrer des questions';
-$string['privacy:metadata'] = 'Le filtre de questions intégrées n’enregistre aucune donnée personnelle.';
 $string['questionidnumber'] = 'Numéro d’identification de la question (ID)';
 $string['questionidnumberchanged'] = 'La question tentée ici n’a plus le numéro d’identification {$a}.';
 $string['questionnolongerhasidnumber'] = 'La question tentée ici n’a plus de numéro d’identification.';

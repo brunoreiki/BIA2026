@@ -25,7 +25,6 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['backpractice'] = 'Reprendre l’entraînement';
 $string['backurl'] = 'Revenir à la page principale';
 $string['behaviour'] = 'Comportement';
 $string['category'] = 'Sujet sélectionné';
