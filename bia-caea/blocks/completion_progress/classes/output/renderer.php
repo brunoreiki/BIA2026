@@ -141,66 +141,14 @@ class renderer extends plugin_renderer_base {
                 $nowpos++;
             }
             $nowstring = get_string('now_indicator', 'block_completion_progress');
-            $leftarrowimg = $this->pix_icon('left', $nowstring, 'block_completion_progress', ['class' => 'nowicon']);
-            $rightarrowimg = $this->pix_icon('right', $nowstring, 'block_completion_progress', ['class' => 'nowicon']);
+            $leftarrowimg = $this->pix_icon('left', '', 'block_completion_progress', ['class' => 'nowicon']);
+            $rightarrowimg = $this->pix_icon('right', '', 'block_completion_progress', ['class' => 'nowicon']);
         }
 
         // Determine links to activities.
-        
-        // chatgpt
-        
-        // Determine links to activities (redirige vers la section/tuile si format Tiles).
-$istiles = false;
-try {
-    $format = course_get_format($courseid);
-    $istiles = ($format->get_format() === 'tiles');
-} catch (\Throwable $e) {
-    $istiles = false;
-}
-
-// On prépare modinfo une seule fois (perf).
-$modinfo = get_fast_modinfo($courseid);
-
-for ($i = 0; $i < $numactivities; $i++) {
-    // Lien par défaut = lien d'origine (activité) ou lien alternatif si rôle enseignant.
-    if (
-        $userid != $USER->id &&
-        array_key_exists($activities[$i]->type, $alternatelinks) &&
-        has_capability($alternatelinks[$activities[$i]->type]['capability'], $activities[$i]->context)
-    ) {
-        $substitutions = [
-            '/:courseid/' => $courseid,
-            '/:eventid/'  => $activities[$i]->instance,
-            '/:cmid/'     => $activities[$i]->id,
-            '/:userid/'   => $userid,
-        ];
-        $link = $alternatelinks[$activities[$i]->type]['url'];
-        $link = preg_replace(array_keys($substitutions), array_values($substitutions), $link);
-        $activities[$i]->link = $CFG->wwwroot . $link; // string OK
-    } else {
-        $activities[$i]->link = $activities[$i]->url; // moodle_url attendu
-    }
-
-    // Si format Tiles, on remplace par un lien vers la section (tuile).
-    if ($istiles) {
-        $cmid = $activities[$i]->id; // cm id
-        if (isset($modinfo->cms[$cmid])) {
-            $sectionnum = $modinfo->cms[$cmid]->sectionnum;
-            // Construire l'URL de section/tuile.
-            $sectionurl = new \moodle_url('/course/view.php', [
-                'id'      => $courseid,
-                'section' => $sectionnum,
-            ]);
-            // Important : garder un moodle_url pour $this->action_link plus bas.
-            $activities[$i]->link = $sectionurl;
-        }
-    }
-}
-
-        
-/*
         for ($i = 0; $i < $numactivities; $i++) {
-            if ($userid != $USER->id &&
+            if (
+                $userid != $USER->id &&
                 array_key_exists($activities[$i]->type, $alternatelinks) &&
                 has_capability($alternatelinks[$activities[$i]->type]['capability'], $activities[$i]->context)
             ) {
@@ -212,13 +160,11 @@ for ($i = 0; $i < $numactivities; $i++) {
                 ];
                 $link = $alternatelinks[$activities[$i]->type]['url'];
                 $link = preg_replace(array_keys($substitutions), array_values($substitutions), $link);
-                $activities[$i]->link = $CFG->wwwroot.$link;
+                $activities[$i]->link = $CFG->wwwroot . $link;
             } else {
                 $activities[$i]->link = $activities[$i]->url;
             }
         }
-        
-*/
 
         // Start progress bar.
         $content .= html_writer::start_div(implode(' ', $barclasses), $rowoptions);
@@ -231,21 +177,18 @@ for ($i = 0; $i < $numactivities; $i++) {
             $cellcontent = '';
             $celloptions = [
                 'class' => 'progressBarCell',
-                'data-info-ref' => 'progressBarInfo'.$instance.'-'.$userid.'-'.$activity->id,
+                'data-info-ref' => 'progressBarInfo' . $instance . '-' . $userid . '-' . $activity->id,
             ];
             if ($complete === 'submitted') {
                 $celloptions['class'] .= ' submittedNotComplete';
-
             } else if ($complete == COMPLETION_COMPLETE || $complete == COMPLETION_COMPLETE_PASS) {
                 $celloptions['class'] .= ' completed';
-
             } else if (
                 $complete == COMPLETION_COMPLETE_FAIL ||
                 (!isset($config->orderby) || $config->orderby == 'orderbytime') &&
                 (isset($activity->expected) && $activity->expected > 0 && $activity->expected < $now)
             ) {
                 $celloptions['class'] .= ' notCompleted';
-
             } else {
                 $celloptions['class'] .= ' futureNotCompleted';
             }
@@ -260,14 +203,14 @@ for ($i = 0; $i < $numactivities; $i++) {
             // Place the NOW indicator.
             if ($nowpos >= 0) {
                 if ($nowpos == 0 && $counter == 1) {
-                    $nowcontent = $usingrtl ? $rightarrowimg.$nowstring : $leftarrowimg.$nowstring;
+                    $nowcontent = $usingrtl ? $rightarrowimg . $nowstring : $leftarrowimg . $nowstring;
                     $cellcontent .= html_writer::div($nowcontent, 'nowDiv firstNow');
                 } else if ($nowpos == $counter) {
                     if ($nowpos < $numactivities / 2) {
-                        $nowcontent = $usingrtl ? $rightarrowimg.$nowstring : $leftarrowimg.$nowstring;
+                        $nowcontent = $usingrtl ? $rightarrowimg . $nowstring : $leftarrowimg . $nowstring;
                         $cellcontent .= html_writer::div($nowcontent, 'nowDiv firstHalfNow');
                     } else {
-                        $nowcontent = $usingrtl ? $nowstring.$leftarrowimg : $nowstring.$rightarrowimg;
+                        $nowcontent = $usingrtl ? $nowstring . $leftarrowimg : $nowstring . $rightarrowimg;
                         $cellcontent .= html_writer::div($nowcontent, 'nowDiv lastHalfNow');
                     }
                 }
@@ -283,7 +226,7 @@ for ($i = 0; $i < $numactivities; $i++) {
         // Add the percentage below the progress bar.
         if ($showpercentage && !$simple) {
             $progress = $progress->get_percentage();
-            $percentagecontent = get_string('progress', 'block_completion_progress').': '.$progress.'%';
+            $percentagecontent = get_string('progress', 'block_completion_progress') . ': ' . $progress . '%';
             $percentageoptions = ['class' => 'progressPercentage'];
             $content .= html_writer::tag('div', $percentagecontent, $percentageoptions);
         }
@@ -291,7 +234,7 @@ for ($i = 0; $i < $numactivities; $i++) {
         // Add the info box below the table.
         $divoptions = [
             'class' => 'progressEventInfo',
-            'id' => 'progressBarInfo'.$instance.'-'.$userid.'-info',
+            'id' => 'progressBarInfo' . $instance . '-' . $userid . '-info',
         ];
         $content .= html_writer::start_tag('div', $divoptions);
         if (!$simple) {
@@ -315,14 +258,16 @@ for ($i = 0; $i < $numactivities; $i++) {
             $completed = $completions[$activity->id] ?? null;
             $divoptions = [
                 'class' => 'progressEventInfo',
-                'id' => 'progressBarInfo'.$instance.'-'.$userid.'-'.$activity->id,
+                'id' => 'progressBarInfo' . $instance . '-' . $userid . '-' . $activity->id,
                 'style' => 'display: none;',
             ];
             $content .= html_writer::start_tag('div', $divoptions);
 
             $text = '';
-            $text .= html_writer::empty_tag('img',
-                    ['src' => $activity->icon, 'class' => 'moduleIcon', 'alt' => '', 'role' => 'presentation']);
+            $text .= html_writer::empty_tag(
+                'img',
+                ['src' => $activity->icon, 'class' => 'moduleIcon', 'alt' => '', 'role' => 'presentation']
+            );
             $text .= $activity->name;
             if (!empty($activity->link) && (!empty($activity->available) || $simple)) {
                 $attrs = ['class' => 'action_link'];
@@ -334,33 +279,27 @@ for ($i = 0; $i < $numactivities; $i++) {
                 $content .= $text;
             }
             $content .= html_writer::empty_tag('br');
-            $altattribute = '';
             if ($completed == COMPLETION_COMPLETE) {
-                $content .= $strcomplete.'&nbsp;';
+                $content .= $strcomplete . '&nbsp;';
                 $icon = 'tick';
-                $altattribute = $strcomplete;
             } else if ($completed == COMPLETION_COMPLETE_PASS) {
-                $content .= $strpassed.'&nbsp;';
+                $content .= $strpassed . '&nbsp;';
                 $icon = 'tick';
-                $altattribute = $strpassed;
             } else if ($completed == COMPLETION_COMPLETE_FAIL) {
-                $content .= $strfailed.'&nbsp;';
+                $content .= $strfailed . '&nbsp;';
                 $icon = 'cross';
-                $altattribute = $strfailed;
             } else {
-                $content .= $strincomplete .'&nbsp;';
+                $content .= $strincomplete . '&nbsp;';
                 $icon = 'cross';
-                $altattribute = $strincomplete;
                 if ($completed === 'submitted') {
                     $content .= '(' . $strsubmitted . ')&nbsp;';
-                    $altattribute .= '(' . $strsubmitted . ')';
                 }
             }
-            $content .= $this->pix_icon($icon, $altattribute, 'block_completion_progress', ['class' => 'iconInInfo']);
+            $content .= $this->pix_icon($icon, '', 'block_completion_progress', ['class' => 'iconInInfo']);
             $content .= html_writer::empty_tag('br');
             if ($activity->expected != 0) {
                 $content .= html_writer::start_tag('div', ['class' => 'expectedBy']);
-                $content .= $strtimeexpected.': ';
+                $content .= $strtimeexpected . ': ';
                 $content .= userdate($activity->expected, $strdateformat, $CFG->timezone);
                 $content .= html_writer::end_tag('div');
             }

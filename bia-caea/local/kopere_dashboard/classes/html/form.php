@@ -18,7 +18,7 @@
  * form file
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -260,6 +260,5 @@ class form {
      */
     public static function check_post() {
         return optional_param("POST", false, PARAM_TEXT);
-
     }
 }

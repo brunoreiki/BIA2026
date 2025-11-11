@@ -20,7 +20,7 @@
  * introduced 10/06/17 23:33
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -99,6 +99,8 @@ class input_checkbox_select extends input_select {
      */
     public function set_checked_by_config($configname) {
         $this->set_name($configname);
+
+        $this->checked = config::get_key_int($configname);
         if ($this->checked) {
             $this->set_value(1, PARAM_INT);
         } else {

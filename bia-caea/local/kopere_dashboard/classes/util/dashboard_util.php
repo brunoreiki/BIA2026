@@ -20,13 +20,15 @@
  * introduced 12/05/17 06:09
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 namespace local_kopere_dashboard\util;
 
+use local_kopere_dashboard\fonts\font_util;
 use local_kopere_dashboard\html\button;
+use local_kopere_dashboard\output\menu;
 
 /**
  * Class dashboard_util
@@ -132,7 +134,7 @@ class dashboard_util {
                 <div class=\"kopere_dashboard_div\">
                     <div class='menu-w hidden-print dashboard_menu_html-content'>
                         <div class='menu-and-user'>";
-            \local_kopere_dashboard\output\menu::create_menu();
+            menu::create_menu();
             echo "
                         </div>
                     </div>
@@ -167,7 +169,7 @@ class dashboard_util {
                         </div>
                     </div>
                 </div>";
-            echo \local_kopere_dashboard\fonts\font_util::print_only_unique();
+            echo font_util::print_only_unique();
             echo $OUTPUT->footer();
         }
     }

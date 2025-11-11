@@ -8,7 +8,7 @@ define(["jquery", "local_kopere_dashboard/maskedinput", "local_kopere_dashboard/
 
                 // mackInputs()
                 $("input.mask_phone").mask("(99) 9999-9999");
-                $("input.mask_celphone").mask("(99) 9 9999-9999");
+                $("input.mask_celphone").mask("(99) ? 9999-9999");
                 $("input.mask_cep").mask("99999-999");
                 $("input.mask_cpf,input.val_cpf").mask("999.999.999-99");
                 $("input.mask_cnpj").mask("99.999.999/9999-99");
@@ -151,7 +151,7 @@ define(["jquery", "local_kopere_dashboard/maskedinput", "local_kopere_dashboard/
             },
 
             moremenu: function(name, href) {
-                var link = `<li class="nav-item">
+                var link = `<li data-key="koperedashboard" class="nav-item">
                                 <a class="nav-link" href="${href}">${name}</a>
                             </li>`;
 

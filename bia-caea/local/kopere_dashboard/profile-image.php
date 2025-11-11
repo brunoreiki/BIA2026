@@ -20,9 +20,11 @@
  * introduced 18/05/2023 22:00
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+
+use local_kopere_dashboard\util\photo;
 
 require_once("../../config.php");
 
@@ -36,6 +38,6 @@ $id = required_param("id", PARAM_TEXT);
 
 switch ($type) {
     case "photo_user":
-        \local_kopere_dashboard\util\photo::get_photo_user($id);
+        photo::get_photo_user($id);
         break;
 }

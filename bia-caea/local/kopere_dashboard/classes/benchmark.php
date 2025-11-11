@@ -20,7 +20,7 @@
  * introduced 31/01/17 05:09
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -131,7 +131,6 @@ class benchmark {
             report_benchmark_test::enablestats(),
         ];
         echo $OUTPUT->render_from_template("local_kopere_dashboard/benchmark_performance", ["tests" => $tests]);
-
     }
 
     /**

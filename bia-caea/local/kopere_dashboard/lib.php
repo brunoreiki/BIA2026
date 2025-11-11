@@ -20,11 +20,12 @@
  * introduced 23/05/17 17:59
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 use local_kopere_dashboard\util\url_util;
+use local_kopere_dashboard\vo\local_kopere_dashboard_pages;
 
 /**
  * Function local_kopere_dashboard_lang
@@ -74,17 +75,6 @@ function local_kopere_dashboard_lang() {
         "datatables_oPaginate_sFirst",
         "datatables_oPaginate_sLast",
     ], "local_kopere_dashboard");
-}
-
-/**
- * Function local_kopere_dashboard_extends_navigation
- *
- * @param global_navigation $nav
- *
- * @throws Exception
- */
-function local_kopere_dashboard_extends_navigation(global_navigation $nav) {
-    local_kopere_dashboard_extend_navigation($nav);
 }
 
 /**
@@ -187,7 +177,7 @@ function local_kopere_dashboard_extend_navigation__get_menus($menuid, $prefix) {
         $webpages = $DB->get_records("local_kopere_dashboard_pages", $where, "pageorder ASC");
         $CFG->extramenu .= "{$prefix} {$menu->title}|{$CFG->wwwroot}/local/kopere_dashboard/?menu={$menu->link}\n";
         if ($webpages) {
-            /** @var \local_kopere_dashboard\vo\local_kopere_dashboard_pages $webpage */
+            /** @var local_kopere_dashboard_pages $webpage */
             foreach ($webpages as $webpage) {
                 $link = "{$CFG->wwwroot}/local/kopere_dashboard/?p={$webpage->link}";
                 $CFG->extramenu .= "{$prefix}- {$webpage->title}|{$link}\n";

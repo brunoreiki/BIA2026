@@ -20,7 +20,7 @@
  * introduced 13/05/17 13:28
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -344,27 +344,25 @@ class backup {
                 file_put_contents($backupfile, $dbstart, FILE_APPEND);
             }
 
+            $tablenoprefix = str_replace($CFG->prefix, "", $table);
             if ($execute || optional_param("{$inputname}-table", false, PARAM_INT)) {
                 $exporttables++;
-                $colunas = $DB->get_records_sql("
+                $colunas = $DB->get_records_sql(
+                    "
                     SELECT column_name, data_type, character_maximum_length, column_default, is_nullable
                       FROM information_schema.columns
-                     WHERE table_name = '{$table}'");
+                     WHERE table_name = '{$table}'"
+                );
                 $tablesql = self::execute_dumpsql_pgsql_createtable($table, $colunas);
                 file_put_contents($backupfile, $tablesql, FILE_APPEND);
 
                 $dbdumpstart = "--\n-- " . get_string("backup_execute_dump", "local_kopere_dashboard") . " `{$table}`\n--\n";
                 file_put_contents($backupfile, $dbdumpstart, FILE_APPEND);
-
-                $tablenoprefix = str_replace($CFG->prefix, "", $table);
-                $columns = $DB->get_columns($tablenoprefix);
-
-                $colunas = [];
-                foreach ($columns as $colum => $value) {
-                    $colunas[] = $colum;
-                }
-                $listcol = implode("`, `", $colunas); // phpcs:disable
             }
+
+            $columns = $DB->get_columns($tablenoprefix);
+            $listcol = implode("`, `", array_keys($columns)); // phpcs:disable
+
             if (optional_param("{$inputname}-data", false, PARAM_INT)) {
                 $insertheader = "\nINSERT INTO `{$table}` (`{$listcol}`) VALUES\n";
                 $registros = 0;
@@ -420,7 +418,6 @@ class backup {
 
             $PAGE->requires->js_call_amd("local_kopere_dashboard/backup", "mark", ["#tabela-dump-{$table}"]);
 
-
             dashboard_util::end_page();
         }
     }
@@ -429,6 +426,11 @@ class backup {
         // Gerando as colunas para o CREATE TABLE.
         $columns = [];
         foreach ($colunas as $coluna) {
+
+            if ($coluna->data_type == "text") {
+                $coluna->data_type = "longtext";
+            }
+
             if ($coluna->column_name == "id") {
                 $columndefinition = "id int NOT NULL AUTO_INCREMENT";
             } else if ($coluna->data_type == "character varying") {

@@ -18,7 +18,7 @@
  * performancemonitor file
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -31,6 +31,7 @@ use external_api;
 use external_function_parameters;
 use external_single_structure;
 use external_value;
+use local_kopere_dashboard\server\performancemonitor as server_performancemonitor;
 
 /**
  * Class performancemonitor
@@ -80,7 +81,7 @@ class performancemonitor extends external_api {
         self::validate_context($context);
 
         return [
-            "disk" => \local_kopere_dashboard\server\performancemonitor::disk_moodledata(false),
+            "disk" => server_performancemonitor::disk_moodledata(false),
         ];
     }
 }

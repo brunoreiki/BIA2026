@@ -20,7 +20,7 @@
  * introduced  17/11/2018 12:37
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -125,6 +125,11 @@ class menu {
                             ->set_methodname("dashboard")
                             ->set_title(get_string("notification_title", "local_kopere_dashboard"))
                             ->set_icon("notifications"),
+                        (new submenu_util())
+                            ->set_classname("notificationsend")
+                            ->set_methodname("create")
+                            ->set_title(get_string("notificationsend_title", "local_kopere_dashboard"))
+                            ->set_icon("send"),
                     ]));
 
             echo dashboard_util::add_menu(

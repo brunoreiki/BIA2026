@@ -18,7 +18,7 @@
  * Events file
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
@@ -29,7 +29,6 @@ $observers = [
         "eventname" => "*",
         "callback" => "\\local_kopere_dashboard\\events\\event_observers::process_event",
     ],
-
     [
         "eventname" => "\\core\\event\\course_deleted",
         "callback" => "\\local_kopere_dashboard\\events\\course_observers::process_event",
@@ -43,4 +42,3 @@ $observers = [
         "callback" => "\\local_kopere_dashboard\\events\\course_observers::process_event",
     ],
 ];
-

@@ -19,9 +19,11 @@
  * Introduced 30/01/17 08:34
  *
  * @package   local_kopere_dashboard
- * @copyright 2017 Eduardo Kraus {@link http://eduardokraus.com}
+ * @copyright 2017 Eduardo Kraus {@link https://eduardokraus.com}
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
+
+use local_kopere_dashboard\util\json;
 
 define("AJAX_SCRIPT", true);
 
@@ -37,7 +39,7 @@ try {
     $context = context_system::instance();
     require_capability("local/kopere_dashboard:ajax", $context);
 } catch (Exception $e) {
-    \local_kopere_dashboard\util\json::error($e->getMessage());
+    json::error($e->getMessage());
 }
 
 $PAGE->set_url(new moodle_url("/local/kopere_dashboard/view-ajax.php"));
