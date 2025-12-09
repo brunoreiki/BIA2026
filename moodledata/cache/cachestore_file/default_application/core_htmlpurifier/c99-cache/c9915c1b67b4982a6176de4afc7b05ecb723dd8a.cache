@@ -1,0 +1,55 @@
+s:4525:"<h3 class="s17"><a></a>3. ‌Le Facteur de charge</h3>
+<p></p>
+<h5 class="s86" style="text-align:center;">Le facteur de charge = grandeur qui traduit l’effort appliqué à la structure de l’aéronef</h5>
+<p style="text-align:center;">Il correspond donc au rapport entre la charge totale supportée par la structure d’un appareil et le poids réel de cet appareil. Il est sans unité mais il s’exprime souvent en « <strong>g </strong>».</p>
+<p><br />La plupart des avions légers peuvent supporter des facteurs de charge de + 4 à – 2 Les avions de voltige sont certifiés pour des facteurs de charge de + 6 à – 4</p>
+<p class="s8"><strong>Ces valeurs sont des limites, qui figurent dans le manuel de vol de chaque avion.</strong></p>
+<p></p>
+<h4 class="s18"><a></a>A. ‌En vol longitudinal</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/images/facteur-de-charge.png" alt="facteur de charge" width="530" height="106" /></p>
+<p>Un avion subit un facteur de charge positif quand la portance est orientée dans le sens habituel, vers le dessus de l’avion, et négatif dans le sens contraire.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_219.png" alt="image" width="345" height="265" /></p>
+<p>Figure 1.53.</p>
+<p>Le pilote et ses passagers subissent le même facteur de charge que l’avion lors d’une évolution :</p>
+<ul>
+<li class="s37"><span class="s38">facteur de charge supérieur à 1 = sensation de tassement</span></li>
+<li>facteur de charge proche de 0 = sensation d’apesanteur <i>(Ex : Avion Zéro G)</i></li>
+<li class="s37"> <span class="s38">facteur de charge négatif = sensation d’être projeté vers le haut</span></li>
+</ul>
+<p class="s4"><strong>Facteur de charge en palier</strong></p>
+<p style="text-align:center;">La portance est égale au poids : le facteur de charge est de 1</p>
+<p class="s4"><strong>Facteur de charge en montée / descente rectiligne</strong></p>
+<p style="text-align:center;">La portance est inférieure au poids : le facteur de charge est inférieur à 1</p>
+<p style="text-align:center;"></p>
+<p style="text-align:left;"><strong>Facteur de charge et vitesse de décrochage</strong></p>
+<p style="text-align:left;">Dans tous les cas, l’avion doit voler au-dessus de la vitesse de décrochage, qui est<br />une <strong>vitesse minimale.</strong><br />La vitesse de décrochage évolue selon la racine carrée du facteur de charge : <strong>Vdécrochage = Vpalier .√𝒏</strong></p>
+<p style="text-align:left;"><strong>Facteur de charge en palier</strong></p>
+<p style="text-align:left;">La portance est égale au poids : le facteur de charge est de 1</p>
+<p style="text-align:left;"><strong>Facteur de charge en virage</strong></p>
+<p style="text-align:left;">La portance doit augmenter pour équilibrer le poids et donc maintenir le vol en palier, c’est-à-dire à altitude constante.</p>
+<p style="text-align:left;"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/267/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-06-02%2022-10-26.png" alt="en virage" width="369" height="212" /><br />Le facteur de charge en virage augmente avec l’inclinaison : n= 𝟏/ 𝐜𝐨𝐬 𝚽</p>
+<p></p>
+<h4 class="s18"><a></a>B. ‌En virage symétrique</h4>
+<p>La portance doit augmenter pour équilibrer le poids et donc maintenir le vol en palier, c’est-à-dire à altitude constante.</p>
+<p class="s28">Exemple : Lors d’un virage à 60°, le facteur de charge est égal à 2. Cela signifie que l’appareil doit supporter deux fois le poids de l’avion, et les occupants ont la sensation de peser 2 fois leur poids.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_223.jpg" alt="image" width="538" height="112" /></p>
+<p class="s22">Figure 1.55.</p>
+<p></p>
+<h4 class="s18"><a></a>‌C. Facteur de charge et vitesse de décrochage</h4>
+<p></p>
+<p>Dans tous les cas, l’avion doit voler au-dessus de la vitesse de décrochage, qui est une <strong>vitesse minimale.</strong></p>
+<p>La vitesse de décrochage varie également avec :</p>
+<ul>
+<li>La masse</li>
+<li>L’altitude</li>
+<li>La configuration de l’avion (train, volets)</li>
+</ul>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Virage en palier, facteur de charge, centrifugation</strong></p>
+<p></p>
+</div>
+<p></p>";

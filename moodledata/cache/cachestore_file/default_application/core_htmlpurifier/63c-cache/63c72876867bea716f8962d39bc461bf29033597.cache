@@ -1,0 +1,6 @@
+s:572:"<p>Lorsque cette option est sélectionnée, la progression des activités de l’utilisateur sera affichée dans chaque tuile, soit sous la forme d’une <em>fraction</em> (par ex. 'Progrès 2/10' signifiant que 2 activités sur 10 sont achevées), soit sous la forme d’un <em>pourcentage</em> dans un cercle.</p>
+
+<p>Il ne peut être utilisé que si l’option 'Achèvement &gt; Activer le suivi de l’achèvement' a été activée.</p>
+
+<p>S’il n’y a pas d’activités traçables dans une tuile donnée, l’indicateur ne sera pas affiché pour cette tuile.</p>
+";

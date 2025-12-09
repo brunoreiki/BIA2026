@@ -15,8 +15,6 @@
 }
 
 .path-report-certaintyquizzes .student-attempts-table {
-    width: 100%;
-    margin: 1.5rem;
     max-height: 30vh;
     overflow-y: auto;
     border: solid 2px;
@@ -38,7 +36,7 @@
 
 .path-report-certaintyquizzes .student-attempts-table th:not(:last-child),
 .path-report-certaintyquizzes .student-attempts-table td:not(:last-child) {
-    border-right: solid 1px gray;
+    border-right: 1px solid gray;
 }
 
 .path-report-certaintyquizzes .student-attempts-table thead,
@@ -50,17 +48,12 @@
     display: flex;
     align-items: center;
     width: 50%;
-    opacity: 1;
-    padding-top: 4.5rem;
-    padding-bottom: 8rem;
-    transition: opacity 500ms linear;
     background-color: floralwhite;
 }
 
 .path-report-certaintyquizzes .charts-content {
     width: 100%;
-    padding: 2rem;
-    transition: all 400ms ease;
+    transition: width 500ms ease;
 }
 
 .path-report-certaintyquizzes .charts-content.reducedwidth {

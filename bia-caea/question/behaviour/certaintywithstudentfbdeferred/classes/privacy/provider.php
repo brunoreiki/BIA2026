@@ -32,11 +32,10 @@ use qbehaviour_certaintywithstudentfbdeferred\certaintylevel;
  * @copyright  2021 Astor Bizard <astor.bizard@univ-grenoble-alpes.fr>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class provider extends \qbehaviour_studentfeedbackdeferred\privacy\provider
-               implements \core_privacy\local\metadata\provider,
-                          \core_privacy\local\request\plugin\provider,
-                          \core_privacy\local\request\core_userlist_provider {
-
+class provider extends \qbehaviour_studentfeedbackdeferred\privacy\provider implements
+    \core_privacy\local\metadata\provider,
+    \core_privacy\local\request\plugin\provider,
+    \core_privacy\local\request\core_userlist_provider {
     /**
      * @var string $behaviourname The name for this question behaviour. Used for inheritance, it overrides the parent one.
      */
@@ -72,5 +71,4 @@ class provider extends \qbehaviour_studentfeedbackdeferred\privacy\provider
         }
         return $stepdata;
     }
-
 }

@@ -1,0 +1,2624 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:38:{i:99;O:8:"stdClass":17:{s:2:"id";s:2:"20";s:2:"cm";s:2:"99";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"12";s:6:"module";s:2:"13";s:5:"added";s:10:"1735990226";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:62:"Avant de commencer ce cours,  faites un test de positionnement";s:7:"content";s:1822:"<div class="no-overflow"><p>Le chapitre 1 "Étude des aéronefs et des engins spatiaux" du programme du BIA se concentre sur l'étude des aéronefs et des engins spatiaux. Il est divisé en quatre parties principales :</p>
+<ol>
+<li>
+<p><strong>Classification des aéronefs</strong> : Les aéronefs sont répartis en deux grandes catégories : les aérostats (plus légers que l'air, comme les ballons et dirigeables) et les aérodynes (plus lourds que l'air, comme les avions et hélicoptères). Chaque sous-catégorie est détaillée, incluant les caractéristiques et exemples spécifiques.</p>
+</li>
+<li>
+<p><strong>Structure des cellules</strong> : La cellule d'un aéronef comprend des éléments comme le fuselage, les ailes et l'empennage. Les matériaux utilisés (bois, métaux, composites) et les forces appliquées sont étudiés. Les différentes configurations des ailes et empennages sont aussi analysées.</p>
+</li>
+<li>
+<p><strong>Groupes motopropulseurs (GMP)</strong> : Les moyens de propulsion incluent les hélices (fixes ou variables), les moteurs à pistons, les turboréacteurs et d'autres turbomachines (turbopropulseurs, statoréacteurs), chaque technologie ayant des applications spécifiques.</p>
+</li>
+<li>
+<p><strong>Instruments de bord</strong> : Les instruments essentiels sont regroupés en catégories : barométriques (anémomètre, altimètre), gyroscopiques (horizon artificiel, indicateur de virage), et autres instruments comme les systèmes électroniques (EFIS).</p>
+</li>
+</ol>
+<p></p>
+<p>Ce chapitre fournit un aperçu technique des aéronefs, combinant des principes mécaniques, aérodynamiques et technologiques. Vous trouverez également trois parties supplémentaires : le vocabulaire aéronautique anglais, les annales et un test de positionnement.</p></div>";}i:389;O:8:"stdClass":17:{s:2:"id";s:1:"4";s:2:"cm";s:3:"389";s:3:"mod";s:5:"qbank";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"12";s:6:"module";s:2:"34";s:5:"added";s:10:"1755155503";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:7:"content";s:117:"<div class="no-overflow">Cette banque de questions est créée automatiquement lors de la mise à jour du site.</div>";s:4:"name";s:35:"AES banques de questions partagées";}i:427;O:8:"stdClass":16:{s:2:"id";s:2:"22";s:2:"cm";s:3:"427";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"12";s:6:"module";s:1:"9";s:5:"added";s:10:"1765262175";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:8:"Annonces";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:418;O:8:"stdClass":17:{s:2:"id";s:2:"11";s:2:"cm";s:3:"418";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:2:"60";s:6:"module";s:2:"18";s:5:"added";s:10:"1762527905";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:10:"f/document";s:4:"name";s:42:"Cours de Yannick Kohler du 6 novembre 2025";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:230:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:18:"Document Word 2007";s:8:"mimetype";s:71:"application/vnd.openxmlformats-officedocument.wordprocessingml.document";s:9:"extension";s:4:"DOCX";}}";s:7:"display";i:5;}}i:124;O:8:"stdClass":18:{s:2:"id";s:2:"34";s:2:"cm";s:3:"124";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"13";s:6:"module";s:2:"13";s:5:"added";s:10:"1736187724";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:29:"1. Les familles d’aéronefs";s:7:"content";s:7562:"<div class="no-overflow"><h3 class="s17"><a name="bookmark2"></a>‌1. Les familles d’aéronefs</h3>
+<p></p>
+<p>On classe les aéronefs (tout ce qui circule dans l’espace aérien) en deux grandes catégories :</p>
+<ul>
+<li class="s4">les <strong>Aérostats</strong> <span class="p">(« plus léger que l’air »)</span></li>
+<li class="s4">les <strong>Aérodynes</strong> <span class="p">(« plus lourd que l’air »)</span></li>
+</ul>
+<hr>
+<h4 class="s18"><a name="bookmark3"></a>A. ‌Les Aérostats</h4>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">1. Les Ballons</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Le_Ballon_Captif.jpeg" alt="Ballon Captif">
+<figcaption>Le Ballon Captif</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Le%20Ballon%20%C3%A0%20air%20chaud.jpeg" alt="Le Ballon à air chaud">
+<figcaption>Le Ballon à air chaud</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Le%20Ballon%20%C3%A0%20gaz%20%28H%C3%A9lium%29.jpeg" alt="Le Ballon à gaz (Hélium)">
+<figcaption>Le Ballon à gaz (Hélium)</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">2. Les Dirigeables</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/A%20structure%20Souple%20ou%20Rigide.jpeg" alt="A structure Souple ou Rigide">
+<figcaption>A structure Souple ou Rigide</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h4 class="s18"><a name="bookmark4"></a>B. ‌Les Aérodynes</h4>
+<h5>1. Les Non Motorisés</h5>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_16_img_2.jpeg" alt="Le Modèle Réduit">
+<figcaption>Le Modèle Réduit</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/Le_Cerf-Volant.jpeg" alt="Le Cerf-Volant">
+<figcaption>Le Cerf-Volant</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/Le%20Planeur%20Planeur%20Ultra%20L%C3%A9ger%20%28PUL%29%20%281%29.jpeg" alt="Le Planeur / Planeur Ultra Léger (PUL)">
+<figcaption>Le Planeur / Planeur Ultra Léger (PUL)</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/Le_Parachute.jpeg" alt="Le Parachute">
+<figcaption>Le Parachute</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/pLe%20Parapente.jpeg" alt="Le Parapente">
+<figcaption>Le Parapente</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/LeDeltaplane.jpeg" alt="Le Deltaplane">
+<figcaption>Le Deltaplane</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+<h5>2. Les Motorisés</h5>
+<h6>a. A voilure fixe</h6>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_009.jpg" alt="Le Modèle Réduit">
+<figcaption>Le Modèle Réduit</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Les Ultra légers motorisés (ULM) – 6 CLASSES</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_17_img_2.jpeg" alt="Paramoteur">
+<figcaption>La Classe 1 : Paramoteur</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_17_img_4.jpeg" alt="Pendulaire">
+<figcaption>La Classe 2 : Pendulaire</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_17_img_6.jpeg" alt="Multi-axes">
+<figcaption>La Classe 3 : Multi-axes</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p><strong>A cela se rajoute : </strong></p>
+<ul>
+<li>La Classe 4 : Autogire</li>
+<li>La Classe 5 : Aérostat </li>
+<li>La Classe 6 : Hélicoptère ULM</li>
+</ul>
+<p><strong>Pour en savoir plus sur les hélicoptères, consultez la vidéo suivante </strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/qa1m368w3h4?si=yOCa_zQKqWI91AJp" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p>La masse maximale d’un ULM est de 300 kg (monoplace) ou 450 kg (biplace). La puissance est limitée à 45 kW (monoplace) ou 60 kW (biplace).</p>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Les Avions</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/L%E2%80%99Avion%20%C3%A0%20H%C3%A9lice.png" alt="L’Avion à Hélice">
+<figcaption>L’Avion à Hélice</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_18_img_3.jpeg" alt="L’Avion à Réaction">
+<figcaption>L’Avion à Réaction</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<h6>b. A voilure tournante (giravions)</h6>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_012.png" alt="L’Autogyre">
+<figcaption>L’Autogyre</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_014.png" alt="L’Hélicoptère">
+<figcaption>L’Hélicoptère</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_18_img_11.jpeg" alt="Le Convertible ou Hybride">
+<figcaption>Le Convertible ou Hybride</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/208/mod_label/intro/page_18_img_10.jpeg" alt="Le Girodyne">
+<figcaption>Le Girodyne</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Classification des aéronefs</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/DBO3T6NNoYQ?si=B-8ezwcGogtRt6s0" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:125;O:8:"stdClass":18:{s:2:"id";s:2:"35";s:2:"cm";s:3:"125";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"13";s:6:"module";s:2:"13";s:5:"added";s:10:"1736187757";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:45:"‌2. La Composition générale des aéronefs";s:7:"content";s:287:"<div class="no-overflow"><h3 class="s17"><a name="bookmark5"></a>‌2. La Composition générale des aéronefs</h3>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_017.jpg" alt="image" width="889" height="1006"></p>
+<p class="s22">Figures 2.1. et 2.2.</p></div>";}i:126;O:8:"stdClass":18:{s:2:"id";s:2:"36";s:2:"cm";s:3:"126";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"13";s:6:"module";s:2:"13";s:5:"added";s:10:"1736187788";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:31:"3. Les véhicules aérospatiaux";s:7:"content";s:3114:"<div class="no-overflow"><h3><a name="bookmark6"></a>‌3. Les véhicules aérospatiaux ou spatiaux</h3>
+<p></p>
+<p>Les véhicules aérospatiaux sont les lanceurs, fusées et vaisseaux habités. Les véhicules spatiaux sont les satellites et les sondes.</p>
+<hr>
+<h4 class="s18"><a name="bookmark7"></a>A. ‌Les lanceurs</h4>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_018.jpg" alt="image" width="420" height="669"></p>
+<p class="s22">Figure 2.3.</p>
+<p class="s22"></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_019.jpg" alt="image" width="643" height="393"></p>
+<p class="s22">Figure 2.4.</p>
+<hr>
+<h4 class="s18"><a name="bookmark8"></a>B. ‌Les satellites</h4>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_020.png" alt="image" width="566" height="363"></p>
+<p class="s22">Figure 2.5.</p>
+<hr>
+<div style="background-color: black; color: white; padding: 20px;">
+<h2>Cap sur l'environnement</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="flex: 1; min-width: 250px;">
+<p>L’exploration spatiale est extrêmement bénéfique pour la science et l’humanité ; toutefois, <strong>elle génère des quantités très importantes de débris</strong> qui orbitent ensuite autour de notre planète et entrent en collision entre eux, ce qui génère encore davantage de débris.</p>
+<p>L’ESA (European Space Agency) a répertorié environ <strong>26 000 objets dans l’espace, dont seulement 7% sont en activité</strong>. De plus, les plus petits débris de moins de 5 cm – qui ne peuvent être observés depuis la Terre du fait de leur petite taille – sont estimés à <strong>500 000</strong>. Pourtant, ces si petits débris peuvent causer <strong>d’importants dégâts</strong> sur les satellites et stations spatiales en fonctionnement. En guise d’exemple, on retiendra que<strong> l’ISS, la station spatiale internationale, a dû altérer sa trajectoire à trois reprises en 2020 afin d’éviter des collisions : ce sont des manœuvres complexes et coûteuses pour des satellites de cette taille.</strong></p>
+<p>Mais alors, comment remédier à ces enjeux ? Compte tenu du fait que des centaines de satellites sont envoyés chaque année en orbite, des projets visant à nettoyer l’espace commencent à voir le jour. C’est le cas de <strong>la mission ClearSpace-1</strong>, dont le lancement est prévu en 2025 par l’ESA et ClearSpace. L’engin aura pour mission de récupérer à l’aide de ses bras tentaculaires un débris de <strong>112 kg</strong> – provenant du lancement d’une fusée en 2013 – et de le guider <strong>pour qu’ils se fassent tous deux désintégrer en entrant dans l’atmosphère</strong>.</p>
+</div>
+<figure style="min-width: 250px; margin: 0;"><img style="float: right; margin-left: 20px; max-width: 100%; height: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_022.png" alt="Débris spatiaux">
+<figcaption style="text-align: center; margin-top: 10px;">Figure 2.6</figcaption>
+</figure>
+</div>
+</div></div>";}i:324;O:8:"stdClass":16:{s:2:"id";s:3:"151";s:2:"cm";s:3:"324";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"13";s:6:"module";s:2:"17";s:5:"added";s:10:"1743453387";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:111;O:8:"stdClass":18:{s:2:"id";s:2:"27";s:2:"cm";s:3:"111";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"14";s:6:"module";s:2:"13";s:5:"added";s:10:"1736085374";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:34:"1. ‌La Structure d’une cellule";s:7:"content";s:25374:"<div class="no-overflow"><h3 class="s17"><a name="bookmark10"></a>1. ‌La Structure d’une cellule</h3>
+<ul>
+<li><a href="#bookmark11">A. Les Forces et les contraintes s’exerçant sur un avion</a></li>
+<li><a href="#bookmark12">B. Les matériaux</a></li>
+<li><a href="#bookmark13">C. La structure du fuselage</a></li>
+<li><a href="#bookmark14">D. Structure de la voilure</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark11"></a>A. ‌Les Forces et les contraintes s’exerçant sur un avion</h4>
+<p></p>
+<ul>
+<li>Les principales forces agissant sur un aéronef sont :</li>
+<li>le poids de l’appareil</li>
+<li>la portance et la traînée sur les ailes</li>
+<li>les efforts aérodynamiques sur les gouvernes</li>
+<li>la poussée ou la traction des moteurs</li>
+</ul>
+<p>Ces forces provoquent des contraintes dans les différentes parties d’un système. On distingue principalement les contraintes suivantes :</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_024.jpg" alt="image" width="126" height="39"></p>
+<p><strong>Exemples </strong>: les câbles, les bielles des commandes de vol, les éléments de  structure, le revêtement de l'aile, les boulons, les pales de l'hélice, les tubes et les fixations du bâti moteur…</p>
+<p class="s28"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_025.jpg" alt="image" width="128" height="39"></p>
+<p class="s28"><strong>Exemples </strong>: les bielles du moteur, les commandes de vol, les éléments de  structure du fuselage et de l'aile, les tubes du bâti moteur…</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_026.jpg" alt="image" width="130" height="65"></p>
+<p class="s12"><strong>Exemples</strong> <span class="s28">: le revêtement du fuselage, les fixations, les charnières, les boulons, les éléments encastrés comme les nervures ou les pales de l'hélice près du moyeu.</span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_027.jpg" alt="image" width="107" height="84"></p>
+<p class="s12"><strong>Exemples</strong> <span class="s28">: les longerons, les nervures, les jambes de train </span>d'atterrissage, les guignols, le pied de manche, les pales d'hélice…</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_028.jpg" alt="image" width="116" height="80"></p>
+<p class="s12"><strong>Exemples</strong> <span class="s28">: les axes de palonniers, le train d'atterrissage à lame lors du freinage et les éléments de structure comme le fuselage, les ailes, les ailerons, l'empennage…</span></p>
+<p class="s22">Figure 2.7.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark12"></a>B. ‌Les matériaux</h4>
+<h5> </h5>
+<h5>1. Bois</h5>
+<p>Principalement utilisé dans les débuts de l’aviation, le bois reste encore utilisé dans l’aviation « légère ».</p>
+<p>Les variétés de bois sont choisies en fonction de leurs caractéristiques :</p>
+<div class="bloc-image-text">
+<div class="column">
+<p class="titre-bloc-image">Pièces maîtresses</p>
+<p>On utilise du bois dur provenant principalement de :</p>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_029.jpg" alt="Spruce" width="102" height="140">
+<div class="text">
+<p>Spruce (Canada / Norvège)</p>
+<em>Léger (densité de 0,45). Tronc très droit et sans nœud. Souple et bonne tenue à la compression.</em></div>
+</div>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_030.jpg" alt="Épicéa" width="93" height="139">
+<div class="text">
+<p>Épicéa (Europe)</p>
+<em>Tronc long avec peu de nœuds.</em></div>
+</div>
+</div>
+<div class="column">
+<p class="titre-bloc-image">Pièces secondaires</p>
+<p>On utilise du bois tendre et léger provenant principalement de :</p>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_031.jpg" alt="Sapin" width="115" height="152">
+<div class="text">
+<p>Sapin (Amérique du nord / Europe / Asie)</p>
+<em>Densité de 0,50. Facile à raboter et à coller.</em></div>
+</div>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_032.jpg" alt="Pin d'Orégon" width="99" height="149">
+<div class="text">
+<p>Pin d’Orégon ou Douglas (Canada / USA)</p>
+<em>Excellentes qualités mécaniques.</em></div>
+</div>
+</div>
+<div class="column">
+<p class="titre-bloc-image">Patins et fixation de trains</p>
+<p>On utilise du bois provenant principalement de :</p>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_034.jpg" alt="Frêne" width="118" height="141">
+<div class="text">
+<p>Frêne (Europe)</p>
+<em>Plus lourd (0,69). Bonne élasticité et possibilité de réaliser des formes courbes.</em></div>
+</div>
+<div class="entry"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_033.jpg" alt="Hêtre" width="104" height="151">
+<div class="text">
+<p>Hêtre (Amérique du nord / Europe / Asie)</p>
+<em>Bois dur aux bonnes caractéristiques mécaniques. Ne se fissure pas.</em></div>
+</div>
+</div>
+</div>
+<p></p>
+<hr>
+<h5 class="s29">2. Toiles</h5>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_036.png" alt="Dans les débuts : Lin et cotons" width="262" height="162">
+<figcaption>Dans les débuts : Lin et cotons</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_035.jpg" alt="Aujourd’hui : Dacron" width="287" height="191">
+<figcaption>Aujourd’hui : Dacron</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p>Si le bois et la toile permettent de construire des avions qui peuvent atteindre des vitesses de 300 km/h, l’utilisation du métal va rendre les avions plus solides et plus rapides.</p>
+<p></p>
+<h5 class="s29">3. Métaux</h5>
+<p class="s32">Le matériau utilisé à la base est un alliage d’aluminium et de cuivre appelé <strong>duralumin</strong>. D’autres alliages comme le <strong>Zicral</strong>, le <strong>Duralinox</strong>, des alliages de <span class="s4">Magnésium</span><span class="p">, de </span><span class="s4">Titane</span><span class="p">, … vont rapidement entrer dans la fabrication des avions.</span></p>
+<p></p>
+<p><em><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_037.jpg" alt="image" width="352" height="179"></em></p>
+<p class="s28" style="text-align: center;"><em>Le premier avion en métal est un avion allemand, le Junkers J9 en 1918.</em></p>
+<p></p>
+<h5 class="s29">4. Composites</h5>
+<p>Apparus dans les années 60, les matériaux composites (fibres de verre, aramides, de carbone, de bore,…) sont de plus en plus utilisés sur les avions pour leur faible masse volumique, leur capacité à réaliser des pièces de formes les plus diverses et leurs excellentes caractéristiques mécaniques.</p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Résistance des matériaux</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/pi70nw3bo4E?si=qE856uQgbznEecmz" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<h4 class="s18"><a name="bookmark13"></a>‌C. La structure du fuselage</h4>
+<h5 class="s29">1. Treillis</h5>
+<p>Il s’agit de « longerons » assemblés entre eux par des « traverses » pour donner la forme souhaitée. Elles peuvent être collées si elles sont en bois ou alors soudées pour les parties métalliques. Le revêtement est souple (toile ou tôle mince). Cette structure est légère mais encombrante.</p>
+<p><em><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_038.png" alt="image" width="389" height="220"></em></p>
+<p class="s28" style="text-align: center;"><em>Le Vickers Wellington</em></p>
+<p></p>
+<h5 class="s29">2. Caisson semi-monocoque</h5>
+<p>Il s’agit de « cadres » (ou couples) assemblés entre eux par des « lisses » pour donner la forme souhaitée. Les cadres absorbent les efforts de torsion, les lisses ceux de flexion.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_039.jpg" alt="image" width="450" height="259"></p>
+<p class="s22">Figure 2.9. Structure Bois</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_040.png" alt="image" width="376" height="299"></p>
+<p class="s22">Figure 2.10. Structure Métal</p>
+<p></p>
+<h5 class="s29">3. Caisson monocoque</h5>
+<p>Le revêtement (fibre de verre ou de carbone) est directement vissé ou riveté sur les cadres et donc participe à la transmission et l’absorption des efforts. Utilisé pour les planeurs et ULM.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_041.png" alt="image" width="300" height="194"></p>
+<p class="s22">Figure 2.11.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark14"></a>D. Structure de la voilure</h4>
+<h5 class="s29">1.Treillis (pour les nervures)</h5>
+<p>Plutôt utilisés pour les avions en bois et toiles</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_042.jpg" alt="image" width="263" height="135"></p>
+<p></p>
+<h5 class="s29"> </h5>
+<h5 class="s29">2. Caisson</h5>
+<p>Les longerons reprennent les efforts de flexion et les nervures les efforts de torsion. Le carburant contribue à la rigidité de l’aile.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_043.jpg" alt="image" width="533" height="368"></p>
+<p>Figures 2.12 et 2.13.</p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Le fuselage</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/RI2wDp2qePU?si=YSrreRdGV3ZXe8ZW" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<p></p>
+<h3 class="s17"><a name="bookmark15"></a>2. ‌La voilure</h3>
+<p>L’ensemble de la voilure est constitué de deux ailes qui sont ancrées sur le fuselage.</p>
+<p>Celles-ci sont conçues pour résister aux efforts que peuvent générer les différentes forces appliquées à l’aéronef, aussi bien en vol qu’au sol.</p>
+<h4><a name="bookmark16"></a>A.‌Emplanture</h4>
+<p>En fonction de leurs ancrages sur le fuselage, les ailes peuvent être :</p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_29_img_2.jpeg" alt="Hautes" width="317" height="177">
+<figcaption>« Hautes »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_29_img_4.jpeg" alt="Médianes" width="304" height="208">
+<figcaption>« Médianes »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_29_img_6.jpeg" alt="Basses" width="255" height="170">
+<figcaption>« Basses »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h4> </h4>
+<h4 class="s18"><a name="bookmark17"></a>B. ‌Géométrie</h4>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_29_img_14.jpeg" alt="Les Ailes « Droites »" width="250" height="187">
+<figcaption>Les Ailes « Droites »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_29_img_12.jpeg" alt="Les Ailes « Trapézoïdales »" width="400" height="266">
+<figcaption>Les Ailes « Trapézoïdales »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/Les_Ailes_Delta.jpg" alt="Les Ailes « Delta »" width="257" height="163">
+<figcaption>Les Ailes « Delta »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/Les%20Ailes%20en%20Fl%C3%A8che.jpg" alt="Les Ailes en Flèche" width="255" height="171">
+<figcaption>Les Ailes « En Flèche »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/Les_Ailes__Biplan_.png" alt="Les Ailes « Biplan »" width="299" height="223">
+<figcaption>Les Ailes « Biplan »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/Les_Ailes_Elliptiques.jpg" alt="Les Ailes « Elliptiques »" width="277" height="216">
+<figcaption>Les Ailes « Elliptiques »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p>Celle-ci permettra à l’avion d’être plus ou moins stable ou plus ou moins maniable</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/p30.png" alt="maniable" width="743" height="166"></p>
+<p class="s22">Figure 2.14.</p>
+<h4><a name="bookmark18"></a>C. Caractéristiques</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_052.png" alt="image" width="337" height="340"></p>
+<p class="s22">Figure 2.15.</p>
+<p></p>
+<ul>
+<li class="s4"><strong>L’Emplanture</strong> : <span class="p">Partie qui assure la jonction avec le fuselage</span></li>
+<li class="s4"><strong>Le Karman </strong>: <span class="p">Partie améliorant l’écoulement de l’air à l’emplanture</span></li>
+<li class="s4"><strong>Le Saumon </strong><span class="p">: Partie se trouvant en bout d’aile</span></li>
+<li class="s4"><strong>L’Extrados </strong><span class="p"><strong>: </strong>Partie supérieure de l’aile</span></li>
+<li class="s4"><strong>L’Intrados</strong> <span class="p">: Partie inférieure de l’aile</span></li>
+<li class="s4"><strong>Le Bord d’Attaque </strong><span class="p">: Partie avant de l’aile</span></li>
+<li class="s4"><strong>Le Bord de Fuite </strong><span class="p">: Partie arrière de l’aile</span></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark19"></a>D. ‌Le Dièdre</h4>
+<div class="gallery">
+<p class="gallery-titre">Positif et Négatif</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_053.jpg" alt="Positif" width="314" height="176">
+<figcaption>Posistif lorsque le saumon est plus haut que l’emplanture</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_054.jpg" alt="Négatif" width="315" height="195">
+<figcaption>Négatif lorsque le saumon est plus bas que l’emplanture</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>La voilure</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/a6cVe0nIPlc?si=78zH8nrz4ZqA7n01" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<h3 class="s17"><a name="bookmark20"></a>3. ‌Empennages et gouvernes</h3>
+<h4 class="s18"><a name="bookmark21"></a>‌A. L’empennage</h4>
+<p>Sa fonction principale est de supporter deux des trois ensembles de gouvernes de l’avion.</p>
+<div class="column" style="color: white;">
+<p>Les empennages se trouvent à l’arrière du fuselage et se composent de différentes parties :</p>
+<div class="entry">
+<div><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_055.jpg" alt="Empennage" width="288" height="223"><br><em>Figure 2.16.</em></div>
+<div class="text">
+<p><strong>Empennage Vertical</strong></p>
+<em>Il se compose d’un plan fixe (dérive) et de la gouverne de direction (mobile).</em>
+<p></p>
+<p><strong>Empennage Horizontal</strong></p>
+<em>Généralement posé sur l’empennage vertical, il se trouve également à l’arrière du fuselage.<br><br><br></em></div>
+<div class="text"> </div>
+</div>
+</div>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Les principaux types d’empennages</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_32_img_2.jpeg?1736103882104" alt="Empennage « Classique »" width="262" height="193">
+<figcaption>Le plus répandu : empennage « Classique »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_32_img_3.jpeg?1736103910440" alt="Empennage « Cruciforme »" width="303" height="225">
+<figcaption>Empennage « Cruciforme »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_33_img_2.jpeg?1736104011673" alt="Empennage « en T »">
+<figcaption>Empennage « en T »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/195/mod_label/intro/page_33_img_3.jpeg?1736104020578" alt="Empennages en V (Papillon)">
+<figcaption>Empennages en V (Papillon)</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_058.jpg" alt="Configuration « Canard »" width="346" height="230">
+<figcaption>On trouve des empennages horizontaux à l’avant de l’avion<br>On parle alors de configuration « canard »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Les empennages</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/OOy8uLhhacs?si=1BuR8Ot8eb8JAeBU" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<p></p>
+<h4 class="s18"><a name="bookmark22"></a>B. ‌La gouverne de profondeur</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_059.jpg" alt="image" width="204" height="213"></p>
+<p>Figure 2.17.</p>
+<p>Une gouverne est une surface mobile située sur des éléments de structure (voilure, empennage), qui permet de créer les forces nécessaires pour modifier l’attitude de l’avion. Située sur l’empennage horizontal, elle permet de contrôler la montée ou la descente de l’avion.<br>C’est <strong>le tangage </strong>(modification de l’assiette).</p>
+<h4> </h4>
+<h4 class="s18"><a name="bookmark23"></a>‌C. Les ailerons</h4>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_061.jpg" alt="image" width="203" height="226"></p>
+<p>Figure 2.18.</p>
+<p></p>
+<p>Situés à l’extrémité de chaque aile, ils permettent de contrôler la mise en virage modifiant légèrement la géométrie des ailes de l’avion.<br>C’est <strong>le roulis </strong>(gauchissement de l’aile).</p>
+<p></p>
+<h4 class="s18"><a name="bookmark24"></a>‌D. La gouverne de direction</h4>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_060.png" alt="image" width="221" height="222"></p>
+<p></p>
+<p class="s22">Figure 2.19.</p>
+<p>Située sur l’empennage vertical, elle permet le contrôle du virage en agissant sur la gouverne de direction grâce aux palonniers.<br>C’est <strong>le lacet </strong>(Manœuvre des palonniers)</p>
+<p>Au sol, les palonniers permettent au pilote de guider l’appareil. Comme nous l’avons vu précédemment, le haut des palonniers d’actionner les freins lors du roulage sur la piste.</p>
+<p></p>
+<p><strong>Récapitulatif</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/161/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-28%2023-46-12.png" alt="Récapitulatif" width="610" height="392"></p>
+<p class="s22">Figure 2.20.</p>
+<p></p>
+<p>La transmission des manœuvres des pilotes aux commandes se fait soit de façon mécanique (câbles, poulies, …) soit de façon électrique (Airbus, Rafale,…).</p>
+<p>Les <strong>compensateurs </strong>permettent de réduire les efforts pour le pilote. On distingue le compensateur de régime (Trim) et le compensateur d’évolution (Tab).</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_063.png" alt="image" width="295" height="119"></p>
+<p class="s22">Figure 2.21.</p>
+<p></p>
+<h3 class="s17"><a name="bookmark25"></a>4. ‌Le train d’atterrissage </h3>
+<p>Il permet à l’avion de quitter et de retrouver le sol « en douceur ». Il est « fixe » ou « rentrant ». Celui- ci peut être constitué de roues, de flotteurs, de skis ou de patins.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_064.jpg" alt="image" width="234" height="167"></p>
+<p>Il se compose:</p>
+<ul>
+<li>d’un train principal : sous les ailes pour les avions légers et sous le fuselage pour un gros porteur</li>
+<li>d’un train auxiliaire qui peut être :</li>
+</ul>
+<p>Une roulette de nez (<strong>train tricycle</strong>)<br><span class="s38">Une roulette de queue (</span><span class="s4">train classique</span><span class="p">)</span></p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_067.jpg" alt="image" width="312" height="219"></p>
+<p class="s22">Figure 2.22.</p>
+<p></p>
+<p>Dans les deux cas, la roulette est commandée par les palonniers et permet de diriger l’avion au sol.</p>
+<p>Certains avions n’ont qu’un train principal situé sous le fuselage (<strong>train monotrace</strong>). L’équilibre latéral peut être assuré par des balancines en bout d’ailes.</p>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_068.jpg" alt="image" width="271" height="179"> <img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_069.jpg" alt="image" width="274" height="179"></p>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">En fonction de la charge que l’avion doit supporter on utilisera :</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_070.jpg" alt="Un Boggie" width="263" height="351">
+<figcaption>Un Boggie</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_071.jpg" alt="Une Roue Simple" width="179" height="269">
+<figcaption>Une Roue Simple</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_072.jpg" alt="Un Diabolo" width="285" height="190">
+<figcaption>Un Diabolo</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p>Le train possède, en général, des dispositifs amortisseurs pour absorber l’impact à l’atterrissage.</p>
+<p>Les freins sont disposés sur le train principal et se commandent le plus souvent avec les palonniers (haut du palonnier).</p>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_073.jpg" alt="image" width="215" height="242"> <img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_074.jpg" alt="image" width="219" height="140"> <img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_075.jpg" alt="image" width="253" height="210"></p>
+<p class="s22">Figures 2.23. 2.24. et 2.25.</p></div>";}i:136;O:8:"stdClass":18:{s:2:"id";s:2:"46";s:2:"cm";s:3:"136";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"14";s:6:"module";s:2:"13";s:5:"added";s:10:"1736085374";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:13:"2. La voilure";s:7:"content";s:5976:"<div class="no-overflow"><h3 class="s17"><a name="bookmark15"></a>2. ‌La voilure</h3>
+<p>L’ensemble de la voilure est constitué de deux ailes qui sont ancrées sur le fuselage.</p>
+<p>Celles-ci sont conçues pour résister aux efforts que peuvent générer les différentes forces appliquées à l’aéronef, aussi bien en vol qu’au sol.</p>
+<ul>
+<li><a href="#bookmark16">A. Emplanture</a></li>
+<li><a href="#bookmark17">B. Géométrie</a></li>
+<li><a href="#bookmark18">C. Caractéristiques</a></li>
+<li><a href="#bookmark19">D. Le Dièdre</a></li>
+</ul>
+<h4><a name="bookmark16"></a>A.‌Emplanture</h4>
+<p>En fonction de leurs ancrages sur le fuselage, les ailes peuvent être :</p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/page_29_img_2.jpeg" alt="Hautes" width="317" height="177">
+<figcaption>« Hautes »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/page_29_img_4.jpeg" alt="Médianes" width="304" height="208">
+<figcaption>« Médianes »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/page_29_img_6.jpeg" alt="Basses" width="255" height="170">
+<figcaption>« Basses »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<h4 class="s18"><a name="bookmark17"></a>B. ‌Géométrie</h4>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/page_29_img_14.jpeg" alt="Les Ailes « Droites »" width="250" height="187">
+<figcaption>Les Ailes « Droites »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/page_29_img_12.jpeg" alt="Les Ailes « Trapézoïdales »" width="400" height="266">
+<figcaption>Les Ailes « Trapézoïdales »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/Les_Ailes_Delta.jpg" alt="Les Ailes « Delta »" width="257" height="163">
+<figcaption>Les Ailes « Delta »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/Les%20Ailes%20en%20Fl%C3%A8che.jpg" alt="Les Ailes en Flèche" width="255" height="171">
+<figcaption>Les Ailes « En Flèche »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/Les_Ailes__Biplan_.png" alt="Les Ailes « Biplan »" width="299" height="223">
+<figcaption>Les Ailes « Biplan »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/Les_Ailes_Elliptiques.jpg" alt="Les Ailes « Elliptiques »" width="277" height="216">
+<figcaption>Les Ailes « Elliptiques »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p>Celle-ci permettra à l’avion d’être plus ou moins stable ou plus ou moins maniable</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/220/mod_label/intro/p30.png" alt="maniable" width="743" height="166"></p>
+<p class="s22">Figure 2.14.</p>
+<p></p>
+<h4><a name="bookmark18"></a>C. Caractéristiques</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_052.png" alt="image" width="337" height="340"></p>
+<p class="s22">Figure 2.15.</p>
+<p></p>
+<ul>
+<li class="s4"><strong>L’Emplanture</strong> : <span class="p">Partie qui assure la jonction avec le fuselage</span></li>
+<li class="s4"><strong>Le Karman </strong>: <span class="p">Partie améliorant l’écoulement de l’air à l’emplanture</span></li>
+<li class="s4"><strong>Le Saumon </strong><span class="p">: Partie se trouvant en bout d’aile</span></li>
+<li class="s4"><strong>L’Extrados </strong><span class="p"><strong>: </strong>Partie supérieure de l’aile</span></li>
+<li class="s4"><strong>L’Intrados</strong> <span class="p">: Partie inférieure de l’aile</span></li>
+<li class="s4"><strong>Le Bord d’Attaque </strong><span class="p">: Partie avant de l’aile</span></li>
+<li class="s4"><strong>Le Bord de Fuite </strong><span class="p">: Partie arrière de l’aile</span></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark19"></a>D. ‌Le Dièdre</h4>
+<div class="gallery">
+<p class="gallery-titre">Positif et Négatif</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_053.jpg" alt="Positif" width="314" height="176">
+<figcaption>Posistif lorsque le saumon est plus haut que l’emplanture</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_054.jpg" alt="Négatif" width="315" height="195">
+<figcaption>Négatif lorsque le saumon est plus bas que l’emplanture</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Stabilité latérale autour de l'axe de roulis, rôle du dièdre</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ARK5lMWQR7I?si=IXqn4L7GB7tamMBB" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:135;O:8:"stdClass":18:{s:2:"id";s:2:"45";s:2:"cm";s:3:"135";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"14";s:6:"module";s:2:"13";s:5:"added";s:10:"1736085374";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:26:"3. Empennages et gouvernes";s:7:"content";s:5301:"<div class="no-overflow"><h3 class="s17"><a name="bookmark20"></a>3. ‌Empennages et gouvernes</h3>
+<ul>
+<li><a href="#bookmark21">A. L’empennage</a></li>
+<li><a href="#bookmark22">B. La gouverne de profondeur</a></li>
+<li><a href="#bookmark23">C. Les ailerons</a></li>
+<li><a href="#bookmark24">D. La gouverne de direction</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark21"></a>‌A. L’empennage</h4>
+<p>Sa fonction principale est de supporter deux des trois ensembles de gouvernes de l’avion.</p>
+<div class="column" style="color: white;">
+<p>Les empennages se trouvent à l’arrière du fuselage et se composent de différentes parties :</p>
+<div class="entry">
+<div><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_055.jpg" alt="Empennage" width="288" height="223"><br><em>Figure 2.16.</em></div>
+<div class="text">
+<p><strong>Empennage Vertical</strong></p>
+<em>Il se compose d’un plan fixe (dérive) et de la gouverne de direction (mobile).</em>
+<p></p>
+<p><strong>Empennage Horizontal</strong></p>
+<em>Généralement posé sur l’empennage vertical, il se trouve également à l’arrière du fuselage.<br><br><br></em></div>
+<div class="text"> </div>
+</div>
+</div>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Les principaux types d’empennages</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/219/mod_label/intro/page_32_img_2.jpeg?1736103882104" alt="Empennage « Classique »" width="262" height="193">
+<figcaption>Le plus répandu : empennage « Classique »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/219/mod_label/intro/page_32_img_3.jpeg?1736103910440" alt="Empennage « Cruciforme »" width="303" height="225">
+<figcaption>Empennage « Cruciforme »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/pluginfile.php/219/mod_label/intro/page_33_img_2.jpeg?1736104011673" alt="Empennage « en T »">
+<figcaption>Empennage « en T »</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/pluginfile.php/219/mod_label/intro/page_33_img_3.jpeg?1736104020578" alt="Empennages en V (Papillon)">
+<figcaption>Empennages en V (Papillon)</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_058.jpg" alt="Configuration « Canard »" width="346" height="230">
+<figcaption>On trouve des empennages horizontaux à l’avant de l’avion<br>On parle alors de configuration « canard »</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<h4 class="s18"><a name="bookmark22"></a>B. ‌La gouverne de profondeur</h4>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_059.jpg" alt="image" width="204" height="213"></p>
+<p>Figure 2.17.</p>
+<p>Une gouverne est une surface mobile située sur des éléments de structure (voilure, empennage), qui permet de créer les forces nécessaires pour modifier l’attitude de l’avion. Située sur l’empennage horizontal, elle permet de contrôler la montée ou la descente de l’avion.<br>C’est <strong>le tangage </strong>(modification de l’assiette).</p>
+<h4> </h4>
+<h4 class="s18"><a name="bookmark23"></a>‌C. Les ailerons</h4>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_061.jpg" alt="image" width="203" height="226"></p>
+<p>Figure 2.18.</p>
+<p></p>
+<p>Situés à l’extrémité de chaque aile, ils permettent de contrôler la mise en virage modifiant légèrement la géométrie des ailes de l’avion.<br>C’est <strong>le roulis </strong>(gauchissement de l’aile).</p>
+<p></p>
+<h4 class="s18"><a name="bookmark24"></a>‌D. La gouverne de direction</h4>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_060.png" alt="image" width="221" height="222"></p>
+<p></p>
+<p class="s22">Figure 2.19.</p>
+<p>Située sur l’empennage vertical, elle permet le contrôle du virage en agissant sur la gouverne de direction grâce aux palonniers.<br>C’est <strong>le lacet </strong>(Manœuvre des palonniers)</p>
+<p>Au sol, les palonniers permettent au pilote de guider l’appareil. Comme nous l’avons vu précédemment, le haut des palonniers d’actionner les freins lors du roulage sur la piste.</p>
+<p></p>
+<p><strong>Récapitulatif</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/161/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-28%2023-46-12.png" alt="Récapitulatif" width="610" height="392"></p>
+<p class="s22">Figure 2.20.</p>
+<p></p>
+<p>La transmission des manœuvres des pilotes aux commandes se fait soit de façon mécanique (câbles, poulies, …) soit de façon électrique (Airbus, Rafale,…).</p>
+<p>Les <strong>compensateurs </strong>permettent de réduire les efforts pour le pilote. On distingue le compensateur de régime (Trim) et le compensateur d’évolution (Tab).</p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_063.png" alt="image" width="295" height="119"></p>
+<p class="s22">Figure 2.21.</p>
+<p class="s22"></p></div>";}i:134;O:8:"stdClass":18:{s:2:"id";s:2:"44";s:2:"cm";s:3:"134";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"14";s:6:"module";s:2:"13";s:5:"added";s:10:"1736085374";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:28:"4. Le train d’atterrissage";s:7:"content";s:2957:"<div class="no-overflow"><h3 class="s17"><a name="bookmark25"></a>4. ‌Le train d’atterrissage </h3>
+<p>Il permet à l’avion de quitter et de retrouver le sol « en douceur ». Il est « fixe » ou « rentrant ». Celui- ci peut être constitué de roues, de flotteurs, de skis ou de patins.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_064.jpg" alt="image" width="234" height="167"></p>
+<p>Il se compose:</p>
+<ul>
+<li>d’un train principal : sous les ailes pour les avions légers et sous le fuselage pour un gros porteur</li>
+<li>d’un train auxiliaire qui peut être :</li>
+</ul>
+<p>Une roulette de nez (<strong>train tricycle</strong>)<br><span class="s38">Une roulette de queue (</span><span class="s4">train classique</span><span class="p">)</span></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_067.jpg" alt="image" width="312" height="219"></p>
+<p class="s22">Figure 2.22.</p>
+<p></p>
+<p>Dans les deux cas, la roulette est commandée par les palonniers et permet de diriger l’avion au sol.</p>
+<p>Certains avions n’ont qu’un train principal situé sous le fuselage (<strong>train monotrace</strong>). L’équilibre latéral peut être assuré par des balancines en bout d’ailes.</p>
+<p class="s37"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_068.jpg" alt="image" width="271" height="179"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_069.jpg" alt="image" width="274" height="179"></p>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">En fonction de la charge que l’avion doit supporter on utilisera :</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_070.jpg" alt="Un Boggie" width="263" height="351">
+<figcaption>Un Boggie</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_071.jpg" alt="Une Roue Simple" width="179" height="269">
+<figcaption>Une Roue Simple</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_072.jpg" alt="Un Diabolo" width="285" height="190">
+<figcaption>Un Diabolo</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p>Le train possède, en général, des dispositifs amortisseurs pour absorber l’impact à l’atterrissage.</p>
+<p>Les freins sont disposés sur le train principal et se commandent le plus souvent avec les palonniers (haut du palonnier).</p>
+<p class="s37"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_073.jpg" alt="image" width="215" height="242"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_074.jpg" alt="image" width="219" height="140"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_075.jpg" alt="image" width="253" height="210"></p>
+<p class="s22">Figures 2.23. 2.24. et 2.25.</p></div>";}i:325;O:8:"stdClass":16:{s:2:"id";s:3:"152";s:2:"cm";s:3:"325";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"14";s:6:"module";s:2:"17";s:5:"added";s:10:"1743454992";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:113;O:8:"stdClass":18:{s:2:"id";s:2:"28";s:2:"cm";s:3:"113";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"15";s:6:"module";s:2:"13";s:5:"added";s:10:"1736105786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"1. L’Hélice";s:7:"content";s:3763:"<div class="no-overflow"><p></p>
+<h3 class="s17"><a name="bookmark27"></a>1.‌ L’Hélice</h3>
+<p>C’est un dispositif qui permet de<strong> transformer l’énergie mécanique</strong>, fournie par le moteur,<span style="text-decoration: underline;"> <strong>en force tractive ou propulsive</strong></span> utilisé par l’avion pour se déplacer.</p>
+<ul>
+<li><a href="#bookmark28">A. La Composition</a></li>
+<li><a href="#bookmark29">B. Le Fonctionnement</a></li>
+<li><a href="#bookmark30">C. Les différents types d’hélices</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark28"></a>A. ‌La Composition</h4>
+<p class="s19"><strong>L’hélice se compose de :</strong></p>
+<ul>
+<li>D’un moyeu centré sur l’arbre de sortie du moteur.</li>
+<li>De deux ou plusieurs pales.</li>
+</ul>
+<p class="s40"><span class="p">La distance parcourue par l’hélice le long de son axe de rotation en un tour est appelé </span><span class="s4"><strong>Pas</strong>.<br></span>L’angle formé par la corde de profil de l’hélice et le plan dans lequel tourne la pale est appelé <strong>Calage </strong>(<strong>β</strong>).</p>
+<p>Le Calage est un <strong>Angle</strong> et le Pas est une <strong>Distance.</strong></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_076.jpg" alt="image" width="239" height="288"></p>
+<p class="s22">Figure 2.26.</p>
+<p></p>
+<p>Le vent relatif <strong>Vr</strong> est issu :</p>
+<ul>
+<li>du déplacement de l’avion (vitesse avion)</li>
+<li>de la rotation de l’hélice (vitesse de rotation)</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_077.png" alt="image" width="307" height="200"></p>
+<p class="s22">Figure 2.27.</p>
+<p class="s22">La vitesse de rotation est limitée par la vitesse en bout de pale, qui ne doit pas être sonique (perte d’efficacité, bruit).</p>
+<p></p>
+<h4 class="s18"><a name="bookmark29"></a>B. ‌Le Fonctionnement</h4>
+<p></p>
+<p>Le fonctionnement d’une hélice est le même que celui de l’aile d’un avion. Les forces aérodynamiques sur les pâles sont à l’origine de la traction et du couple résistant de l’hélice.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_078.png" alt="image" width="277" height="266"></p>
+<p class="s22">Figure 2.28.</p>
+<p></p>
+<p>La présence de l’hélice génère également des effets secondaires sur les axes de tangage, roulis et lacet.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_079.jpg" alt="image" width="544" height="251"></p>
+<p class="s22">Figure 2.29.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark30"></a>C. ‌Les différents types d’hélices</h4>
+<p>Il en existe deux types :</p>
+<p class="s19"><strong>L’hélice à calage fixe</strong></p>
+<p>Cette hélice est surtout équipée sur les aéronefs de tourisme. Elle est, en général, en bois multicouche avec un bord d’attaque renforcé par une lame en laiton ou en alliage d’aluminium (plus lourde).</p>
+<p>Ce type d’hélice à l’inconvénient de ne pas permettre d’adapter la vitesse en fonction des phases du vol.</p>
+<p class="s19"><strong>L’hélice à calage variable (ou pas variable)</strong></p>
+<p>Le pilote peut alors, grâce à un mécanisme, changer le calage des pales pour que la vitesse de rotation de l’hélice (donc du moteur) reste constante.</p>
+<p class="s4"><strong>Petit pas </strong><span class="p">: décollage, atterrissage</span></p>
+<p class="s4"><strong>Grand pas </strong><span class="p"><strong>:</strong> croisière</span></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_080.jpg" alt="image" width="304" height="413"></p>
+<p>Figure 2.30.</p>
+<p></p></div>";}i:139;O:8:"stdClass":18:{s:2:"id";s:2:"49";s:2:"cm";s:3:"139";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"15";s:6:"module";s:2:"13";s:5:"added";s:10:"1736105786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"2. Les moteurs à pistons";s:7:"content";s:6835:"<div class="no-overflow"><h3 class="s17"><a name="bookmark31"></a>2. ‌Les moteurs à pistons</h3>
+<ul>
+<li><a href="#bookmark32">A. La Composition</a></li>
+<li><a href="#bookmark33">B. Le fonctionnement d’un moteur thermique</a></li>
+<li><a href="#bookmark34">C. L’Alimentation en carburant</a></li>
+<li><a href="#bookmark35">D. L’Elaboration du mélange air-essence</a></li>
+<li><a href="#bookmark36">E. L’Allumage</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark32"></a>A. ‌La Composition</h4>
+<p>L’ensemble est composé de :</p>
+<p><strong>De plusieurs cylindres (4 à 8) </strong>très souvent munis <strong>d’ailettes </strong>pour le refroidissement (assuré par l’air) et dont la partie supérieure est fermée par <strong>une culasse </strong>et la base inférieure par <strong>un carter.</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_40_img_2.jpeg"></p>
+<p>Figure 2.31.</p>
+<p><strong>La culasse </strong>est dotée de dispositifs appelés <strong>soupapes </strong>qui permettent l’admission des gaz frais et l’échappement des gaz de combustion, et d’un dispositif créant l’inflammation du mélange carburant/air : <strong>les bougies</strong>.</p>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Moteur d'avion léger à 4 cylindres</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<p class="gallery-subtitre">Partie avant</p>
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_41_img_1.jpeg?1736107374735" alt="Moteur avant">
+<figcaption>
+<ul>
+<li style="text-align: left;"><em>Démarreur</em></li>
+<li style="text-align: left;"><em>Magnétos</em></li>
+<li style="text-align: left;"><em>Boîte de distribution</em></li>
+<li style="text-align: left;"><em>Clapet de pression d'huile</em></li>
+<li style="text-align: left;"><em>Plaque d'identification</em></li>
+<li style="text-align: left;"><em>Bougies supérieures (cylindres droits)</em></li>
+<li style="text-align: left;"><em>Fils des bougies supérieures</em></li>
+<li style="text-align: left;"><em>Bouchon et jauge à huile</em></li>
+<li style="text-align: left;"><em>Bâche à huile</em></li>
+<li style="text-align: left;"><em>Bouchon de vidange</em></li>
+<li style="text-align: left;"><em>Filtre à huile</em></li>
+<li style="text-align: left;"><em>Alternateur</em></li>
+</ul>
+</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<p class="gallery-subtitre">Partie arrière</p>
+<figure><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_41_img_2%20%281%29.jpeg?1736107400013" alt="Moteur arrière">
+<figcaption>
+<ul>
+<li style="text-align: left;"><em>Moyeu d'hélice</em></li>
+<li style="text-align: left;"><em>Bougies supérieures (cylindres droits)</em></li>
+<li style="text-align: left;"><em>Carter</em></li>
+<li style="text-align: left;"><em>Anneau de levage</em></li>
+<li style="text-align: left;"><em>Points supérieurs d'attache au bâti</em></li>
+<li style="text-align: left;"><em>Bougies supérieures (cylindres gauches)</em></li>
+<li style="text-align: left;"><em>Cache culbuteurs</em></li>
+<li style="text-align: left;"><em>Fils des bougies inférieures</em></li>
+<li style="text-align: left;"><em>Échappement</em></li>
+<li style="text-align: left;"><em>Carburateur</em></li>
+<li style="text-align: left;"><em>Couvercle du point de montage de la pompe à vide</em></li>
+<li style="text-align: left;"><em>Filtre à air</em></li>
+</ul>
+</figcaption>
+</figure>
+</div>
+</div>
+<p class="s22">Figure 2.32.</p>
+</div>
+<p class="s22"></p>
+<p></p>
+<h5 class="s18"><a name="bookmark33"></a>B. ‌Le fonctionnement d’un moteur thermique</h5>
+<p></p>
+<h6>1. Moteur à deux temps</h6>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_083.jpg" alt="image" width="374" height="271"></p>
+<h6 class="s22">Figure 2.33.</h6>
+<h6> </h6>
+<h6 class="s19">2. Moteur à quatre temps</h6>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_084.jpg" alt="image" width="654" height="289"></p>
+<p class="s22">Figure 2.34.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark34"></a>C.‌L’Alimentation en carburant</h4>
+<p>Pour que l’essence parvienne des réservoirs jusqu’au dispositif de mélange, on utilise <strong>une pompe mécanique </strong>entraînée par le moteur, doublée <strong>d’une pompe électrique de secours </strong>que l’on mettra en fonction à la demande (par exemple au décollage).</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Moteurs à pistons</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ABBgSI_4IOM?si=PFlc8pQzZB3RCNmj" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p>
+<h4 class="s18"><a name="bookmark35"></a>D. ‌L’Elaboration du mélange air-essence</h4>
+<p>Deux procédés sont utilisés :</p>
+<ul>
+<li class="s4"><strong>L’injection</strong><span class="p">, qui consiste à vaporiser de fines gouttelettes d’essence directement dans la chambre du cylindre.</span></li>
+<li class="s4"><span class="p"><strong>La carburation</strong>, qui assure l’élaboration du mélange air-essence avant son entrée dans les cylindres (la masse volumique de l’air diminue avec l’altitude).</span></li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_085.jpg" alt="image" width="427" height="246"></p>
+<p class="s22">Figure 2.35.</p>
+<p></p>
+<p>La commande qui permet de faire varier la pression du mélange air-essence entrant dans les cylindres est <strong>la manette des gaz </strong>(en noir). La manette rouge est la manette de richesse, qui permet d’ajuster la quantité d’essence (mélange riche ou économique). La manette bleue est la commande du pas de l’hélice.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark36"></a>E. ‌L’Allumage</h4>
+<p></p>
+<p>Il réside de la production d’une étincelle permettant de démarrer la combustion du mélange. Il est réalisé par une bougie alimentée par une magnéto. Pour des raisons de sécurité le système est doublé (2 magnétos). Pour des raisons de rendement, on utilise 2 bougies par cylindre.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_086.jpg" alt="image" width="232" height="155"></p>
+<p class="s22">Figure 2.36.</p>
+<p></p></div>";}i:137;O:8:"stdClass":18:{s:2:"id";s:2:"47";s:2:"cm";s:3:"137";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"15";s:6:"module";s:2:"13";s:5:"added";s:10:"1736105786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:22:"3. Les turboréacteurs";s:7:"content";s:4538:"<div class="no-overflow"><ul>
+<li style="list-style-type: none;"> </li>
+</ul>
+<p></p>
+<h3 class="s17"><a name="bookmark37"></a>3. ‌Les turboréacteurs</h3>
+<ul>
+<li><a href="#bookmark38">A. Le principe de fonctionnement</a></li>
+<li><a href="#bookmark39">B. Le Principe du Réacteur à simple flux</a></li>
+<li><a href="#bookmark40">C. Le Turboréacteur à double flux</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark38"></a>A. ‌Le principe de fonctionnement</h4>
+<p></p>
+<p>Lorsque l’on gonfle un ballon, la pression de l’air à l’intérieur du ballon est supérieure à la pression de l’air à l’extérieur. Si on libère l’embouchure du ballon, alors l’air à l’intérieur du ballon va être éjecté et, par réaction, créer une force de même direction mais de sens opposé à la vitesse d’éjection.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_087.jpg" alt="image" width="306" height="196"></p>
+<p class="s22">Figure 2.37.</p>
+<p></p>
+<p>Un turboréacteur fonctionne sur le même principe : il comprime l’air et ensuite l’éjecte à grande vitesse de façon contrôlée.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark39"></a>B. ‌Le Principe du Réacteur à simple flux</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/221/mod_label/intro/page_44_img_4%20%282%29.jpeg" width="460" height="184"></p>
+<p class="s22">Figure 2.38. Réacteur monocorps</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_089.png" alt="image" width="446" height="209"></p>
+<p class="s22">Figure 2.39. Réacteur double corps</p>
+<p></p>
+<h4 class="s18"><a name="bookmark40"></a>C. ‌Le Turboréacteur à double flux</h4>
+<p></p>
+<p>C’est le type de réacteur que l’on trouve sur la plupart des avions de ligne aujourd’hui. Dans ce réacteur, deux débits d’air le traversent et le flux secondaire ne traverse pas la chambre de combustion.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_090.jpg" alt="image" width="424" height="280"></p>
+<p class="s22">Figure 2.40.</p>
+<p>Le <strong>taux de dilution </strong>est le rapport des débits entre le flux froid et le flux chaud. Il vaut 11 sur les réacteurs les plus récents. Plus il est élevé, plus le réacteur est silencieux et économe en carburant. En revanche l’encombrement et la trainée sont plus importants.</p>
+<p><strong>Cap sur l'environnement </strong></p>
+<p>Au cours du temps, les turboréacteurs ont évolué pour devenir de plus en plus efficaces et silencieux, grâce à une augmentation progressive de leur taux de dilution. Dans les turboréacteurs les plus récents, le taux de dilution est très fort, et le flux froid génère environ 80% de la poussée. Cela est particulièrement intéressant quand on sait que le bruit des moteurs est majoritairement lié à la différence de vitesse entre l’air chaud éjecté et l’air ambiant. Ainsi, <strong>en réduisant la proportion d’air chaud éjecté, on obtient des moteurs moins bruyants</strong>. De la même façon, en <strong>réduisant la quantité d’air chaud pour une même poussée, on diminue la quantité de carburant nécessaire !</strong></p>
+<p><img class="img-fluid" title="ReactDoublefluxSouf" src="https://bia-facile.fr/manuel-bia-2021_files/Image_092.png" alt="ReactDoublefluxSouf" width="350" height="236"></p>
+<p class="s22">Figure 2.41.</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressources vidéo</h3>
+<p><strong>Principe de fonctionnement du turboréacteur</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/2iM9k16aekw?si=5dzTFCDS_ppNiqRy" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p><strong>Complément, démarrage du turboréacteur</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/SzPEMw_LhR8?si=1xyRsLEwaNDGEmEi" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:138;O:8:"stdClass":18:{s:2:"id";s:2:"48";s:2:"cm";s:3:"138";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"15";s:6:"module";s:2:"13";s:5:"added";s:10:"1736105786";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:30:"4. ‌Les autres turbomachines";s:7:"content";s:3000:"<div class="no-overflow"><h3 class="s17"><a name="bookmark41"></a>4. ‌Les autres turbomachines</h3>
+<ul>
+<li><a href="#bookmark42">A. Le Turbopropulseur</a></li>
+<li><a href="#bookmark43">B. Le Turbomoteur</a></li>
+<li><a href="#bookmark44">C. Le Statoréacteur</a></li>
+</ul>
+<h4 class="s18"><a name="bookmark42"></a>A. ‌Le Turbopropulseur</h4>
+<p>Dans le Turbopropulseur, comme dans un Turboréacteur, l’air est aspiré par l’avant puis il est comprimé dans le compresseur avant de traverser les chambres de combustion. Mais cette fois, la turbine de sortie prélève la majeure partie de l’énergie des gaz pour faire tourner une hélice et le compresseur.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_094.jpg" alt="image" width="427" height="262"></p>
+<p class="s22">Figure 2.42.</p>
+<p>Ce type de propulsion est utilisé pour des avions dont la vitesse se situe entre 300 et 800 km/h. Elle offre l’avantage d’une consommation plus faible et de meilleures performances au décollage.</p>
+<h4 class="s18"><a name="bookmark43"></a>B. ‌Le Turbomoteur</h4>
+<p>Utilisé sur <strong>hélicoptère</strong>, c’est un turbopropulseur dont le réducteur entraîne non plus l’hélice mais une boite de transmission commandant à la fois le rotor principal et le rotor anti couple.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_095.jpg" alt="image" width="426" height="304"></p>
+<p class="s22">Figure 2.43.</p>
+<h4 class="s18"><a name="bookmark44"></a>C. ‌Le Statoréacteur</h4>
+<p>Un Statoréacteur est un système de propulsion qui utilise le cycle thermodynamique classique : compression/combustion/détente, et pour lequel la poussée est produite par éjection de gaz issu de la combustion d'un carburant, généralement le kérosène (il n’y a pas de partie tournante).</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_096.jpg" alt="image" width="424" height="224"></p>
+<p class="s22">Figure 2.44.</p>
+<p>Ce type de propulsion est aujourd’hui surtout utilisé sur propulser des missiles. Il permet d’atteindre de très grandes vitesses (au-delà de Mach 3) mais ne peut fonctionner de manière autonome à basse vitesse.</p>
+<p>Dans un <strong>pulsoréacteur, </strong>un volet à l’entrée d’air génère des cycles de combustion (utilisé sur les V1 pendant la seconde guerre mondiale).</p>
+<p><strong>Pour en savoir plus sur les statoréacteurs, pulsoréacteurs et turbomoteurs, consultez la vidéo suivante</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6Q-0b2OnQZ8?si=ZplAm3U-SEVAODzH" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p></p>
+<p></p></div>";}i:284;O:8:"stdClass":16:{s:2:"id";s:3:"113";s:2:"cm";s:3:"284";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"15";s:6:"module";s:2:"17";s:5:"added";s:10:"1741592300";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:118;O:8:"stdClass":18:{s:2:"id";s:2:"29";s:2:"cm";s:3:"118";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"16";s:6:"module";s:2:"13";s:5:"added";s:10:"1736110784";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:33:"1. Les instruments barométriques";s:7:"content";s:7163:"<div class="no-overflow"><h3>1. Les instruments barométriques</h3>
+<ul>
+<li><a href="#bookmark47">A. L’Anémomètre (Airspeed Indicator) ou Badin</a></li>
+<li><a href="#bookmark48">B. L’Altimètre (Altimeter)</a></li>
+<li><a href="#bookmark49">C. Le Variomètre (Vertical Speed Indicator)</a></li>
+</ul>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_098.jpg" alt="image" width="464" height="354"></p>
+<p>Chaque avion à un tableau de bord spécifique, pourtant on y retrouve certains instruments que l’on peut classer en trois grandes familles :</p>
+<ul>
+<li>Les instruments de <strong>conduite </strong>(altimètre, variomètre, anémomètre, horizon artificiel, conservateur de cap, indicateur de virage) dont la disposition est toujours la même. On appelle cette disposition le <strong>T Basique</strong>.</li>
+</ul>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_099.jpg" alt="image" width="333" height="235"></p>
+<p class="s22" style="text-align: center;">Figure 2.45.</p>
+<ul>
+<li>Les instruments de <strong>contrôle </strong>(pressions, températures, charges, moteur)</li>
+<li>Les instruments de <strong>navigation </strong>(Radio, GPS, VOR-ILS, ADF).</li>
+</ul>
+<p>On retrouve sur tous les appareils une « norme » de couleur :</p>
+<ul>
+<li>Le blanc pour les utilisations particulières</li>
+<li>Le vert pour les utilisations normales</li>
+<li>Le jaune pour les utilisations avec précautions</li>
+<li>Le rouge pour les utilisations interdites</li>
+</ul>
+<p></p>
+<h3 class="s17"><a name="bookmark46"></a>1. ‌Les instruments barométriques</h3>
+<h4 class="s18"><a name="bookmark47"></a>A. ‌L’Anémomètre (Airspeed Indicator) ou Badin</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_100.jpg" alt="image" width="244" height="230"></p>
+<p style="text-align: center;">Figure 2.46.</p>
+<p class="s4">L’appareil indique la vitesse de l’avion par rapport à l’air. Il peut être gradué en nœud kt ou en km/h. (1kt = 1,852 km/h). Il possède un trait rouge ainsi que trois arcs colorés qui correspondent à des vitesses caractéristiques :</p>
+<p class="s4"><strong>Arc blanc :</strong> <span class="p">Zone d’utilisation des volets, allant de la vitesse de décrochage volets sortis à la vitesse maximale d’utilisation des volets (</span>VFE <span class="p">: Velocity Flaps Extended).<br></span><strong>Arc vert : </strong><span class="p">Vitesse normale d’utilisation sans volet, allant de la vitesse de décrochage en lisse à la vitesse à ne pas dépasser lors de mauvaises conditions atmosphériques </span>(<strong>VNO </strong>: Velocity Normal Operating).<br><strong>Arc jaune </strong>: <span class="p">Zone interdite lors de mauvaises conditions atmosphériques.<br></span><strong>Trait rouge :</strong> <span class="p">Vitesse à ne jamais dépasser (</span>VNE : <span class="p">Velocity Never Exceed)</span></p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_101.jpg" alt="image" width="472" height="232"></p>
+<p class="s22">Figure 2.47.</p>
+<p>Il mesure la différence entre la <strong>pression totale Pt et la pression statique Ps</strong> et la convertit en vitesse. L’anémomètre donne une vitesse indiquée, qui diffère de la vitesse vraie selon l’adage « plus haut, plus chaud : plus vite ».</p>
+<p></p>
+<h4 class="s18"><a name="bookmark48"></a>B. ‌L’Altimètre (Altimeter)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_102.jpg" alt="image" width="428" height="196"></p>
+<p class="s22" style="text-align: center;">Figure 2.48.</p>
+<p>L’altimètre indique l’altitude en pieds ou en mètres (<strong>1ft ≈ 0,3 m</strong>). C’est un instrument barométrique. Il indique l’altitude de l’avion par rapport à une référence choisie. La petite aiguille indique les milliers de ft, la grande aiguille indique les centaines de ft.</p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>La pression atmosphérique diminue lorsque l’altitude augmente. Pour des altitudes pas trop élevées, une variation de 1hPa correspond à une variation de 28 ft soit 8,5 m. Par simple mesure de la pression atmosphérique, on peut donc déduire l’altitude de l’avion.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_103.jpg" alt="image" width="416" height="280"></p>
+<p class="s22">Figure 2.49.</p>
+<p class="s19">Les différentes références altimétriques : </p>
+<ul>
+<li>Le niveau de la mer (calage QNH) : l’altimètre indique une <strong>altitude</strong>.</li>
+<li>La piste (calage QFE) : l’altimètre indique une <strong>hauteur </strong>par rapport à l’aérodrome.</li>
+<li>La pression 1013,25 hPa (calage standard ou QNE) : l’altimètre indique un <strong>niveau de vol </strong>(FL).</li>
+</ul>
+<p class="s4"><strong>Attention</strong> <span class="p">: lorsque la température est plus froide que l’atmosphère de référence, l’altitude est sur-estimée.</span></p>
+<p></p>
+<h4 class="s18"><a name="bookmark49"></a>C. ‌Le Variomètre (Vertical Speed Indicator)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p class="s19">Le variomètre est aussi un instrument barométrique qui mesure une vitesse verticale de montée ou de descente. Il est gradué en ft/min ou parfois en m/s (1m/s = 200 ft/min).</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_104.jpg" alt="image" width="472" height="240"></p>
+<p class="s22" style="text-align: center;">Figure 2.50.</p>
+<p></p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_105.jpg" alt="image" width="376" height="264"></p>
+<p class="s22">Figure 2.51.</p>
+<p>L’appareil mesure la différence entre <strong>la pression atmosphérique</strong> et <strong>la pression de l’air</strong> à l’intérieur d’une capsule.</p>
+<p>En vol horizontal (palier), les pressions sont équilibrées et l’aiguille indique zéro. L’avion monte, la pression atmosphérique diminue, mais comme la pression à l’intérieur de la capsule met un temps à s’équilibrer on peut mesurer cette différence de pression.</p>
+<p>Le variomètre est utile au pilotage pour déterminer soit une vitesse ascensionnelle <strong>Vz </strong>supérieure à 0, soit un taux de descente <strong>Vz </strong>inférieure à 0, il est possible de l'utiliser également pour contrôler le vol en palier, même si cela est très difficile du fait du temps de réponse important.</p>
+<p class="s22" style="text-align: center;"></p></div>";}i:141;O:8:"stdClass":18:{s:2:"id";s:2:"51";s:2:"cm";s:3:"141";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"16";s:6:"module";s:2:"13";s:5:"added";s:10:"1736110784";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:32:"2. Les instruments gyroscopiques";s:7:"content";s:8143:"<div class="no-overflow"><p></p>
+<h3 class="s17"><a name="bookmark50"></a>2. ‌Les instruments gyroscopiques</h3>
+<ul>
+<li><a href="#bookmark51">A. L’indicateur de virage (Turn and Slip Indicator)</a></li>
+<li><a href="#bookmark52">B. La Bille</a></li>
+<li><a href="#bookmark53">C. L’horizon artificiel (Artificial Horizon ou Attitude Indicator)</a></li>
+<li><a href="#bookmark54">D. Le conservateur de cap ou directionnel (Heading Indicator ou Directional Gyro Indicator DGI)</a></li>
+<li><a href="#bookmark55">E. Le compas (Magnetic Compass)</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark51"></a>A. ‌L’indicateur de virage (Turn and Slip Indicator)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p class="s19">Il est souvent associé à la bille et indique le sens si le virage est un virage taux 1 (360° en 2 minutes). Ceci est valable uniquement si la bille est maintenue au centre (symétrie du vol maintenue).</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_106.jpg" alt="image" width="538" height="214"></p>
+<p class="s22" style="text-align: center;">Figure 2.52.</p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>L’indicateur de virage indique <strong>le sens</strong> et <strong>le taux</strong> du virage. Associé à un gyroscope, comme une toupie, il reste stable un certain temps dans l’espace. Exemple : Pour un virage effectué au taux 1, l’avion tourne de 180° en 1 min (3° par seconde).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_108.jpg" alt="image" width="569" height="304"></p>
+<p>Figure 2.53.</p>
+<h4 class="s18"><a name="bookmark52"></a>B. ‌La Bille</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p>Elle ne fait partie ni des instruments barométriques, ni des instruments gyroscopiques mais se trouve associée à l’indicateur de virage.</p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_109.jpg" alt="image" width="211" height="211"></p>
+<p class="s22" style="text-align: center;">Figure 2.54.</p>
+<p></p>
+<p>Par effet inertiel, elle renseigne le pilote sur la symétrie du vol. Pouvant être associée à un brin de laine sur la verrière, un pendule dans l’habitacle, elle permet de voir si l’axe de l’avion est parallèle au vent relatif.</p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>De par sa masse, la bille est constamment soumise aux forces résultantes des accélérations subies par l'avion dans le plan transversal. Le tube, étant lié à l'avion, la bille, agissant comme un pendule, indiquera la direction de la verticale apparente, qui se situe dans le plan de symétrie de l’avion en l’absence de force aérodynamique latérale).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_110.jpg" alt="image" width="384" height="244"></p>
+<p class="s22">Figure 2.55.</p>
+<p>On dit que « le pied chasse la bille », c’est-à-dire qu’il faut pousser le palonnier côté bille pour annuler le dérapage.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark53"></a>C. ‌L’horizon artificiel (Artificial Horizon ou Attitude Indicator)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p>Il permet de restituer au pilote la position de « l’horizon naturel » lorsque celui-ci n’est pas visible : vol de nuit, trop de nuage, altitude importante...</p>
+<p>Le pilote voit alors l’assiette et l’inclinaison de l’avion.</p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_111.jpg" alt="image" width="246" height="246"></p>
+<p style="text-align: center;">Figure 2.56.</p>
+<p class="s8">Il est constitué d’une :</p>
+<ul>
+<li>Maquette centrale qui représente un avion</li>
+<li>Sphère intérieur sur laquelle figure la ligne d’horizon en blanc, le ciel en bleu et la terre en marron.</li>
+<li>Couronne des valeurs d’inclinaison (10°, 20°, 30°…)</li>
+</ul>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>Lors d’un mouvement de l’avion, c’est l’ensemble avion-maquette qui se déplace autour de la sphère et de la couronne, ces dernières étant rendues fixes dans l’espace, par la toupie d’un gyroscope dont l’axe de rotation est maintenu à la verticale.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_112.jpg" alt="image" width="382" height="332"></p>
+<p>Figure 2.57.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark54"></a>D. ‌Le conservateur de cap ou directionnel (Heading Indicator ou Directional Gyro Indicator DGI)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p>Il donne aussi le cap magnétique mais permet d’éviter les erreurs du compas (Masses métalliques proches, virages, atmosphère turbulent, accélérations, …).</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_113.png" alt="image" width="256" height="261"></p>
+<p class="s48" style="text-align: center;">Figure 2.58.</p>
+<p></p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>C’est un instrument gyroscopique à 2 ddl qui permet de conserver une direction fixe dans l’espace et donc de s’orienter. Il est stable et précis sur un temps « court ». Cependant, au bout d’un certain temps, le gyroscope du directionnel peut perdre sa référence d’orientation, du fait de la rotation de la Terre et du déplacement de l’avion. Cela oblige donc à se recaler sur la référence du compas, tous les quarts d’heure à l’aide de la molette. Cette opération se fait en ligne droite et à vitesse constante.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_114.jpg" alt="image" width="371" height="296"></p>
+<p>Figure 2.59.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark55"></a>‌E. Le compas (Magnetic Compass) (Instrument non gyroscopique)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p>Il s’agit d’une boussole qui permet de mesurer l’orientation de l’avion par rapport au Nord magnétique (cap magnétique). Une graduation de 0 à 360 degrés tourne devant une ligne de foi figurant l'axe de l'avion, ce qui permet au pilote de savoir le cap magnétique suivi. Il indique en permanence la direction du Nord magnétique, quelle que soit la route suivie par l'avion.</p>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_116.jpg" alt="image" width="224" height="224"></p>
+<p style="text-align: center;">Figure 2.60.</p>
+<p class="s28">Remarques :</p>
+<ul>
+<li class="s28">L’angle séparant l’axe passant par le nord magnétique et celui passant par le nord géographique s’appelle la <strong>déclinaison</strong>.</li>
+<li class="s28">Celui que fait l’aiguille du compas par rapport à l’horizontale s’appelle <strong>l’inclinaison. </strong>(En France, aux alentours de 50° N de latitude, l’inclinaison est d’environ 65°).</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_117.jpg" alt="image" width="177" height="174"></p>
+<p>Figure 2.61.</p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p class="s19">Il se compose d’un plateau circulaire gradué en degré, associé à un aimant orienté sur l’axe Nord-sud. L’ensemble est posé sur un pivot et baigne dans un liquide amortisseur qui limite les oscillations. Certaines directions particulières sont repérées par des lettres : N (nord) 360°, E (est) 90°, S (sud) 180°, W (ouest) 270°. Le compas est très sensible aux accélérations de l’avion (virage, turbulence, …) mais ne dérive pas dans le temps.</p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_118.jpg" alt="image" width="270" height="238"></p>
+<p>Figure 2.62.</p>
+<p class="s22" style="text-align: center;"></p></div>";}i:140;O:8:"stdClass":18:{s:2:"id";s:2:"50";s:2:"cm";s:3:"140";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"16";s:6:"module";s:2:"13";s:5:"added";s:10:"1736110784";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:63:"3. Les autres instruments A. Les instruments de radionavigation";s:7:"content";s:1980:"<div class="no-overflow"><ul>
+<li style="list-style-type: none;"> </li>
+</ul>
+<h3 class="s17"><a name="bookmark56"></a>3. ‌Les autres instruments<br><br></h3>
+<ul>
+<li><a href="#bookmark57">A. Les instruments de radionavigation</a></li>
+<li><a href="#bookmark58">B. Les instruments de contrôle</a></li>
+<li><a href="#bookmark59">C. Les EFIS (Electronic Flight Information Systems)</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark57"></a>‌A. Les instruments de radionavigation</h4>
+<p class="s28">Voir le cours : <a href="https://bia-facile.fr/course/view.php?id=5">Navigation, réglementation, sécurité des vols</a></p>
+<h4 class="s18"><a name="bookmark58"></a>B. ‌Les instruments de contrôle</h4>
+<p></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_120.png" alt="image" width="426" height="330"></p>
+<p class="s22" style="text-align: center;">Figure 2.63.</p>
+<p></p>
+<h4 class="s18"><a name="bookmark59"></a>C. ‌Les EFIS (Electronic Flight Information Systems)</h4>
+<p></p>
+<p><img class="img-fluid" style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_121.jpg" alt="image" width="548" height="265"></p>
+<p style="text-align: center;"></p>
+<p class="s22" style="text-align: center;">Figure 2.64.</p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Les instruments de pilotage</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/x6lPBBJQao0?si=EnQ2fiJp1v4AGaMk" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:283;O:8:"stdClass":16:{s:2:"id";s:3:"112";s:2:"cm";s:3:"283";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"16";s:6:"module";s:2:"17";s:5:"added";s:10:"1741591684";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:55:"Testez-vous avec 5 questions sur les instruments de vol";}i:147;O:8:"stdClass":18:{s:2:"id";s:2:"53";s:2:"cm";s:3:"147";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"58";s:6:"module";s:2:"13";s:5:"added";s:10:"1736434440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:17:"1. Aircraft types";s:7:"content";s:5825:"<div class="no-overflow"><p></p>
+<h3>1.Aircraft types</h3>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_122.jpg" alt="image" width="764" height="544"></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Commercial Aircraft</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Avion d’affaires</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Corporate/executive/business aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Avion de ligne</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Liner aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Avion régional</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Commuter aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Court/moyen/long courrier</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Short/medium/long haul aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Mono/bi-couloir</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Single/twin aisle</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Avion militaire</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Military aircraft (surveillance, recognition, bombing, combat, transportation)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Aérostat</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Aerostat</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Autogire</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Autogyro</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Convertible</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Tilt rotor aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Delta-plane</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Hang-glider</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Dirigeable</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Airship, dirigible (us)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Girodyne</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Girodyno</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Hydravion</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Seaplane, flying boat</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Multiaxe</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">3-axes microlights</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Paramoteur</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Paramotor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Parapente</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Paraglider</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Pendulaire</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Pendular</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Rotor principal / de queue</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Main / tail rotor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Ulm</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Microlight</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Voilure tournante, giravion</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Rotorcraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Vol à voile</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Gliding</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Vol libre</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Free flight</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:151;O:8:"stdClass":18:{s:2:"id";s:2:"57";s:2:"cm";s:3:"151";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"58";s:6:"module";s:2:"13";s:5:"added";s:10:"1736434440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:37:"2. Aircraft composition and structure";s:7:"content";s:3832:"<div class="no-overflow"><p class="s22" style="text-align: center;"></p>
+<h3 class="s17"><a name="bookmark62"></a>2. ‌Aircraft composition and structure</h3>
+<p></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_123.jpg" alt="image" width="611" height="383"></p>
+<p class="s22" style="text-align: center;">Figure 2.66.</p>
+<p class="s22" style="text-align: center;"></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_124.jpg" alt="image" width="544" height="312"></p>
+<p class="s22" style="text-align: center;">Figure 2.67.</p>
+<p></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Airframe</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Cadre</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Frame</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Caisson Central</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Wing (Spare) Box</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Aile En Porte A Faux</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Cantilever Wing</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Cisaillement</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Shear Stress</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Contrainte</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Normal Stress</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Couple, Cadre</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Ring Frame</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Déformation</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Strain</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Flexion</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Bending</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Flottement</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Flutter</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Lisse, Raidisseur</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Stringer, Stiffener</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Longeron</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Spar</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Nervure</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Rib</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:150;O:8:"stdClass":18:{s:2:"id";s:2:"56";s:2:"cm";s:3:"150";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"58";s:6:"module";s:2:"13";s:5:"added";s:10:"1736434440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:35:"3. Landing gear &amp; Wheel Layouts";s:7:"content";s:5371:"<div class="no-overflow"><p></p>
+<h3 class="s17"><a name="bookmark63"></a>3. ‌Landing gear ; Wheel Layouts</h3>
+<p></p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Twin%20wheels%20Nose%20gear%20of%20a%20Rafale.jpg" alt="Twin wheels Nose gear of a Rafale">
+<figcaption>Twin wheels Nose gear <br>of a Rafale</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Single_wheel_Nose_gear.jpg" alt="Single wheel Nose gear">
+<figcaption>Single wheel Nose gear <br>of a Typhoon</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Single_wheel_Main_gear.jpg" alt="Single wheel Main gear">
+<figcaption>Single wheel Main gear <br>of a Typhoon</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/6%20wheels%20Bogie%20of%20an%20B777.jpg" alt="6 wheels Bogie of an B777">
+<figcaption>6 wheels Bogie <br>of an B777</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="textbox"> </div>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_127.jpg" alt="image" width="404" height="258"></p>
+<div class="textbox">
+<p class="s53" style="text-align: center;">Monotrace<br>Landing gear of a Harrier fighter jet.</p>
+</div>
+<p></p>
+<p></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;" colspan="2">
+<p class="s50" style="text-align: center;"><strong>Landing Gear, Miscellaneous</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Diabolo</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Diabolo, Twin Wheels</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Empattement</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Wheelbase</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Emplanture</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Wing Root</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Fuselage</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Fuselage</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Jambe Atterrisseur</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Gear Log/Strut</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Mât</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">(Nacelle) Strut</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Parebrise</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Windshield (US) Windscreen (GB)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Patins Ou Skis</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Skids</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Réservoir</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Fuel Tank</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Sortir/ Rentrer Le Train</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Extend /Retract The Gear</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Train Atterrissage</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Landing Gear, Undercarriage (GB) (Retractable/Fixed)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Train Classique</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Tailwheel Or Taildragger Aircraft, Conventional Ger</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Train Tricycle</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Nosewheel Aircraft, Tricycle Landing Gear</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Verrière</p>
+</td>
+<td style="border-width: 1px; border-color: #000000; padding: 3px;">
+<p class="s51">Canopy</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:149;O:8:"stdClass":18:{s:2:"id";s:2:"55";s:2:"cm";s:3:"149";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"58";s:6:"module";s:2:"13";s:5:"added";s:10:"1736434440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"4. Wings and controls";s:7:"content";s:12256:"<div class="no-overflow"><p></p>
+<h3 class="s17"><a name="bookmark64"></a>4. ‌Wings and controls</h3>
+<ul>
+<li><a href="#bookmark65">A. Wings angle</a></li>
+<li><a href="#bookmark66">B. Wings shapes</a></li>
+<li><a href="#bookmark67">C. Tails designs</a></li>
+</ul>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/High%20wing.jpeg" alt="High wing">
+<figcaption>High wing</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Mid%20wing.jpeg" alt="Mid wing">
+<figcaption>Mid wing</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Low_wing.jpeg" alt="Low wing">
+<figcaption>Low wing</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Shoulder%20wing.jpeg" alt="Shoulder wing">
+<figcaption>Shoulder wing</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<h3><a name="bookmark65"></a>‌Wings angle</h3>
+<p></p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Dihedral_wings.jpeg" alt="Dihedral wings">
+<figcaption>Dihedral wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Anhedral%20wing.jpeg" alt="Anhedral wing">
+<figcaption>Anhedral wing</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_131.png" alt="Inverted gull wing">
+<figcaption>Inverted gull wing</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<h3><a name="bookmark66"></a>‌Wings shapes</h3>
+<p></p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Straight%20wings.jpeg?1736143156337" alt="Straight wings">
+<figcaption>Straight wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Tapered_wings.jpeg?1736143167300" alt="Tapered wings">
+<figcaption>Tapered wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Swept%20wings.jpeg?1736143330729" alt="Swept wings">
+<figcaption>Swept wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Elliptic%20wings.jpeg?1736143281967" alt="Elliptic wings">
+<figcaption>Elliptic wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Delta%20wings.jpeg?1736143302370" alt="Delta wings">
+<figcaption>Delta wings</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Cropped%20delta%20wings%20and%20canard.jpeg?1736143293821" alt="Cropped delta wings and canard">
+<figcaption>Cropped delta wings and canard</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Biplane.jpeg?1736143379672" alt="Biplane">
+<figcaption>Biplane</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Triplane.jpeg?1736143374131" alt="Triplane">
+<figcaption>Triplane</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<h3><a name="bookmark67"></a>‌Tails designs</h3>
+<p></p>
+<div class="gallery">
+<div class="gallery-items">
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Low-set.jpeg?1736143727525" alt="Low-set">
+<figcaption>Low-set</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Mid-set.jpeg?1736143732967" alt="Mid-set">
+<figcaption>Mid-set</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/High-set.jpeg?1736143739648" alt="High-set">
+<figcaption>High-set</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/T-Tail.jpeg?1736143975022" alt="T-Tail">
+<figcaption>T-Tail</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Canard%20%281%29.jpeg?1736143770370" alt="Canard">
+<figcaption>Canard</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/V-Tail.jpeg?1736143777417" alt="V-Tail">
+<figcaption>V-Tail</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Twin%20fin%20design2.jpeg?1736143937085" alt="Twin fin design 1">
+<figcaption>Twin fin design 1</figcaption>
+</figure>
+</div>
+<div class="gallery-item">
+<figure><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Twin%20fin%20design1%20%281%29.jpeg?1736143929123" alt="Twin fin design 2">
+<figcaption>Twin fin design 2</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<table style="border-collapse: collapse; background-color: #ecf0f1; border: 1px solid rgb(0, 0, 0); width: 100%; border-spacing: 1px;" border="1">
+<tbody>
+<tr>
+<td style="border-style: solid; border-color: #000000; text-align: center; font-weight: bold; padding: 3px;" colspan="6">Wings And Controls</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Aérofrein</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Airbrake</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Aile Effilée, En Pointe</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Tapered Wing</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Aileron</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Aileron</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Bec</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Slat</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Braquage</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Deflection</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Cabrer</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Pull The Nose Up, Pitch Up</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Calage</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Wing Setting</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Carénage, Karman</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Fairing</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Commande</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Control Or Steering Wheel</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Commande De Direction</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Rudder Control</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Commande De Gauchissement</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Aileron Control</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Commande De Profondeur</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Elevator Control</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Commande De Vol Electrique</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Fly By Wire Controls</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Compensateur D’évolution, Volet De Compensation</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Tab Or Trim Tab</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Compensateur De Régime</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Trim</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Configuration Canard</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Canard Foil System, Foreplane</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Configuration Lisse</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Clean Configuration</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Dérive</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Vertical Tail / Fin, Vertical Stabilizer</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Dièdre</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Dihedral</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Dispositifs Hypersustentateurs</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">High Lift Devices</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Empennage</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Horizontal Stabilizer, Aft Tail, Empennage (US)</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Envergure</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Wingspan</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Flèche</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Angle Of Sweep (Forward, Backward)</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Forme En Plan</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Plant-Form</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Gouverne</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Control Surface</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Manche</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Control Stick</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Palonnier</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Cross Or Rudder Bar</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Volet (Simple/Double Fente)</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Flap (Single/Double Slotted)</td>
+</tr>
+<tr>
+<td style="border-style: solid; border-color: #000000; padding: 3px;" colspan="5">Volet De Courbure, D’intrados</td>
+<td style="border-style: solid; border-color: #000000; padding: 3px;">Plain, Split Flap</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:148;O:8:"stdClass":18:{s:2:"id";s:2:"54";s:2:"cm";s:3:"148";s:3:"mod";s:5:"label";s:7:"section";s:1:"6";s:13:"sectionnumber";s:1:"6";s:9:"sectionid";s:2:"58";s:6:"module";s:2:"13";s:5:"added";s:10:"1736434440";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:10:"5. Engines";s:7:"content";s:20849:"<div class="no-overflow"><h3 class="s17"><a name="bookmark68"></a>5. ‌Engines</h3>
+<p></p>
+<p><strong>Piston Engine<br></strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_142.jpg" alt="image" width="675" height="284"></p>
+<p class="s22" style="text-align: center;">Figure 2.68.</p>
+<p></p>
+<p><strong>Jet Engine</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_143.jpg" alt="image" width="714" height="432"></p>
+<p class="s22" style="text-align: center;">Figure 2.69.</p>
+<p></p>
+<p></p>
+<table style="width: 86.1%; height: auto; border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s50"><strong>Propeller</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Calage</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Setting</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Casserole</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Spinner</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Pale</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Blade</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Pas Variable / Fixe</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Variable Pitch, Constant Speed Vs Fixed Pitch</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Petit / Grand Pas</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Low Or Fine / High Or Coarse Pitch</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s50"><strong>Reciprocating Engine</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Allumage</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Ignition</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Avoir Des Râtés</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Splutter</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Bielle</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Connecting Rod</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Bimoteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Twin-Engine Aircraft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Bougie</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Spark Plug</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Carburateur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Carburetor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s55">Carter</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Crankcase</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Collecteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Manifold</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Consommation Spécifique</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Specific Fuel Consumption</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Culasse</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Cylinder Head</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s56">Cylindre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Cylinder</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Dégivrage Carburateur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Carburettor Icing</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Entrée D’air</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Air Intake</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Essence</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Gasoline (US), Petrol (GB)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Gasoil</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Diesel</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Groupe Motopropulseur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Powerplant</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Indice Octane</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Fuel / Octane Grade</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Manette Des Gaz</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Throttle</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Piston</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Piston</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Richesse</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Mixture Composition (Lean/Rich)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Soupape D’admission</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Intake Valve</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Soupape D’échappement</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Exhaust Valve</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tachymètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tachometer, RPM Indicator</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Température Des Gaz D’échappement</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Exhaust Gas Temperature (EGT)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tours Par Minute</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Revolutions Per Minutes (RPM)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbocompresseur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbocharger</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vilebrequin</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Crankshaft</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s50"><strong>Turbine Engine</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Chambre De Combustion</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Combustion Chamber</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Compresseur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Compressor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Flux Primaire</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Hot Or Primary Flow</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Flux Secondaire</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Cold Or Secondary Flow, By-Pass Air</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Groupe Auxiliaire De Puissance</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Auxiliary Power Unit (APU)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Inverseur De Poussée</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Thrust Reverser</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Kérosène</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Aviation Jet Fuel, Jet A</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Moteurs Arrière</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Rear Podded Engine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Nacelle</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Pod</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Postcombustion</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Reheat, Afterburner</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Réacteur Double Corps</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Twin Shaft Turbofan</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Rotor Anti-Couple</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tail Rotor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Soufflante</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Fan</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Statoréacteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Ramjet Engine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Taux De Dilution</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">By Pass Ratio</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbine A Air Dynamique</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Ram Air Turbine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbo Réacteur Double Flux</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbofan Engine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbo Réacteur Simple Flux</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbojet Engine, Straight Flow Turbojet</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbo-Moteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turboshaft Engine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turbopropulseur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Turboprop Engine</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tuyère</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Nozzle</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Turboprop Engine</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_144.jpg" alt="image" width="701" height="421"></p>
+<p class="s22" style="text-align: center;">Figure 2.70.</p>
+<p><strong>Ramjet and Rocket Engine</strong></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_145.jpg" alt="image" width="456" height="274"></p>
+<p class="s22" style="text-align: center;">Figure 2.71.</p>
+<p></p>
+<table style="border-collapse: collapse; border-spacing: 0px; background-color: #ecf0f1; border: 1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="4">
+<p class="s57" style="text-align: center;"><strong>Instruments</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Altimètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Altimeter</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Anémomètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Airspeed Indicator</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Capteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Sensor, Probe, Transducer, Detector,</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Centrale Aerodynamique</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Air Data Unit</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Centrale Inertielle</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Inertial Unit</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Compas Magnétique (Boussole)</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Magnetic Compass</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Horizon Artificiel</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Artificial Indicator</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Indicateur Directionnel De Cap</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="2">
+<p class="s51">Heading Indicator, Directional (Gyro)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Indicateur De Décrochage</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Stall Warning Indicator</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Indicateur De Virage</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Turn And Slip Indicator, Slip</p>
+<p class="s51">Bubble</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Interrupteur</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Switch</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Radiocompas</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Automatic Direction Finder (ADF)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Radiogoniomètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Visual Omni Range (VOR)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Recalage Gyroscope</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Gyro Resetting</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Système D’atterrissage Aux Instruments</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Instrument Landing System (ILS)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tableau De Bord</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;" colspan="3">
+<p class="s51">Instrument Panel</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Tachymètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Rpm Indicator, Tachometer</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Variomètre</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vertical Speed Indicator, Rate Of Climb Indicator</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse vraie</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">True Air Speed (TAS)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse indiquée</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Indicated Air Speed (IAS)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse calibrée</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Calibrated Air Speed (CAS)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse sol</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Ground speed (GS)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Vitesse équivalente</p>
+</td>
+<td style="border-width: 1px; padding: 3px; border-color: #000000;">
+<p class="s51">Equivalent Air Speed (EAS)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p></div>";}i:248;O:8:"stdClass":16:{s:2:"id";s:2:"79";s:2:"cm";s:3:"248";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1737497345";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:238;O:8:"stdClass":16:{s:2:"id";s:2:"69";s:2:"cm";s:3:"238";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1737497345";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:101;O:8:"stdClass":16:{s:2:"id";s:2:"45";s:2:"cm";s:3:"101";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1735990541";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:102;O:8:"stdClass":16:{s:2:"id";s:2:"46";s:2:"cm";s:3:"102";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1735990553";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:103;O:8:"stdClass":16:{s:2:"id";s:2:"47";s:2:"cm";s:3:"103";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1735990570";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:142;O:8:"stdClass":16:{s:2:"id";s:2:"54";s:2:"cm";s:3:"142";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"28";s:6:"module";s:2:"17";s:5:"added";s:10:"1736323392";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:152;O:8:"stdClass":17:{s:2:"id";s:2:"58";s:2:"cm";s:3:"152";s:3:"mod";s:5:"label";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"59";s:6:"module";s:2:"13";s:5:"added";s:10:"1736525824";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:25:"Tests de positionnement ";s:7:"content";s:331:"<div class="no-overflow"><p>Pour aborder plus efficacement les cours et les notions de ces chapitres, commencez par réaliser un test de positionnement pour évaluer vos connaissances sur les aéronefs et les engins spatiaux. Les résultats de ce test nous permettront de vous proposer des cours adaptés à votre niveau.</p></div>";}i:240;O:8:"stdClass":16:{s:2:"id";s:2:"71";s:2:"cm";s:3:"240";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"59";s:6:"module";s:2:"17";s:5:"added";s:10:"1737500472";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:16:"Lancez le test !";}i:258;O:8:"stdClass":16:{s:2:"id";s:2:"88";s:2:"cm";s:3:"258";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"59";s:6:"module";s:2:"17";s:5:"added";s:10:"1741558670";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Passez au niveau suivant avec cinq nouvelles questions !";}i:260;O:8:"stdClass":16:{s:2:"id";s:2:"90";s:2:"cm";s:3:"260";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"59";s:6:"module";s:2:"17";s:5:"added";s:10:"1741559760";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:94:"Testez si vous êtes prêt avec 10 questions et atteignez 100 % de certitude à votre niveau !";}i:317;O:8:"stdClass":16:{s:2:"id";s:3:"144";s:2:"cm";s:3:"317";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"59";s:6:"module";s:2:"17";s:5:"added";s:10:"1743182232";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"Défi des 100 questions";}}s:12:"sectioncache";a:9:{i:12;O:8:"stdClass":6:{s:2:"id";s:2:"12";s:7:"section";s:1:"0";s:4:"name";s:12:"Introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:60;O:8:"stdClass":7:{s:2:"id";s:2:"60";s:7:"section";s:1:"1";s:4:"name";s:16:"Les TD en classe";s:7:"summary";s:85:"<p>Dépôt des éléments spécifiques distribués en classe par les enseignants.</p>";s:12:"availability";s:56:"{"op":"&","c":[{"type":"cohort","id":5}],"showc":[true]}";s:9:"component";N;s:6:"itemid";N;}i:13;O:8:"stdClass":6:{s:2:"id";s:2:"13";s:7:"section";s:1:"2";s:4:"name";s:48:"Cours partie 1 : La Classification des aéronefs";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}i:14;O:8:"stdClass":6:{s:2:"id";s:2:"14";s:7:"section";s:1:"3";s:4:"name";s:29:"Cours partie 2 : Les Cellules";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:15;O:8:"stdClass":6:{s:2:"id";s:2:"15";s:7:"section";s:1:"4";s:4:"name";s:53:"Cours partie 3 : Les Groupes Motopropulseurs (G.M.P.)";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:16;O:8:"stdClass":6:{s:2:"id";s:2:"16";s:7:"section";s:1:"5";s:4:"name";s:40:"Cours partie 4 : Les Instruments de bord";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:58;O:8:"stdClass":6:{s:2:"id";s:2:"58";s:7:"section";s:1:"6";s:4:"name";s:32:"Complément : English vocabulary";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:28;O:8:"stdClass":6:{s:2:"id";s:2:"28";s:7:"section";s:1:"7";s:4:"name";s:72:"Les annales des examens du BIA et leurs corrigées sur cette thématique";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:59;O:8:"stdClass":6:{s:2:"id";s:2:"59";s:7:"section";s:1:"8";s:4:"name";s:24:"Tests de positionnement ";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"AES";s:8:"fullname";s:43:"Étude des aéronefs et des engins spatiaux";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"1";s:14:"groupmodeforce";s:1:"1";s:8:"cacherev";s:10:"1765268231";}s:7:"version";i:1765268231;}

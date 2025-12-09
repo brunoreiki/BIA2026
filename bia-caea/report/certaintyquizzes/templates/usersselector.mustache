@@ -28,6 +28,11 @@
         * id User id
         * name User name
         * selected Whether this option is currently selected
+    * groups Available groups to be selected
+        * id Group id
+        * name Group name
+        * selected Whether this option is currently selected
+    * hasgroups Whether groups is populated or not
     * onlycurrentuser Whether only one option (current user) is selectable
 
     Example context (json):
@@ -43,12 +48,23 @@
                 "name": "User 2"
             }
         ],
+        "groups": [],
+        "hasgroups": false,
         "onlycurrentuser": false
     }
 }}
-<select name="userid" class="custom-select" {{# onlycurrentuser}}disabled="disabled"{{/ onlycurrentuser}}>
-    {{^ onlycurrentuser}}<option value="-1">{{# str}} allusers, report_certaintyquizzes {{/ str}}</option>{{/ onlycurrentuser}}
+<select name="users" class="custom-select" {{# onlycurrentuser}}disabled="disabled"{{/ onlycurrentuser}}>
+    {{^ onlycurrentuser}}<option value="u-1">{{# str}} allusers, report_certaintyquizzes {{/ str}}</option>{{/ onlycurrentuser}}
+    {{# hasgroups}}
+    <optgroup label="{{# str}} groups {{/ str}}">
+        {{# groups}}
+        <option value="g{{id}}" {{# selected}}selected="selected"{{/ selected}}>{{name}}</option>
+        {{/ groups}}
+    </optgroup>
+    <optgroup label="{{# str}} users {{/ str}}">
+    {{/ hasgroups}}
     {{# users}}
-        <option value="{{id}}" {{# selected}}selected="selected"{{/ selected}}>{{name}}</option>
+        <option value="u{{id}}" {{# selected}}selected="selected"{{/ selected}}>{{name}}</option>
     {{/ users}}
+    {{# hasgroups}}</optgroup>{{/ hasgroups}}
 </select>

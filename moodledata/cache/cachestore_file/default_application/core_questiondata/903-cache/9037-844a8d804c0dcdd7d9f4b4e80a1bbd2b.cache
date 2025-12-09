@@ -1,0 +1,34 @@
+O:8:"stdClass":26:{s:2:"id";s:4:"9037";s:8:"category";s:3:"524";s:6:"parent";s:1:"0";s:4:"name";s:65:"Un avion en virage subit 2 g. Quel est son angle d’inclinaison:";s:12:"questiontext";s:65:"Un avion en virage subit 2 g. Quel est son angle d’inclinaison:";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:2918:"<h4 align="center">Poids apparent et facteur de charge.</h4><U>Nota:</U> les grandeurs en <b>gras</b> dans le texte sont des grandeurs vectorielles (avec une flèche sur les schémas).
+
+En virage, dans une voiture ou un manège, on se sent plus lourd, voire écrasé vers l’extérieur telle l’eau éjectée de l’essoreuse à salade… comme ce motocycliste collée sur la paroi verticale du tonneau infernal… comment peut il tenir en équilibre ?
+
+Pour lui, à l’attraction de la terre, son <b>poids</b> s’ajoute ce qui ressemble à une force (qui n’en est pas vraiment une car non créée par quelque chose qui agirait sur nous) et que l’on nomme force d’inertie centrifuge <b>Fi</b>.  L’ensemble de <b>P</b> et de <b>Fi</b> constitue le poids apparent <b>Pa</b> (de valeur supérieure à P en virage). Si il ne «tombe» pas, c’est que pour lui la somme des forces : <b>action du sol</b> + <b>poids</b> + <b>Force d’inertie</b> = 0 ou <b>poids apparent</b> + <b>Action du sol</b> = 0
+
+Le même phénomène s’observe à l’accélération et au freinage d’un véhicule par exemple.
+<font color="blue">
+D’une façon  générale on appelle facteur de charge le nombre de fois que le poids apparent Pa est supérieur à P
+<font color="red">n = Pa / P</font>
+n est sans unité.
+</font color="blue">
+Par exemple si n = 2, le poids apparent (ressenti) est le double du poids «normal». On dit alors que l’on «prend» 2g c-a-d que tout se passe comme si la gravité, l’attraction terrestre g était multipliée par 2.
+Pour une personne de masse 50 kg, avec g  = 10 N / kg son poids P = m × g = 500 N et Pa = 1000 N.
+
+Dans le cas de l’avion en virage horizontal stabilisé avec une  inclinaison d’un angle α, 
+on vérifie ici que le <b>poids apparent</b>, somme de <b>P</b> et de la <b>force d’inertie centrifuge Fi</b> est égal à la <b>portance</b> <b>R’z</b>.
+<font color="red">
+n = (poids apparent) / P = portance / P = R'z / P = 1 / cosα
+</font color="red">
+Il en résulte que plus l’avion est incliné, plus la portance doit être élevée. Le facteur de charge ne dépend que de l’inclinaison et augmente avec elle.
+<U>Par exemple :</U>
+- pour une inclinaison de 30° n = 1 / cos30° = 1,15
+- pour 45°  n = 1,4
+- et pour 60°  n = 1 / cos60° = 2
+
+Pour un avion de masse 1000kg,  son poids P = m*g = 10000N (en prenant g=10N/kg)
+- en vol rectiligne horizontal: n = 1 donc portance = n * P = P = 10000 N
+- en virage incliné à 60°: n=2 donc portance R’z = 2 * P = 20000 N
+
+<U>Remarque :</U> la portance étant multipliée par n, les efforts sur la structure le sont aussi et un risque de rupture est possible si n est trop important. 
+Pour leur sécurité, les aérodynes ont des facteurs de charge limite, à ne pas dépasser, de l’ordre de 4-5(g) minimum.
+
+<b>Bruno Capelle</b><br><img src='https://bia-caea.fr/images/charge1.jpg' alt='Image de la solution'>";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"bia-facile.fr+241120143232+cHOHSb";s:11:"timecreated";s:10:"1732113152";s:12:"timemodified";s:10:"1732113152";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:3:"803";s:6:"status";s:5:"ready";s:9:"versionid";s:4:"9037";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:4:"9032";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"524";s:4:"name";s:49:"Aérodynamique, aérostatique et principes du vol";s:9:"contextid";s:3:"803";s:4:"info";s:0:"";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"bia-facile.fr+241120143232+lQX3gP";s:6:"parent";s:3:"522";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":15:{s:2:"id";s:4:"9037";s:10:"questionid";s:4:"9037";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:0:"";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:0:"";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:0:"";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"0";s:23:"showstandardinstruction";s:1:"1";s:7:"answers";a:4:{i:34398;O:8:"stdClass":7:{s:2:"id";s:5:"34398";s:8:"question";s:4:"9037";s:6:"answer";s:4:"40°";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34399;O:8:"stdClass":7:{s:2:"id";s:5:"34399";s:8:"question";s:4:"9037";s:6:"answer";s:4:"50°";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34400;O:8:"stdClass":7:{s:2:"id";s:5:"34400";s:8:"question";s:4:"9037";s:6:"answer";s:4:"60°";s:12:"answerformat";s:1:"1";s:8:"fraction";d:1;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34401;O:8:"stdClass":7:{s:2:"id";s:5:"34401";s:8:"question";s:4:"9037";s:6:"answer";s:4:"80°";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}}

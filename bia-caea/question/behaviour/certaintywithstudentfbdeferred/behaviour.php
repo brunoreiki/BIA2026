@@ -35,7 +35,6 @@ require_once(__DIR__ . '/../studentfeedbackdeferred/behaviour.php');
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class qbehaviour_certaintywithstudentfbdeferred extends qbehaviour_studentfeedbackdeferred {
-
     /**
      * {@inheritDoc}
      * @see question_behaviour::get_expected_data()

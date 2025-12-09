@@ -23,14 +23,13 @@ namespace qbehaviour_certaintywithstudentfbdeferred;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class declaredignoranceclass {
-
     /**
      * @var array Default colors for declared ignorance rate classes.
      */
     protected const COLORDEFAULTS = [
-            'none' => '#104862',
-            'moderate' => '#4e93d9',
-            'high' => '#e97132',
+            'none' => '#bfa',
+            'moderate' => '#ea4',
+            'high' => '#b32',
     ];
 
     /**
@@ -71,10 +70,10 @@ class declaredignoranceclass {
             $labelmapping = static::get_label_mapping();
             foreach ([ 'none', 'moderate', 'high' ] as $name) {
                 $classes[$name] = new declaredignoranceclass(
-                        $name,
-                        $labelmapping[$name],
-                        static::COLORDEFAULTS[$name],
-                        );
+                    $name,
+                    $labelmapping[$name],
+                    static::COLORDEFAULTS[$name],
+                );
             }
         }
         return $classes;
@@ -106,5 +105,4 @@ class declaredignoranceclass {
         }
         return $context;
     }
-
 }

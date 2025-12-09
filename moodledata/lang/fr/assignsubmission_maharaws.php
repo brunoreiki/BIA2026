@@ -30,6 +30,7 @@ $string['archiveonrelease_help'] = 'Après l’attribution d’une note, un inst
 $string['assign_submission_maharaws_description'] = 'Fonctions Mahara utilisées dans le plugin de remise de devoirs Mahara.<br />La publication de ce service sur un site Moodle n’a aucun effet. Abonnez-vous à ce service si vous souhaitez pouvoir utiliser les devoirs avec {$a}.<br />';
 $string['assign_submission_maharaws_name'] = 'Remise de devoir Mahara (services Web)';
 $string['collectionsby'] = 'Collections par {$a}';
+$string['currentsubmitted'] = 'Actuellement soumis {$a}';
 $string['debug'] = 'Déboguer OAuth';
 $string['debug_help'] = 'Option de débogage pour interrompre le saut de connexion OAuth SSO afin que les paramètres puissent être inspectés';
 $string['defaultlockpages'] = 'Défaut « {$a} »';

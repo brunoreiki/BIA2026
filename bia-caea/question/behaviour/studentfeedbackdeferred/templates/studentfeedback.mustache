@@ -18,14 +18,12 @@
     @template qbehaviour_studentfeedbackdeferred/studentfeedback
 
     Classes required for JS:
-    * feedback-area
-    * submit-feedback
-    * cancel-feedback
-    * edit-feedback
-    * populated
+    * none
 
     Data attributes required for JS:
     * data-value
+    * data-role
+    * data-populated
 
     Context variables required for this template:
     * divid ID of enclosing student feedback div.
@@ -41,23 +39,23 @@
         "general": false
     }
 }}
-<div id="{{divid}}" class="student-feedback">
-	<div>
-	{{# general}}
-	{{# ownattempt}}{{# str}} yourgeneralfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
-    {{^ ownattempt}}{{# str}} studentsgeneralfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
-    {{/ general }}
-	{{^ general}}
-	{{# ownattempt}}{{# str}} yourfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
-    {{^ ownattempt}}{{# str}} studentsfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
-    {{/ general }}
-    </div>
-    <textarea class="form-control feedback-area {{# value}} populated {{/ value}}" disabled="disabled" data-value="{{value}}">{{value}}</textarea>
+<div id="{{divid}}" class="position-relative {{^ general}}mt-3{{/ general}}">
+    <label class="w-100 mb-0">
+        {{# general}}
+        {{# ownattempt}}{{# str}} yourgeneralfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
+        {{^ ownattempt}}{{# str}} studentsgeneralfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
+        {{/ general}}
+        {{^ general}}
+        {{# ownattempt}}{{# str}} yourfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
+        {{^ ownattempt}}{{# str}} studentsfeedback, qbehaviour_studentfeedbackdeferred {{/ str}}{{/ ownattempt}}
+        {{/ general}}
+        <textarea class="form-control" disabled="disabled" data-value="{{value}}" data-populated="{{# value}}true{{/ value}}{{^ value}}false{{/ value}}">{{value}}</textarea>
+    </label>
     {{# ownattempt}}
-    <div class="buttons-feedback">
-        <div class="btn btn-primary submit-feedback" style="display: none;">{{# str}} submit {{/ str}}</div>
-        <div class="btn btn-secondary cancel-feedback" style="display: none;">{{# str}} cancel {{/ str}}</div>
+    <div class="float-right mt-2 {{# general}}mb-2{{/ general}}">
+        <button type="button" class="btn btn-primary" style="display: none;" data-role="submit-feedback" tabindex=0>{{# str}} submit {{/ str}}</button>
+        <button type="button" class="btn btn-secondary ml-1" style="display: none;" data-role="cancel-feedback" tabindex=0>{{# str}} cancel {{/ str}}</button>
     </div>
-    <div class="btn btn-link edit-feedback" style="display: none;">{{# str}} edit {{/ str}}</div>
+    <button type="button" class="btn btn-link position-absolute" style="top: 1.3em; right: 0; display: none;" data-role="edit-feedback">{{# str}} edit {{/ str}}</button>
     {{/ ownattempt}}
 </div>

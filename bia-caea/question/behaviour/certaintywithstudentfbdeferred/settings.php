@@ -28,8 +28,8 @@ use qbehaviour_certaintywithstudentfbdeferred\locallib;
 // Only add the page if it is not added yet (so we don't break anything when MDL-68335 is fixed.
 if ($hassiteconfig && empty($ADMIN->locate(locallib::SETTINGSPAGE))) {
     $ADMIN->add('qbehavioursettings', new admin_externalpage(
-            locallib::SETTINGSPAGE,
-            get_string('pluginsettings', locallib::COMPONENT),
-            new moodle_url('/question/behaviour/certaintywithstudentfbdeferred/settingspage.php')
+        locallib::SETTINGSPAGE,
+        get_string('pluginsettings', locallib::COMPONENT),
+        new moodle_url('/question/behaviour/certaintywithstudentfbdeferred/settingspage.php')
     ));
 }

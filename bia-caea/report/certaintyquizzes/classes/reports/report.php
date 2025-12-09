@@ -25,7 +25,6 @@ use report_certaintyquizzes\locallib;
  * @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 abstract class report {
-
     /**
      * @var int Current course ID.
      */
@@ -103,19 +102,24 @@ abstract class report {
     }
 
     /**
+     * Return url parameters managed by this report, to be declared with $PAGE->set_url().
+     * @return array Associative array of parameters.
+     */
+    public function get_url_params() {
+        return [ 'attempttype' => $this->attempttype ];
+    }
+
+    /**
      * Return an array of selectors to be used by print_selectors().
      * @return array of HTML fragments.
      */
-    public function get_selectors() {
-    }
+    abstract public function get_selectors();
 
     /**
      * Validate that user-provided data regarding selectors is correct.
      * @return bool Whether all is correct or not.
      */
-    public function validate_selectors() {
-
-    }
+    abstract public function validate_selectors();
 
     /**
      * Print report selectors form.
@@ -151,7 +155,7 @@ abstract class report {
         $users = [];
         // Fetch all users with relevant quiz attempts in this course.
         $fields = "u." . implode(", u.", \core_user\fields::get_name_fields());
-        list($insql, $params) = $DB->get_in_or_equal($quizids, SQL_PARAMS_NAMED);
+        [ $insql, $params ] = $DB->get_in_or_equal($quizids, SQL_PARAMS_NAMED);
         $sql = "SELECT u.id, $fields
                   FROM {quiz_attempts} qa
                   JOIN {quiz} quiz ON quiz.id = qa.quiz
@@ -166,5 +170,30 @@ abstract class report {
             ];
         }
         return $users;
+    }
+
+    /**
+     * Fetch groups that have finished, real attempts on at least one of the eligible quizzes in course.
+     * @param array|null $useridswithattempts User IDs with attempts, if already fetched (use for optimization).
+     * @return array of groups with 'id', 'name' and 'members' (list of user ids) fields.
+     */
+    protected function get_groups_with_attempts_in_quizzes($useridswithattempts = null) {
+        if ($useridswithattempts === null) {
+            $useridswithattempts = array_keys($this->get_users_with_attempts_in_quizzes());
+        }
+        $groups = [];
+        foreach (groups_get_all_groups($this->courseid, 0, 0, "g.*", true) as $group) {
+            $relevantuserids = array_intersect($group->members, $useridswithattempts);
+            if (empty($relevantuserids)) {
+                // No user with attempt in this group.
+                continue;
+            }
+            $groups[$group->id] = [
+                    'id' => $group->id,
+                    'name' => format_string($group->name),
+                    'members' => $relevantuserids,
+            ];
+        }
+        return $groups;
     }
 }

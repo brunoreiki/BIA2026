@@ -44,8 +44,17 @@ if (!$canviewall) {
     $requestedreport = 'studentsalongcourse';
 }
 
+// Build report.
+if ($requestedreport === 'studentsalongcourse') {
+    $report = new reports\studentsalongcourse($courseid);
+} else {
+    $report = new reports\singlequiz($courseid);
+}
+
 $PAGE->set_pagelayout('report');
-$PAGE->set_url(new moodle_url('/report/certaintyquizzes/index.php', [ 'courseid' => $courseid, 'report' => $requestedreport ]));
+$url = new moodle_url('/report/certaintyquizzes/index.php', [ 'courseid' => $courseid, 'report' => $requestedreport ]);
+$url->params($report->get_url_params());
+$PAGE->set_url($url);
 $coursename = format_string($course->fullname);
 $PAGE->set_title($coursename . ' - ' . get_string('pluginname', locallib::COMPONENT));
 $PAGE->set_heading($coursename);
@@ -64,13 +73,6 @@ if (!locallib::certainty_quizzes_exist_in_course($courseid)) {
     echo $OUTPUT->continue_button(new moodle_url('/course/view.php', [ 'id' => $courseid ]));
     echo $OUTPUT->footer();
     die();
-}
-
-// Build report.
-if ($requestedreport === 'studentsalongcourse') {
-    $report = new reports\studentsalongcourse($courseid);
-} else {
-    $report = new reports\singlequiz($courseid);
 }
 
 echo $OUTPUT->header();

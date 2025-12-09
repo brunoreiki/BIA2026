@@ -23,7 +23,6 @@ namespace qbehaviour_certaintywithstudentfbdeferred;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class lucidityclass {
-
     /**
      * @var string Name of the class ('unexpectederror', 'allegederror', 'declaredignorance', 'unsureknowledge', or 'sureknowledge')
      */
@@ -62,10 +61,10 @@ class lucidityclass {
             $pluginconfig = get_config(locallib::COMPONENT);
             foreach ([ 'unexpectederror', 'allegederror', 'declaredignorance', 'unsureknowledge', 'sureknowledge' ] as $name) {
                 $classes[$name] = new lucidityclass(
-                        $name,
-                        get_string('lucidityindicator' . $name, locallib::COMPONENT),
-                        $pluginconfig->{$name . 'color'} ?? settingsform::COLORDEFAULTS[$name],
-                        );
+                    $name,
+                    get_string('lucidityindicator' . $name, locallib::COMPONENT),
+                    $pluginconfig->{$name . 'color'} ?? settingsform::COLORDEFAULTS[$name],
+                );
             }
         }
         return $classes;
@@ -93,5 +92,4 @@ class lucidityclass {
         }
         return $context;
     }
-
 }

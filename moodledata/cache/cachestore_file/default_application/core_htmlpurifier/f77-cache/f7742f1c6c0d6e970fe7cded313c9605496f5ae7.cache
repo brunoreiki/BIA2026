@@ -1,0 +1,31 @@
+s:3589:"<h3 class="s17"><a></a>‌2. Le vol spatial</h3>
+<p>En ce qui concerne le vol spatial, il existe des contraintes liées à l’espace :</p>
+<ul>
+<li><strong>Le vide </strong>: pression nulle à l’extérieur d’une enceinte pressurisée <span class="s40">-&gt; </span>Conception des structures.</li>
+<li class="s4">L’absence d’air et donc d’oxygène <span class="s40">-&gt; </span><span class="p">Mode de propulsion spécifique (moteur de fusée).</span></li>
+</ul>
+<h4 class="s18"><a></a>‌A. Trajectoire de lancement et mise en orbite</h4>
+<p>Pour lancer un projectile depuis la Terre, il est indispensable de lui donner une vitesse initiale pour contrer l’attraction terrestre.</p>
+<p>Plus on augmente cette vitesse initiale et plus le mobile ira haut et loin.</p>
+<p>Dans le cas de trajectoire au départ du sol, il faudrait une vitesse extrêmement élevée (plus de 7 km/s !) pour pouvoir mettre un satellite en orbite autour de la Terre.</p>
+<p>La solution consiste à utiliser un lanceur qui fournit l’énergie nécessaire, et amène le satellite au point d'injection, à vitesse et à altitude prévues. Le satellite est alors mis en orbite basse circulaire autour de la Terre.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_232.png" alt="image" width="513" height="321" /></p>
+<p class="s22">Figure 1.62.</p>
+<p>Les propres moteurs du satellite (de faible puissance) permettent d'augmenter sa vitesse et de se positionner sur une orbite elliptique, ou orbite de transfert.</p>
+<p>Dès que l'apogée<span class="s67">1 </span>est atteinte, une nouvelle augmentation de vitesse permet de stabiliser le satellite sur l'orbite définitive.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_234.png" alt="image" width="221" height="264" /></p>
+<p></p>
+<p class="s22">Figure 1.63.</p>
+<p class="s14">L’apogée est le Point extrême de l’orbite elliptique d’un astre ou d’un corps céleste artificiel par rapport au centre de la Terre.</p>
+<p></p>
+<h4 class="s18"><a></a>‌B. Vol orbital et spatial</h4>
+<p>L'orbite d'un satellite dépend de sa mission :</p>
+<p>Un satellite de communication doit survoler en permanence la même région, il sera donc immobile par rapport à la Terre et décrira une orbite circulaire, dans le plan équatorial situé à environ 36000 km d'altitude.</p>
+<p style="text-align:center;">C'est <strong>l'orbite géostationnaire</strong></p>
+<p style="text-align:center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_236.png" alt="image" width="311" height="241" /></p>
+<p class="s22" style="text-align:center;">Figure 1.64.</p>
+<p>Un satellite d'observation (SPOT par exemple) doit survoler un site terrestre donné au cours d'orbites successives, dans les mêmes conditions d'éclairage. Ces orbites passent donc par les pôles à une altitude d'environ 820 km.</p>
+<p style="text-align:center;">C'est <strong>l'orbite héliosynchrone</strong></p>
+<p>Il existe des vitesses « remarquables » au point d’injection qui déterminent la nature de la trajectoire. La vitesse minimale pour une trajectoire circulaire est de 7,75 km/s. Entre 7,75 et 11,2 km/s, la trajectoire est elliptique. Au-delà de 11,2 km/s (<strong>vitesse de libération</strong>), le satellite quitte l’attraction terrestre et devient une sonde spatiale.</p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_237.jpg" alt="image" width="352" height="208" /></p>
+<p class="s22" style="text-align:center;">Figure 1.65.</p>";

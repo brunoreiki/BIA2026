@@ -27,15 +27,15 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['customfield'] = 'Champs personnalisés de question';
 $string['customfield_islocked'] = 'Verrouillé';
-$string['customfield_islocked_help'] = 'Si le champ est verrouillé, seuls les autres utilisateurs ayant la capacité de modifier les champs personnalisés verrouillés pourront le changer dans les réglages de la question.';
+$string['customfield_islocked_help'] = 'Si le champ est verrouillé, seuls les utilisateurs ayant la capacité de modifier les champs personnalisés de question verrouillés (utilisateurs avec le rôle de Gestionnaire) pourront le changer dans les réglages de la question.';
 $string['customfield_notvisible'] = 'Personne';
 $string['customfield_visibility'] = 'Visible pour';
 $string['customfield_visibility_help'] = 'Ce réglage détermine qui peut voir le nom et la valeur du champ personnalisé.';
 $string['customfield_visibletoall'] = 'Tout le monde';
 $string['customfield_visibletoteachers'] = 'Enseignants';
-$string['customfields:changelockedcustomfields'] = 'Modifier les champs personnalisés verrouillés';
+$string['customfields:changelockedcustomfields'] = 'Modifier les champs de question personnalisés verrouillés';
 $string['customfields:configurecustomfields'] = 'Configurer les champs personnalisés';
-$string['customfields:viewhiddencustomfields'] = 'Voir les champs personnalisés cachés';
+$string['customfields:viewhiddencustomfields'] = 'Voir les champs personnalisés de question cachés';
 $string['customfieldsettings'] = 'Réglages commun des champs personnalisés de question';
 $string['pluginname'] = 'Champs personnalisés de question';
 $string['privacy:metadata'] = 'Le plugin de banque de questions Champs personnalisés de question n’enregistre aucune donnée personnelle.';

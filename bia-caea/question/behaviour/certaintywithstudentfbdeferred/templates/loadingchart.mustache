@@ -24,11 +24,14 @@
     * data-role
 
     Context variables required for this template:
-    * content
-    * role
+    * role Data attribute to easily identify the chart
+    * content HTML for chart (optional if chartcontext is provided)
+    * chartcontext Context variables for core/chart template (optional if content is provided)
 
     Example context (json):
     {
+        "content": "This chart is loading and you should not see this",
+        "role": "test-chart"
     }
 }}
 <div class="position-relative d-flex align-items-center">

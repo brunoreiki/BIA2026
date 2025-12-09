@@ -1,0 +1,12 @@
+a:29:{s:18:"attributesnotfound";s:35:"Enrolment method not found: "{$a}".";s:22:"attributesnotinstalled";s:39:"Enrolment method not installed: "{$a}".";s:14:"cohortnotfound";s:17:"Cohort not found.";s:7:"csvfile";s:0:"";s:12:"csvfile_help";s:788:"The format of the CSV file is as follows:
+
+* Each line of the file contains one record.
+* Each record is a series of data in any order separated by commas or other standard delimiters.
+* The fields are: operation, enrolment method, target course shortname, parent course shortname or cohort idnumber, disabled status[, group name, role].
+* All fields are required except group and role.
+* The operations are add, del(ete) and upd(ate).
+* The supported enrolment methods are meta and cohort.
+* The disabled status values are 1 (disabled) or 0 (enabled).
+* Students enrolled via the method will be placed in the group specified in the group name field.
+  The group will be created if it doesn't already exist.
+* The role field must be a valid role name such as editingteacher, student, etc.";s:7:"heading";s:47:"Upload course enrolment methods from a CSV file";s:13:"invalidmethod";s:15:"Invalid method.";s:9:"invalidop";s:18:"Invalid operation.";s:6:"method";s:6:"Method";s:21:"methoddisabledwarning";s:33:"Enrolment method "{$a}" disabled.";s:14:"methodscreated";s:13:"Created: {$a}";s:14:"methodsdeleted";s:13:"Deleted: {$a}";s:13:"methodserrors";s:12:"Errors: {$a}";s:12:"methodstotal";s:11:"Total: {$a}";s:14:"methodsupdated";s:13:"Updated: {$a}";s:9:"operation";s:9:"Operation";s:14:"parentnotfound";s:27:"Meta link course not found.";s:10:"pluginname";s:24:"Upload enrolment methods";s:15:"pluginname_help";s:111:"Upload enrolment methods from a CSV file to set enrolment methods for a range of courses in a single operation.";s:16:"privacy:metadata";s:78:"The Upload enrolment methods administration tool does not store personal data.";s:11:"reladderror";s:31:"Error linking method to course.";s:16:"relalreadyexists";s:32:"Method already linked to course.";s:14:"reldoesntexist";s:28:"Method doesn't exist. ({$a})";s:6:"result";s:6:"Result";s:7:"results";s:32:"Upload enrolment methods results";s:14:"targetisparent";s:67:"Method is a parent of the course, so cannot be added as its target.";s:14:"targetnotfound";s:15:"Unknown course.";s:26:"uploadenrolmentmethods:add";s:28:"Add/Upload enrolment methods";s:29:"uploadenrolmentmethods:delete";s:24:"Delete enrolment methods";}

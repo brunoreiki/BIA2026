@@ -1,0 +1,222 @@
+s:7542:"<h4 class="s17"><a></a>2. ‌Mechanics of flight</h4>
+<p style="text-align:center;"></p>
+<p style="text-align:center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_241.jpg" alt="image" width="412" height="216" /></p>
+<p class="s22" style="text-align:center;">Figure 1.69.</p>
+<p class="s22" style="text-align:center;"></p>
+<p style="text-align:center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_242.jpg" alt="image" width="280" height="194" /></p>
+<p style="text-align:center;">Figure 1.70.</p>
+<p style="text-align:center;"></p>
+<p style="text-align:center;"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/272/mod_label/intro/Image_243_1.png" alt="navigation" width="603" height="226" /></p>
+<p class="s22" style="text-align:center;">Figure 1.71.</p>
+<p class="s22" style="text-align:center;"></p>
+<p class="s22" style="text-align:center;"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/272/mod_label/intro/Image_243_2.png" alt="Navigation pitch" width="470" height="180" /></p>
+<p class="s22" style="text-align:center;">Figure 1.72.</p>
+<p class="s22" style="text-align:center;"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/272/mod_label/intro/Image_243_3.png" alt="Navigation Yaw" width="568" height="251" /></p>
+<p class="s22" style="text-align:center;">Figure 1.73.</p>
+<p class="s22" style="text-align:center;"></p>
+<p style="text-align:center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_244.png" alt="image" width="714" height="251" /></p>
+<p class="s22" style="text-align:center;">Figure 1.74.</p>
+<p class="s22"></p>
+<table style="border-collapse:collapse;border-spacing:0px;background-color:#ecf0f1;border:1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;" colspan="2">
+<p class="s50" style="text-align:center;"><strong>Mechanics Of Flight</strong></p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Assiette (Longitudinale)</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Pitch Attitude</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Atterrissage</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Landing</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Autonomie</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Range</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Cabrer</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Pull The Nose Up, Pitch Up</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Centrage</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Balance (Nose Or Tail Heavy)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Charge Alaire</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Wing Load</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Décollage</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Take-Off</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Dérapage, Glissade</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Slip (Inward), Skid (Outward)</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Effet Girouette</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Weathercock, Direction Stability</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Facteur De Charge</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Load Factor</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Inclinaison, Assiette Latérale</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Bank Angle, Roll Attitude</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Lacet</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Yaw</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Lacet Inverse</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Adverse Yaw</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Piquer</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Pull The Nose Down, Pitch Down</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Poussée Moteur</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Engine Thrust</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Roulis</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Roll</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Tangage</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Pitch</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Virage Stabilisé</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Level Flight Turn, Flat Turn</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vitesse Ascensionnelle, Taux De</p>
+<p class="s51">Montée</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Rate Of Climb</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vitesse De Décrochage</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Stalling Speed</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vitesse De Descente</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Rate Of Sink, Rate Of Descent</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vol En Palier</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Level Flight</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vol En Palier Stationnaire</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Steady Level Flight</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Vrille</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s51">Spin</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>";

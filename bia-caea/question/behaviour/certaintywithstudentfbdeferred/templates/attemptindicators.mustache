@@ -24,22 +24,43 @@
     * none
 
     Context variables required for this template:
-    * nrightanswers
-    * nwronganswers
-    * hasdeclaredignorance
-    * ndeclaredignorance
-    * nquestions
-    * declaredignorancerate
-    * declaredignorancerate_help
-    * confidencerate
-    * confidencerate_help
-    * imprudencerate
-    * imprudencerate_help
-    * lucidityindex
-    * lucidityindex_help
+    * nquestions The total number of questions in the attempt
+    * nrightanswers The number of answers considered correct
+    * nwronganswers The number of answers considered incorrect
+    * hasdeclaredignorance Whether there exists a level of declared ignorance
+    * ndeclaredignorance The number of answers at random, if hasdeclaredignorance is true
+    * nnotanswered The number of questions not answered
+    * nnocertainty The number of answers without certainty selected
+    * declaredignorancerate The rate of random answers, if hasdeclaredignorance is true
+    * declaredignorancerate_help The help icon about declared ignorance rate, if hasdeclaredignorance is true
+    * confidencerate The confidence rate
+    * confidencerate_help The help icon about confidence rate
+    * imprudencerate The imprudence rate
+    * imprudencerate_help The help icon about imprudence rate
+    * lucidityindex The lucidity index
+    * lucidityindex_help The help icon about lucidity index
+    * showluciditydisclaimer Whether to show a notice about the fact that lucidity index may be biased by too few questions
+    * linktoreport Link to the course report (optional)
 
     Example context (json):
     {
+        "nquestions": "3",
+        "nrightanswers": "1",
+        "nwronganswers": "2",
+        "hasdeclaredignorance": true,
+        "ndeclaredignorance": "0",
+        "nnotanswered": "0",
+        "nnocertainty": "0",
+        "declaredignorancerate": "0%",
+        "declaredignorancerate_help": "",
+        "confidencerate": "30%",
+        "confidencerate_help": "",
+        "imprudencerate": "60%",
+        "imprudencerate_help": "",
+        "lucidityindex": "40",
+        "lucidityindex_help": "",
+        "showluciditydisclaimer": false,
+        "linktoreport": "#"
     }
 }}
 <table class="generaltable mt-1">
@@ -49,8 +70,14 @@
             {{# str}} ncorrectanswers, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nrightanswers}} / {{nquestions}}</span> {{/ str}}<br>
             {{# str}} nincorrectanswers, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nwronganswers}} / {{nquestions}}</span> {{/ str}}<br>
             {{# hasdeclaredignorance}}
-            {{# str}} ndeclaredignorance, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{ndeclaredignorance}} / {{nquestions}}</span> {{/ str}}
+            {{# str}} ndeclaredignorance, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{ndeclaredignorance}} / {{nquestions}}</span> {{/ str}}<br>
             {{/ hasdeclaredignorance}}
+            {{# nnotanswered}}
+            <i class="icon fa fa-warning text-warning" title="{{# str}} warning {{/ str}}"></i>{{# str}} nnotanswered, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nnotanswered}} / {{nquestions}}</span> {{/ str}}<br>
+            {{/ nnotanswered}}
+            {{# nnocertainty}}
+            <i class="icon fa fa-warning text-warning" title="{{# str}} warning {{/ str}}"></i>{{# str}} nnocertainty, qbehaviour_certaintywithstudentfbdeferred, <span class="numanswers">{{nnocertainty}} / {{nquestions}}</span> {{/ str}}<br>
+            {{/ nnocertainty}}
         </td>
     </tr>
     <tr>
@@ -63,10 +90,11 @@
                 {{# str}} confidenceratea, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{confidencerate}}</span> {{/ str}} {{{confidencerate_help}}}<br>
                 {{# str}} imprudenceratea, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{imprudencerate}}</span> {{/ str}} {{{imprudencerate_help}}}<br>
                 <span class="lucidity-indicator">{{# str}} lucidityindexa, qbehaviour_certaintywithstudentfbdeferred, <span class="indicator">{{lucidityindex}}</span> {{/ str}}</span> {{{lucidityindex_help}}}
+                {{# showluciditydisclaimer}}<br><i class="icon fa fa-exclamation-circle text-info" role="presentation"></i>{{# str}} lucidityindexdisclaimer, qbehaviour_certaintywithstudentfbdeferred {{/ str}}{{/ showluciditydisclaimer}}
             </div>
             {{# linktoreport}}
             <div class="align-content-center ml-4">
-                {{{.}}}
+                <a href="{{{.}}}" class="btn btn-secondary">{{# str}} viewcoursereport, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</a>
             </div>
             {{/ linktoreport}}
         </td>

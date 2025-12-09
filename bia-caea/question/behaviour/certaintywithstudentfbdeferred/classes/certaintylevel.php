@@ -23,7 +23,6 @@ namespace qbehaviour_certaintywithstudentfbdeferred;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class certaintylevel {
-
     /**
      * @var string Name of this certainty level ('random', 'unsure', 'quiteunsure', 'quitesure', 'almostsure', or 'sure')
      */
@@ -93,15 +92,14 @@ class certaintylevel {
             foreach ([ 'random', 'unsure', 'quiteunsure', 'quitesure', 'almostsure', 'sure' ] as $name) {
                 $openlabelexists = get_string_manager()->string_exists($name . '_open', locallib::COMPONENT);
                 $levels[] = new certaintylevel(
-                        $name,
-                        get_string($pluginconfig->{$name . 'label'} ?? $defaults[$name . 'label'], locallib::COMPONENT),
-                        $pluginconfig->{$name . 'percentage'} ?? $defaults[$name . 'percentage'],
-                        $pluginconfig->{$name . 'category'} ?? $defaults[$name . 'category'],
-                        ($pluginconfig->{$name . 'useopenlabel'} ?? true) && $openlabelexists
-                        );
+                    $name,
+                    get_string($pluginconfig->{$name . 'label'} ?? $defaults[$name . 'label'], locallib::COMPONENT),
+                    $pluginconfig->{$name . 'percentage'} ?? $defaults[$name . 'percentage'],
+                    $pluginconfig->{$name . 'category'} ?? $defaults[$name . 'category'],
+                    ($pluginconfig->{$name . 'useopenlabel'} ?? true) && $openlabelexists
+                );
             }
         }
         return $levels;
     }
-
 }

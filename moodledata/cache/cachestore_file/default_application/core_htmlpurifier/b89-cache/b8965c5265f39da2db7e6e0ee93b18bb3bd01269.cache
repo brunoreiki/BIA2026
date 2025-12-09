@@ -1,0 +1,148 @@
+s:11076:"<h1><a></a>‌Partie 1 : Aérodynamique</h1>
+<p></p>
+<h3>1. Comment vole un avion ?</h3>
+<ul>
+<li>A.Les Caractéristiques d’un profil d’aile</li>
+<li>B.L’écoulement de l’air autour du profil</li>
+<li>C.L’angle d’incidence</li>
+<li>D. Les forces aérodynamiques</li>
+<li>E.Portance et trainée</li>
+<li>F.Foyer</li>
+<li>G.Exemples de profil</li>
+</ul>
+<h4 class="s18"><a></a>A. ‌Les Caractéristiques d’un profil d’aile </h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_148.png" alt="image" width="573" height="159" /></p>
+<p class="s22">Figure 1.1.</p>
+<ul>
+<li class="s22"><strong>Profil</strong> : <span class="p">Coupe verticale de l’aile</span></li>
+<li class="s4"><strong>Corde de profil </strong>: <span class="p">Ligne joignant le bord d’attaque au bord de fuite</span></li>
+<li class="s4"><strong>Profondeur</strong> : <span class="p">Longueur de la corde de profil, notée </span>c</li>
+<li class="s4"><strong>Épaisseur</strong> : <span class="p">Distance maximum entre l’Extrados et l’Intrados</span></li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>B. L’écoulement de l’air autour du profil</h4>
+<p class="s59"><span class="p">Pour étudier le vol d’un avion dans l’air, il est équivalent de considérer l’avion immobile et l’air qui se déplace. On s’intéresse alors à la trajectoire de minces filets d’air, appelés lignes de courant. La vitesse de l’avion est remplacée par le vent relatif, qui souffle dans le sens opposé :</span></p>
+<p>\(Vvent relatif\)  = - \(Vavion\)</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_149.jpg" alt="image" width="415" height="224" /></p>
+<p class="s59"><span class="p">Figure 1.2.</span></p>
+<p>Commençons par <strong>l’effet Venturi</strong>. Lorsque la section se rétrécit, la vitesse des filets d’air augmente et ils ont tendance à se rapprocher les uns des autres. Cet effet s’inverse lorsque la section augmente. Vous pouvez vérifier cela en pinçant l’extrémité du tuyau d’arrosage de votre jardin.</p>
+<p class="s28">Il est utilisé en aéronautique pour :</p>
+<ul>
+<li class="s28">Expliquer les dépressions sur l’extrados et les surpressions sur l’intrados</li>
+<li class="s28">Expliquer les effets de Foehn en montagne</li>
+<li class="s28">Le mélange air/essence dans les carburateurs</li>
+</ul>
+<p class="s4"><strong>Bernoulli</strong> <span class="p">a démontré (1738) que dans un fluide en écoulement, plus la vitesse du fluide est élevée et plus la pression y est faible et réciproquement.</span></p>
+<p class="s59"><span class="p">Plus précisément, le long d’une ligne de courant, on a $$</span>\[ P + \frac{1}{2}\rho v^2 = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡𝑒\]<span class="p">$$</span></p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_151.jpg" alt="image" width="440" height="120" /></p>
+<p class="s22">Figure 1.3.</p>
+<p>Dans le cas d’un profil d’aile, la présence de l’<strong>extrados </strong>engendre un surplus de vitesse qui crée une <strong>dépression</strong>. Côté <strong>intrados</strong>, c’est l’inverse : il y a une diminution de la vitesse et apparition d’une <strong>surpression</strong>.</p>
+<h4 class="s18"><a></a>C. ‌L’angle d’incidence</h4>
+<p>C’est l’angle <strong>i </strong>compris entre la corde de profil de l’aile et la trajectoire de l’avion (matérialisée par le vent relatif). Il varie au cours du vol.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_152.png" alt="image" width="429" height="86" /></p>
+<p class="s22">Figure 1.4.</p>
+<p></p>
+<h4 class="s18"><a></a>D. ‌Les forces aérodynamiques</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_153.jpg" alt="image" width="494" height="211" /></p>
+<p class="s22">Figure 1.5.</p>
+<p></p>
+<p>La somme des forces pressantes sur toute la surface du profil est une <strong>force aérodynamique</strong>, dirigée vers le haut (et légèrement vers l’arrière). C’est cette force qui maintient l’avion en vol. Cette force, la sustentation ou portance, est générée pour environ 2/3 par l’extrados de l’aile et pour environ 1/3 par l’intrados. Le point où s’applique la force aérodynamique est appelé <strong>centre de poussée (CP)</strong>.</p>
+<h4 class="s18"><a></a>E. ‌Portance et trainée</h4>
+<p></p>
+<p>La force aérodynamique qui s’exerce sur un profil est décomposée en deux termes :</p>
+<ul>
+<li>L’un parallèle au vent relatif : c’est la <strong>trainée Rx</strong>, qui s’oppose à l’avancement de l’avion</li>
+<li>L’autre perpendiculaire au vent relatif : c’est la <strong>portance Rz</strong>, qui porte ou sustend l’avion</li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_154.png" alt="image" width="361" height="190" /></p>
+<p></p>
+<p class="s22">Figure 1.6.</p>
+<p>Un constructeur d’avion cherche à obtenir la plus grande portance possible (pour maximiser la charge emportée) et la plus faible trainée possible (celle-ci s’oppose au mouvement de l’avion et augmente la consommation de carburant).</p>
+<p>Deux relations jumelles permettent de calculer les valeurs de la portance et de la trainée (en newton-N) :</p>
+<div class="column" style="color:#FFFFFF;">
+<p>\[R_z = \frac{1}{2} \rho V^2 \cdot S \cdot C_z  et R_x = \frac{1}{2} \rho V^2 \cdot S \cdot C_x\] </p>
+<div class="entry">
+<div style="background-color:#FFFFFF;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_155.png" alt="Empennage" width="188" height="369" /></div>
+<div><em>Figure 2.16.</em></div>
+<div class="text">
+<ul>
+<li><strong>ρ</strong> = Masse volumique de l'air (en kg.m<sup>3</sup>)</li>
+<li><strong>S</strong> = Surface alaire de l'avion (en m<sup>2</sup>)</li>
+<li><strong>V</strong> = Vitesse de l'avion par rapport à l’air (en m.s<sup>-1</sup>)</li>
+<li><strong>C<sub>z</sub></strong> = Coefficient de portance (sans unité) : dépend du profil et de l'angle d’incidence</li>
+<li><strong>C<sub>x</sub></strong> = Coefficient de trainée (sans unité) : dépend du profil et de l'angle d’incidence</li>
+</ul>
+<p><strong>ρ</strong> diminue avec l’altitude → portance et trainée diminuent avec l’altitude.</p>
+<p>Quand on double la vitesse, on multiplie par 4 portance et trainée.</p>
+</div>
+</div>
+</div>
+<div class="gallery-item"> </div>
+<p></p>
+<p class="s10"><strong>La Portance ainsi que la Trainée varient avec l’incidence du profil.</strong></p>
+<p class="s8">Pour un avion de transport civil :</p>
+<p>En croisière</p>
+<ul>
+<li><strong>Cz</strong>≈0,5</li>
+<li><strong>Cx</strong>≈0,025</li>
+</ul>
+<p>A l’atterrissage</p>
+<ul>
+<li><strong>Cz</strong>≈2,5</li>
+<li><strong>Cx</strong>≈0, 2</li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>F. ‌Foyer</h4>
+<p></p>
+<p class="s4"><strong>Le foyer est le point du profil où s’appliquent les variations de portance dues à une variation d’incidence. </strong><span class="p">C’est un point fixe.</span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_156.jpg" alt="image" width="423" height="164" /></p>
+<p class="s22">Figure 1.8.</p>
+<p>En subsonique, F est situé derrière le bord d’attaque, à une distance correspondant à environ 25% de la corde du profil.</p>
+<p></p>
+<h4 class="s18"><a></a>G. ‌Exemples de profil</h4>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_157.jpg" alt="image" width="555" height="394" /></p>
+<p class="s22">Figure 1.9.</p>
+<p class="s22"><img class="img-fluid" src="https://bia-facile.fr//images/page_80_img_2.jpeg" alt="profils" width="543" height="319" /></p>
+<p class="s22">Figures 1.9.bis</p>
+<p><img class="img-fluid" src="https://bia-facile.fr//images/page_80_img_1.jpeg" alt="profils" width="660" height="484" /></p>
+<p>Figure 1.10.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr//images/page_80_img_3.jpeg" alt="profils" width="660" height="495" /></p>
+<p class="s22">Figure 1.11.</p>
+<h3 class="s22">Les deux théorèmes en jeu</h3>
+<h5>Selon la loi de Newton et l'effet Coanda</h5>
+<p>Graphique donnant l'évolution du coefficient de portance en fonction de l'angle d'incidence. Le décrochage survient dans ce cas pour un angle d'incidence de 15° </p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/262/mod_label/intro/Lift_curve_fr%281%29.svg" alt="courbe" width="680" height="558" /></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:423px;">
+<table style="border:0px;padding:0px;margin:0px;height:604.15px;width:111.584%;" cellspacing="0">
+<tbody>
+<tr style="height:555px;">
+<td class="thumbimage" style="padding:0px;margin:0px;width:0.211864%;"> </td>
+<td style="padding:0px;margin:0px;border:0px;width:0.423729%;"> </td>
+<td class="thumbimage" style="padding:0px;margin:0px;width:99.1525%;"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/262/mod_label/intro/Angles_de_portance_et_de_d%C3%A9crochage.svg" alt="portance" width="619" height="734" /></td>
+</tr>
+<tr style="height:49px;">
+<td style="padding:0px;margin:0px;border:0px;width:99.7881%;" colspan="3">
+<div class="thumbcaption" style="text-align:center;"><br />Influence de l’angle d'incidence sur la portance.</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>
+</div>
+<p>La force de portance est générée en réaction à la masse d'air qui est défléchie vers le bas. Par réaction l'aile est tirée vers le haut, en vertu de la troisième loi de Newton.<sup class="reference"></sup></p>
+<dl>
+<dd>« Tout corps A (l'aile) exerçant une force sur un corps B (l'air) subit une force d'intensité égale, de même direction mais de sens opposé, exercée par le corps B ».</dd>
+</dl>
+<p>La masse d'air est défléchie vers le bas, en raison de :</p>
+<ul>
+<li>la forme de l'aile : pour un profil dissymétrique, la forme bombée de l'aile sur sa face supérieure tend à dévier l'écoulement de l'air vers le bas, selon l'effet Coandă. La viscosité de l'air « oblige » les filets d'air à rester plaqués sur la surface supérieure de l'aile.</li>
+<li>l'angle d'incidence (position de la surface de l'aile par rapport aux filets d'air). Plus l'angle d'incidence est élevé et plus la portance est forte, tant que l'incidence de décrochage n'est pas atteinte.</li>
+</ul>
+<h5>Selon le théorème de Kutta</h5>
+<p>Quand le vent relatif passe au-dessus et au-dessous de l'aile, l'air qui passe sur l'extrados va plus vite que l'air qui passe sur l'intrados, obéissant ainsi à la condition de Kutta. La pression à l'extrados est plus faible que celle à l'intrados. La dépression sur l'extrados et la pression sur l'intrados engendrent une force sur l'aile appelée portance. </p>";

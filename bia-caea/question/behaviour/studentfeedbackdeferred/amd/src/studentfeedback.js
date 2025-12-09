@@ -26,16 +26,16 @@ define(['jquery', 'core/url', 'core/config', 'core/log'], function($, url, cfg, 
      * @param {Object} ajaxParams Parameters to be appended to ajax call when submitting feedback.
      */
     function setup(divID, ajaxParams) {
-        var $feedbackarea = $('#' + divID + ' .feedback-area');
-        var $submit = $('#' + divID + ' .submit-feedback');
-        var $cancel = $('#' + divID + ' .cancel-feedback');
-        var $edit = $('#' + divID + ' .edit-feedback');
+        var $feedbackarea = $('#' + divID + ' textarea');
+        var $submit = $('#' + divID + ' [data-role="submit-feedback"]');
+        var $cancel = $('#' + divID + ' [data-role="cancel-feedback"]');
+        var $edit = $('#' + divID + ' [data-role="edit-feedback"]');
 
         var setEditing = function(editing) {
             // Toggle the visibility / availability of every button / text area.
             $edit.toggle(!editing);
             $submit.toggle(editing);
-            $cancel.toggle(editing && $feedbackarea.is('.populated'));
+            $cancel.toggle(editing && $feedbackarea.data('populated'));
             if (editing) {
                 $feedbackarea.removeAttr('disabled');
             } else {
@@ -52,7 +52,7 @@ define(['jquery', 'core/url', 'core/config', 'core/log'], function($, url, cfg, 
             window.addEventListener('beforeunload', preventUnsavedChangesUnload);
         });
 
-        setEditing(!$feedbackarea.is('.populated') || $feedbackarea.val() != $feedbackarea.data('value'));
+        setEditing(!$feedbackarea.data('populated') || $feedbackarea.val() != $feedbackarea.data('value'));
 
         $submit.click(function() {
             $.ajax({
@@ -66,19 +66,21 @@ define(['jquery', 'core/url', 'core/config', 'core/log'], function($, url, cfg, 
                 if (response.success) {
                     // Store value in attribute data-value to handle cancel.
                     $feedbackarea.data('value', $feedbackarea.val());
-                    $feedbackarea.addClass('populated');
+                    $feedbackarea.data('populated', true);
                     setEditing(false);
                     // Changes have been saved, don't prompt the user anymore.
                     window.removeEventListener('beforeunload', preventUnsavedChangesUnload);
                 } else {
                     log.error(response.error);
                 }
+                return response;
             })
             .fail(log.error);
         });
 
         $edit.click(function() {
             setEditing(true);
+            $feedbackarea.focus();
         });
 
         $cancel.click(function() {

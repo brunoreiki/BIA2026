@@ -30,7 +30,9 @@
     * declaredignorancecolor CSS color for declared ignorance.
     * unsureknowledgecolor CSS color for unsure knowledge.
     * sureknowledgecolor CSS color for sure knowledge.
-    * expectedtrendcolor CSS color for expected trend.
+    * expectedtrend Either an object with the following fields or false if no expected trend.
+        * color CSS color for expected trend.
+        * helpicon HTML for help icon about expected trend.
 
     Example context (json):
     {
@@ -43,28 +45,26 @@
         "expectedtrendcolor": "black"
     }
 }}
-<div class="chart-legend">
-    <div>
+<div class="d-flex mt-3 text-center" role="presentation">
+    {{# expectedtrend}}
         <span class="chart-legend-element">
-            <span class="chart-legend-icon">
-                <span class="d-inline-block align-middle" style="width: 2em; height: 3px; border-radius: 2px; margin-top: -2px; background-color: {{{expectedtrendcolor}}}"></span>
-            </span>
+            <span class="d-inline-block align-middle mr-1" style="width: 2em; height: 3px; border-radius: 2px; margin-top: -2px; background-color: {{{color}}}"></span>
             {{# str}} expectedtrend, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
-            {{{expectedtrendhelpicon}}}
+            {{{helpicon}}}
         </span>
-        <span class="chart-legend-element">
-            <span class="chart-legend-icon chart-legend-bar-icon" style="background-image: linear-gradient(90deg, {{{unexpectederrorcolor}}}, {{{unexpectederrorcolor}}} 1.3em, {{{allegederrorcolor}}} 1.3em, {{{allegederrorcolor}}});"></span>
-            {{# str}} incorrectanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
-        </span>
-        {{# displaydeclaredignorance}}
-        <span class="chart-legend-element">
-            <span class="chart-legend-icon chart-legend-bar-icon" style="background-color: {{{declaredignorancecolor}}};"></span>
-            {{# str}} declaredignoranceplural, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
-        </span>
-        {{/ displaydeclaredignorance}}
-        <span class="chart-legend-element">
-            <span class="chart-legend-icon chart-legend-bar-icon" style="background-image: linear-gradient(90deg, {{{unsureknowledgecolor}}}, {{{unsureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}});"></span>
-            {{# str}} correctanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
-        </span>
-    </div>
+    {{/ expectedtrend}}
+    <span class="chart-legend-element">
+        <span class="chart-legend-bar-icon mr-1" style="background-image: linear-gradient(90deg, {{{unexpectederrorcolor}}}, {{{unexpectederrorcolor}}} 1.3em, {{{allegederrorcolor}}} 1.3em, {{{allegederrorcolor}}});"></span>
+        {{# str}} incorrectanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+    </span>
+    {{# displaydeclaredignorance}}
+    <span class="chart-legend-element">
+        <span class="chart-legend-bar-icon mr-1" style="background-color: {{{declaredignorancecolor}}};"></span>
+        {{# str}} declaredignoranceplural, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+    </span>
+    {{/ displaydeclaredignorance}}
+    <span class="chart-legend-element">
+        <span class="chart-legend-bar-icon mr-1" style="background-image: linear-gradient(90deg, {{{unsureknowledgecolor}}}, {{{unsureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}} 1.3em, {{{sureknowledgecolor}}});"></span>
+        {{# str}} correctanswers, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
+    </span>
 </div>

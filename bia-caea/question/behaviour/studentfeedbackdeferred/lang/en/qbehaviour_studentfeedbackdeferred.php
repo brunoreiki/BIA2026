@@ -22,9 +22,9 @@
  */
 
 $string['behavioursummary'] = 'Comment';
-$string['cannotsubmitfeedback'] = 'You can not submit feedback here. Either this attempt does not belong to you, or you do not have permissions.';
-$string['eventstudentgeneralfeedbackupdated'] = 'Student feedback for quiz updated';
-$string['eventstudentquestionfeedbackupdated'] = 'Student feedback for question updated';
+$string['cannotsubmitfeedback'] = 'You can not submit a comment here. Either this attempt does not belong to you, or you do not have permissions.';
+$string['eventstudentgeneralfeedbackupdated'] = 'Student comment for quiz updated';
+$string['eventstudentquestionfeedbackupdated'] = 'Student comment for question updated';
 $string['invaliddataorsesskey'] = 'This action has been prevented for security reasons. Either data has not been submitted properly, or you session key could not be confirmed.';
 $string['pluginname'] = 'Student feedback (deferred)';
 $string['privacy:behaviourpath'] = 'Behaviour';

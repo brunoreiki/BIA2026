@@ -31,7 +31,6 @@ use moodleform;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class settingsform extends moodleform {
-
     /**
      * @var array Required javascript for the form, it will be included when the form is displayed.
      */
@@ -134,8 +133,8 @@ class settingsform extends moodleform {
             $label = get_string('settings:preset:' . $name, locallib::COMPONENT);
             $presetbuttons[] = '<button type="button" class="btn btn-secondary m-1" onclick="' . $js . '">' . $label . '</button>';
         }
-        $mform->addElement('static', null, get_string('settings:loadpresets', locallib::COMPONENT),
-                '<div class="btn-toolbar">' . implode('', $presetbuttons) . '</div>');
+        $buttonshtml = '<div class="btn-toolbar">' . implode('', $presetbuttons) . '</div>';
+        $mform->addElement('static', null, get_string('settings:loadpresets', locallib::COMPONENT), $buttonshtml);
 
         $langpackurl = (new moodle_url('/admin/tool/customlang/index.php'))->out();
         $mform->addElement('static', null, null, get_string('settings:certaintylevelsinfo', locallib::COMPONENT, $langpackurl));
@@ -154,21 +153,32 @@ class settingsform extends moodleform {
             if (get_string_manager()->string_exists($levelname . '_alt', locallib::COMPONENT)) {
                 $labelchoices[$levelname . '_alt'] = get_string($levelname . '_alt', locallib::COMPONENT);
             }
-            $group[] =& $mform->createElement('select', $levelname . 'label',
-                    get_string('settings:label', locallib::COMPONENT), $labelchoices);
+            $group[] =& $mform->createElement(
+                'select',
+                $levelname . 'label',
+                get_string('settings:label', locallib::COMPONENT),
+                $labelchoices
+            );
             $mform->setDefault($levelname . 'label', static::PRESETS['recommended'][$levelname . 'label']);
             if (get_string_manager()->string_exists($levelname . '_open', locallib::COMPONENT)) {
                 $openlabel = get_string($levelname . '_open', locallib::COMPONENT);
-                $group[] =& $mform->createElement('advcheckbox', $levelname . 'useopenlabel',
-                        get_string('settings:useopenlabela', locallib::COMPONENT, $openlabel));
+                $group[] =& $mform->createElement(
+                    'advcheckbox',
+                    $levelname . 'useopenlabel',
+                    get_string('settings:useopenlabela', locallib::COMPONENT, $openlabel)
+                );
                 $mform->setDefault($levelname . 'useopenlabel', 1);
                 $group[] =& $mform->createElement('html', $OUTPUT->help_icon('settings:useopenlabel', locallib::COMPONENT));
             }
 
             $group[] =& $mform->createElement('html', '<div class="w-100"></div>'); // Acts as a line break.
 
-            $group[] =& $mform->createElement('text', $levelname . 'percentage',
-                    get_string('settings:percentage', locallib::COMPONENT), [ 'size' => 6 ]);
+            $group[] =& $mform->createElement(
+                'text',
+                $levelname . 'percentage',
+                get_string('settings:percentage', locallib::COMPONENT),
+                [ 'size' => 6 ]
+            );
             $mform->setType($levelname . 'percentage', PARAM_TEXT);
             $mform->setDefault($levelname . 'percentage', static::PRESETS['recommended'][$levelname . 'percentage']);
             $options = $certaintycategories;
@@ -176,8 +186,12 @@ class settingsform extends moodleform {
                 // Only the first certainty level can be categorized as declared ignorance.
                 unset($options[certaintylevel::CATEGORYRANDOM]);
             }
-            $group[] =& $mform->createElement('select', $levelname . 'category',
-                    get_string('settings:answercategorization', locallib::COMPONENT), $options);
+            $group[] =& $mform->createElement(
+                'select',
+                $levelname . 'category',
+                get_string('settings:answercategorization', locallib::COMPONENT),
+                $options
+            );
             $mform->setDefault($levelname . 'category', static::PRESETS['recommended'][$levelname . 'category']);
             $mform->addGroup($group, $levelname, get_string('settings:certaintylevela', locallib::COMPONENT, $i + 1), '', false);
         }
@@ -207,8 +221,13 @@ class settingsform extends moodleform {
             $fbgroup[] =& $mform->createElement('advcheckbox', $answerclass->name . 'enablefb', null, $answerclass->label);
             $mform->setDefault($answerclass->name . 'enablefb', 1);
         }
-        $mform->addGroup($fbgroup, 'enablefbforclasses', get_string('settings:enablefbforclasses', locallib::COMPONENT),
-                '<br>', false);
+        $mform->addGroup(
+            $fbgroup,
+            'enablefbforclasses',
+            get_string('settings:enablefbforclasses', locallib::COMPONENT),
+            '<br>',
+            false
+        );
         $mform->addHelpButton('enablefbforclasses', 'settings:enablefbforclasses', locallib::COMPONENT);
 
         $this->add_action_buttons();

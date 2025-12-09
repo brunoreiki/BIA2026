@@ -1,0 +1,285 @@
+s:19233:"<h3 class="s17"><a></a>2. ‌Tangage-Roulis-Lacet</h3>
+<p></p>
+<p>Pour diriger l’avion : on utilise les efforts aérodynamiques créés sur de petites surfaces que l’on appelle <strong>Gouvernes.</strong></p>
+<p>Ceci va permettre de provoquer des rotations sur<strong> 3 axes de l’avion</strong> :</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/266/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-28%2023-46-12.png" alt="Les différents axes dans un avion" width="610" height="392" /></p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Les commandes de vol</strong></p>
+<p></p>
+</div>
+<p></p>
+<p></p>
+<h4 class="s18"><a></a>‌A. L’Axe de Tangage</h4>
+<p></p>
+<div class="column" style="color:#FFFFFF;">
+<p style="text-align:center;font-size:2em;font-weight:bold;"><strong>Déplacement du manche d’avant en arrière</strong></p>
+<p></p>
+<div class="entry">
+<div>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_199.jpg" alt="image" width="144" height="237" /></p>
+<br />Figure 1.37.</div>
+<div class="text">
+<p>Pousser le manche vers l’avant fait descendre la <strong>gouverne de profondeur </strong>qui porte davantage.</p>
+<p><strong>-&gt; De ce fait, l’avion pique.</strong></p>
+<p></p>
+<p>Tirer le manche vers l’arrière fait monter la <strong>gouverne de profondeur </strong>qui porte moins.</p>
+<p class="s8"><strong>-&gt; De ce fait, l’avion cabre.</strong></p>
+</div>
+<div class="text"> </div>
+</div>
+</div>
+<p class="s22"></p>
+<p class="s22"></p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_200.png" alt="image" width="625" height="134" /></p>
+<p class="s22">Figure 1.38.</p>
+<p></p>
+<p><strong>NB :</strong> sur une configuration canard, tout est inversé.</p>
+<h5> </h5>
+<h5>1. Stabilité</h5>
+<p>L’avion est <strong>stable </strong>si en cas de perturbation (une rafale verticale de vent par exemple), il revient de lui-même à l’équilibre. Pour cela, il faut que le foyer avion F soit situé en arrière du centre de gravité de l’avion.</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_201.png" alt="image" width="363" height="252" /></p>
+<p class="s22">Figure 1.39.</p>
+<p></p>
+<div class="textbox">
+<p class="s51"><strong>Rafale =&gt; Incidence <span class="s80">↗ </span>=&gt; Portance <span class="s80">↗ </span>=&gt; Moment piqueur =&gt; Incidence <span class="s80">↘</span></strong></p>
+</div>
+<p>Dans le cas contraire, l’avion pique encore plus du nez et c’est le décrochage;</p>
+<p>Le foyer de l’avion est situé un peu en arrière du foyer de la voilure principale, du fait de la contribution de l’empennage horizontal.</p>
+<p></p>
+<h5 class="s78">2. Centrage</h5>
+<p>Le Centre de Gravité (CG) d’un avion n’est pas fixe, il dépend notamment du plan de chargement et de la consommation d’essence durant le vol, il faut donc établir un calcul de chargement pour équilibrer l’avion en vol.</p>
+<p class="s4"><strong>La règle absolue de la stabilité est que CG doit toujours être en avant de F.</strong></p>
+<p>La distance FG est appelée <strong>marge statique</strong>, elle doit toujours être supérieure à 5% de la corde moyenne (limite de centrage arrière).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_202.png" alt="image" width="489" height="178" /></p>
+<p class="s22">Figure 1.40.</p>
+<p></p>
+<p>Plus G est en avant de F (centrage avant), plus l’avion est <strong>stable </strong>mais moins il est <strong>maniable </strong>(il réagit plus lentement aux commandes) et <strong>manœuvrable </strong>(les efforts au manche sont plus importants).</p>
+<p>De plus, la déportance de l’empennage peut être trop importante (risque d’atteindre la butée, augmentation de la trainée de l’empennage et par conséquent une consommation d’essence ou de kérosène importante).</p>
+<table style="border-collapse:collapse;border-spacing:1px;background-color:#ecf0f1;border:1px solid rgb(0,0,0);height:226px;width:56.0909%;" border="1">
+<tbody>
+<tr style="height:33px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;"> </td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;"><strong>Zone avant de la plage</strong></td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;"><strong>Zone arrière de la plage</strong></td>
+</tr>
+<tr style="height:33px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;">Stabilité</td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;">AUGMENTE</td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;">DIMINUE</td>
+</tr>
+<tr style="height:33px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;">Manoeuvrabilité</td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;">DIMINUE</td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;">AUGMENTE</td>
+</tr>
+<tr style="height:58px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;">Braquage de la gouverne de<br />profondeur</td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;">PLUS IMPORTANT</td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;">MOINS IMPORTANT</td>
+</tr>
+<tr style="height:33px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;">Trainée</td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;">AUGMENTE</td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;">DIMINUE</td>
+</tr>
+<tr style="height:35px;">
+<td style="background-color:#008000;border-width:1px;padding:3px;border-color:#000000;width:36.3371%;">Consommation</td>
+<td style="background-color:#FF0000;border-width:1px;padding:3px;border-color:#000000;width:31.0507%;">AUGMENTE</td>
+<td style="background-color:#FFFF00;border-width:1px;padding:3px;border-color:#000000;width:32.4501%;">DIMINUE</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p class="s48">Certains planeurs sont pourvus de réservoirs d’eau (water-ballast) qui permettent de déplacer le centre de gravité en cours de vol.</p>
+<p class="s48"><strong>NB</strong> : Les avions de chasse sont instables pour être plus maniables, mais les commandes de vol électriques corrigent en temps réel (vous le faites aussi inconsciemment sur votre vélo qui est instable en roulis).</p>
+<p></p>
+<div style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h2>Cap sur l'environnement</h2>
+<div>
+<div style="min-width:250px;">
+<p>Le centrage d’un avion et sa consommation de carburant sont étroitement liés. La réduction de consommation est souvent faite de compromis, comme nous l’expliquons ci-dessous :</p>
+</div>
+</div>
+</div>
+<p></p>
+<p>Plus le centre de gravité est situé vers <strong>l’avant </strong>de l’appareil, plus le bras de levier sera important, et <strong>plus la traînée générée par la gouverne de profondeur sera importante</strong>. En conséquence, <strong>la consommation de carburant est élevée</strong>.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_204.jpg" alt="image" width="305" height="192" /></p>
+<p class="s22">Figure 1.41.</p>
+<p>A l’inverse, plus le centre de gravité est situé vers <strong>l’arrière </strong>de l’appareil, plus le bras de levier sera faible, et <strong>plus la traînée générée par la gouverne de profondeur sera réduite</strong>. En conséquence, <strong>la consommation de carburant est basse.</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_205.jpg" alt="image" width="302" height="188" /></p>
+<p class="s22">Figure 1.42.</p>
+<p class="s4"><strong>Ainsi, on a tout intérêt à optimiser le chargement de l’avion afin d’obtenir un centrage le plus arrière possible – en restant bien-sûr dans la plage de centrage autorisée afin de respecter les conditions de stabilité de l’appareil.</strong></p>
+<p></p>
+<h5 class="s78">3. Assiette, pente, incidence</h5>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_207.png" alt="image" width="572" height="221" /></p>
+<p class="s22">Figure 1.43.</p>
+<p></p>
+<p class="s9" style="text-align:center;"><strong>assiette = pente + incidence</strong></p>
+<p>L’incidence de l’avion est différente de celle de l’aile du fait du calage non nul de cette dernière.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_208.jpg" alt="image" width="397" height="298" /></p>
+<p class="s22">Figure 1.44.</p>
+<p class="s48">L’objectif est de voler en croisière avec une assiette presque nulle (pour le confort des passagers et du personnel navigant mais aussi pour minimiser la trainée du fuselage) et d’avoir une portance non nulle au décollage (car l’assiette est nulle).</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Relation assiette pente incidence</strong></p>
+<p></p>
+</div>
+<p></p>
+<h4 class="s18"><a></a>B. ‌L’Axe de Roulis</h4>
+<p></p>
+<p style="text-align:center;">Déplacement du manche de droite à gauche.</p>
+<p><strong>1. Les ailerons </strong></p>
+<p class="s28" style="text-align:center;"></p>
+<p style="text-align:center;"></p>
+<p style="text-align:center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_209.png" alt="image" width="515" height="205" /></p>
+<p class="s22" style="text-align:center;">Figure 1.45.</p>
+<p></p>
+<p>Pousser le manche à gauche fait monter l’aileron gauche vers le haut etl’aileron droit vers le bas. Alors la portance de l’aile gauche diminue et la portance de l’aile droite augmente.</p>
+<p class="s8"><strong>-&gt; Ceci provoque une inclinaison de l’avion vers la gauche.</strong></p>
+<p></p>
+<p style="font-weight:bold;"><strong>2. Le lacet inverse</strong></p>
+<p>La portance de l’aile montante augmente donc sa trainée également, ce qui provoque une rotation autour de l’axe de lacet : le nez de l’appareil part à l’extérieur du virage.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_210.jpg" alt="image" width="289" height="217" /></p>
+<p><span class="s22">Figure 1.46.</span></p>
+<p></p>
+<p class="s83"><strong>NB</strong> : Cet effet peut être annulé avec un braquage dissymétrique des ailerons ou en utilisant les spoilers comme gouverne de gauchissement.</p>
+<p></p>
+<p style="font-weight:bold;"><strong>3. Stabilité</strong></p>
+<p>Un avion est stable en roulis si sous l’effet d’une perturbation (une rafale de vent latérale par exemple), cela génère un moment de roulis dans le sens opposé à la perturbation.</p>
+<h5 class="s4" style="text-align:center;">La stabilité en roulis <span class="p">dépend des facteurs suivants <br /></span></h5>
+<p class="s4"><strong>La flèche de la voilure</strong></p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_212.jpg" alt="image" width="208" height="167" /></p>
+<p class="s22">Figure 1.47.</p>
+<p>En cas de vent latéral venant de la droite, l’aile droite verra une composante perpendiculaire au bord d’attaque plus important que l’aile gauche et portera plus, d’où un mouvement de roulis vers la gauche.</p>
+<p></p>
+<p class="s4"><strong>Le dièdre de la voilure</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_213.jpg" alt="image" width="457" height="125" /></p>
+<p class="s22">Figure 1.48.</p>
+<p>Un vent venant de la droite aura tendance à soulever l’aile droite.</p>
+<p class="s4"><strong>La position de l’aile par rapport au fuselage</strong></p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_214.jpg" alt="image" width="672" height="115" /></p>
+<p class="s22">Figure 1.49.</p>
+<p></p>
+<p>C’est l’effet masque du fuselage qui génère une surpression du côté du vent. Le roulis engendré dépend de la position de l’aile.</p>
+<p>Si la stabilité en roulis est trop importante, l’avion réagira trop lentement aux commandes. En général on associe la forme, la position et le dièdre de la manière suivante :</p>
+<table style="border-collapse:collapse;border-spacing:1px;background-color:#ecf0f1;border-color:#000000;border-style:solid;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding:3px;border-color:#000000;" bgcolor="#4E67C6">
+<p class="s84"><strong>Type d’aile</strong></p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#4E67C6">
+<p class="s84"><strong>Position</strong></p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#4E67C6">
+<p class="s84"><strong>Dièdre</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">Droite</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">Haute</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">Environ nul</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">Droite</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">Basse</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">Positif</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">En flèche</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">Basse</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#D0D2EB">
+<p class="s55">Faiblement positif</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">En flèche</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">Haute</p>
+</td>
+<td style="padding:3px;border-color:#000000;" bgcolor="#E9EBF5">
+<p class="s55">Fortement négatif</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4 class="s18"><a></a>C. ‌L’axe de Lacet</h4>
+<p class="s28">Manœuvre des palonniers (pédales).</p>
+<p></p>
+<h5>1. Les palonniers</h5>
+<p></p>
+<ul>
+<li>En appuyant sur le palonnier côté gauche, la gouverne de direction part vers la gauche.</li>
+<li>En appuyant le palonnier côté droite, la gouverne de direction part vers la droite.</li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_215.png" alt="image" width="604" height="175" /></p>
+<p></p>
+<p class="s22">Figure 1.50.</p>
+<p class="s22"></p>
+<p>-&gt; Cette action crée alors des forces aérodynamiques permettant de <strong>faire tourner l'avion autour de l'axe de Lacet.</strong></p>
+<p></p>
+<p class="s48"><strong>NB </strong>: On ne peut pas sur un avion effectuer un virage à plat comme sur une automobile (du moins pas sur une durée et dans un espace raisonnable). Les forces aérodynamiques latérales sont trop faibles sur un avion moderne, 15% de la portance au plus). Il faut donc mettre du manche à droite ou à gauche et ainsi incliner la portance, créant une force latérale suffisante.</p>
+<p>Lors du virage, il est nécessaire de <u>« mettre du pied »</u> du côté où l’on tourne afin de compenser le lacet inverse.</p>
+<p>Donc :</p>
+<ul>
+<li><strong>Virage à droite </strong>= Manche + Palonnier à droite</li>
+<li><strong>Virage à gauche </strong>= Manche + Palonnier à gauche</li>
+</ul>
+<p></p>
+<p>En parallèle, il faut mettre un peu plus d’incidence pour compenser l’inclinaison de la portance et un peu plus de poussée pour compenser l’augmentation résultante de la traînée.</p>
+<p></p>
+<p class="s25"><strong>NB1</strong> A vitesse donnée, le rayon du virage diminue lorsque l’inclinaison augmente.</p>
+<p class="s25"><strong>NB2 </strong>A inclinaison donnée, le rayon du virage augmente avec le carré de la vitesse</p>
+<p></p>
+<h5>2. Le lacet induit</h5>
+<p></p>
+<p>Quand l’avion vire à gauche, l’aile droite parcours un plus grand chemin et va plus vite. Elle porte donc davantage et ceci incline l’avion vers la gauche.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_216.jpg" alt="image" width="200" height="184" /></p>
+<p class="s22">Figure 1.51.</p>
+<p class="s78"></p>
+<h5>3. Dérapage et stabilité</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_217.png" alt="image" width="194" height="244" /></p>
+<p>Figure 1.52.</p>
+<p>En cas de vent latéral en particulier, l’axe de l’avion n’est plus aligné avec la trajectoire. L’angle ainsi formé s’appelle <strong>l’angle de dérapage </strong>ou dérapage tout court. La traînée augmente fortement avec le dérapage.</p>
+<p>La stabilité en lacet est assurée par la présence de la dérive, ou empennage vertical à l’arrière de l’appareil : <strong>c’est l’effet girouette</strong>. Le vent venant de la gauche sur la figure ci- dessus génère un effort latéral vers la droite qui remet l’axe de l’avion dans la direction du vent.</p>
+<h5>4. Les Gouvernes secondaires (Becs/Volets)</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/266/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-06-02%2022-01-06.png" alt="volets" width="593" height="391" /></p>
+<p>Ils permettent de voler à basse vitesse lors du décollage et de l’atterrissage en augmentant le coefficient de portance Cz et également le coefficient de trainée Cx. Cela retarde alors le décrochage en incidence.<br />La diminution de vitesse est compensée par une augmentation de la surface alaire et/ou une augmentation du Cz (volet) ou un retard au décrochage (becs).<br /><br /></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/266/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-06-02%2022-01-24.png" alt="profil d'une aile" width="810" height="511" /></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Étude du vol stabilisé en ligne droite, le planeur et le vol plané</strong></p>
+<p></p>
+</div>
+<p></p>";

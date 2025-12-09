@@ -27,8 +27,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['anonymous'] = 'Anonyme';
 $string['anonymous_help'] = 'Avec cette option, les utilisateurs sont anonymes dans Amanote et aucune authentification n’est requise. Cependant, les fonctionnalités de collaboration et de podcast ne seront plus disponibles. Enfin, pour activer cette fonctionnalité vous devez activer la sauvegarde dans les fichiers privés et ajouter une clé d’activation.';
-$string['autosaveperiod'] = 'Intervalle d’enregistrement automatique';
-$string['autosaveperiod_help'] = 'Configurez le délai en minutes entre les sauvegardes automatiques (min. : 1, max. : 30). Régler la période sur 0 signifie qu’il n’y a pas d’enregistrement automatique.';
 $string['downloadnotes'] = 'Télécharger le fichier annoté';
 $string['filtername'] = 'Amanote';
 $string['importantinformationdescription'] = 'Pour que le module fonctionne correctement, veuillez vérifier que les conditions suivantes sont remplies sur votre site Moodle :
@@ -46,7 +44,6 @@ $string['importantinformationheading'] = 'Information importante concernant l’
 $string['key'] = 'Clé d’activation';
 $string['key_help'] = 'Cette clé est requise pour les fonctionnalités avancées telles que Podcast Creator.';
 $string['openanalytics'] = 'Ouvrir Learning Analytics';
-$string['openinamanote'] = 'Ouvrir dans Amanote';
 $string['openpodcast'] = 'Ouvrir Podcast Creator';
 $string['openstudentsworks'] = 'Ouvrir les travaux des étudiants';
 $string['pluginadministration'] = 'Administration du module Amanote';

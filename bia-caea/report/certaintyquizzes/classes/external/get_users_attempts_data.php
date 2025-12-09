@@ -16,6 +16,11 @@
 
 namespace report_certaintyquizzes\external;
 
+use core_external\external_api;
+use core_external\external_description;
+use core_external\external_function_parameters;
+use core_external\external_multiple_structure;
+use core_external\external_value;
 use report_certaintyquizzes\locallib;
 
 /**
@@ -24,19 +29,17 @@ use report_certaintyquizzes\locallib;
  * @copyright  2025 Astor Bizard, 2024 Loic Delon
  * @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
-class get_users_attempts_data extends \external_api {
-
+class get_users_attempts_data extends external_api {
     /**
      * Parameters for execute().
-     * @return \external_function_parameters
+     * @return external_function_parameters
      */
     public static function execute_parameters() {
-        return new \external_function_parameters([
-                'courseid' => new \external_value(PARAM_INT, 'Course ID'),
-                'quizid' => new \external_value(PARAM_INT, 'Quiz ID in quiz table'),
-                'attempttype' => new \external_value(PARAM_TEXT, 'Attempt type (one of latest, first or best)'),
-                'userids' => new \external_multiple_structure(new \external_value(PARAM_INT, 'User ID'), 'User IDs'),
-                'sortcolumn' => new \external_value(PARAM_TEXT, 'Sort column for result (one of grade or lucidityindex)'),
+        return new external_function_parameters([
+                'courseid' => new external_value(PARAM_INT, 'Course ID'),
+                'quizid' => new external_value(PARAM_INT, 'Quiz ID in quiz table'),
+                'attemptids' => new external_multiple_structure(new external_value(PARAM_INT, 'Attempt ID'), 'Attempt IDs'),
+                'sortcolumn' => new external_value(PARAM_TEXT, 'Sort column for result (one of grade or lucidityindex)'),
         ]);
     }
 
@@ -44,28 +47,29 @@ class get_users_attempts_data extends \external_api {
      * Return attempt data details for given quiz, users and attempt type.
      * @param int $courseid Course ID.
      * @param int $quizid Quiz ID (id in quiz table).
-     * @param string $attempttype Attempt type (one of latest, best, first).
-     * @param array $userids User IDs.
+     * @param array $attemptids Attempt IDs.
      * @param string $sortcolumn Sort column for result (one of grade or lucidityindex).
      */
-    public static function execute($courseid, $quizid, $attempttype, $userids, $sortcolumn) {
-        global $CFG;
+    public static function execute($courseid, $quizid, $attemptids, $sortcolumn) {
+        global $CFG, $DB;
         require_once($CFG->dirroot . '/question/engine/lib.php');
         require_once($CFG->libdir . '/graphlib.php');
 
-        list($courseid, $quizid, $attempttype, $userids, $sortcolumn) = array_values(
-                self::validate_parameters(self::execute_parameters(), [
-                        'courseid' => $courseid,
-                        'quizid' => $quizid,
-                        'attempttype' => $attempttype,
-                        'userids' => $userids,
-                        'sortcolumn' => $sortcolumn,
-                ])
-        );
+        [ $courseid, $quizid, $attemptids, $sortcolumn ] = array_values(self::validate_parameters(self::execute_parameters(), [
+                'courseid' => $courseid,
+                'quizid' => $quizid,
+                'attemptids' => $attemptids,
+                'sortcolumn' => $sortcolumn,
+        ]));
         $context = \context_course::instance($courseid);
         self::validate_context($context);
         require_capability('report/certaintyquizzes:view', $context);
         require_capability('mod/quiz:viewreports', $context);
+
+        // Security check to ensure the capabilities we required actually cover the quiz.
+        if ($DB->get_field('quiz', 'course', [ 'id' => $quizid ]) != $courseid) {
+            throw new \invalid_parameter_exception('Invalid quiz id / course id combination.');
+        }
 
         $hasdeclaredignorance = \qbehaviour_certaintywithstudentfbdeferred\locallib::exists_level_of_declared_ignorance();
         $table = new \html_table();
@@ -85,18 +89,28 @@ class get_users_attempts_data extends \external_api {
         ];
         $table->attributes['class'] = 'student-attempts-table';
         $table->responsive = false;
-        foreach (locallib::get_specific_attempt($quizid, $attempttype, $userids) as $userid => $attempt) {
 
+        [ $insql, $params ] = $DB->get_in_or_equal($attemptids, SQL_PARAMS_NAMED);
+        $sql = "SELECT qa.id, qa.uniqueid, qa.userid, qa.attempt, MAX(qa2.attempt) as total
+                  FROM {quiz_attempts} qa
+                  JOIN (SELECT userid, quiz, attempt
+                         FROM {quiz_attempts}
+                       ) qa2 ON qa2.userid = qa.userid AND qa2.quiz = qa.quiz
+                 WHERE qa.id $insql AND qa.quiz = :quizid
+              GROUP BY qa.id";
+        $params['quizid'] = $quizid;
+        $attempts = $DB->get_records_sql($sql, $params);
+        foreach ($attempts as $attempt) {
+            $userid = $attempt->userid;
             $fullname = fullname(\core_user::get_user($userid, implode(',', \core_user\fields::get_name_fields())));
-            $attemptnum = get_string('attemptxofy', locallib::COMPONENT,
-                    [ 'x' => $attempt->attempt, 'y' => $attempt->totalattempts ]);
+            $attemptnum = get_string('attemptxofy', locallib::COMPONENT, [ 'x' => $attempt->attempt, 'y' => $attempt->total ]);
             $attemptdata = \qbehaviour_certaintywithstudentfbdeferred\locallib::get_lucidity_indicators_for_attempt(
-                    $attempt->uniqueid,
-                    \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_GRADE |
-                    \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_LUCIDITY |
-                    \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_LUCIDITY_LABEL_COLOR |
-                    \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_IGNORANCERATE
-                    );
+                $attempt->uniqueid,
+                \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_GRADE |
+                \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_LUCIDITY |
+                \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_LUCIDITY_LABEL_COLOR |
+                \qbehaviour_certaintywithstudentfbdeferred\locallib::INDICATOR_IGNORANCERATE
+            );
 
             $row = [
                     \html_writer::link(new \moodle_url('/user/profile.php', [ 'id' => $userid, 'course' => $courseid ]), $fullname),
@@ -106,31 +120,43 @@ class get_users_attempts_data extends \external_api {
             ];
 
             if ($hasdeclaredignorance) {
-                $dircircle = \html_writer::span('', 'circle-indicator mr-2',
-                        [ 'style' => '--shape-color:' . $attemptdata->ignorancerateindicatorcolor ]);
+                $dircircle = \html_writer::span(
+                    '',
+                    'circle-indicator mr-2',
+                    [ 'style' => '--shape-color:' . $attemptdata->ignorancerateindicatorcolor ]
+                );
                 $ignoranceratelabel = get_string('dira', locallib::COMPONENT, $attemptdata->declaredignorancerate);
-                $row[] = \html_writer::div($dircircle . $ignoranceratelabel, 'd-flex align-items-center text-nowrap',
-                        [ 'style' => 'text-align:start' ]);
+                $row[] = \html_writer::div($dircircle . $ignoranceratelabel, 'd-flex align-items-center text-nowrap text-left');
             }
 
-            $answerclasscircle = \html_writer::span('', 'circle-indicator mr-2',
-                    [ 'style' => '--shape-color:' . $attemptdata->lucidityindicatorcolor ]);
-            $row[] = \html_writer::div($answerclasscircle . $attemptdata->lucidityindicatorlabel, 'd-flex align-items-center',
-                    [ 'style' => 'text-align:start' ]);
+            $answerclasscircle = \html_writer::span(
+                '',
+                'circle-indicator mr-2',
+                [ 'style' => '--shape-color:' . $attemptdata->lucidityindicatorcolor ]
+            );
+            $row[] = \html_writer::div(
+                $answerclasscircle . $attemptdata->lucidityindicatorlabel,
+                'd-flex align-items-center text-left'
+            );
 
             $table->data[] = $row;
         }
 
         if (in_array($sortcolumn, [ 'grade', 'lucidityindex' ])) {
             $i = $sortcolumn === 'grade' ? 2 : 3;
-            usort($table->data, function($row1, $row2) use ($i) {
+            usort($table->data, function ($row1, $row2) use ($i) {
                 return $row1[$i] - $row2[$i];
             });
         }
 
         return \html_writer::table($table);
     }
+
+    /**
+     * Return types for execute().
+     * @return external_description
+     */
     public static function execute_returns() {
-        return new \external_value(PARAM_RAW, 'HTML fragment of attempts data table');
+        return new external_value(PARAM_RAW, 'HTML fragment of attempts data table');
     }
 }

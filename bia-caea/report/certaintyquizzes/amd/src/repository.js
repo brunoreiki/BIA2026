@@ -22,25 +22,23 @@
 import Ajax from 'core/ajax';
 
 export default {
-    getQuestionData: function(courseid, quizid, questionid, attempttype) {
+    getQuestionData: function(courseid, questionid, usageids) {
         return Ajax.call([{
             methodname: 'report_certaintyquizzes_get_question_data',
             args: {
                 courseid,
-                quizid,
                 questionid,
-                attempttype,
+                usageids,
             },
         }])[0];
     },
-    getUsersAttemptsData: function(courseid, quizid, attempttype, userids, sortcolumn) {
+    getUsersAttemptsData: function(courseid, quizid, attemptids, sortcolumn) {
         return Ajax.call([{
             methodname: 'report_certaintyquizzes_get_users_attempts_data',
             args: {
                 courseid,
                 quizid,
-                attempttype,
-                userids,
+                attemptids,
                 sortcolumn,
             },
         }])[0];

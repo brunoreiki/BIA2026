@@ -1,0 +1,12 @@
+operation,enrolmentmethod,course,customint1,roleid,enable
+add,cohort,AES,12,5,1
+add,cohort,AMV,12,5,1
+add,cohort,ANG,12,5,1
+add,cohort,Avions,12,5,1
+add,cohort,BIA-1,12,5,1
+add,cohort,CAEA,12,5,1
+add,cohort,HCA,12,5,1
+add,cohort,MA,12,5,1
+add,cohort,Math,12,5,1
+add,cohort,NRS,12,5,1
+add,cohort,REV,12,5,1

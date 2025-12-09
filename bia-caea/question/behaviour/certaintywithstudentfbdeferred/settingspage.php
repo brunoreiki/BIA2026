@@ -59,8 +59,7 @@ if (($fromform = $form->get_data()) !== null) {
     redirect(new moodle_url('/admin/search.php'));
     die();
 } else if ($form->is_submitted() && !$form->is_validated()) {
-    \core\notification::add(get_string('settingsformerrors', locallib::COMPONENT),
-            \core\output\notification::NOTIFY_ERROR);
+    \core\notification::add(get_string('settingsformerrors', locallib::COMPONENT), \core\output\notification::NOTIFY_ERROR);
 }
 
 // Form is not to be processed right now, display the page.

@@ -76,12 +76,19 @@ class qbehaviour_certaintywithstudentfbdeferred_renderer extends qbehaviour_stud
      */
     protected function behaviour_feedback(question_attempt $qa, question_display_options $options) {
         $feedback = '';
-        if ($options->correctness == question_display_options::VISIBLE) {
+        if ($options->correctness == question_display_options::VISIBLE && $qa->get_state()->is_graded()) {
             // Display a sentence describing the category of the answer (given correctness and certainty).
             $subcategory = answersubcategory::subcategorize_answer($qa);
             if ($subcategory !== null) {
-                $feedback .= html_writer::div('', 'chip', [ 'style' => 'background-color:' . $subcategory->color ]);
+                $feedback .= html_writer::div(
+                    '',
+                    'qbehaviour_certaintywithstudentfbdeferred-answerclasschip',
+                    [ 'style' => 'background-color:' . $subcategory->color, 'role' => 'presentation' ]
+                );
                 $feedback .= $subcategory->detailedlabel;
+            } else {
+                $feedback .= $this->output->image_icon('i/warning', get_string('warning'));
+                $feedback .= html_writer::span(get_string('nocertaintyprovided', locallib::COMPONENT));
             }
         }
         return $feedback;
@@ -99,7 +106,7 @@ class qbehaviour_certaintywithstudentfbdeferred_renderer extends qbehaviour_stud
 
         // Add student feedback field if needed.
         $subcategory = answersubcategory::subcategorize_answer($qa);
-        if ($subcategory !== null && $subcategory->answerclass->feedbackfield) {
+        if ($subcategory === null || $subcategory->answerclass->feedbackfield) {
             $feedback .= $this->student_feedback($qa, $options);
         }
 

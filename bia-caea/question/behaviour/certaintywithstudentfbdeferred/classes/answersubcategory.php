@@ -25,7 +25,6 @@ use question_attempt;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class answersubcategory {
-
     /**
      * @var number Index of this subcategory in the array of all subcategories
      */
@@ -78,11 +77,11 @@ class answersubcategory {
                 if ($certaintylevel->category === certaintylevel::CATEGORYRANDOM) {
                     // Declared ignorance.
                     $categoriesbycorrectness['neutral'][] = new answersubcategory(
-                            0,
-                            get_string('declaredignorance_details', locallib::COMPONENT),
-                            answerclass::get_classes()[2],
-                            $certaintylevel
-                            );
+                        0,
+                        get_string('declaredignorance_details', locallib::COMPONENT),
+                        answerclass::get_classes()[2],
+                        $certaintylevel
+                    );
                 } else {
                     foreach ([ 0 => 'incorrect', 1 => 'correct' ] as $iscorrect => $cat) {
                         $correctness = '<b class="text-' . ($iscorrect ? 'success' : 'danger') . '">' .
@@ -100,19 +99,19 @@ class answersubcategory {
                         }
                         $answerclass = answerclass::get_classes()[$classid];
                         $categoriesbycorrectness[$cat][] = new answersubcategory(
-                                0,
-                                get_string($answerclass->name . '_details', locallib::COMPONENT, $details),
-                                $answerclass,
-                                $certaintylevel
-                                );
+                            0,
+                            get_string($answerclass->name . '_details', locallib::COMPONENT, $details),
+                            $answerclass,
+                            $certaintylevel
+                        );
                     }
                 }
             }
             $subcategories = array_merge(
-                    array_reverse($categoriesbycorrectness['incorrect']),
-                    $categoriesbycorrectness['neutral'],
-                    $categoriesbycorrectness['correct']
-                    );
+                array_reverse($categoriesbycorrectness['incorrect']),
+                $categoriesbycorrectness['neutral'],
+                $categoriesbycorrectness['correct']
+            );
             foreach ($subcategories as $i => &$subcategory) {
                 $subcategory->index = $i;
             }
@@ -134,5 +133,4 @@ class answersubcategory {
         $offset = locallib::exists_level_of_declared_ignorance() || !$iscorrect ? -1 : 0;
         return static::get_subcategories()[count(certaintylevel::get_levels()) + $offset + ($iscorrect ? 1 : -1) * $certainty];
     }
-
 }

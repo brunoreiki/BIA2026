@@ -32,7 +32,7 @@ $functions = [
                 'capabilities' => 'report/certaintyquizzes:view,mod/quiz:viewreports',
                 'services' => [
                         MOODLE_OFFICIAL_MOBILE_SERVICE,
-                ]
+                ],
         ],
         'report_certaintyquizzes_get_users_attempts_data' => [
                 'classname'    => 'report_certaintyquizzes\external\get_users_attempts_data',
@@ -42,6 +42,6 @@ $functions = [
                 'capabilities' => 'report/certaintyquizzes:view,mod/quiz:viewreports',
                 'services' => [
                         MOODLE_OFFICIAL_MOBILE_SERVICE,
-                ]
+                ],
         ],
 ];

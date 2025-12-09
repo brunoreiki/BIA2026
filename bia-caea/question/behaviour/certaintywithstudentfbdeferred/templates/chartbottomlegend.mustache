@@ -50,19 +50,19 @@
             {
                 "display": true,
                 "spacepercentage": 27,
-                "name": "Unexpected error",
+                "name": "Unexpected errors",
                 "numanswers": 10
             },
             {
                 "display": true,
                 "spacepercentage": 18,
-                "name": "Alleged error",
+                "name": "Alleged errors",
                 "numanswers": 16
             },
             {
                 "display": true,
                 "spacepercentage": 9,
-                "name": "Declared ignorance",
+                "name": "Random answers",
                 "numanswers": 5
             },
             {
@@ -80,28 +80,19 @@
         ]
     }
 }}
-<div class="chart-legend chart-bottom-legend">
-    <div style="font-size: .7em;">
+<div class="text-center pl-6">
+    <div class="d-flex small">
         {{# answercategoriespercentages}}
         <span style="flex-basis: 100%;">
              ({{{.}}})
         </span>
         {{/ answercategoriespercentages}}
     </div>
-    <div>
+    <div class="d-flex justify-content-around">
         {{# answerclasses}}
         {{# display}}
         <span style="flex-basis: {{spacepercentage}}%;">
-            {{# numanswers}}
-            <span style="flex-basis: {{spacepercentage}}%;">
-                <span class="numanswers">{{numanswers}}</span> {{name}}
-            </span>
-            {{/ numanswers}}
-            {{^ numanswers}}
-            <span style="flex-basis: {{spacepercentage}}%;">
-                {{name}}
-            </span>
-            {{/ numanswers}}
+            {{# numanswers}}<span class="numanswers">{{.}}</span> {{/ numanswers}}{{name}}
         </span>
         {{/ display}}
         {{/ answerclasses}}

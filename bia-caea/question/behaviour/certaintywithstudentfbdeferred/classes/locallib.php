@@ -23,7 +23,6 @@ namespace qbehaviour_certaintywithstudentfbdeferred;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class locallib {
-
     /**
      * @var string Frankenstyle name of this plugin
      */
@@ -73,6 +72,7 @@ class locallib {
         $attemptdata = new \stdClass();
         $ncategories = count(answersubcategory::get_subcategories());
         $rightcertaintysum = 0;
+        $rightcertaintygap = 0;
         $wrongcertaintysum = 0;
         $attemptdata->subcategorysizes = array_fill(0, $ncategories, 0);
         $hasunexpectederror = false;
@@ -80,13 +80,23 @@ class locallib {
         $attemptdata->nright = 0;
         $attemptdata->nwrong = 0;
         $attemptdata->nrandom = 0;
+        $attemptdata->nnotanswered = 0;
+        $attemptdata->nnocertainty = 0;
         if ($flags & (~ static::INDICATOR_GRADE)) { // Anything more than grade.
             foreach ($quba->get_attempt_iterator() as $qa) {
+                if (!$qa->get_state()->is_finished() || $qa->get_state()->is_gave_up()) {
+                    $attemptdata->nnotanswered++;
+                    continue;
+                }
+                if (!$qa->get_state()->is_graded()) {
+                    // Finished but not yet graded - skip.
+                    continue;
+                }
                 $subcategory = answersubcategory::subcategorize_answer($qa);
                 if ($subcategory !== null) {
-                    $attemptdata->subcategorysizes[$subcategory->index] ++;
+                    $attemptdata->subcategorysizes[$subcategory->index]++;
                     if ($subcategory->answerclass->correctness === 'incorrect') {
-                        $attemptdata->nwrong ++;
+                        $attemptdata->nwrong++;
                         if ($flags & (static::INDICATOR_IMPRUDENCE | static::INDICATOR_LUCIDITY)) {
                             $matches = null;
                             if (preg_match('/([0-9.,]+)\s*%/', $subcategory->certaintylevel->percentage, $matches)) {
@@ -95,17 +105,20 @@ class locallib {
                         }
                         $hasunexpectederror = $hasunexpectederror || $subcategory->answerclass->name === 'unexpectederror';
                     } else if ($subcategory->answerclass->correctness === 'correct') {
-                        $attemptdata->nright ++;
+                        $attemptdata->nright++;
                         if ($flags & (static::INDICATOR_CONFIDENCE | static::INDICATOR_LUCIDITY)) {
                             $matches = null;
                             if (preg_match('/([0-9.,]+)\s*%/', $subcategory->certaintylevel->percentage, $matches)) {
                                 $rightcertaintysum += (float) $matches[1];
+                                $rightcertaintygap += 100.0 - ((float) $matches[1]);
                             }
                         }
                         $hasunsureknowledge = $hasunsureknowledge || $subcategory->answerclass->name !== 'sureknowledge';
                     } else {
-                        $attemptdata->nrandom ++;
+                        $attemptdata->nrandom++;
                     }
+                } else {
+                    $attemptdata->nnocertainty++;
                 }
             }
         }
@@ -127,8 +140,8 @@ class locallib {
         }
         if ($flags & static::INDICATOR_LUCIDITY) {
             if ($attemptdata->nright > 0 || $attemptdata->nwrong > 0) {
-                $nrelevantanswers = $attemptdata->nright + $attemptdata->nwrong;
-                $attemptdata->lucidityindex = round(($rightcertaintysum - $wrongcertaintysum) / $nrelevantanswers, 2);
+                $meangap = ($rightcertaintygap + $wrongcertaintysum) / ($attemptdata->nright + $attemptdata->nwrong);
+                $attemptdata->lucidityindex = round(100.0 - $meangap, 2);
             } else if ($attemptdata->nrandom > 0) {
                 $attemptdata->lucidityindex = 0;
             } else {
@@ -218,5 +231,4 @@ class locallib {
                 'role' => static::COMPONENT . '_' . $identifier,
         ]);
     }
-
 }

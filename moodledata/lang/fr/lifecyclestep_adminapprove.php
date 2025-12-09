@@ -44,7 +44,6 @@ $string['proceed'] = 'Procéder';
 $string['proceedall'] = 'Procéder pour tous';
 $string['proceedselected'] = 'Procéder pour les sélectionnés';
 $string['rollback'] = 'Revenir en arrière';
-$string['rollbackall'] = 'Revenir en arrière pour tous';
 $string['rollbackselected'] = 'Revenir en arrière pour les sélectionnés';
 $string['statusmessage'] = 'Message d\'état';
 $string['statusmessage_help'] = 'Message d’état, qui est affiché à un enseignant, si un processus d’un cours est à cette étape d’approbation par l’administrateur.';

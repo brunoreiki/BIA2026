@@ -47,7 +47,7 @@ define(['core/chartjs', 'qbehaviour_certaintywithstudentfbdeferred/charts_utilit
     }
 
     return {
-        postprocessing: function(shapes, hasDeclaredIgnorance) {
+        postprocessing: function(shapes, hasDeclaredIgnorance, hasExpectedTrend) {
 
             ChartJS.defaults.font.size = 15;
 
@@ -61,17 +61,19 @@ define(['core/chartjs', 'qbehaviour_certaintywithstudentfbdeferred/charts_utilit
                 chart.options.elements.point.hoverRadius = 0;
                 chart.update();
 
-                var postProcessThisAttemptChartTable = function() {
-                    var table = document.querySelector('[data-role="' + component + '_this-attempt-chart"] .chart-table table');
-                    if (table === null) {
-                        setTimeout(postProcessThisAttemptChartTable, 200);
-                    } else {
-                        // Remove expected trend data from table as it is misleading when reading
-                        // (it has long, irrelevant, decimal data values, as the only relevant information is the general shape).
-                        table.querySelectorAll('tr > *:nth-child(n+2):nth-child(-n+3)').forEach(e => e.remove());
-                    }
-                };
-                postProcessThisAttemptChartTable();
+                if (hasExpectedTrend) {
+                    var postProcessThisAttemptChartTable = function() {
+                        var table = document.querySelector('[data-role="' + component + '_this-attempt-chart"] .chart-table table');
+                        if (table === null) {
+                            setTimeout(postProcessThisAttemptChartTable, 200);
+                        } else {
+                            // Remove expected trend data from table as it is misleading when reading
+                            // (it has long, irrelevant, decimal values, and the only relevant information is the general shape).
+                            table.querySelectorAll('tr > *:nth-child(n+2):nth-child(-n+3)').forEach(e => e.remove());
+                        }
+                    };
+                    postProcessThisAttemptChartTable();
+                }
             });
 
             // Count shapes to get number of attempts. This is strange but works and it is fine.
@@ -108,8 +110,8 @@ define(['core/chartjs', 'qbehaviour_certaintywithstudentfbdeferred/charts_utilit
                 chart.options.plugins.tooltip.callbacks.title = function(context) {
                     return M.util.get_string('attempt', 'mod_quiz', context[0].dataIndex + 1);
                 };
-                chart.options.plugins.tooltip.callbacks.afterBody = function(context) {
-                    return makeTooltipInfo(context[0].dataIndex);
+                chart.options.plugins.tooltip.callbacks.afterLabel = function(context) {
+                    return makeTooltipInfo(context.dataIndex);
                 };
                 chart.options.plugins.tooltip.callbacks.footer = function() {
                     return M.util.get_string('clickfordetails', component);
@@ -211,7 +213,7 @@ define(['core/chartjs', 'qbehaviour_certaintywithstudentfbdeferred/charts_utilit
                     mainDataset: lucidityChart.data.datasets[0],
                 };
 
-                formatAttemptsProgressChart(lucidityChart, -100, 100, 10);
+                formatAttemptsProgressChart(lucidityChart, 0, 100, 10);
 
                 var labelsDataset = lucidityChart.data.datasets[1];
                 labelsDataset.hidden = true;

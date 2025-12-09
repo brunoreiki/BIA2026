@@ -23,10 +23,13 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2025062503;
-$plugin->requires  = 2022112800; // Moodle 4.1.
+$plugin->version   = 2025100701;
+$plugin->requires  = 2023042400; // Moodle 4.2.
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->release   = '1.0';
+$plugin->release   = '1.1 for Moodle 4.2+';
 $plugin->component = 'report_certaintyquizzes';
 
-$plugin->dependencies = [ 'qbehaviour_certaintywithstudentfbdeferred' => 2025062500 ];
+$plugin->dependencies = [
+        'mod_quiz' => ANY_VERSION,
+        'qbehaviour_certaintywithstudentfbdeferred' => 2025092200,
+];

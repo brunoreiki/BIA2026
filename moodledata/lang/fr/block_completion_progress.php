@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['completed_colour'] = '#73A839';
+$string['completed_colour'] = '#6A9C35';
 $string['completed_colour_descr'] = 'Code couleur pour les éléments terminés';
 $string['completed_colour_title'] = 'Couleur des activités terminées';
 $string['completion_not_enabled'] = 'Le suivi d’achèvement est désactivé sur ce site.';

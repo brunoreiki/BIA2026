@@ -23,7 +23,6 @@ namespace qbehaviour_certaintywithstudentfbdeferred;
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 class answerclass {
-
     /**
      * @var string Name of the class ('unexpectederror', 'allegederror', 'declaredignorance', 'unsureknowledge', or 'sureknowledge')
      */
@@ -83,25 +82,25 @@ class answerclass {
             $pluginconfig = get_config(locallib::COMPONENT);
             foreach ([ 'unexpectederror', 'allegederror', 'declaredignorance', 'unsureknowledge', 'sureknowledge' ] as $name) {
                 $classes[] = new answerclass(
-                        $name,
-                        get_string($name, locallib::COMPONENT),
-                        null, // We set correctness just below.
-                        $pluginconfig->{$name . 'color'} ?? settingsform::COLORDEFAULTS[$name],
-                        $pluginconfig->{$name . 'enablefb'} ?? 1,
-                        0 // We set the number of subcategories just below.
-                        );
+                    $name,
+                    get_string($name, locallib::COMPONENT),
+                    null, // We set correctness just below.
+                    $pluginconfig->{$name . 'color'} ?? settingsform::COLORDEFAULTS[$name],
+                    $pluginconfig->{$name . 'enablefb'} ?? 1,
+                    0 // We set the number of subcategories just below.
+                );
             }
             $classes[0]->correctness = $classes[1]->correctness = 'incorrect';
             $classes[3]->correctness = $classes[4]->correctness = 'correct';
             foreach (certaintylevel::get_levels() as $certaintylevel) {
                 if ($certaintylevel->category === certaintylevel::CATEGORYRANDOM) {
-                    $classes[2]->nsubcategories ++;
+                    $classes[2]->nsubcategories++;
                 } else if ($certaintylevel->category === certaintylevel::CATEGORYUNSURE) {
-                    $classes[1]->nsubcategories ++;
-                    $classes[3]->nsubcategories ++;
+                    $classes[1]->nsubcategories++;
+                    $classes[3]->nsubcategories++;
                 } else if ($certaintylevel->category === certaintylevel::CATEGORYSURE) {
-                    $classes[0]->nsubcategories ++;
-                    $classes[4]->nsubcategories ++;
+                    $classes[0]->nsubcategories++;
+                    $classes[4]->nsubcategories++;
                 }
             }
             if (!locallib::exists_level_of_declared_ignorance()) {
@@ -110,5 +109,4 @@ class answerclass {
         }
         return $classes;
     }
-
 }

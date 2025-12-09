@@ -31,7 +31,7 @@ $quizid = required_param('quizid', PARAM_INT);
 $attempttype = required_param('attempttype', PARAM_RAW);
 $userid = required_param('userid', PARAM_INT);
 
-$attempt = locallib::get_specific_attempt($quizid, $attempttype, $userid)[$userid];
-redirect(new moodle_url('/mod/quiz/review.php', [ 'attempt' => $attempt->id ]));
+$attempts = locallib::get_specific_attempts($quizid, $attempttype, $userid);
+redirect(new moodle_url('/mod/quiz/review.php', [ 'attempt' => reset($attempts)->id ]));
 
 die();

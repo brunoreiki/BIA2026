@@ -82,20 +82,20 @@
     {{# str}} whatisyourcertaintylevel, qbehaviour_certaintywithstudentfbdeferred {{/ str}}
     {{# addprompt}}<span class="validationerror">{{# str}} pleaseselectcertainty, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</span>{{/ addprompt}}
 </div>
-<table class="certainty">
+<table class="qbehaviour_certaintywithstudentfbdeferred-certaintytable">
     <thead>
         <tr>
         {{# certaintylevels}}
-            <th><label for="{{controlname}}_level{{i}}">{{{name}}}</label></th>
+            <th class="px-1"><label for="{{controlname}}_level{{i}}">{{{name}}}</label></th>
         {{/ certaintylevels}}
         </tr>
     </thead>
     <tbody>
         <tr>
             {{# certaintylevels}}
-            <td>
-                <input id="{{controlname}}_level{{i}}" type=radio name="{{controlname}}" value="{{i}}" {{# readonly}}disabled="disabled"{{/ readonly}} {{# checked}}checked="checked"{{/ checked}}>
-                <label for="{{controlname}}_level{{i}}" {{# readonly}}{{# checked}}class="font-weight-bold"{{/ checked}}{{/ readonly}}>{{{percentage}}}</label>
+            <td class="px-1">
+                <input id="{{controlname}}_level{{i}}" type="radio" name="{{controlname}}" value="{{i}}" {{# readonly}}disabled="disabled"{{/ readonly}} {{# checked}}checked="checked"{{/ checked}}>
+                <label for="{{controlname}}_level{{i}}" class="mx-1 {{# readonly}}{{# checked}}font-weight-bold{{/ checked}}{{/ readonly}}">{{{percentage}}}</label>
             </td>
             {{/ certaintylevels}}
         </tr>

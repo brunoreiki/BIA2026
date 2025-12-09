@@ -1,0 +1,79 @@
+s:6883:"<h3 class="s17"><a></a>3. ‌Caractéristiques d’une voilure</h3>
+<p></p>
+<h4 class="s18"><a></a>A. caractéristiques géométriques</h4>
+<p><strong><br />Envergure</strong> : <span class="p">Distance entre les extrémités des deux ailes, notée </span>2b</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_173.png" alt="image" width="254" height="229" /></p>
+<p class="s22">Figure 1.22.</p>
+<p class="s22"></p>
+<p><strong>Surface alaire :</strong> <span class="p">Surface totale de la voilure, y compris celle qui traverse le fuselage, notée </span>S</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_174.png" alt="image" width="299" height="133" /></p>
+<p class="s22">Figure 1.23.</p>
+<p class="s22"></p>
+<p class="s4"><strong>Allongement</strong> : <span class="p">Grandeur sans unité, notée </span>A</p>
+<p class="s76"><img class="img-fluid" src="https://bia-facile.fr/images/allongement.png" alt="Allongement" width="402" height="107" /></p>
+<p class="s4">A <span class="p">vaut environ :</span></p>
+<ul>
+<li>5 pour un avion de combat</li>
+<li>10 pour un avion de transport</li>
+<li>25 pour un planeur</li>
+</ul>
+<p></p>
+<p class="s78"><strong>Dièdre</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_178.png" alt="image" width="485" height="226" /></p>
+<p></p>
+<p class="s22">Figure 1.24.</p>
+<p class="s22"></p>
+<p class="s78"><strong>Flèche</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_179.png" alt="image" width="263" height="282" /></p>
+<p class="s22">Figure 1.25.</p>
+<p></p>
+<h4 class="s18"><a></a>B. ‌Becs et volets<br /><br /></h4>
+<p>Le décollage et l’atterrissage se font par nécessité à vitesse réduite. Pour conserver une portance suffisante, il est nécessaire d’augmenter Cz (c’est le rôle des <strong>volets</strong>) et de retarder au maximum le décrochage (c’est le rôle des <strong>becs)</strong>. Becs et volets constituent les dispositifs <strong>hypersustentateurs</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_181.png" alt="image" width="475" height="315" /></p>
+<p>Figure 1.26.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_182.png" alt="image" width="572" height="267" /></p>
+<p class="s22">Figure 1.27.</p>
+<p></p>
+<p>A noter que les volets augmentent également la surface alaire.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_183.png" alt="image" width="553" height="183" /></p>
+<p class="s22">Figures 1.28 et 1.29.</p>
+<p></p>
+<p>Les becs permettent de redonner de l’énergie à l’écoulement sur l’extrados et ainsi de repousser l’angle d’incidence du décrochage.</p>
+<p>Les dispositifs hypersustentateurs augmentent la trainée et dégradent la finesse et donc la vitesse de montée. C’est pourquoi on ne braque pas entièrement les volets lors du décollage.</p>
+<div style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h2>Cap sur l'environnement</h2>
+<div>
+<div style="min-width:250px;">
+<p>En fonction des caractéristiques de la piste utilisée et de l’environnement aéroportuaire, les pilotes ont la possibilité lors des phases de décollage et d’atterrissage de diminuer le braquage des volets afin de générer le moins de trainée possible. Les effets sont les suivants :</p>
+<ul>
+<li><strong>Au décollage :</strong> meilleures pentes de montée, donc moins de nuisance sonore et un niveau de croisière atteint plus rapidement</li>
+<li><strong>A l’atterrissage :</strong> moins de trainée, donc moins de consommation de carburant.</li>
+</ul>
+<p class="s4"><strong><span class="s79">-&gt;</span> Un exemple concret : </strong><span class="p">lors de leurs arrivées à Roissy, les pistes étant longues, beaucoup de pilotes utilisent des braquages de volets plus faibles que d’habitude. Sur un Boeing 777, l’utilisation des volets 25 au lieu de 30 permet d’économiser jusqu’à 50 kg de carburant.</span></p>
+<p class="s4"><strong>Attention :</strong> <span class="p">il faut toutefois garder en tête que l’utilisation d’un cran de volet inhabituel entraine un changement d’assiette lors de l’atterrissage. Cela peut être déstabilisant pour un pilote, <strong>surtout </strong></span><strong>s’il n’a pas volé depuis longtemps</strong><span class="p"><strong>. </strong>Ainsi, l’application de cette procédure ne doit se faire que si le pilote s’en sent parfaitement capable compte tenu des conditions du jour (état physique, psychologique, météo…) :<strong> </strong></span><strong>l’économie de carburant ne doit en aucun cas primer sur la sécurité du vol/</strong></p>
+</div>
+</div>
+</div>
+<p></p>
+<h4 class="s18"><a></a>C. ‌Autres dispositifs</h4>
+<p class="s4"><strong>Les Aérofreins </strong><span class="p">sont des panneaux encastrés dans la voilure (ou le fuselage), dont la sortie dans l’écoulement de l’air, permet d’augmenter la traînée.</span></p>
+<p>En vol, ils permettent de <strong>diminuer la vitesse</strong> et <strong>d'augmenter le taux de chute</strong> (en diminuant la finesse).</p>
+<p>Au sol, ils contribuent au freinage afin de <strong>diminuer la longueur de roulage sur la piste.</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_186.png" alt="image" width="302" height="219" /></p>
+<p class="s22">Figure 1.30.</p>
+<p><strong>Les Spoilers </strong>sont des panneaux d’extrados qui sont utilisés symétriquement en fonction <strong>Aérofrein</strong> ou <strong>dissymétriquement en fonction Gauchissement (destruction de la portance sur l’aile intérieure du virage).</strong></p>
+<p></p>
+<div style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h2>Cap sur l'environnement</h2>
+<div>
+<div style="min-width:250px;">
+<p>En ce qui concerne les moyens de freinage de l’avion au sol, il en existe trois types : <strong>freins, aérofreins et « reverses »</strong>. Les reverses consistent à inverser la poussée des moteurs : c’est un moyen de freinage extrêmement efficace mais très coûteux en kérosène. Ainsi, lorsque la longueur de piste le permet, il est possible de n’utiliser que les freins et aérofreins pour ralentir l’avion.</p>
+<p class="s4"><strong>Un exemple concret : </strong><span class="p">sur un Boeing 777, cette opération permet d’économiser </span>jusqu’à 80 kg de kérosène <span class="p">: c’est beaucoup, surtout pour une opération si brève (de l’ordre de la minute).<br /></span></p>
+</div>
+</div>
+</div>
+<p></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_189.png" alt="image" width="581" height="274" /></p>
+<p class="s22" style="text-align:center;">Figure 1.31.</p>
+<p></p>
+<h1><a></a>‌</h1>";

@@ -109,7 +109,6 @@ $string['learnmore'] = 'En savoir plus';
 $string['light'] = 'Clair';
 $string['like'] = 'Aimer';
 $string['logintoreact'] = 'Connectez-vous avant de réagir';
-$string['managepresets'] = 'Gérer les préréglages';
 $string['markcomplete'] = 'Marquer comme achevé';
 $string['messageprovider:mod_pulse'] = 'Envoyer une notification';
 $string['modulename'] = 'Pulse';

@@ -23,10 +23,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 2024112601;
+$plugin->version   = 2025070301;
 $plugin->requires  = 2023042400; // Moodle 4.2.
 $plugin->maturity  = MATURITY_STABLE;
-$plugin->release   = '1.2 for Moodle 4.2+';
+$plugin->release   = '1.3 for Moodle 4.2+';
 $plugin->component = 'qbehaviour_studentfeedbackdeferred';
 
 $plugin->dependencies = [ 'qbehaviour_deferredfeedback' => 2018120300 ];

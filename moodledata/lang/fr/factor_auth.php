@@ -30,6 +30,6 @@ $string['pluginname'] = 'Type d’authentification';
 $string['privacy:metadata'] = 'Le plugin Facteur type d’authentification n’enregistre aucune donnée personnelle';
 $string['settings:description'] = 'Vérifier automatiquement les utilisateurs sur la base de leur type d’authentification.';
 $string['settings:goodauth'] = 'Types de facteur d’authentification';
-$string['settings:goodauth_help'] = 'Sélectionner tous les types d’authentification à utiliser comme facteur pour l’authentification multifacteur. Les types non sélectionnés ne seront pas traités comme des échecs par l’authentification multifacteur.';
+$string['settings:goodauth_help'] = 'Sélectionner tous les types d’authentification qui obtiendront des pointsà partir de ce facteur. Les autres types d’authentification ne seront pas traités comme des échecs par l’authentification multifacteur, mais n’auront pas d’effet sur la pondération des points de ce facteur.';
 $string['settings:shortdescription'] = 'Permettre aux utilisateurs d’outrepasser les étapes d’authentification supplémentaires selon le type de leur authentification.';
 $string['summarycondition'] = 'a un type d’authentification de {$a}';
