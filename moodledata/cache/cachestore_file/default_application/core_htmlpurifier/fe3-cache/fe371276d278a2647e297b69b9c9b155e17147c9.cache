@@ -1,0 +1,31 @@
+s:2395:"<div class="no-overflow"><h3 class="s17"><a></a>2. ‌L’Aérodrome</h3>
+<h4 class="s18"><a></a>‌A. Aérodrome contrôlé / non contrôlé</h4>
+<p>On appelle aérodrome contrôlé, un aérodrome où le service du contrôle de la circulation aérienne est assuré (par la Tour ou TWR). La circulation des aéronefs, au sol et en vol, est soumise à une autorisation délivrée par un contrôleur. En l’absence de TWR, les pilotes font de l’auto-information ou bien il existe un AFIS (Aerodrome Flight Information Service).</p>
+<p>Les paramètres d’information sont :</p>
+<ul>
+<li>La piste en service</li>
+<li>Direction, vitesse du vent à la surface et variations significatives</li>
+<li>Visibilité au sol</li>
+<li>QNH</li>
+<li>QFE</li>
+<li>Heure exacte</li>
+<li>Niveau de transition (niveau où il faut changer de calage altimétrique)</li>
+<li>Plafond</li>
+<li>Température de l’air</li>
+</ul>
+<p></p>
+<p>Un aéronef est considéré comme informé si les paramètres 1 à 5 lui ont été fournis.</p>
+<p class="s18"><a></a>B. ‌Les installations</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_363.jpg" alt="image" width="425" height="281" /></p>
+<ul>
+<li>La vigie (TWR ou AFIS)</li>
+<li>L’aire de trafic : stationnement, avitaillement, entretien</li>
+<li>L’aire de manœuvre : piste(s), taxiway(s)</li>
+<li>La piste de décollage et d’atterrissage est caractérisée par son numéro de piste. Ce numéro (QFU) correspond à son orientation magnétique en dizaine de degrés, arrondis au plus proche. <i>(Ex : une piste orientée au 052 magnétique est numérotée 05).</i></li>
+</ul>
+<p class="s8"><strong>L’aire à signaux</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_364.jpg" alt="image" width="664" height="200" /></p>
+<p>Lorsqu’un avion arrive sur un aérodrome non contrôlé, il survole l’aire à signaux, grand carré qui contient des indications pour les appareils en vol, sous forme de panneaux de signalisation.</p>
+<p><strong>La manche à air qui permet de déterminer la piste en service (décollage et atterrissage face au vent)</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_365.jpg" alt="image" width="320" height="280" /></p>
+<p>On trouve également des parkings, des hangars, des terminaux et des installations de maintenance.</p></div>";

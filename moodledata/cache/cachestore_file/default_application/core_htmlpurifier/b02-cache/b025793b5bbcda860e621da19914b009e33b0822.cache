@@ -1,0 +1,185 @@
+s:13238:"<div class="no-overflow"><h3 class="s17"><a></a>1.‌Les zones aéronautiques</h3>
+<h4 class="s18"><a></a>‌1. VFR (Visual Flight Rules) ou « Vol à vue »</h4>
+<p>Il y a deux types de règles de vol :</p>
+<ul>
+<li>Le <strong>vol VFR </strong>(Visual Flight Rules) lorsque le vol est conduit conformément aux règles de vol à vue.</li>
+<li>Le <strong>vol IFR </strong>(Instrument Flight Rules) lorsque le vol est conduit conformément aux règles de vol aux instruments.</li>
+</ul>
+<p></p>
+<p>Le vol VFR nécessite des conditions météo permettant de conduire son vol en toute sécurité en appliquant la règle fondamentale « Voir et éviter ».</p>
+<p>Ces conditions, dites <strong>VMC</strong> (Visual Meteorological Conditions), dépendent de l’altitude et sont :</p>
+<ul>
+<li>une visibilité minimale.</li>
+<li>une distance minimale par rapport aux nuages.</li>
+</ul>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_347.jpg" alt="image" width="412" height="367" /></p>
+<p class="s22">Figure 4.1.</p>
+<p>Les conditions <strong>VMC</strong> s'opposent aux conditions <strong>IMC</strong> (Instrumental Meteorological Conditions) où le vol doit s'effectuer selon les règles de vol aux instruments ou IFR.</p>
+<table style="border-collapse:collapse;border-spacing:0px;background-color:#ecf0f1;border-color:#000000;border-style:solid;width:100%;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding:3px;border-color:#000000;width:17.0388%;">
+<p class="s51"><strong>Classe d'espace</strong></p>
+</td>
+<td style="padding:3px;border-color:#000000;width:24.4418%;">
+<p class="s51"><strong>Contrôlé</strong></p>
+</td>
+<td style="padding:3px;border-color:#000000;width:27.6146%;">
+<p class="s51"><strong>Non contrôlé</strong></p>
+</td>
+<td style="padding:3px;border-color:#000000;width:30.9048%;">
+<p class="s51"><strong>Non contrôlé</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:17.0388%;">
+<p class="s51">Altitude de vol</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:24.4418%;">
+<p class="s51">toutes altitudes</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:27.6146%;">
+<p class="s51">Au-dessus des 2 plus hautes altitudes 3000 ft AMSL* ou 1000 ft AGL*</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:30.9048%;">
+<p class="s51">Au-dessous des 2 plus hautes altitudes 3000 ft AMSL* ou 1000 ft AGL*</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:17.0388%;">
+<p class="s51">Distance minimale par rapport aux Nuages</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:24.4418%;">
+<p class="s50">1500 m<br />horizontalement<br />300 m <span class="s51">(1000 ft)<br /></span>verticalement</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:27.6146%;">
+<p class="s50">1500 m<br />horizontalement 300 m (1000 ft)<br />verticalement</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:30.9048%;">
+<p class="s50">Hors des Nuages En vue de la Surface</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:17.0388%;">
+<p class="s51">Visibilité minimale en Vol</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:24.4418%;">
+<p class="s50">8km <span class="s51">à et au dessus du FL100 </span>5km <span class="s51">en dessous du FL100</span></p>
+</td>
+<td style="padding:3px;border-color:#000000;width:27.6146%;">
+<p class="s50">8km <span class="s51">à et au dessus du FL100 </span>5km <span class="s51">en dessous du FL100</span></p>
+</td>
+<td style="padding:3px;border-color:#000000;width:30.9048%;">
+<p class="s50">1500m <span class="s51">pour avions et 800m pour hélicoptères ou distance parcourue en 30 secondes de vol</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="s48"></p>
+<p class="s48"><strong>AMSL</strong> = Au-dessus du niveau moyen de la mer (Above Mean Sea Level) AGL = Au-dessus de la surface (Above Ground Level)</p>
+<p class="s48"><strong>AAL</strong> = Au-dessus de l’Aérodrome (Above Aerodrome Level). Il s'agit de la hauteur entre l'avion et le point de référence de l'aérodrome comme s'il était en dessous de la position de l'appareil (même s'il n'y est pas). <strong>Cette hauteur ne suit pas le relief</strong>.</p>
+<h4 class="s18"><a></a>B. ‌Rappel sur les niveaux de vol</h4>
+<p>On utilise plusieurs références pour l’altitude :</p>
+<ul>
+<li>le <strong>QFE</strong> : donne la hauteur par rapport au terrain</li>
+<li>le <strong>QNH</strong> : permet de lire l’altitude par rapport au niveau de la mer</li>
+<li>le calage 1013 (dit standard ou <strong>QNE</strong>), utilisé en vol au-dessus 3000 ft AGL en espace aérien non contrôlé. Il permet de lire le niveau de vol (ou FL Flight Level) en centaine de ft</li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_348.jpg" alt="image" width="305" height="190" /></p>
+<p class="s22">Figure 4.2.</p>
+<p>Lorsqu’on utilise les niveaux de vol, la règle semi-circulaire s’applique.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_349.jpg" alt="image" width="389" height="200" /></p>
+<p class="s22">Figure 4.3.</p>
+<p>Les chiffres des dizaines des niveaux de vol sont Impairs suivant la route magnétique 0 à 179° (vers l’Italie) et Pairs de 180 à 359° (vers le Portugal). Pour les vols VFR on ajoute 5, pour assurer une séparation de 500 ft entre vols IFR et VFR.</p>
+<p><strong>Impairs</strong> : 35, 55, 75, 95, 115, … en VFR et 30, 50, 70, 90, 110, … en IFR</p>
+<p><strong>Pairs</strong> : 45, 65, 85, 105, 125, … en VFR et 40, 60, 80, 100, 120, … en IFR</p>
+<h4 class="s18"><a></a>C. ‌Les espaces contrôlés</h4>
+<p>L’Espace aérien français est divisé en 2 grandes régions :</p>
+<p><strong>L’Espace supérieur</strong> (à partir du <strong>FL 195 et jusqu’au FL 660</strong>). On n’y trouve, en général, que des avions de ligne ou militaires et les aéronefs. Il est classé C sur tout le territoire.</p>
+<p><strong>L’Espace inférieur </strong>(du sol au <strong>FL 195</strong>). Le FL 195 et FL 195 00 on a enlevé les deux derniers chiffre.</p>
+<p>Il est divisé en espaces :</p>
+<ul>
+<li>Contrôlés</li>
+<li>Non contrôlés</li>
+<li>A statut particulier</li>
+</ul>
+<p>Selon les espaces il est possible d’y évoluer en IFR, en VFR ou les deux.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_350.jpg" alt="image" width="429" height="263" /></p>
+<p class="s22">Figure 4.4.</p>
+<p>L’Espace aérien français est divisé en plusieurs classes d’espaces : A, C, D, E et G (les espaces de classes B et F n’existent pas en France).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_351.jpg" alt="image" width="422" height="247" /></p>
+<p class="s22">Figure 4.5.</p>
+<p class="s4"><strong>Pour le vol VFR :</strong></p>
+<p>De la plus contraignante à la moins contraignante A -&gt; G</p>
+<ul>
+<li class="s4"><strong>Classe A</strong> : <span class="p">interdite aux VFR</span></li>
+<li class="s4"><strong>Classe C </strong>: <span class="p">séparation avec les IFR. Information trafic avec les IFR et VFR. Contact radio obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe D</strong> : <span class="p">Information trafic avec IFR et les VFR. Contact radio obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe E</strong> : <span class="p">Information trafic avec les IFR et les VFR. Contact radio NON obligatoire. Visibilité minimale : 8 Km. Distance par rapport aux nuages : 1,5 Km horizontalement et 300m verticalement.</span></li>
+<li class="s4"><strong>Classe G</strong> <span class="p">: Vol non contrôlé. Visibilité minimale : 1,5 Km.</span></li>
+</ul>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_357.jpg" alt="image" width="610" height="152" /></p>
+<p>On trouve aussi des zones soumises à restrictions (aussi signalées et indiquées par une lettre) :</p>
+<ul>
+<li class="s4"><strong>P : Prohibited </strong><span class="p">(Zones interdites à tout aéronef)</span></li>
+<li class="s4"><strong>D : Dangerous </strong><span class="p">(Zones dangereuses à survoler selon les horaires)</span></li>
+<li class="s4"><strong>R : Restricted</strong> <span class="p">(Zones à entrée restreinte sous certaines conditions)</span></li>
+</ul>
+<p></p>
+<p>Parmi les espaces contrôlés de l’espace inférieur on distingue plusieurs types de zone :</p>
+<ul>
+<li>les <strong>Airways (AWY) ou voies aériennes </strong>: Ce sont des couloirs aériens dans lesquels les avions transitent entre les aéroports.</li>
+<li>les <strong>TerMinal control Area (TMA) </strong>: Ce sont des zones autour de l’aéroport, dans lesquels sont comprises les trajectoires de montée, de descente et d’attente des avions.</li>
+<li>les <strong>zones de Contrôle (CTR) </strong>: Ils comprennent les trajectoires de décollage et d’approche finale des avions opérant sur l’aéroport.</li>
+</ul>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_358.jpg" alt="image" width="470" height="223" /></p>
+<p class="s22">Figure 4.6.</p>
+<p class="s22"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_359.jpg" alt="image" width="512" height="324" /></p>
+<p class="s22">Figure 4.7.</p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Organisation de l'espace aérien (classes d'espaces aériens et contrôle aérien)</strong></p>
+<p></p>
+</div>
+<h4 class="s18"><a></a>D. ‌Les services de la circulation aérienne</h4>
+<p class="s4">Le service du contrôle est chargé :</p>
+<ul>
+<li>d’empêcher les abordages (en vol)</li>
+<li>d’empêcher les collisions (au sol)</li>
+<li>de régler la circulation aérienne</li>
+</ul>
+<p class="s4">Le service d’information de vol est chargé de fournir les avis et renseignements utiles à la bonne exécution des vols.</p>
+<p class="s4">Le service d’alerte est chargé de déclencher la mise en œuvre et de coordonner les secours lorsqu’un aéronef a besoin d’assistance. La fréquence de détresse internationale est 121,5 MHz.</p>
+<h4 class="s18"><a></a>D. ‌Les Moyens de contrôle de la circulation aérienne</h4>
+<h5 class="s4">1. Le radar primaire</h5>
+<p>C’est un système dont dispose les contrôleurs aériens pour détecter un avion et déterminer sa position par rapport à une station au sol.</p>
+<p class="s8">Ce système n’a besoin d’aucun dispositif particulier à bord de l’avion.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_360.jpg" alt="image" width="389" height="229" /></p>
+<p class="s22">Figure 4.8.</p>
+<p>Au sol, une antenne parabolique tourne sur elle-même en émettant des impulsions radioélectriques. Lorsqu’une impulsion atteint les surfaces de l’avion, elle revient en écho à l’émetteur. Le temps d’aller-retour, ainsi que l’orientation de l’antenne lors de la réception, permet de situer l’écho, et de visualiser l’avion sur l’écran du radar. Ce radar est utilisé essentiellement pour les approches. Le but est de repérer tous les mouvements dans un espace aérien.</p>
+<h5 class="s4">2. Le radar secondaire</h5>
+<p>Il est généralement associé au radar primaire et permet l’identification des différents aéronefs.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_361.jpg" alt="image" width="350" height="229" /></p>
+<p class="s22">Figure 4.9.</p>
+<p>Le radar envoie à l’avion une interrogation à laquelle le transpondeur de bord fournit une réponse sur l’appareil (identification, altitude, …)</p>
+<p>Cette réponse apparaît sur le scope radar sous la forme d’un écho, auquel est associée une étiquette qui retranscrit les 4 chiffres que le pilote a affichés sur son transpondeur à la demande du contrôleur.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_362.jpg" alt="image" width="660" height="91" /></p>
+<p class="s22">Figure 4.10.</p>
+<p>Le radar secondaire est destiné au contrôle « en route » d’une portée de 250 NM.</p>
+<p>En cas de difficultés, le pilote affiche, de sa propre initiative, un code signifiant sa difficulté :</p>
+<ul>
+<li class="s4"><strong>7500</strong> (détournement)</li>
+<li class="s4"><strong>7600</strong> (panne radio)</li>
+<li class="s4"><strong>7700</strong> (détresse)</li>
+</ul>
+<p class="s4"><strong>Le code 7000 correspond à un vol VFR.</strong></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Le transpondeur</strong></p>
+<p></p>
+</div>
+<p class="s4"></p></div>";

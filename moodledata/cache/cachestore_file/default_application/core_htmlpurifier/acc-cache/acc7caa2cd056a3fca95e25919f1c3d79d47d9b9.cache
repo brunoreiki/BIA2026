@@ -1,0 +1,48 @@
+s:3067:"<div class="no-overflow"><h3 class="s17"><a></a>1. ‌Les forces en jeu</h3>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_190.png" alt="image" width="578" height="363" /></p>
+<p class="s22">Figure 1.32.</p>
+<ul>
+<li><strong>La traction </strong><span class="p">(avion à hélice) ou </span><strong>la poussée</strong> <span class="p">(avion à réaction) permet à l’avion de progresser dans l’air. La manette des gaz permet d’agir sur l’intensité de cette force.</span></li>
+<li><strong>La traînée </strong><span class="p">correspond à la force parallèle et opposée à la trajectoire.</span></li>
+<li class="s4"><strong>Le poids </strong><span class="p">de l’aéronef, force verticale orientée vers le bas, appliquée au centre de gravité.</span></li>
+<li class="s4"><strong>La portance</strong><span class="p"><strong>,</strong> force perpendiculaire à la trajectoire, appliquée au centre de poussée.</span></li>
+</ul>
+<p></p>
+<p class="s24" style="text-align:center;"><strong>Ces forces évoluent selon les phases de vol <br /></strong></p>
+<p></p>
+<h4 class="s18"><a></a>A. ‌En palier</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/265/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-28%2008-27-53.png" alt="Les quatre forces sur un avion" width="502" height="294" /></p>
+<p>Figure 1.33.</p>
+<ul>
+<li>La <strong>portance</strong> équilibre la composante principale du poids.</li>
+<li>La <strong>traction</strong> équilibre la traînée</li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>B. ‌En montée</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_196.jpg" alt="image" width="328" height="227" /></p>
+<p class="s22">Figure 1.34.</p>
+<ul>
+<li>La <strong>portance</strong> équilibre la grande composante du poids.</li>
+<li>La <strong>traction</strong> doit compenser la traînée et la petite composante du poids. Elle doit donc être <strong>plus importante</strong> qu’en vol palier.</li>
+</ul>
+<p class="s18"></p>
+<p></p>
+<h4><a></a>‌C. En descente</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/265/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202024-12-28%2008-31-32.png" alt="Les forces en descente" width="403" height="275" /></p>
+<p>Figure 1.35.</p>
+<ul>
+<li>La <strong>portance</strong> équilibre la composante principale du poids.</li>
+<li>La somme de la <strong>traction</strong> et de la petite composante du poids équilibre la traînée.<br />Par conséquent, la <strong>traction</strong> doit être <strong>moins importante</strong> qu’en palier.</li>
+</ul>
+<p>Dans le cas du planeur T=0. La pente de descente est alors égale à la fines.</p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Étude du vol stabilisé en ligne droite, palier, montée, descente</strong></p>
+<p></p>
+</div>
+<p></p></div>";

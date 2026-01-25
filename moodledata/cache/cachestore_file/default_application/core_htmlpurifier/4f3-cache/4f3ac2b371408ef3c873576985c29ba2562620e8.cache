@@ -1,0 +1,80 @@
+s:5179:"<div class="no-overflow"><h3 class="s17"><a></a>1. ‌L’atmosphère</h3>
+<p></p>
+<h4 class="s18"><a></a>A. ‌Qu’est-ce que l’atmosphère ?</h4>
+<div class="column" style="color:#FFFFFF;">
+<div class="entry">
+<div><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_247.png" alt="image" width="256" height="204" /><br /><br /></div>
+<div class="text">
+<p>L’atmosphère est l’enveloppe gazeuse qui entoure la Terre, sur quelques centaines de Kilomètres (80 à 120 km).</p>
+<p>Elle est divisée en plusieurs couches d’épaisseur variable dont les limites ont été fixées en fonction de l’altitude. Sous l’exosphère on distingue principalement quatre couches.</p>
+</div>
+</div>
+</div>
+<p></p>
+<h5>1. Les quatre couches de l'atmosphère </h5>
+<p></p>
+<h6 style="text-align:center;font-size:2.5em;margin-bottom:20px;">Présentation des Couches Atmosphériques</h6>
+<div class="container" style="background-color:#f9f9f9;max-width:850px;">
+<div class="image-column" style="min-width:300px;text-align:center;padding:10px;"><img class="img-fluid" style="height:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_248.png" alt="image" />
+<p class="image-caption" style="margin-top:10px;font-size:0.9em;color:#555;">Figure 3.1.</p>
+</div>
+<div class="text-column" style="min-width:300px;padding:10px;background-color:#f9f9f9;">
+<ol style="padding-left:20px;">
+<li style="margin-bottom:10px;"><strong style="color:#333;">La thermosphère</strong> : Elle est la couche comprise entre 80 et 500 km. C’est dans cette couche que se trouve la station spatiale internationale (380 km) et les satellites en orbite « basse » (GPS, SPOT,...).</li>
+<li style="margin-bottom:10px;"><strong style="color:#333;">La mésosphère</strong> : Elle est comprise entre 50 km et 80 Km. Au plus haut, la température est de moins 100°C. Dans cette zone, la plupart des météorites brûlent en entrant dans l’atmosphère.</li>
+<li style="margin-bottom:10px;"><strong style="color:#333;">La stratosphère</strong> : Elle s’étend de la Tropopause (10 km de haut) jusqu'à 50 km de haut. <strong style="color:#333;">Elle contient la majeure partie de la couche d’ozone.</strong></li>
+<li style="margin-bottom:10px;"><strong style="color:#333;">La troposphère</strong> : Elle démarre à la surface de la Terre jusqu’à une hauteur de 11 Km dans la zone tempérée. <strong style="color:#333;">Cette limite est appelée la tropopause.</strong></li>
+</ol>
+</div>
+</div>
+<p></p>
+<p>À de rares exceptions près (supersoniques, certains jets d’affaires), les avions commerciaux évoluent dans la troposphère.</p>
+<p class="s4">Les phénomènes météorologiques sont localisés dans la troposphère.</p>
+<h4 class="s18"><a></a>B. ‌La Composition de l’atmosphère</h4>
+<p>L’air atmosphérique est un mélange d’air sec, de vapeur d’eau et de poussières. L’air sec (99,97 %) est composé des gaz suivants :</p>
+<table style="border-collapse:collapse;border-spacing:0px;background-color:#ecf0f1;border:1px solid #000000;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s91"><strong>Diazote </strong>(N<span class="s92">2</span>)</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s55">78%</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s91"><strong>Dioxygène </strong>(O<span class="s92">2</span>)</p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s55">21%</p>
+</td>
+</tr>
+<tr>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s84"><strong>Argon</strong> <span class="s55">(Ar)</span></p>
+</td>
+<td style="border-width:1px;padding:3px;border-color:#000000;">
+<p class="s55">0,9%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br />auxquels s’ajoutent des traces d’hélium, dioxyde de carbone, dihydrogène.</p>
+<h4 class="s18"><a></a>C. ‌L’atmosphère « standard » ou de référence</h4>
+<p>Pour les besoins de l’aéronautique, il a été nécessaire de « figer » l’atmosphère en <strong>une atmosphère moyenne, dite International Standard Atmosphère ou ISA.</strong></p>
+<p>Cela permet de décrire les performances des aéronefs et de les localiser dans le plan vertical. On retiendra :</p>
+<ul>
+<li><span class="s93">Température au niveau du sol : 15°C</span></li>
+<li><span class="s93"> Pression au niveau de la mer : 1013,25 hPa</span></li>
+</ul>
+<p>La <strong>masse volumique </strong>(notée ρ) vaut 1,225 kg/m<span class="s67">3 </span>au niveau du sol. Elle <strong>décroit avec l’altitude</strong>.</p>
+<p>La tropopause est fixée à 11 km. <strong>La température y décroit de 6,5° tous les 1000 m soit 2° tous les 1000 ft. </strong>Au-delà, la température est constante et égale à – 56,5°C.</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>La formation des nuages</strong></p>
+<p></p>
+</div>
+<p></p></div>";

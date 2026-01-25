@@ -1,0 +1,119 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/charts_sidebar
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * attemptnum The no. of this attempt
+    * attempttitle A title for this attempt
+    * cssshape Shape for this attempt indicator
+    * ignorancerateindicatorcolor CSS color for ignorance rate
+    * lucidityindicatorcolor CSS color for lucidity indicator
+    * lucidityindicatorlabel Label about lucidity indicator
+    * hasdeclaredignorance Whether there exists a level of declared ignorance
+    * declaredignorancerate The rate of random answers, if hasdeclaredignorance is true
+    * nrandom The number of answers at random, if hasdeclaredignorance is true
+    * gradeover100 The grade over 100
+    * questioncount The total number of questions in the attempt
+    * nright The number of answers considered correct
+    * nwrong The number of answers considered incorrect
+    * confidencerate The confidence rate
+    * imprudencerate The imprudence rate
+    * lucidityindex The lucidity index
+    * attempturl The attempt URL
+    * iscurrentattempt Whether this attempt is the current one
+
+    Example context (json):
+    {
+        "attemptnum": "1",
+        "attempttitle": "Attempt 1\/3",
+        "cssshape": "circle",
+        "ignorancerateindicatorcolor": "darkblue",
+        "lucidityindicatorcolor": "red",
+        "lucidityindicatorlabel": "At least one unexpected error",
+        "hasdeclaredignorance": true,
+        "declaredignorancerate": "0%",
+        "nrandom": "0",
+        "gradeover100": "33.33",
+        "questioncount": "3",
+        "nright": "1",
+        "nwrong": "2",
+        "confidencerate": "30%",
+        "imprudencerate": "60%",
+        "lucidityindex": "40",
+        "attempturl": "#",
+        "iscurrentattempt": false
+    }
+}}
+<div class="charts-sidebar" hidden="" data-role="charts-sidebar" data-attemptnum="{{attemptnum}}" style="position: sticky; top: 10vh;">
+    <div class="charts-sidebar-menu p-2 border border-dark mx-auto">
+        <div>{{attempttitle}}</div>
+        <hr class="my-2">
+        <div class="d-flex">
+            <div class="my-auto mr-3 {{cssshape}}-indicator" style="--shape-color:{{ignorancerateindicatorcolor}}"></div>
+            <div>
+                {{# hasdeclaredignorance}}
+                    <div>{{# str}} declaredignoranceratea, qbehaviour_certaintywithstudentfbdeferred, {{declaredignorancerate}} {{/ str}}</div>
+                {{/ hasdeclaredignorance}}
+                <div>{{# str}} gradeover100a, qbehaviour_certaintywithstudentfbdeferred, {{gradeover100}} {{/ str}}</div>
+            </div>
+        </div>
+        <hr class="my-2">
+        <div class="mb-2">
+            <div><b>{{# str}} answersrepartition, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</b></div>
+            <div class="mt-1 pl-3 indicators-grid">
+                <span>{{# str}} ncorrectanswers, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{nright}}/{{questioncount}}</span>
+                <span>{{# str}} nincorrectanswers, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{nwrong}}/{{questioncount}}</span>
+                {{# hasdeclaredignorance}}
+                    <span>{{# str}} ndeclaredignorance, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                    <span>{{nrandom}}/{{questioncount}}</span>
+                {{/ hasdeclaredignorance}}
+            </div>
+        </div>
+        <div class="mb-2">
+            <div><b>{{# str}} metacognitiveindicators, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</b></div>
+            <div class="mt-1 pl-3 indicators-grid">
+                <span>{{# str}} confidenceratea, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{confidencerate}}</span>
+                <span>{{# str}} imprudenceratea, qbehaviour_certaintywithstudentfbdeferred,  {{/ str}}</span>
+                <span>{{imprudencerate}}</span>
+            </div>
+        </div>
+        <hr class="my-3">
+        <div class="d-flex">
+            <div class="my-auto mr-3 {{cssshape}}-indicator" style="--shape-color:{{lucidityindicatorcolor}}"></div>
+            <div>
+                <div>{{lucidityindicatorlabel}}</div>
+                <div>
+                    <b>{{# str}} lucidityindexa, qbehaviour_certaintywithstudentfbdeferred, {{lucidityindex}} {{/ str}}</b>
+                </div>
+            </div>
+        </div>
+        <hr class="my-3">
+        <div class="text-center">
+            <a href="{{attempturl}}" class="btn btn-secondary {{# iscurrentattempt}}disabled{{/ iscurrentattempt}}">{{# str}} showthatattempt, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</a>
+        </div>
+    </div>
+</div>

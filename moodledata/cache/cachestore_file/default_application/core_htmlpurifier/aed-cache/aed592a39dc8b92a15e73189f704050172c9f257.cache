@@ -1,0 +1,12 @@
+s:1019:"<font color="#0000FF">allongement = envergure² / surface alaire</font>color="blue"&gt;
+Ici, l'envergure de l'aile est de <font color="#FF0000">2 x 7,1 = 14,2 m</font>color="red"&gt;
+<b>L' allongement est donc = </b><font color="#FF0000">8,72²/14,2 = <b>5,35</b></font>color="red"&gt;
+
+<b>Remarque n°1 :</b>
+<font color="#0000FF">Allongement = envergure² / surface alaire</font>color="blue"&gt;
+Pour une aile rectangulaire on a : <font color="#0000FF">l'allongement = envergure / corde</font>color="blue"&gt;
+En effet, si l'aile est rectangulaire sa <font color="#0000FF">surface alaire = envergure x corde</font>color="blue"&gt;
+donc : <font color="#0000FF">Allongement</font>color="blue"&gt; = envergure² / surface alaire = envergure² / envergure x corde = <font color="#0000FF">envergure / corde</font>color="blue"&gt;
+
+<b>Remarque n°2 :</b>
+La formule de l'allongement nous dit que l'allongement est le rapport entre la surface qu'aurait une aile carrée de l'envergure de l'appareil et sa surface alaire.";

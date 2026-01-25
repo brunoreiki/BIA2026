@@ -1,0 +1,20 @@
+O:8:"stdClass":26:{s:2:"id";s:4:"8975";s:8:"category";s:3:"521";s:6:"parent";s:1:"0";s:4:"name";s:27:"l'anémomètre est appelé:";s:12:"questiontext";s:27:"l'anémomètre est appelé:";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:934:"L’<font color="blue">anémomètre</font> mesure quoi?
+• Si on décompose le mot on a:
+- <b>Metre</b>: donc une notion de mesure
+- <b>Anémo</b>: Du grec ancien, ánemos ("vent"). Ce préfixe indiquant un rapport avec le vent.
+• Donc l'<b>anémomètre</b> mesure une vitesse en rapport avec le vent.
+
+Si on décompose "<font color="blue">Airspeed</font>"
+- <b>Air</b>: facile à traduire en français: Air.
+- <b>Speed</b>: Vitesse.
+
+• "<font color="blue">Indicator</font>". C’est bien de mesurer mais c’est mieux si le/la pilote peut voir le résultat de la
+mesure sur un cadran.
+- <b>Indicator</b> = Indicateur, voyant, révélateur, aiguille, compteur
+Donc, c’est la réponse B.
+
+• L’ "airspeed" mesuré par l’anémomètre est associée à la portance.
+• La Vitesse verticale existe aussi en aviation mais elle donne d’autres informations au pilote et elle
+se traduit par: Vertical speed.
+
+<b>Albert Scius</b>";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"bia-facile.fr+241120143231+j1xsFV";s:11:"timecreated";s:10:"1732113151";s:12:"timemodified";s:10:"1732113151";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:3:"803";s:6:"status";s:5:"ready";s:9:"versionid";s:4:"8975";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:4:"8970";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"521";s:4:"name";s:7:"Anglais";s:9:"contextid";s:3:"803";s:4:"info";s:0:"";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"bia-facile.fr+241120143231+dNtmBt";s:6:"parent";s:3:"515";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":15:{s:2:"id";s:4:"8975";s:10:"questionid";s:4:"8975";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:0:"";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:0:"";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:0:"";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"0";s:23:"showstandardinstruction";s:1:"1";s:7:"answers";a:4:{i:34150;O:8:"stdClass":7:{s:2:"id";s:5:"34150";s:8:"question";s:4:"8975";s:6:"answer";s:11:"speedmaster";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34151;O:8:"stdClass":7:{s:2:"id";s:5:"34151";s:8:"question";s:4:"8975";s:6:"answer";s:18:"airspeed indicator";s:12:"answerformat";s:1:"1";s:8:"fraction";d:1;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34152;O:8:"stdClass":7:{s:2:"id";s:5:"34152";s:8:"question";s:4:"8975";s:6:"answer";s:15:"speedtachymeter";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:34153;O:8:"stdClass":7:{s:2:"id";s:5:"34153";s:8:"question";s:4:"8975";s:6:"answer";s:24:"vertical speed indicator";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}}

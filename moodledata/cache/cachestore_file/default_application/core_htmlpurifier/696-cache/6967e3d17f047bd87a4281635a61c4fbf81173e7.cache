@@ -1,0 +1,202 @@
+s:6341:"<div class="no-overflow"><h3 class="s17"><a></a>‌1. Aerodynamics</h3>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_238.png" alt="image" width="551" height="197" /></p>
+<p class="s22" style="text-align:center;">Figure 1.66.</p>
+<p class="s22" style="text-align:center;"></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_239.jpg" alt="image" width="327" height="257" /></p>
+<p class="s22" style="text-align:center;">Figure 1.67.</p>
+<p class="s22" style="text-align:center;"></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_240.jpg" alt="image" width="386" height="271" /></p>
+<p class="s22" style="text-align:center;">Figure 1.68.</p>
+<table style="border-collapse:collapse;width:382px;border-spacing:0px;background-color:#ecf0f1;border-color:#000000;border-style:solid;" border="1" cellspacing="0">
+<tbody>
+<tr>
+<td style="padding:3px;border-color:#000000;width:381.333px;" colspan="2">
+<p class="s50" style="text-align:center;"><strong>Aerodynamics</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Allongement</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Aspect Ratio</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Angle D’incidence</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Angle Of Attack</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Angle De Dérapage</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Sideslip Angle</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Bord Attaque</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Leading Edge</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Bord De Fuite</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Trailing Edge</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Braquage</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Deflection</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Cambrure</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Camber</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Coefficient De Portance</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Lift Coefficient C<span class="s89">L</span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Coefficient De Trainée</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Drag Coefficient C<span class="s89">D</span></p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Corde Moyenne</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Mean Camber Line</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Décollement</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Air Stream Separation</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Décrochage</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Stall</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Ecoulement</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Airflow</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Extrados</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Upper Wing Surface</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Finesse</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Efficiency, Lift To Drag Ratio</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Foyer</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Aerodynamic Center</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Intrados</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Lower Wing Surface</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Polaire</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Polar Curve</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Portance</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Lift</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Profil</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Airfoil</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Tourbillon Marginal</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Wing Tip Vortex</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Trainée</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Drag</p>
+</td>
+</tr>
+<tr>
+<td style="padding:3px;border-color:#000000;width:188.45px;">
+<p class="s51">Trainée Induite</p>
+</td>
+<td style="padding:3px;border-color:#000000;width:192.883px;">
+<p class="s51">Induced Drag</p>
+</td>
+</tr>
+</tbody>
+</table></div>";

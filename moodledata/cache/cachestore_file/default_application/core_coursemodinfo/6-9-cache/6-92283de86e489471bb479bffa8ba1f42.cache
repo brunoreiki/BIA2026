@@ -1,0 +1,718 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:35:{i:223;O:8:"stdClass":17:{s:2:"id";s:3:"116";s:2:"cm";s:3:"223";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"13";s:5:"added";s:10:"1737408854";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:61:"Avant de commencer ce cours, faites un test de positionnement";s:7:"content";s:1218:"<div class="no-overflow"><p>Ce chapitre est divisé en 4 parties :</p>
+<p><strong>Partie 1 : Les débuts</strong></p>
+<ol>
+<li class="s16">Du mythe à la réalité</li>
+<li class="s16">Les aérostats</li>
+<li class="s16">Les pionniers de l’aviation (1856-1907)</li>
+<li class="s16">Les premiers records (1908-1913)</li>
+</ol>
+<p></p>
+<p><strong>Partie 2 : D’une guerre à l’autre</strong></p>
+<ol>
+<li class="s16">La Première Guerre Mondiale (1914-1918)</li>
+<li class="s16">L’Entre Deux-Guerres (1919-1939)</li>
+<li class="s16">La Seconde Guerre Mondiale (1939-1945)</li>
+</ol>
+<p></p>
+<p><strong>Partie 3 : De 1945 à nos jours</strong></p>
+<ol>
+<li class="s16">Le « mur » du son</li>
+<li class="s16">L’aviation militaire</li>
+<li class="s16">L’aviation commerciale</li>
+<li class="s16">Les hélicoptères et les avions expérimentaux</li>
+</ol>
+<p></p>
+<p><strong>Partie 4 : La conquête de l’espace</strong></p>
+<ol>
+<li class="s16">Les précurseurs</li>
+<li class="s16">De Spoutnik à Apollo</li>
+<li class="s16">De Skylab à l’ISS</li>
+</ol>
+<p></p>
+<p>Vous trouverez également deux parties supplémentaires : les annales et un test de positionnement.</p></div>";}i:390;O:8:"stdClass":18:{s:2:"id";s:1:"5";s:2:"cm";s:3:"390";s:3:"mod";s:5:"qbank";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"22";s:6:"module";s:2:"34";s:5:"added";s:10:"1755155503";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:9:"groupmode";s:1:"2";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:7:"content";s:117:"<div class="no-overflow">Cette banque de questions est créée automatiquement lors de la mise à jour du site.</div>";s:4:"name";s:35:"HCA banques de questions partagées";}i:465;O:8:"stdClass":17:{s:2:"id";s:2:"18";s:2:"cm";s:3:"465";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:3:"115";s:6:"module";s:2:"18";s:5:"added";s:10:"1766311905";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:37:"Cours de Camille du 11 décembre 2025";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:167:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:12:"Document PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:467;O:8:"stdClass":17:{s:2:"id";s:2:"19";s:2:"cm";s:3:"467";s:3:"mod";s:8:"resource";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:3:"115";s:6:"module";s:2:"18";s:5:"added";s:10:"1769070331";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"icon";s:5:"f/pdf";s:4:"name";s:35:"Cours de Camille du 15 janvier 2026";s:10:"customdata";a:3:{s:10:"filtericon";b:1;s:14:"displayoptions";s:167:"a:3:{s:10:"printintro";i:1;s:8:"showtype";i:1;s:11:"filedetails";a:3:{s:4:"type";s:12:"Document PDF";s:8:"mimetype";s:15:"application/pdf";s:9:"extension";s:3:"PDF";}}";s:7:"display";i:5;}}i:220;O:8:"stdClass":18:{s:2:"id";s:3:"115";s:2:"cm";s:3:"220";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"23";s:6:"module";s:2:"13";s:5:"added";s:10:"1737354006";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:27:"1. Du mythe à la réalité";s:7:"content";s:2981:"<div class="no-overflow"><h3 class="s17"><a name="bookmark233"></a>1. ‌Du mythe à la réalité</h3>
+<p>L’idée de naviguer ou de s’élever dans les airs est aussi ancienne que l’humanité.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_420.png" alt="image" width="227" height="191"></p>
+<p>Les dieux messagers des mythologies antiques comme <strong>Mercure </strong>pour les Romains (ou <strong>Hermès </strong>pour les Grecs) sont représentés avec des ailes.</p>
+<p style="text-align: center;">La légende la plus connue est celle de<strong> Dédale et d’Icare</strong>.</p>
+<p class="s14">Pour s’enfuir d’une tour où ils sont enfermés, Dédale a l’idée de fabriquer des ailes imitant celle des oiseaux, confectionnées avec de la cire et des plumes.</p>
+<p class="s14">Une fois celles-ci confectionnées, Dédale met en garde son fils en lui interdisant de s’approcher trop près du soleil ainsi que de voler au-dessus de l’eau car ceci était trop dangereux.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_421.png" alt="image" width="328" height="243"></p>
+<p class="s14">Malheureusement, Icare oublie cet interdit : Il prend trop d’altitude ce qui fait fondre la cire de « ses ailes ». Il meurt précipité dans la mer. Dans la réalité plus on s’élève en altitude et plus la température diminue.</p>
+<h4 class="s17">Les années 1500 <span class="s112">: Apparition des premières études sur le vol des oiseaux.</span></h4>
+<p class="s4"><strong>Léonard de Vinci </strong><span class="p">conçoit, dessine des machines volantes, proche de l’avion, de l’hélicoptère et du parachute. Il dessine l’hélice.</span></p>
+<p>Pourtant il ne fera aucune tentative pour les réaliser.</p>
+<p class="s113"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_422.png" alt="image" width="131" height="203"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_423.png" alt="image" width="310" height="187"></p>
+<p class="s113"></p>
+<p class="s17">Les années 1600 <span class="s112">: Le philosophe </span><span class="s4">Descartes </span><span class="p">ne croit pas que </span>l’homme puisse voler par ses propres moyens. Il estime que l’homme manque de force et ne dispose pas de moyens assez puissants pour s’élever dans les airs.</p>
+<p class="s14"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/340/mod_label/intro/Image_4241.png" alt="besnier" width="130" height="164"></p>
+<p></p>
+<p>Mais de nombreux téméraires vont tenter leur chance …</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_425.jpg" alt="image" width="296" height="181"></p>
+<p class="s14">Besnier (1678)</p>
+<p class="s14"></p>
+<p class="s14"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/340/mod_label/intro/Image_4242.png" alt="besnier" width="270" height="191"></p>
+<p class="s14">Marquis de Bacqueville (1742)</p></div>";}i:224;O:8:"stdClass":18:{s:2:"id";s:3:"117";s:2:"cm";s:3:"224";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"23";s:6:"module";s:2:"13";s:5:"added";s:10:"1737410722";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:21:"2. ‌Les aérostats";s:7:"content";s:7742:"<div class="no-overflow"><h3 class="s17"><a name="bookmark234"></a>2. ‌Les aérostats</h3>
+<h4 class="s17">Dans les années 1700 <span class="s112">: deux directions vont progressivement s’opposer <br></span></h4>
+<ul>
+<li>Les partisans des plus légers que l’air qui sentent bien que leur rêve de s’élever dans les airs est réalisable …</li>
+<li>Les partisans des plus lourds que l’air qui veulent voler comme les oiseaux … Mais malheureusement, ils ne trouveront pas de sitôt le moteur dont ils ont besoin pour mener à bien leurs projets.</li>
+</ul>
+<p></p>
+<h4 class="s18"><a name="bookmark235"></a>A. ‌Les ballons</h4>
+<p><strong><span class="s17">Le 4 juin 1783 </span></strong><span class="s112"><strong>: Les</strong> </span><strong>frères Montgolfier </strong>font la démonstration que l’on peut s’élever dans les airs avec le premier ballon captif à air chaud. Ils renouvèlent l’expérience le <span class="s114">19 septembre </span>à Versailles en présence du roi Louis XVI, embarquant un mouton, un canard et un coq.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_426.png" alt="image" width="224" height="182"></p>
+<p><strong>Le 21 novembre 1783 <span class="s112">: </span><span class="s4">Pilâtre de Rozier </span></strong><span class="p">et le Marquis d’Arlandes réalisent le premier vol libre en ballon. Ils parcourent 9 km au-dessus de Paris en 26 minutes.</span></p>
+<p class="s112"><span class="s17"><strong>Le 1er décembre 1783</strong>, </span>c’est le<strong> premier vol d’un ballon à hydrogène</strong> qui dure plus de 2h à 500 mètres d’altitude, réalisé par Jacques Charles et Nicolas-Louis Robert.</p>
+<p class="s112"></p>
+<p><strong><span class="s17">En 1785 </span>: JP Blanchard </strong>et son passager J. Jeffries réalisent la traversée de la Manche, entre Douvres et Calais, à bord d’un ballon à hydrogène.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_427.jpg" alt="image" width="159" height="141"></p>
+<p class="s17"><strong>Le 15 juin 1785 <span class="s112">: </span></strong><span class="s4"><strong>Pilatre de Rozier</strong> </span><span class="p">se tue dans l’incendie de son ballon, dans une tentative de traversée de la Manche de la France vers l’Angleterre.</span></p>
+<p class="s74" style="text-align: center;"><strong>C’est la première catastrophe aérienne </strong></p>
+<p class="s112"><strong><span class="s17">En 1794 </span>: </strong>Le ballon est utilisé, à des fins militaires, comme  moyen  d’observation lors de la bataille de Fleurus contre les troupes anglo-hollandaises.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_430.png" alt="image" width="192" height="173"></p>
+<p class="s112"></p>
+<p class="s17"><strong>En 1797 <span class="s116">: </span><span class="s4">André-Jacques Garnerin </span></strong><span class="p">effectue le 1</span><span class="s67">er </span>saut en parachute depuis un ballon (680 m hauteur) au-dessus de Paris.</p>
+<p class="s17"><strong>En 1804 <span class="s116">: </span></strong><span class="s112"><strong>Gay-Lussac</strong> atteint 7000 m et étudie le champ magnétique terrestre et la composition de l’air.</span></p>
+<p class="s17"><strong>En 1858<span class="s116">: </span></strong><span class="s112"><strong>Nadar </strong>réalise la première photographie aérienne de Paris depuis un ballon captif.</span></p>
+<p class="s17"><strong>En 1870 <span class="s116">: </span></strong><span class="s112">Les ballons sont utilisés pour transporter le courrier depuis Paris assiégée par les Prussiens.</span></p>
+<p class="s112"><strong><span class="s17">En 1999 </span><span class="s116">: </span>Bertrand Picard et Brian Jones </strong>réalisent le 1<span class="s117">er </span>tour du monde en ballon sans escale.</p>
+<p class="s17"><strong>En 2012<span class="s116">: </span></strong><span class="s112"><strong>Felix Baumgartner </strong>bat le record d’altitude en ballon (39 000 m) lors de son saut en parachute.</span></p>
+<h4 class="s18"><a name="bookmark236"></a>B. ‌Les ballons dirigeables</h4>
+<p>L’inconvénient principal du ballon est l’absence de moyen de pilotage.</p>
+<p>Un ballon est entraîné par le vent et donc circule à la même vitesse et dans la même direction que lui.</p>
+<p class="s112"><strong><span class="s17">En 1852 </span>:</strong> Vol du 1<span class="s117">er </span>dirigeable, mu par un moteur à vapeur. <strong>Henri Giffard </strong><span class="p">parcours 27 km entre Paris et Elancourt à une vitesse moyenne de 8 km/h.</span></p>
+<p><strong><span class="s17">En 1884 </span></strong><span class="s112"><strong>: </strong>Vol du dirigeable « La France » de </span><strong>Charles Renard</strong>, qui réalise le 1<span class="s67">er </span>vol contrôlé en circuit fermé.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_431.png" alt="image" width="167" height="289"></p>
+<p>Il est actionné par un moteur électrique de 8,5 ch qui entraine une hélice placée à l’avant de l’appareil.</p>
+<p class="s17"><strong>En 1898 <span class="s118">: </span><span class="s4">Santos-Dumont </span></strong><span class="p">adapte un moteur à essence sur un dirigeable.</span></p>
+<p class="s112"><strong><span class="s17">En 1901 </span>: </strong>Il contourne la Tour Eiffel avec son VI !</p>
+<p class="s17"><strong>En 1906 </strong><span class="s112"><strong>: </strong>l’Allemagne développe des dirigeables de grandes tailles grâce au </span><span class="s4">Baron Von Zeppelin</span><span class="p">.</span></p>
+<p class="s112"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/344/mod_label/intro/Image_4321.png" alt=" Santos Dumont " width="124" height="153"></p>
+<p class="s112">A partir de 1928, les <strong>Graf-Zeppelin</strong>, longs de 236 m, sont constitués de cinq ballons enfermés dans une carcasse en aluminium, recouverte de toiles et actionnée par cinq moteurs de 530 CV. Ceux- ci pouvaient emporter jusqu’à 24 passagers dans un confort digne des grands bateaux de croisières à travers le monde.</p>
+<p class="s17"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_433.png" alt="image" width="241" height="190"></p>
+<p>Lors de la première guerre mondiale, le Zeppelin est utilisé par<strong>  l’Allemagne</strong> pour bombarder <strong>Londres</strong>. Ils seront rapidement détrônés par l’aviation.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_434.png" alt="image" width="285" height="193"></p>
+<p class="s17"><strong>En 1910 <span class="s118">: </span></strong><span class="s112">C’est la première traversée de la manche en dirigeable</span></p>
+<p class="s17"><strong>En 1930 </strong><span class="s112"><strong>:</strong> Le dirigeable Anglais R101 (hydrogène) s’écrase tuant ses 48 passagers.</span></p>
+<p class="s17"><strong>En 1937 <span class="s119">: </span></strong><span class="s112">Nouvel incident encore dû à l’hydrogène et à l'électricité statique, qui va provoquer dans le New Jersey devant les caméras :</span></p>
+<p class="s8" style="text-align: center;"><strong>La catastrophe du Zeppelin « Hindenburg »</strong></p>
+<p style="text-align: center;">36 des 97 passagers à bord de l’appareil vont périr dans les flammes</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_435.jpg" alt="image" width="326" height="252"></p>
+<p style="text-align: center;"><strong>Cet accident spectaculaire et dramatique marquera la fin des vols de dirigeables jusqu'à un redémarrage récent</strong></p></div>";}i:225;O:8:"stdClass":18:{s:2:"id";s:3:"118";s:2:"cm";s:3:"225";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"23";s:6:"module";s:2:"13";s:5:"added";s:10:"1737412338";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:48:"3. ‌Les pionniers de l’aviation (1890-1907)";s:7:"content";s:6519:"<div class="no-overflow"><h3 class="s17"><a name="bookmark237"></a>3. ‌Les pionniers de l’aviation (1890-1907)</h3>
+<p><strong>En 1809 <span class="s118">: </span><span class="s112">Le baron anglais </span></strong><span class="s4"><strong>Georges Cayley</strong> </span><span class="p">publie un ouvrage dans lequel il décrit pour la première fois la portance et la trainée. Il explique que la solution aile fixe + propulsion est préférable aux ailes battantes. Il invente l’empennage et la dérive et réalisera ultérieurement des modèles réduits de planeurs.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_436.jpg" alt="image" width="175" height="213"></p>
+<p class="s17"><span class="s17">En Décembre 1856 </span><span class="s118">: </span><span class="s112">Apparition du premier signe que l’on peut faire voler un « plus lourd que l’air ». En effet, en Bretagne, sur la plage de Saint Anne-la-palud, </span><strong>Jean Marie Le Bris </strong>va réussir à faire s’élever son planeur <strong>l’Albatros</strong>.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/345/mod_label/intro/Image_4370.png" alt="Jean Marie Le Bris" width="150" height="148"></p>
+<p>Sa machine décolle, posée sur une charrette, face au vent et tirée par un cheval.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_438.png" alt="image" width="298" height="147"></p>
+<p><strong><strong>En 1857 <span class="s112">: Felix du Temple </span></strong></strong><span class="s112">fait décoller un modèle réduit de 700 g propulsé par une machine à vapeur.</span></p>
+<p><span class="s112"><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/345/mod_label/intro/Image_4391.png" alt="Clément Ader" width="136" height="187"></span></p>
+<p></p>
+<p class="s112"><strong><span class="s17">En 1890 </span>: L’aéroplane</strong> entre dans l’histoire de l’aviation avec le décollage sur 50 m de<u> l’Eole</u> de <strong>Clément Ader, </strong><span class="p">né à Muret près de Toulouse.</span></p>
+<p>L’appareil est muni d’un moteur à vapeur de 20 ch alimenté par alcool et d’une hélice quadripâle à pas variable.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/345/mod_label/intro/Image_43912.png" alt="Quadripâle à pas variable" width="165" height="219"></p>
+<p class="s17"><strong>Entre 1890-1896 <span class="s120">: </span></strong><span class="s4"><strong>Otto Lilienthal</strong> </span><span class="p">réalise plus de 2500 vols avec ses planeurs.</span></p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_440.jpg" alt="image" width="306" height="233"></p>
+<p class="s28" style="text-align: center;"><em>« Inventer un avion n’est rien. Le construire est un début. Voler c’est tout »</em></p>
+<p class="s28" style="text-align: center;"><em>« Nous devons voler et tomber… voler et tomber… jusqu’à ce que nous puissions voler sans tomber ! »</em></p>
+<p class="s17"><strong>En 1897 <span class="s120">: </span></strong><span class="s4"><strong>Clément ADER</strong> </span><span class="p">réalise une évolution de l’Eole équipée de deux moteurs, et celle-ci va s’élever sur 200 m. Son appareil porte le nom d’avion (N°3)</span></p>
+<p class="s28" style="text-align: center;"><em>« Qui sera maître de l’air sera maître du monde »</em></p>
+<p class="s17"><strong>De 1898 à 1903 </strong><span class="s119"><strong>:</strong> </span><span class="s112">L’ingénieur américain d’origine française </span><strong><span class="s4">Octave Chanute </span></strong><span class="p">va développer des planeurs et synthétiser les connaissances de l’époque.</span></p>
+<p>Sa route va croiser aux Etats-Unis celle de deux frères, fabricants de bicyclettes :</p>
+<p class="s4"><strong>Orwille et Wilbur Wright.</strong></p>
+<p class="s37"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_441.png" alt="image" width="128" height="138"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_442.png" alt="image" width="119" height="146"></p>
+<p class="s4"><strong><span class="s17">En 1903 </span><span class="s120">: </span>Flyer</strong><span class="s112"><strong> </strong>(la machine volante) des </span><strong>frères Wright</strong>, <span class="p">réalise son </span>premier vol <span class="p">à Kitty-Hawk en Caroline du Sud.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_443.jpg" alt="image" width="441" height="199"></p>
+<p>Il est équipé d’un moteur de 12 CV en aluminium. Le vol dure 59 s sur 260 m.</p>
+<p class="s17"><strong>En 1904 <span class="s118">: </span><span class="s4">les frères Wright </span></strong><span class="p">réalisent le premier vol en circuit fermé sur le Flyer II (1240 m en 1 min 36).</span></p>
+<p class="s17"><strong>En 1905 </strong><span class="s112"><strong>: Le Flyer III </strong>vole 38 min sur 39 km à une moyenne de 61,5 km/ h !</span></p>
+<p><strong><span class="s17">En 1906 </span><span class="s118">: </span>Santos Dumont </strong>avec son avion <strong>« 14 BIS</strong> <strong>», </strong>muni d’un train d’atterrissage (deux roues de bicyclette), réalise un vol de 220 m à 5 m au-dessus du sol près de Paris. C’est le premier vol homologué d’un plus lourd que l’air. Il est muni d’un moteur « Antoinette » de 24 CV.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_444.jpg" alt="image" width="350" height="233"></p>
+<p class="s4"><strong><span class="s17">En 1906 </span><span class="s120">: </span><span class="s112">le français </span>Robert Esnault-Pelterie </strong><span class="p">invente le « manche à balai » qui commande les ailerons et les gouvernes de profondeur. </span><strong>Louis Blériot</strong> <span class="p">invente un dispositif similaire surnommé « la cloche ».</span></p>
+<p class="s121"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_445.jpg" alt="image" width="295" height="151"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_446.jpg" alt="image" width="116" height="175"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_447.jpg" alt="image" width="336" height="189"></p>
+<p class="s17"><strong>En 1907 <span class="s120">: </span><span class="s4">Paul Cornu </span></strong><span class="p">réalise le premier hélicoptère.</span></p></div>";}i:226;O:8:"stdClass":18:{s:2:"id";s:3:"119";s:2:"cm";s:3:"226";s:3:"mod";s:5:"label";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"23";s:6:"module";s:2:"13";s:5:"added";s:10:"1737412896";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"4. ‌Les premiers records (1908-1913)";s:7:"content";s:3530:"<div class="no-overflow"><h3 class="s17"><a name="bookmark238"></a>4. ‌Les premiers records (1908-1913)</h3>
+<p><strong><span class="s17">En 1908 </span><span class="s118">: </span>Henri Farman</strong>, sur un avion de <strong>Gabriel Voisin</strong>, réalise <strong>le premier kilomètre homologué en circuit fermé</strong>.</p>
+<p>C’est aussi <strong>Farman </strong>qui réalise la même année<strong>,</strong><strong> le premier vol avec un passager.</strong> Wilbur Wright quant à lui remporte la coupe Michelin et porte le record de distance à 124 km.</p>
+<p><strong><span class="s17">En 1909 </span><span class="s119">: </span>Louis Blériot</strong>, avec son <strong>Blériot XI</strong>, un monoplan de sa fabrication, réalise <strong>la traversée de la Manche</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_449.png" alt="image" width="108" height="160"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_448.jpg" alt="image" width="251" height="165"></p>
+<p></p>
+<p class="s17"><strong>En 1910 <span class="s120">: </span></strong><span class="s4"><strong>Henri Fabre</strong> </span><span class="p">fabrique le premier hydravion (Le « canard ») qui décolle de l’étang de Berre.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_451.jpg" alt="image" width="361" height="180"></p>
+<p class="s17"><strong>En 191O <span class="s120">: </span></strong><span class="s4"><strong>Le général Roques</strong> </span><span class="p">regroupe les services de l’aérostation et de l’aviation militaires. Il officialise le terme avion, en hommage à Clément Ader.</span></p>
+<p class="s17"><strong>En 1911 <span class="s120">: </span></strong><span class="s4"><strong>Eugene Ely</strong> </span><span class="p">réalise le premier appontage sur un croiseur américain dans la baie de San Fransisco.</span></p>
+<p><strong><span class="s17">En 1913 </span><span class="s120">: </span>Roland Garros </strong>traverse la Méditerranée avec un <strong>Morane type H. </strong>La traversée dure 7h53 sur 730 km.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_452.jpg" alt="image" width="259" height="171"></p>
+<p><strong><span class="s17">En 1913 : </span>l’aviateur Adolphe Pégoud</strong>, saute de <strong>son monoplan Blériot en</strong> <strong>parachute</strong>. Il réalise la même année un looping et un vol sur le dos. Il sera le premier As de la 1<span class="s67">ère </span>guerre mondiale (5 victoires).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_453.jpg" alt="image" width="321" height="212"></p>
+<p></p>
+<p>Toujours <span class="s122">en 1913 </span><span class="s123">: </span>l'ingénieur <strong>Deperdussin </strong>permet à Maurice Prévost d'atteindre les 200,8 km/h avec son avion très moderne (aile basse, aucun haubanage et un moteur de 160 cv).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_455.jpg" alt="image" width="366" height="188"></p>
+<p>Tandis qu’<strong>Igor Sikorsky</strong>, fabrique en Russie <strong>le premier quadrimoteur, le Bolchoï.</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_456.jpg" alt="image" width="322" height="203"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_457.png" alt="image" width="848" height="555"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_458.jpg" alt="image" width="849" height="581"></p></div>";}i:320;O:8:"stdClass":17:{s:2:"id";s:3:"147";s:2:"cm";s:3:"320";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"2";s:13:"sectionnumber";s:1:"2";s:9:"sectionid";s:2:"23";s:6:"module";s:2:"17";s:5:"added";s:10:"1743438007";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Évaluez vos connaissances sur la partie 1 : Les débuts";}i:227;O:8:"stdClass":18:{s:2:"id";s:3:"120";s:2:"cm";s:3:"227";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"24";s:6:"module";s:2:"13";s:5:"added";s:10:"1737413503";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:47:"1. ‌La Première Guerre Mondiale (1914-1918)";s:7:"content";s:7641:"<div class="no-overflow"><h3 class="s17"><a name="bookmark240"></a>1. ‌La Première Guerre Mondiale (1914-1918)</h3>
+<p class="s17"><strong>En 1914 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Début de la guerre, les avions militaires sont peu nombreux et servent surtout à l’observation, la surveillance et pour le renseignement.</span></p>
+<p>L’avion est un moyen, plus pratique que le ballon captif, pour voir de l’autre côté de la colline.</p>
+<p>Le 2 septembre, <strong>Louis Bréguet </strong>observe les mouvements de l’armée allemande vers Paris. Il avertit l’état-major et contribue ainsi à la victoire de la Marne.</p>
+<p class="s17">De Février à Décembre 1916 <span class="s120">: </span><span class="s112">La bataille de Verdun fait rage pendant 10 mois et les militaires commencent à voir les possibilités offertes par l’aviation.</span></p>
+<p class="s4" style="text-align: center;">« <i>Balayez-moi le ciel </i>! <i>Je suis aveugle </i>! »<span class="p">.</span></p>
+<p>Et dès lors, l’aviation se procure une place importante dans le conflit (chasse, bombardement) et dans tous ceux qui se dérouleront par la suite.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_460.jpg" alt="image" width="307" height="227"></p>
+<h4 class="s18"><a name="bookmark241"></a>A. ‌Les missions aériennes</h4>
+<h5 class="s8">1. Les Farman et Caudron pour la « Reconnaissance »</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_461.jpg" alt="image" width="389" height="198"></p>
+<p class="s28">Farman MF-11</p>
+<h5 class="s8">2. Les Morane, Nieuport et Spad pour la « Chasse »</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_462.jpg" alt="image" width="346" height="165"></p>
+<p class="s28">Spad XIII</p>
+<p>Mais aussi le Fokker DVII allemand et le Sopwith Camel anglais.</p>
+<h5 class="s8">3. Les Voisin et Breguet pour le « Bombardement »</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_463.jpg" alt="image" width="389" height="173"></p>
+<p class="s28">Breguet XIV</p>
+<p>Mais aussi le Gotha allemand et le de Havilland DH9 anglais.</p>
+<h4 class="s18"><a name="bookmark242"></a>B. ‌Les principaux évènements</h4>
+<p><strong><span class="s17">En 1914 </span><span class="s120">: </span></strong><span class="s112">Le sergent </span><strong>Joseph Frantz </strong>et son mécanicien-mitrailleur, le caporal <strong>Louis Quenault</strong>, à bord de leur biplan <strong>Voisin</strong>, croisent la route d’un <strong>Aviatik</strong> allemand qu’ils parviennent à abattre, remportant ainsi <strong>la première victoire aérienne</strong> de l’histoire.</p>
+<p class="s28" style="text-align: center;">(A l’époque on se tire dessus à la carabine).</p>
+<p><strong><span class="s17">En 1915 </span></strong><span class="s78"><strong>:</strong> </span><strong>Roland Garros </strong>réalise le premier tir avec une mitrailleuse à travers l’hélice de son <strong>Morane</strong> (balles déviées).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_464.jpg" alt="image" width="316" height="166"></p>
+<p>Le système sera perfectionné par Fokker qui synchronisera hélice et mitrailleuse.</p>
+<p><strong><span class="s17">En 1915 </span><span class="s120">: </span></strong><span class="s112">Le premier vol d’un </span><strong>avion entièrement métallique</strong>, <strong>le Junkers J1</strong> (allemand).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_465.jpg" alt="image" width="194" height="135"></p>
+<p class="s112"><strong><span class="s17">En 1916 </span><span class="s120">: </span></strong>Des pilotes volontaires américains se sont regroupés dans une nouvelle escadrille baptisée « <strong>Lafayette</strong> » en souvenir de l’aide des Français pour l’indépendance de ce pays.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_466.jpg" alt="image" width="397" height="210"></p>
+<p><strong><span class="s17">En 1916 </span><span class="s120">: </span>Marcel Bloch </strong>(qui deviendra plus tard <strong>Marcel Dassault</strong>) conçoit <strong>la</strong> <strong>meilleure hélice de l’époque</strong> (l’Eclair).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_467.jpg" alt="image" width="375" height="211"></p>
+<p class="s112"><strong><span class="s17">En 1917 </span><span class="s120">: </span></strong>Un chasseur anglais décolle du pont de<strong> l’HMS Furious</strong>.</p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_468.jpg" alt="image" width="337" height="245"></p>
+<p class="s28" style="text-align: center;">C’est le premier « porte-avion » de l’histoire.</p>
+<p class="s112"><strong><span class="s17">En 1917 </span></strong><span class="s120"><strong>:</strong> </span>L’armée française regroupe les meilleurs pilotes au sein d’une même escadrille « <strong>Les cigognes</strong> ». La Royal Air Force sera créée en 1918, indépendante de l’armée de terre et de la marine.</p>
+<h4 class="s18"><a name="bookmark243"></a>C. ‌Les As de la Première Guerre Mondiale </h4>
+<h5>France</h5>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_472.png" alt="image" width="283" height="184"></p>
+<p class="s125">René Fonck 75 victoires</p>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_473.png" alt="image" width="282" height="230"></p>
+<p class="s125">Georges Guynemer 54 victoires</p>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_474.png" alt="image" width="283" height="217"></p>
+<p></p>
+<p class="s125">Charles Nungesser 45 victoires</p>
+<h5 class="s10">Allemagne</h5>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_476.jpg" alt="image" width="316" height="246"></p>
+<ul>
+<li>Manfred Von Richtofen (le baron rouge, le Cirque Volant) 80 victoires</li>
+<li>Ernst Udet 62 victoires</li>
+<li>Max Immelmann (inventeur d’une figure acrobatique) 17 victoires</li>
+</ul>
+<p></p>
+<h5 class="s10">Anglo-saxons</h5>
+<ul>
+<li>James Mc Cudden (GB) 57 victoires</li>
+<li>Mike Mannock (GB) 50 victoires</li>
+<li>Albert Ball (GB, le Guynemer anglais) 44 victoires</li>
+<li>Billy Bishop (CAN) 72 victoires</li>
+<li>Eddie Rickenbaker (USA) 26 victoires</li>
+</ul>
+<h4 class="s18"><a name="bookmark244"></a>D. ‌Le bilan</h4>
+<ul>
+<li>148 aéronefs en France en 1914, 4 500 en 1918</li>
+<li>52 000 aéronefs et 92 000 moteurs construits en France, 48 000 aéronefs en Allemagne et 40 000 en Grande-Bretagne</li>
+<li>Les moteurs sont passés de 200 à 400 CV, les charges utiles de 250 à 2500 kg.</li>
+</ul>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Histoire d'une arme 1914-1918 : l'aviation</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6q4Mn8xjG0s?si=kTv0THMpTgSUYZjK" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:228;O:8:"stdClass":18:{s:2:"id";s:3:"121";s:2:"cm";s:3:"228";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"24";s:6:"module";s:2:"13";s:5:"added";s:10:"1737414272";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:41:"2. ‌L’Entre-Deux-Guerres (1919-1939)";s:7:"content";s:13616:"<div class="no-overflow"><h3 class="s17"><a name="bookmark245"></a>2. ‌L’Entre-Deux-Guerres (1919-1939)</h3>
+<h4 class="s18"><a name="bookmark246"></a>A. ‌Les grands Raids</h4>
+<h5 class="s17">En 1919 :</h5>
+<ul>
+<li class="s4">Roget <span class="p">et </span>Coli <span class="p">partent de Paris pour rejoindre Kenitra au Maroc.</span></li>
+<li><strong>Alcock </strong>et <strong>Brown </strong>traversent l’Atlantique Nord <strong>sans escale</strong> de Terre Neuve à l’Irlande (3100 km en 16h12) sur Vickers Vimy.</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_478.jpg" alt="image" width="375" height="252"></p>
+<ul>
+<li class="s4"><strong>Poulet</strong> <span class="p">part de Paris pour rejoindre Rangoon.</span></li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_479.png" alt="image" width="346" height="228"></p>
+<p class="s17"><strong>En 1921 : <span class="s4">Adrienne Bolland </span></strong><span class="p">traverse la Cordillères des Andes (6000 m) avec son </span><strong><span class="s8">Caudron G3.</span></strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_481.png" alt="image" width="355" height="206"></p>
+<p class="s8"><strong>Témoignage de cette jeune femme :</strong></p>
+<div class="textbox">
+<p class="s51">« J'ai volé pendant un certain temps, sans rien dans la tête que la peur. De plus, j'avais horriblement froid. Mes moyens ne m'avaient pas permis de m'équiper convenablement et je m'étais couverte tant bien que mal avec un pyjama, une combinaison de coton et un matelas de vieux journaux. J'avais les doigts gelés, malgré le papier-beurre dont j'avais essayé de les envelopper. Pas d'inhalateur, bien sûr, et le col, avec sa statue du Christ, était à 4 080 mètres. Je devais passer vers 4 200. Je volais depuis près de trois heures. J'avais beau avoir pour neuf heures d'essence, je n'en menais pas large. Tout à coup, sur ma droite, j'aperçois des cours d'eau qui coulaient dans l'autre sens. Et tout de suite après, la plaine, avec une grande ville presque droit devant moi. Santiago ? Ce n'était pas certain, mais des villes de cette importance, il me semblait qu'il ne devait pas y en avoir des quantités au Chili.</p>
+<p class="s51">Le temps de me poser la question et j'étais dessus. On m'avait dit que l'aérodrome était à 7 kilomètres de la ville. Je fais un virage à gauche et j'aperçois, sur le terrain, des points qui brillaient sous le soleil. En m'approchant, j'ai compris: on m'attendait avec la musique militaire...</p>
+<p class="s51">Avec mes doigts raides, j'ai eu l'impression que je n'arriverais jamais à me poser sans casse. Mais tout s'est passé on ne peut mieux. On avait étendu sur le terrain trois drapeaux: celui d'Argentine (d'où je venais), celui du Chili et le drapeau français. J'ai touché, hélice calée, au beau milieu de nos couleurs. Je ne l'avais pas fait exprès, mais tout le monde a crié au miracle: «Quelle précision !». »</p>
+</div>
+<p class="s17"><strong>En 1923 <span class="s120">: </span></strong><span class="s112"><strong>Kelly et Mac Ready </strong>réalisent la traversée du continent américain sans escale (4088 Km) entre New-York et San Diego.</span></p>
+<p class="s17"><strong>En 1923 <span class="s120">: </span></strong><span class="s112">C’est aussi le premier ravitaillement en vol réussi.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_483.png" alt="image" width="326" height="246"></p>
+<p><strong><span class="s17">En 1927 </span></strong><span class="s118">: </span><strong>Nungesser et Coli </strong>tentent la traversée de <strong>l’Atlantique Nord </strong>sans escale à bord de leur biplan <strong>Levasseur (L’Oiseau blanc)</strong>. Ils disparaissent en mer.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_484.png" alt="image" width="494" height="370"></p>
+<p>Quelques jours plus tard, <strong>Charles Lindbergh </strong>relie <strong>New York à Paris Le Bourget </strong>avec le <strong>« </strong>Spirit of St Louis », en 33 h 30.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_486.png" alt="image" width="413" height="314"></p>
+<p class="s112"><strong><span class="s17">En 1927 </span><span class="s120">: </span>Costes et Le Brix</strong> traversent l’Atlantique Sud <strong>sans escale</strong> du Sénégal au Brésil sur Breguet 19.</p>
+<p><strong><span class="s17">En 1930 </span><span class="s120">: </span>Coste et Bellonte </strong>avec <strong>le Breguet 19 « Point d’interrogation »</strong> traversent l’Atlantique Nord <strong>de Paris à New York</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_487.png" alt="image" width="450" height="279"></p>
+<p class="s112"><strong><span class="s17">En 1931 </span><span class="s120">: </span></strong>1<span class="s117">ère </span>traversée du Pacifique sans escale entre les USA et le Japon (Panghorn et Herdon)</p>
+<p class="s112"><strong><span class="s17">En 1932 </span><span class="s120">: </span></strong>Une femme réussit<strong> la traversée de l’Atlantique Nord en solitaire</strong> à son tour.</p>
+<p>C’est <strong>Amélia Earhart</strong>. Elle disparaitra en 1937 lors d’une tentative du tour du monde.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_489.png" alt="image" width="465" height="261"></p>
+<p></p>
+<div class="textbox">
+<h5 class="s58">Quelques françaises célèbres</h5>
+<ul>
+<li class="s84"><strong>Maryse Bastié </strong><span class="s55"><strong>:</strong> détentrice de records féminins de distance et durée, traverse l’Atlantique Sud en 1936. Capitaine dans l’armée de l’air.</span></li>
+<li class="s84"><strong>Hélène Boucher </strong><span class="s55"><strong>:</strong> record de vitesse toutes catégories sur 1000 km en 1934 sur Caudron Renault</span></li>
+<li class="s55"><strong>Maryse Hilsz </strong>: record féminin d’altitude en 1936, grande résistante, 1<span class="s126">ère </span>femme reçue dans l’armée de l’air</li>
+</ul>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_488.png" alt="image" width="471" height="192"></p>
+<p class="s55"></p>
+<p class="s55"></p>
+</div>
+<p><strong><span class="s17">En 1938 </span><span class="s120">: </span>Howard Hugues </strong>bat le record du tour du monde en 3 jours 19 heures et 24 mn aux commandes<strong> d’un Lockheed Electra</strong> (le 1<span class="s67">er </span>tour du monde date de 1933).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_490.png" alt="image" width="284" height="338"></p>
+<h4 class="s18"><a name="bookmark247"></a>B. ‌L’Aéropostale</h4>
+<p>Au lendemain de la Première Guerre, la France a énormément d’avions dont elle ne sait que faire.</p>
+<p class="s4"><strong>Pierre Georges Latécoère</strong> <span class="p">a l’idée d’utiliser ces avions pour transporter le courrier dans les colonies française. Il fonde les lignes Latécoère qui deviendront </span>l’<strong>Aéropostale</strong> <span class="p">en 1927.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_491.jpg" alt="image" width="220" height="296"></p>
+<p class="s17"><strong>En 1919 <span class="s120">: </span><span class="s112">Avec le pilote </span><span class="s4">Lemaître, </span></strong><span class="p">il réalise un vol de Toulouse à Casablanca avec une escale à Barcelone Alicante et Malaga.</span></p>
+<p>Il porte au <strong>Maréchal Lyautey, </strong>qui le reçoit sur le champ d’aviation, le Journal "Le Temps", arrivé le matin à Toulouse avec un bouquet de violettes.</p>
+<p>La Ligne est alors née très rapidement, et va se développer dans toute l’Afrique du Nord, Dakar (1925) puis vers l’Argentine et le Brésil (1928). Des pilotes aventuriers vont écrire sa légende : Guillaumet, Mermoz, St Exupéry…</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_492.png" alt="image" width="189" height="410"></p>
+<p></p>
+<p>Le directeur de l’exploitation est <strong>Didier Daurat</strong>.</p>
+<p></p>
+<p><strong><span class="s17">En 1928 </span></strong><span class="s120"><strong>:</strong> </span><strong>Mermoz </strong>traverse<strong> l’Atlantique Sud</strong> avec <strong>un Hydravion (Latécoère 28)</strong> pour le premier vol commercial qui va jusqu’à Buenos Aires.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_494.png" alt="image" width="400" height="200"></p>
+<p class="s17">A partir de 1929 <span class="s118">: </span><span class="s112">Le courrier est acheminé de Buenos Aires à Santiago du Chili en passant les Andes.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_495.png" alt="image" width="412" height="260"></p>
+<div class="textbox">
+<p class="s51">Lors d’une de ses périeuses traversées, <strong>Guillaumet </strong>est obligé de se poser en catastrophe dans les Andes. Devant les éléments déchainés, il passe 48h, blottit entre les sacs de courriers dans les restes de l’avion. Puis il marche, durant 5 jours, dans la neige et le froid avant d’être retrouvé, épuisé et gelé  Dans son livre <strong>« Terre des hommes »</strong> : <strong>Saint Exupéry </strong>rapporte la phrase de son ami lors de leurs retrouvailles : « Ce que j’ai fait, je te le jure, jamais aucune bête ne l’aurait fait ».</p>
+</div>
+<p class="s17"><strong>En 1933 <span class="s120">:</span></strong><span class="s115"> l’<strong>Aéropostale</strong></span><span class="s112"> est intégrée à </span><span class="s115">la <strong>nouvelle compagnie Air France.</strong></span></p>
+<p><strong><span class="s17">En 1936 </span></strong><span class="s120"><strong>:</strong> </span><strong>Mermoz </strong>disparaît aux commandes de <strong>son Latécoère 300</strong> (Croix du sud). Son dernier message :</p>
+<p class="s74">« Coupons… moteur… arrière droit »</p>
+<p style="text-align: center;"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_496.png" alt="image" width="370" height="258"></p>
+<p class="s8" style="text-align: center;">C’est la fin d’une époque et de l’aventure de l’Aéropostale.</p>
+<p class="s17"><strong>A partir de 1930 <span class="s120">: </span></strong><span class="s112">Toutes les grandes explorations sont terminées.</span></p>
+<p>Presque toutes les liaisons ont été faites. L'aviation a perdu un peu de son caractère aventureux et héroïque pour devenir une routine. L'Explorateur est remplacé par le Commandant de bord.</p>
+<h4 class="s18"><a name="bookmark248"></a>C. ‌Les débuts de l’aviation commerciale</h4>
+<p class="s17"><strong>Dès 1919 <span class="s120">: </span></strong><span class="s112">Les techniques ont suffisamment évolué pour permettre d’envisager une exploitation commerciale des avions.</span></p>
+<p>Le <strong>Farman Goliath F 60</strong> relie Paris à Londres avec 11 passagers.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_497.png" alt="image" width="312" height="161"></p>
+<p>Les premières compagnies sont créées <span class="s123">: </span>KLM (1919), Aeroflot (1923), Lufthansa (1926), PanAm (1926), fondée par <strong>Juan Trippe, </strong>TWA (1930), rachetée par <strong>Howard Hughes </strong>en 1939.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_499.png" alt="image" width="351" height="192"></p>
+<p></p>
+<p><strong><span class="s17">En 1933 </span><span class="s78">: </span>Air France </strong>voit le jour, avec le regroupement de cinq compagnies Françaises<strong> (l’Aéropostale, Air Union, Farman, C.I.D.N.A et Air Orient</strong>).</p>
+<p class="s112"><strong><span class="s17">En 1933 </span></strong><span class="s120"><strong>:</strong> </span>1<span class="s117">er </span>vol du Boeing 247, 1<span class="s117">er </span>avion commercial à train escamotable. C’est le début de la suprématie américaine dans l’aviation de transport.</p>
+<p class="s17"><strong>En 1935 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Naissance d’un avion de légende, </span><span class="s115">le </span><span class="s10">DC3 </span><span class="s8">(Dakota en version militaire)</span><span class="p">, conçu par Arthur Raymond.</span></p>
+<p>Il sera construit en 17 000 exemplaires jusqu’aux années 1970.</p>
+<p>C’est un avion rentable pour les compagnies aériennes, capable de transporter 21 passagers à travers les Etats-Unis en faisant une seule escale.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_500.png" alt="image" width="295" height="172"></p>
+<p></p>
+<p>Lors de la 2<span class="s67">ème </span>guerre mondiale, il devient <strong>C-</strong> <strong>47</strong> et sera mobilisé sur tous les champs de batailles.</p>
+<p class="s112"><strong><span class="s17">En 1938 </span></strong><span class="s118"><strong>:</strong> </span><strong>Boeing</strong> sort le <strong>B 307</strong> <strong>Stratoliner</strong>, premier appareil à cabine pressurisée. A partir de ce moment, les avions peuvent voler au-dessus des turbulences<img src="https://bia-facile.fr/manuel-bia-2021_files/Image_502.png" alt="image" width="4" height="1">météorologiques (6000 m), rendant le voyage plus calme et plus sûr.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_501.png" alt="image" width="350" height="193"></p>
+<p></p></div>";}i:229;O:8:"stdClass":18:{s:2:"id";s:3:"122";s:2:"cm";s:3:"229";s:3:"mod";s:5:"label";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"24";s:6:"module";s:2:"13";s:5:"added";s:10:"1737414750";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:60:"3. ‌La Deuxième Guerre Mondiale (1939-1945) ‌L’ava...";s:7:"content";s:10490:"<div class="no-overflow"><h3 class="s17"><a name="bookmark249"></a>3. ‌La Deuxième Guerre Mondiale (1939-1945)</h3>
+<p class="s18"><a name="bookmark250"></a>‌L’avant-guerre</p>
+<p class="s4"><strong><span class="s17">En 1934 </span><span class="s120">: </span><span class="s112">L</span>’Armée de l’Air </strong><span class="p"><strong>est créé. </strong>Elle était avant intégrée dans </span>l’Armée de Terre<span class="p">.</span></p>
+<p><strong><span class="s17">En 1935 </span></strong><span class="s120"><strong>:</strong> </span><strong>L’Armée de l’Air Française </strong>possède 1500 avions et <strong>la Luftwaffe </strong>0 ! (Le traité de Versailles interdisait à l’Allemagne de posséder une aviation militaire <strong>motorisée</strong>).</p>
+<p>Deux ans plus tard la France est passée à 1800 avions et l’Allemagne 5000 avions !</p>
+<p class="s9">Les principaux avions Français de l’époque :</p>
+<ul>
+<li class="s10"><strong>Les chasseurs</strong></li>
+</ul>
+<p class="s28"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_504.png" alt="image" width="336" height="199"> Dewoitine D-520 <img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_505.png" alt="image" width="371" height="199"> Morane-Saulnier MS 406</p>
+<ul>
+<li><strong>Les bombardiers</strong></li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_507.jpg" alt="image" width="310" height="192"></p>
+<p class="s28">Bloch MB200</p>
+<p class="s17"><strong>En 1937 <span class="s119">: </span></strong><span class="s112">Lors de la Guerre Civile en Espagne, </span><span class="s115">la légion Condor de la Luftwaffe </span>d’Hitler<span class="p">, bombarde la ville de Guernica.</span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_508.png" alt="image" width="316" height="222"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_509.png" alt="image" width="143" height="196"></p>
+<p>Ju 87 « Stuka »</p>
+<p>Cette « démonstration de force » de l’aviation Allemande se soldera par 2000 morts et la ville rasée !</p>
+<p class="s112"><strong><span class="s17">En 1939 </span><span class="s120">: </span></strong>L’Allemagne fait voler <strong>le Heinkel 178</strong>, le premier avion à réaction. Les premiers réacteurs sont mis au point en Grande-Bretagne et en Allemagne en 1928.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_510.png" alt="image" width="384" height="160"></p>
+<p>La même année, Fritz Wendel bat le record de vitesse sur Messerschmitt Bf109 : 755 km/h.</p>
+<h4 class="s18"><a name="bookmark251"></a>B. ‌Les principaux évènements</h4>
+<p class="s17">En 1940 <span class="s120">: </span><span class="s112">L’Allemagne envahit la France, la Belgique et la Hollande grâce à sa supériorité sur terre et dans le ciel. C’est aussi la bataille d’Angleterre qui voit s’affronter sur les côtes de la Manche, la Luftwaffe allemande et la chasse anglaise composée :<br></span></p>
+<p class="s17"></p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_511.png" alt="image" width="361" height="305"></p>
+<p class="s28" style="text-align: center;">Spitfire, conçu par Reginald Mitchell et L’Hurricane</p>
+<p class="s28" style="text-align: center;"></p>
+<p></p>
+<p>L’Angleterre stoppe l’aviation allemande lors de la Bataille d’Angleterre.</p>
+<p><strong>L’aviation prend alors un rôle prépondérant dans le conflit, avec un développement</strong> <strong>important des bombardiers stratégiques.</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_512.png" alt="image" width="321" height="161"></p>
+<p>B17 Flying Fortress</p>
+<p class="s112"><strong><span class="s17">En 1941 </span></strong><span class="s120"><strong>:</strong> </span>L’aéronavale japonaise lance une attaque surprise sur la base américaine de <strong>Pearl Harbor</strong> à Hawaii.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_513.png" alt="image" width="185" height="286"></p>
+<p><strong>Cette attaque, plonge les USA dans la Deuxième Guerre</strong> <strong>Mondiale.</strong></p>
+<p class="s112"><strong><span class="s17">En 1942 </span><span class="s120">: </span></strong>La première action contre le Japon est le <strong>Raid</strong> <strong>Doolittle</strong> (bombardement de Tokyo avec des B-25 partis du porte-avion <strong>USS Hornet</strong>).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_514.png" alt="image" width="234" height="154"></p>
+<p class="s112"></p>
+<p><strong>Ce raid fut « une piqure de moustique » pour les Japonais mais qui montra</strong> <strong>l’importance des porte-avions dans le conflit.</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_515.jpg" alt="image" width="287" height="238"></p>
+<p>Les pertes importantes de bombardiers :</p>
+<ul>
+<li>Halifax, Lancaster (Anglais)</li>
+<li>B17, B24 (Américains)</li>
+</ul>
+<p></p>
+<p>Ceci amène les USAAC à développer des avions de chasse d’escorte.</p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_516.jpg" alt="image" width="300" height="205"></p>
+<p style="text-align: center;">P51 Mustang</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_518.jpg" alt="image" width="340" height="240"></p>
+<p style="text-align: center;">P47 Thunderbolt</p>
+<p class="s17"><strong>En 1944 <span class="s120">: </span></strong><span class="s112">Les Allemands mettent en service le premier chasseur à réaction, </span><span class="s115">le Me 262.</span></p>
+<p>Cet avion révolutionnaire atteint 860 Km/h, soit 100 km/h de plus que l’appareil allié le plus rapide.</p>
+<p>Les Britanniques mettent alors en service le chasseur à réaction <strong>« Gloster Météor »</strong> pour intercepter les «bombes volantes » V1 qui ravagent Londres.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_519.png" alt="image" width="303" height="173"></p>
+<p><strong>Le 6 juin 1944 <span class="s120">: </span></strong><span class="s112">Débarquement des troupes alliées en Normandie, avec la participation de 11.000 avions dont 2.400 avions de transports, de troupes et 860 planeurs.</span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_520.png" alt="image" width="337" height="217"></p>
+<p><strong>En 1944 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Disparition en mission </span><span class="s4">d’Antoine de St Exupéry aux commandes de son P38 Lightning au-dessus de la Corse.<br></span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_522.png" alt="image" width="338" height="384"></p>
+<p><strong><span class="s17">Le 6 Août 1945 </span><span class="s78">: </span></strong>Une <strong>forteresse</strong> <strong>volante B-29 "Enola Gay"</strong> pilotée par <strong>Paul W Tibbets </strong>va larguer la première bombe atomique "Little Boy" sur la ville de Hiroshima<strong>.</strong></p>
+<p>Une 2<span class="s67">ème </span>bombe sur Nagasaki mettra un terme au conflit avec le Japon.</p>
+<h4 class="s18"><a name="bookmark252"></a>C. ‌Les As</h4>
+<p>En France, c’est <strong>Pierre Clostermann</strong><span class="s129">, </span><strong>33 victoires</strong><span class="s129">, </span>vu ici dans son Hawker Tempest, qui a raconté ses missions au sein de la RAF dans son livre « <i>Le grand cirque »</i>.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_523.png" alt="image" width="347" height="251"></p>
+<p>L’escadrille Normandie-Niemen est une escadrille de volontaires de la France libre, incorporée à l’armée de l’air russe, volant sur Yak3.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_525.jpg" alt="image" width="308" height="223"></p>
+<p>Chez les allemands : <strong>Erich Hartman</strong>, « le démon noir », 352 victoires et <strong>Adolf Galland</strong>, auteur de « <i>les premiers et les derniers </i>».</p>
+<p>Chez les britanniques, <strong>Douglas Bader</strong>, 45 victoires, amputé des 2 jambes.</p>
+<p>Chez les Russes, les femmes pilotes étaient surnommées « <i>les sorcières de la nuit </i>».</p>
+<h4 class="s18"><a name="bookmark253"></a>D. ‌Le bilan</h4>
+<p>La puissance des moteurs est passée de 1000 à 2500 CV.</p>
+<p><strong>Innovations techniques</strong> : radar, fusée, turboréacteur, instruments de navigation, siège éjectable.</p>
+<p>Le 1<span class="s67">er </span>pilote sauvé est Helmut Schenk en 1942. Le premier véritable essai en vol d’un siège éjectable a lieu en 1946 (Bernard Lynch).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_527.png" alt="image" width="890" height="1235"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_528.jpg" alt="image" width="791" height="538"></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressources vidéo</h3>
+<p><strong>Pearl Harbor, le rôle décisif de l'aéronautique navale</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/zHF5Fa5b0yc?si=5csZLMvd20NPL7CV" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+<p><strong>La bataille d'Angleterre, un tournant décisif</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/t3WYjA1FE4I?si=aXFjzuTdblwg3csS" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div>
+<p></p></div>";}i:321;O:8:"stdClass":17:{s:2:"id";s:3:"148";s:2:"cm";s:3:"321";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"3";s:13:"sectionnumber";s:1:"3";s:9:"sectionid";s:2:"24";s:6:"module";s:2:"17";s:5:"added";s:10:"1743438345";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:72:"Évaluez vos connaissances sur la partie 2 : D’une guerre à l’autre";}i:230;O:8:"stdClass":18:{s:2:"id";s:3:"123";s:2:"cm";s:3:"230";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"25";s:6:"module";s:2:"13";s:5:"added";s:10:"1737414910";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:26:"1. ‌Le « mur » du son";s:7:"content";s:2621:"<div class="no-overflow"><h3 class="s17"><a name="bookmark255"></a>1. ‌Le « mur » du son</h3>
+<p>Après la deuxième guerre mondiale, les avions à réactions sont militaires et s’approchent de la vitesse du son (environ 1100 km/h selon la température).</p>
+<p>Les pilotes qui ont atteint cette vitesse rapportent que l’avion est instable et que les commandes durcissent.</p>
+<p class="s17"><strong>En 1945 <span class="s120">: </span></strong><span class="s112">le pilote allemand Mutke aurait franchi le mur du son lors d’un piqué à 12000 mètres avec son </span><span class="s115">Messerschmitt 262</span></p>
+<p class="s112"><strong><span class="s17">En 1947 </span></strong><span class="s120"><strong>:</strong> </span>La <strong>Société Bell-Aircraft</strong> (USA) mène une série d'essais, pour le compte de <strong>l'US Air-Force.</strong></p>
+<p>L'avion fabriqué, pour cette tentative, était <strong>le Bell X-1</strong>, avion entièrement métallique, et très robuste.</p>
+<p>Pour le dessiner, les ingénieurs s'inspirèrent d'une balle de pistolet Browning. Il était pressurisé et largué d'un B-29 modifié.</p>
+<p class="s130"><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_530.png" alt="image" width="315" height="219"> <img src="https://bia-facile.fr/manuel-bia-2021_files/Image_531.png" alt="image" width="315" height="228"></p>
+<p><strong><span class="s17">En octobre 1947 </span><span class="s120">: </span>Chuck Yeager </strong>aux commandes de <strong>son Bell X1,</strong> grimpe à 12 000m et franchit <strong>le mur du son en piqué</strong>. <i>(Voir le film L’étoffe des héros). </i>Le pilote britannique John Derry fera de même sur un Vampire en 1948.</p>
+<p><strong><span class="s17">En 1952 </span></strong><span class="s120"><strong>:</strong> </span><strong>Roger Carpentier </strong>est le premier pilote français à passer le mur du son <strong>en piqué</strong> sur un <strong>Mystère II.</strong></p>
+<p class="s17"><strong>En 1953 <span class="s120">: </span></strong><span class="s112">Développement du premier </span>avion militaire de série à passer le mur du son en palier, c’est le <strong>Super Sabre F-100 </strong>américain de North Américan.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_533.png" alt="image" width="276" height="161"></p>
+<p></p>
+<p><span class="s17">En 1954 </span><span class="s120">: </span><strong>Kostia Rozanoff </strong>est le premier pilote français (et européen) à passer le mur du son <strong>en palier</strong> sur un <strong>Mystère IV.</strong></p></div>";}i:231;O:8:"stdClass":18:{s:2:"id";s:3:"124";s:2:"cm";s:3:"231";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"25";s:6:"module";s:2:"13";s:5:"added";s:10:"1737415140";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:29:"2. ‌L’aviation militaire";s:7:"content";s:3167:"<div class="no-overflow"><h3 class="s17"><a name="bookmark256"></a>2. ‌L’aviation militaire</h3>
+<p class="s112"><strong><span class="s17">En 1946 </span><span class="s119">: </span></strong>le premier avion à réaction français voit le jour, il s’agit du <strong>SO-6000 Triton</strong> conçu secrètement pendant l'occupation allemande, par Lucien Servanty, le père du futur Concorde.</p>
+<p class="s17"><strong>En 1949 <span class="s120">: </span></strong><span class="s112">Développement du premier chasseur à réaction de série de conception française (</span><span class="s4">Dassault Ouragan</span><span class="p">).</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_534.png" alt="image" width="329" height="204"></p>
+<p><strong><span class="s17">En 1949 </span><span class="s120">: </span></strong><span class="s112"><strong>l</strong>’ingénieur français </span><strong>René Leduc </strong>réalise <strong>le premier avion à tuyère</strong> <strong>thermopropulsive</strong>. <strong>Le statoréacteur est né.</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_536.png" alt="image" width="278" height="217"></p>
+<p>Il équipera par la suite <strong>le SR 71</strong>.</p>
+<p class="s112"><strong><span class="s17">En 1961 <span class="s120">: </span>1<span class="s117">er </span>vol du Harrier, aéronef à décollage et atterrissage verticaux (ADAV). Seul appareil de ce type mis en service avec le Yak38.</span></strong></p>
+<p class="s112"><strong><span class="s17">En 1961 </span></strong><span class="s120"><strong>:</strong> </span>Les français réalisent le premier avion de combat européen capable de passer Mach 2 : <strong>le Mirage III de Dassault</strong>. </p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_537.png" alt="image" width="263" height="197"></p>
+<p class="s112"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_538.png" alt="image" width="250" height="167"></p>
+<p class="s17"><strong>En 1978 <span class="s120">: </span></strong><span class="s4">Dassault </span><span class="p">réalise le premier vol du </span><span class="s8">Mirage 2000.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_539.jpg" alt="image" width="296" height="197"></p>
+<p class="s112"><strong><span class="s17">En 1981 </span><span class="s120">: </span>1<span class="s117">er </span>vol du Lockheed-Martin F117,</strong> avion furtif, dévoilé en 1991 lors de la première guerre du golfe.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_542.png" alt="image" width="253" height="179"></p>
+<p class="s112"><strong><span class="s17">En 1986 </span><span class="s120">: </span></strong>premier vol du <strong>Rafale</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_541.jpg" alt="image" width="270" height="152"></p>
+<div class="textbox">
+<p class="s58">Une française célèbre <strong>Jacqueline Auriol </strong>: 1<span class="s126">ère </span>européenne à franchir Mach 1 sur Mystère II en 1953 puis Mach 2 en 1963 sur Mirage III.</p>
+</div></div>";}i:232;O:8:"stdClass":18:{s:2:"id";s:3:"125";s:2:"cm";s:3:"232";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"25";s:6:"module";s:2:"13";s:5:"added";s:10:"1737415450";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:31:"3. ‌L’aviation commerciale";s:7:"content";s:5935:"<div class="no-overflow"><h3 class="s17"><a name="bookmark257"></a>3. ‌L’aviation commerciale</h3>
+<p class="s17"><strong>En 1946 <span class="s120">: </span></strong><span class="s112">Premiers vols commerciaux transatlantiques (</span><span class="s115"><strong>Lockheed Constellation</strong>)</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_543.png" alt="image" width="383" height="237"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_545.jpg" alt="image" width="291" height="134"></p>
+<p class="s112"><strong><span class="s17">En 1949 </span>: </strong>Les britanniques dévoilent le quadriréacteur De Havilland DH-106 Comet, 1<span class="s117">er </span>avion de ligne à réaction. Il connaît une série d'accidents dus à la pressurisation de la cellule.</p>
+<p class="s112"><strong><span class="s17">En 1957 </span></strong><span class="s120"><strong>:</strong> </span>Le Boeing B 707 effectue son 1<span class="s117">er </span>vol.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_547.png" alt="image" width="413" height="141"></p>
+<p>Cet avion va révolutionner le transport aérien et sera construit en 9000 exemplaires ! Sa forme est celle de quasiment tous les avions de transport de passagers depuis lors (ailes en flèche, réacteurs séparés et disposés sous la voilure).</p>
+<p class="s112"><strong><span class="s17">En 1955 </span><span class="s120">: </span></strong>La France réalise son <strong>premier avion de ligne à réaction :</strong> <strong>La</strong> <strong>Caravelle</strong>, dont les deux réacteurs sont accrochés à l’arrière de l’appareil, ce qui sera repris par de nombreux constructeurs.</p>
+<p>L’appareil sera produit en 280 exemplaires et sera exploité par Air Inter jusqu’en 1991.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_548.png" alt="image" width="313" height="209"></p>
+<p><strong>En 1963 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Dassault développe un avion d’affaire en appliquant des solutions techniques éprouvées sur ses avions militaires. Il reprend aussi l’idée de Sud Aviation pour la Caravelle des moteurs à l’arrière de l’appareil. Dans un premier temps baptisé Mystère 20, il portera le nom de </span><span class="s4">Falcon 20</span><span class="p">, plus facile à prononcer pour les Américains.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_549.png" alt="image" width="291" height="194"></p>
+<p class="s17"><strong><span class="s17">En 1968 </span><span class="s120">: </span></strong>C’est la course à l’avion supersonique ! Et ce sont les russes avec le <strong>Tupolev 144</strong> qui réalisent le premier vol.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_550.png" alt="image" width="312" height="234"></p>
+<p>Un accident au Bourget retarde sa mise en service. Un autre accident, en 1978, réduit l’utilisation des appareils produits au transport de fret et de passagers dans l’espace soviétique.</p>
+<p class="s112"><strong><span class="s17">En 1969 </span><span class="s120">: </span></strong>C’est le premier vol d’essai du <strong>Concorde</strong> à Toulouse-Blagnac avec <strong>André Turcat </strong><span class="p">aux commandes.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_551.jpg" alt="image" width="298" height="207"></p>
+<p class="s8">C’est le début de l’exploitation d’avions supersoniques pour le transport de passagers.</p>
+<p>En 1976, les vols commerciaux débutent et s’achèveront en 2003.</p>
+<p>Le coût du carburant, de l’entretien et l’accident de l’an 2000, ont eu raison du bel oiseau blanc.</p>
+<p><strong>En 1969 <span class="s120">: </span></strong><span class="s115">Le  Boeing  747</span><span class="s112"> vole pour la première fois. Les premiers exemplaires seront livrés un an plus tard à Air France pour la ligne Paris – New York.<br></span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_552.png" alt="image" width="305" height="215"></p>
+<p class="s112"><strong><span class="s17">En 1969 </span><span class="s120">: </span></strong>Pour lutter contre la concurrence américaine, les Européens créèrent <strong>Airbus-Industries</strong>, consortium qui regroupe la France, l'Allemagne, le Royaume-Uni, l'Espagne.</p>
+<p class="s112"><strong><span class="s17">En 1972 </span></strong><span class="s119"><strong>:</strong> </span>C’est <strong>le premier vol du A300</strong> qui lance l’histoire d’Airbus. Il entre en service chez Air-France en 1974. Son principal rival sera le B767.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_553.png" alt="image" width="330" height="175"></p>
+<p class="s112"><strong><span class="s17">En 1987 </span><span class="s120">: </span></strong>Airbus lance <strong>le A 320</strong>, le premier avion à commandes de vol électriques et un équipage limité à 2.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_554.png" alt="image" width="385" height="201"></p>
+<p class="s112"><strong><span class="s17">En 1991 </span><span class="s120">: </span></strong>1er de l’Airbus A340 1<span class="s117">er </span>quadriréacteur d’Airbus. Boeing ripostera avec le B777.</p>
+<p class="s112"><strong><span class="s17">En 2005 </span></strong><span class="s120"><strong>:</strong> </span>1<span class="s117">er </span>vol de l’A380, très gros porteur, rival du B747.</p>
+<p class="s17"><strong>En 2013 <span class="s120">: </span></strong><span class="s112">C’est le premier vol du A350, avion réalisé en grande partie en matériaux </span>« composites (fibres de carbone).</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_555.jpg" alt="image" width="257" height="179"></p>
+<p class="s17"></p></div>";}i:233;O:8:"stdClass":18:{s:2:"id";s:3:"126";s:2:"cm";s:3:"233";s:3:"mod";s:5:"label";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"25";s:6:"module";s:2:"13";s:5:"added";s:10:"1737415827";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:54:"4. ‌Les hélicoptères et les avions expérimentaux";s:7:"content";s:2875:"<div class="no-overflow"><h3 class="s17"><a name="bookmark258"></a>4. ‌Les hélicoptères et les avions expérimentaux</h3>
+<h4 class="s18"><a name="bookmark259"></a>A. ‌Les hélicoptères</h4>
+<p class="s17"><strong>En 1923 </strong><span class="s112"><strong>Juan de la Cierva </strong>invente l’autogire</span></p>
+<p class="s17"><strong>En 1939 </strong><span class="s112"><strong>Igor Sikorsky </strong>met au point le premier hélicoptère moderne, le VS300 équipé d’un seul rotor principal et d’un rotor de queue.</span></p>
+<p class="s17"><strong>En 1955 </strong><span class="s112"><strong>L’Alouette II </strong>est le premier hélicoptère au monde équipé d’une turbine à gaz. Jean Boulet battra en 1972 le record d’altitude à 12 442 mètres à Istres.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_556.jpg" alt="image" width="273" height="147"></p>
+<h4 class="s18"><a name="bookmark260"></a>B. ‌Les avions expérimentaux</h4>
+<p class="s17"><strong>En 1963 <span class="s120">: </span></strong><span class="s112"><strong>Le X15</strong> (avion fusée) atteint 107 960 mètres et Mach 6,7 en 1967.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_557.jpg" alt="image" width="222" height="174"></p>
+<p><strong>En 1979 <span class="s120">: </span></strong><span class="s112"><strong>Le Gossamer Albatross </strong>(avion à pédale) traverse la Manche en 2h49.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_558.jpg" alt="image" width="213" height="170"></p>
+<p><strong><span class="s17">En 1986 </span>: Dick Rutan et Jeanna Yeager</strong> réalisent le 1<span class="s117">er </span>tour du monde sans escale ni ravitaillement sur Voyager</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_559.jpg" alt="image" width="233" height="209"></p>
+<p class="s17"><strong>En 2004 <span class="s120">: </span></strong><span class="s112"><strong>Le X43 </strong>(statoréacteur) atteint Mach 10</span></p>
+<p class="s17"><strong>En 2015 : </strong><span class="s112"><strong>L’E-fan d’Airbus et le Cri-Cri électrique</strong> traversent chacun la Manche</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_560.png" alt="image" width="482" height="163"></p>
+<p class="s17"><strong>En 2016 </strong><span class="s112"><strong>: Solar Impulse II </strong>boucle son tour du monde, avec comme pilotes André Borschberg et Bertrand Picard.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_561.jpg" alt="image" width="653" height="359"></p>
+<p class="s131"></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/353/mod_label/intro/Capture%20d%E2%80%99%C3%A9cran%20du%202025-01-21%2000-28-43.png" alt="après guerre à nos jours" width="1251" height="1505"></p></div>";}i:322;O:8:"stdClass":17:{s:2:"id";s:3:"149";s:2:"cm";s:3:"322";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"4";s:13:"sectionnumber";s:1:"4";s:9:"sectionid";s:2:"25";s:6:"module";s:2:"17";s:5:"added";s:10:"1743438696";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:39:"Évaluez vos connaissances sur ce cours";}i:234;O:8:"stdClass":18:{s:2:"id";s:3:"127";s:2:"cm";s:3:"234";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"26";s:6:"module";s:2:"13";s:5:"added";s:10:"1737415936";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:23:"1. ‌Les précurseurs";s:7:"content";s:1477:"<div class="no-overflow"><h3 class="s17"><a name="bookmark262"></a>1. ‌Les précurseurs</h3>
+<p class="s17"><strong>En 1903 : <span class="s4">Constantin Tsiolkovski</span></strong><span class="p"><strong>,</strong> scientifique russe, décrit le principe d’une fusée assez puissante pour se libérer de l’attraction terrestre et atteindre d’autres planètes.</span></p>
+<p>Il aborde alors la forme de la chambre de combustion, le guidage de la trajectoire de la fusée, … Tous ses principes seront repris par la suite.</p>
+<p class="s181" style="text-align: center;">« <span class="s28">La Terre est le berceau de l'Humanité, mais on ne passe pas sa vie dans un berceau</span>. »</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_584.jpg" alt="image" width="280" height="199"></p>
+<p class="s112"><strong><span class="s17">En 1926 </span><span class="s120">: </span></strong>L’américain Robert Goddard fait voler la 1<span class="s117">ère </span>fusée à propergols liquides</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_585.png" alt="image" width="185" height="227"></p>
+<p class="s112"></p>
+<p class="s17"><strong>En 1942 <span class="s119">: </span><span class="s4">Wernher von Braun </span></strong><span class="p">contribue au lancement de la fusée V2 qui atteint 85 km !</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_586.jpg" alt="image" width="205" height="147"></p></div>";}i:235;O:8:"stdClass":18:{s:2:"id";s:3:"128";s:2:"cm";s:3:"235";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"26";s:6:"module";s:2:"13";s:5:"added";s:10:"1737416111";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:40:"2. ‌De Spoutnik à Apollo (1957-1972)";s:7:"content";s:4075:"<div class="no-overflow"><h3 class="s17"><a name="bookmark263"></a>2. ‌De Spoutnik à Apollo (1957-1972)</h3>
+<p class="s112"><strong><span class="s17">En 1957 </span></strong><span class="s120"><strong>:</strong> </span>Les Russes lancent <strong>le premier satellite artificiel</strong>, « Spoutnik 1 » qui tourne autour de la terre à une altitude comprise entre 258 et 947 km. Il mesure 58 cm de diamètre et pèse 83,6 kg. Il est lancé par la fusée R7, mise au point par <strong>Serguei Korolev</strong><span class="p">.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_588.png" alt="image" width="336" height="234"></p>
+<p>Il s’en suivra « Spoutnik 2 » et la chienne <strong>Laïka </strong>à bord le mois suivant.</p>
+<p><strong><span class="s17">En 1961 </span></strong><span class="s120"><strong>:</strong> </span><strong>Youri Gagarine </strong>à bord de <strong>Vostok 1</strong> est <strong>le</strong> <strong>premier homme dans l’espace</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_589.png" alt="image" width="194" height="276"></p>
+<p></p>
+<p class="s17"><strong>En 1961 <span class="s120">: </span></strong><span class="s112">Le premier astronaute américain est </span>Alan Shepard.</p>
+<p>Il fait partie du premier programme spatial américain : <strong>Mercury </strong>qui sera suivi de <strong>Gemini </strong>puis <strong>Apollo</strong>.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_591.png" alt="image" width="255" height="163"></p>
+<p></p>
+<p class="s17"><strong>En juillet 1962 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Le premier satellite de télécommunication américain « Telstar ». Ce satellite sera l’inspiration du personnage emblématique de <strong>Star Wars</strong> : R2-D2<br></span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_593.png" alt="image" width="74" height="98"></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_592.png" alt="image" width="138" height="173"></p>
+<p class="s17"><strong>En 1963 <span class="s118">: </span></strong><span class="s112">La 1ère femme (russe) est mise en orbite dans Vostok 6 : Valentina </span><span class="s4">Terechkova.</span></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_594.png" alt="image" width="215" height="201"></p>
+<p class="s112"><strong><span class="s17">En 1965 </span><span class="s120">: </span></strong>1<span class="s117">ère </span>sortie extra-véhiculaire (<strong>Alexei Leonov</strong><span class="p">)</span></p>
+<p class="s112"><strong><span class="s17">En 1965 </span><span class="s120">: </span>Diamant A :</strong> fusée française qui lance le premier satellite français (Astérix). La France devient la 3<span class="s117">ème </span>puissance spatiale.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_595.png" alt="image" width="274" height="179"></p>
+<p class="s112"></p>
+<p class="s112"><strong><span class="s17">En 1969 </span><span class="s118">: </span>L</strong>e programme <strong>Apollo</strong> permet la conquête de la lune.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_597.png" alt="image" width="256" height="204"></p>
+<p class="s4"><strong>Apollo 11 <span class="p">: </span>Neil Armstrong</strong> <span class="p">est le premier homme à marcher sur la lune.</span></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_598.png" alt="image" width="168" height="213"></p>
+<p class="s4" style="text-align: center;"></p>
+<p class="s182" style="text-align: center;">« <span class="s86">C’est un petit pas pour l’homme, mais un pas de géant pour l’humanité </span>»</p>
+<p>La fusée Saturn V construite par Wernher Von Braun effectua son 1<span class="s67">er </span>vol en 1967.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_599.png" alt="image" width="392" height="139"></p></div>";}i:236;O:8:"stdClass":18:{s:2:"id";s:3:"129";s:2:"cm";s:3:"236";s:3:"mod";s:5:"label";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"26";s:6:"module";s:2:"13";s:5:"added";s:10:"1737416514";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:49:"3. ‌De Skylab à l’ISS (1973- aujourd’hui)";s:7:"content";s:3306:"<div class="no-overflow"><h3 class="s17"><a name="bookmark264"></a>3. ‌De Skylab à l’ISS (1973- aujourd’hui)</h3>
+<p class="s17"><strong>En 1971<span class="s120">, </span></strong><span class="s112"><strong>Saliout 1</strong> (URSS) est la première station orbitale. Les USA lanceront Skylab en 1973.</span></p>
+<p class="s17"><strong>En 1979 <span class="s120">: </span></strong><span class="s112"><strong>Le premier vol d’Ariane (</strong>lanceur Européen) depuis Kourou.</span></p>
+<p class="s17"><strong>En Avril 1981 <span class="s120">: </span><span class="s112">La Première navette spatiale américaine : </span><span class="s115">Columbia</span></strong></p>
+<p>Il y aura en tout 135 missions jusqu’en 2011 et 2 accidents majeurs (destruction de Challenger en 1986 et Columbia en 2003). Une navette russe, Buran, volera 1 seule fois en 1988</p>
+<p class="s37"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_601.png" alt="image" width="325" height="215"> <img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_602.png" alt="image" width="227" height="184"></p>
+<p class="s37"><strong><span class="s17">En Juin 1982 </span></strong><span class="s120"><strong>:</strong> </span><span class="s112">Le Premier Astronaute Français: </span><strong>Jean Loup Chrétien </strong>rejoint la station Russe « Saliout 7 » à bord de <strong>Soyouz T6</strong>.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_603.png" alt="image" width="310" height="414"></p>
+<p class="s17"><strong>En 1996 <span class="s120">: </span></strong><span class="s112">La première française dans l’espace est </span><strong><span class="s4">Claudie Haigneré. </span></strong><span class="p">Elle séjourne 14 jours à bord de la station Mir.</span></p>
+<p class="s17"><strong>En 1998 </strong><span class="s120"><strong>:</strong> </span><span class="s112">Lancement du 1er élément de la Station Spatiale Internationale (ISS). Le premier équipage arrivera en 2000.</span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_605.png" alt="image" width="342" height="283"></p>
+<p class="s112"><strong><span class="s17">En 2003 </span><span class="s120">:</span></strong> Yang Livei est le 1<span class="s117">er </span>taïkonaute Chinois dans l’espace</p>
+<p class="s17"><strong>En 2015 </strong><span class="s120"><strong>:</strong> </span><span class="s112">le premier étage de<strong> Falcon 9 (Space X) retourne sur son pas de tir.</strong></span></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_606.jpg" alt="image" width="976" height="678"></p>
+<p></p>
+<div class="ressource-video" style="background-color: black; color: white; padding: 20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Histoire de l'aviation : les défis de l'espace</strong></p>
+<p><iframe title="YouTube video player" src="https://www.youtube-nocookie.com/embed/zB_-syELS_M?si=zxlHbNBeI3pcTLzw" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" referrerpolicy="strict-origin-when-cross-origin"></iframe></p>
+</div></div>";}i:323;O:8:"stdClass":17:{s:2:"id";s:3:"150";s:2:"cm";s:3:"323";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"5";s:13:"sectionnumber";s:1:"5";s:9:"sectionid";s:2:"26";s:6:"module";s:2:"17";s:5:"added";s:10:"1743439155";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:71:"Évaluez vos connaissances sur la partie 4 : La conquête de l’espace";}i:440;O:8:"stdClass":17:{s:2:"id";s:3:"227";s:2:"cm";s:3:"440";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1740383328";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2025";}i:250;O:8:"stdClass":17:{s:2:"id";s:2:"81";s:2:"cm";s:3:"250";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1740383328";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:249;O:8:"stdClass":17:{s:2:"id";s:2:"80";s:2:"cm";s:3:"249";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1737416732";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:237;O:8:"stdClass":17:{s:2:"id";s:2:"68";s:2:"cm";s:3:"237";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1737416732";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2024";}i:253;O:8:"stdClass":17:{s:2:"id";s:2:"83";s:2:"cm";s:3:"253";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1741288469";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2023";}i:340;O:8:"stdClass":17:{s:2:"id";s:3:"167";s:2:"cm";s:3:"340";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1744876936";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2022";}i:341;O:8:"stdClass":17:{s:2:"id";s:3:"168";s:2:"cm";s:3:"341";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1744880167";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2021";}i:342;O:8:"stdClass":17:{s:2:"id";s:3:"169";s:2:"cm";s:3:"342";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1744880323";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:12:"Annales 2020";}i:395;O:8:"stdClass":16:{s:2:"id";s:3:"209";s:2:"cm";s:3:"395";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"7";s:13:"sectionnumber";s:1:"7";s:9:"sectionid";s:2:"71";s:6:"module";s:2:"17";s:5:"added";s:10:"1755333717";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:4:"test";}i:245;O:8:"stdClass":17:{s:2:"id";s:2:"76";s:2:"cm";s:3:"245";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"72";s:6:"module";s:2:"17";s:5:"added";s:10:"1737502355";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:14:"Lancez le test";}i:278;O:8:"stdClass":17:{s:2:"id";s:3:"107";s:2:"cm";s:3:"278";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"72";s:6:"module";s:2:"17";s:5:"added";s:10:"1741562486";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:56:"Passez au niveau suivant avec cinq nouvelles questions !";}i:279;O:8:"stdClass":17:{s:2:"id";s:3:"108";s:2:"cm";s:3:"279";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"72";s:6:"module";s:2:"17";s:5:"added";s:10:"1741562586";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:94:"Testez si vous êtes prêt avec 10 questions et atteignez 100 % de certitude à votre niveau !";}i:314;O:8:"stdClass":17:{s:2:"id";s:3:"141";s:2:"cm";s:3:"314";s:3:"mod";s:4:"quiz";s:7:"section";s:1:"8";s:13:"sectionnumber";s:1:"8";s:9:"sectionid";s:2:"72";s:6:"module";s:2:"17";s:5:"added";s:10:"1743102080";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"2";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:26:"Le défi des 100 questions";}}s:12:"sectioncache";a:9:{i:22;O:8:"stdClass":6:{s:2:"id";s:2:"22";s:7:"section";s:1:"0";s:4:"name";s:12:"Introduction";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:115;O:8:"stdClass":6:{s:2:"id";s:3:"115";s:7:"section";s:1:"1";s:4:"name";s:16:"Les TD en classe";s:12:"availability";s:56:"{"op":"&","c":[{"type":"group","id":73}],"showc":[true]}";s:9:"component";N;s:6:"itemid";N;}i:23;O:8:"stdClass":6:{s:2:"id";s:2:"23";s:7:"section";s:1:"2";s:4:"name";s:28:"Cours partie 1 : Les débuts";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:24;O:8:"stdClass":6:{s:2:"id";s:2:"24";s:7:"section";s:1:"3";s:4:"name";s:44:"Cours partie 2 : D’une guerre à l’autre";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:25;O:8:"stdClass":6:{s:2:"id";s:2:"25";s:7:"section";s:1:"4";s:4:"name";s:37:"Cours partie 3 : De 1945 à nos jours";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:26;O:8:"stdClass":6:{s:2:"id";s:2:"26";s:7:"section";s:1:"5";s:4:"name";s:43:"Cours partie 4 : La conquête de l’espace";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:94;O:8:"stdClass":7:{s:2:"id";s:2:"94";s:7:"section";s:1:"6";s:4:"name";s:47:"Frise chronologique de l'histoire de l'aviation";s:7:"summary";s:32788:"<div class="timeline">
+<div class="event"><span class="year">1752</span> – En 1752 Benjamin Franklin démontre l'origine électrique de la foudre à l'aide d'un cerf volant en vol dans un ciel d'orage. </div>
+<div class="event"><span class="year">1783</span> – Le ballon qui transporta pour la première fois des êtres humains en 1783 était gonflé : à l'air chaud.</div>
+<div class="event"><span class="year">1783</span> – En 1783, le premier vol d'un ballon à air chaud est rendu possible grâce au travail des frères : Montgolfier.</div>
+<div class="event"><span class="year">1783</span> – La première ascension en ballon gonflé à l'air chaud en 1783 est effectuée par : Pilâtre de Rozier et le marquis d'Arlandes.</div>
+<div class="event"><span class="year">1783</span> – Le 21 novembre 1783, Benjamin Franklin était au Bois de Boulogne pour être le témoin d'un évènement : Pilatre de Rozier and his friend the marquis d'Arlandes, were planning to ascend in a Montgolfier air balloon.</div>
+<div class="event"><span class="year">1783</span> – Le physicien Jacques CHARLES conçoit et essaye le ballon à hydrogène sur le Champ de Mars en l'année : 1783.</div>
+<div class="event"><span class="year">1785</span> – La première traversée de la Manche avec un aéronef a été réalisée : en 1785 par Jean-Pierre BLANCHARD et John JEFFRIES.</div>
+<div class="event"><span class="year">1794</span> – La Compagnie des aérostiers, première unité aérienne du monde s'est illustrée en utilisant des ballons d'observation : en 1794, lors de la bataille de Fleurus.</div>
+<div class="event"><span class="year">1796</span> – En 1796, un homme fut le premier à représenter les forces aérodynamiques. Il s'agit de : Georges CAYLEY.</div>
+<div class="event"><span class="year">1797</span> – En 1797, un aérostier effectue depuis la nacelle d'une montgolfière le premier saut en parachute de l'Histoire. Cet aéronaute s'appelle : André-Jacques Garnerin.</div>
+<div class="event"><span class="year">1804</span> – En 1804, le physicien et chimiste GAY LUSSAC effectue deux ascensions en ballon dans le but : les trois propositions ci-dessus sont exactes.</div>
+<div class="event"><span class="year">1852</span> – Le 24 septembre 1852,un appareil volant piloté par Henry Giffard effectue une première. Il s'agit : du premier vol en dirigeable.</div>
+<div class="event"><span class="year">1852</span> – Le premier vol d'un dirigeable fut réalisé en 1852, ce dirigeable était piloté par : Henry GIFFARD.</div>
+<div class="event"><span class="year">1857</span> – En 1857, le Français Félix DU TEMPLE est resté dans l'Histoire de l'aéronautique pour avoir : réussi le décollage autonome d'un aérodyne modèle réduit.</div>
+<div class="event"><span class="year">1858</span> – En 1858, Felix Tournachon dit "Nadar", fut le premier à réussir depuis la nacelle d'un ballon à gaz : une photographie aérienne de Paris.</div>
+<div class="event"><span class="year">1871</span> – En 1871, Paris est assiégé par les prussiens. Toutefois, Léon Gambetta ministre du gouvernement provisoire parvient à s'évader grâce à : un ballon à gaz.</div>
+<div class="event"><span class="year">1890</span> – Clément ADER a : réussi le premier décollage d'un plus lourd que l'air motorisé en 1890 (l'Eole), son aile ressemble à une aile : de chauve-souris.</div>
+<div class="event"><span class="year">1893</span> – Le terme « cellule d'un avion » provient de l'invention en 1893, du cerf-volant cellulaire. Ce cerf-volant est l'invention de : Laurence HARGRAVE.</div>
+<div class="event"><span class="year">1894</span> – L'aile à structure cellulaire, aujourd'hui très utilisée pour les voilures souples (parapentes et paramoteur), est dérivée du cerf-volant mis au point en 1894 par l'ingénieur : Lawrence HARGRAVE.</div>
+<div class="event"><span class="year">1900</span> – Début 1900, quels frères célèbres sont les pionniers de l’aviation : les frères WRIGHT.</div>
+<div class="event"><span class="year">1901</span> – Le premier dirigeable qui, partant de Saint-Cloud, parvint à contourner la Tour Eiffel en 1901 était piloté par : Alberto Santos Dumont.</div>
+<div class="event"><span class="year">1903</span> – En 1903, les frères Wright ont réalisé le premier vol : d'un "plus lourd que l'air" motorisé. Le premier vol du Flyer des frères Wright s'est déroulé aux États-Unis</div>
+<div class="event"><span class="year">1906</span> – On considère généralement que le manche à balai a été inventé en 1906 par : Robert ESNAUT-PELTERIE.</div>
+<div class="event"><span class="year">1907</span> – En 1907, Santos-Dumont conçoit un aéroplane qu'il construit en série, et qu'il appelle : Demoiselle.</div>
+<div class="event"><span class="year">1907</span> – En 1907, une machine à 2 rotors s’élève de 1,5 mètre marquant ainsi la naissance de l'hélicoptère. Son inventeur s'appelle Paul Cornu.</div>
+<div class="event"><span class="year">1907</span> – En 1907, Santos-Dumont conçut un aéroplane construit en série et commercialisé. Il s'agit de : la Demoiselle.</div>
+<div class="event"><span class="year">1907</span> – Louis Breguet, connu pour ses avions, développa en 1907 le gyroplane Breguet Richet N°1, il s’agissait d’un : quadri rotor monomoteur.</div>
+<div class="event"><span class="year">1907</span> – En 1907, Paul Cornu décolle avec un engin de son invention : l'hélicoptère.</div>
+<div class="event"><span class="year">1908</span> – Les premières liaisons commerciales aériennes avec passagers ont commencé : en 1908 avec des dirigeables.</div>
+<div class="event"><span class="year">1908</span> – L'un de ces événements aéronautiques a été réalisé en 1908. Indiquez lequel : Le kilomètre en circuit fermé, par Henry Farman.</div>
+<div class="event"><span class="year">1909</span> – En 1909, l'aviateur Louis Blériot se rend célèbre en traversant la Manche.</div>
+<div class="event"><span class="year">1910</span> – En 1910, Henri Fabre effectue une première mondiale en décollant d'un hydravion sur l'étang de Berre, en Provence.</div>
+<div class="event"><span class="year">1910</span> – En 1910 est créée l'Inspection de l'aéronautique militaire, avec pour chef le Général ROQUES.</div>
+<div class="event"><span class="year">1910</span> – Le 1er janvier 1910, les seize premiers brevets sont décernés, sans examen, à des aviateurs confirmés. Cette liste est rédigée dans l’ordre alphabétique des pilotes. Le brevet n°1 incombe à Louis BLERIOT.</div>
+<div class="event"><span class="year">1910</span> – L'ancêtre du simulateur de vol était destiné aux pilotes des avions Antoinette en 1910, il était : fabriqué à partir d'un tonneau de vin scié en deux et réassemblé à l'envers.</div>
+<div class="event"><span class="year">1912</span> – Ce brillant ingénieur fut le concepteur du monocoque Deperdussin qui, grâce son aérodynamique et de la supériorité en ce domaine du monoplan sur le multiplan. Il dépasse les 200 km/h en 1912. Il conçu également les célèbres avions de chasse "SPAD" qui s'illustrèrent durant la guerre de 14-18. Il s'agit de : Louis BECHEREAU.</div>
+<div class="event"><span class="year">1913</span> – L'une de ces performances aéronautiques a été réalisée en 1913. Laquelle : la traversée de la Méditerranée par Roland Garros.</div>
+<div class="event"><span class="year">1913</span> – Le pilote français PEGOUD réalise en 1913 une première mondiale. Laquelle : le premier looping à bord de son Blériot XI.</div>
+<div class="event"><span class="year">1913</span> – Par qui a été effectuée la première traversée de la Méditerranée entre Saint-Raphaël et Bizerte en 1913 : Roland GARROS.</div>
+<div class="event"><span class="year">1914</span> – Pendant la Grande Guerre (1914-1918), l'escadrille française la plus prestigieuse, celle où servirent Guynemer et Fonck, et qui existe toujours avait pour emblème : la cigogne.</div>
+<div class="event"><span class="year">1914</span> – En 1914, l'avion avait vaincu tous ces obstacles, sauf un, lequel : les Andes.</div>
+<div class="event"><span class="year">1914</span> – Le plus célèbre des avions de chasse de la guerre de 1914-1918 est le : SPAD XIII.</div>
+<div class="event"><span class="year">1914</span> – Le pilote de chasse qui détient le plus grand nombre de victoires confirmées en 1914-1918 s'appelle : Manfred Von Richtoffen.</div>
+<div class="event"><span class="year">1914</span> – Vers 1914, Lawrence Sperry met au point : le premier pilote automatique.</div>
+<div class="event"><span class="year">1915</span> – Le premier avion "tout métal" entièrement revêtu (aile et fuselage) est né en 1915. Cet appareil est : le monomoteur Junkers « J-1 ».</div>
+<div class="event"><span class="year">1915</span> – En 1915, le tir synchronisé de la mitrailleuse à travers l'hélice a été mis au point par : Antony FOKKER.</div>
+<div class="event"><span class="year">1915</span> – Le premier avion métallique de l'histoire est né en 1915. Cet appareil est : Le monomoteur Junkers «J-1».</div>
+<div class="event"><span class="year">1916</span> – En 1916, Marcel Dassault (qui s'appelait Marcel Bloch à l'époque) a conçu : une hélice "l'éclaire".</div>
+<div class="event"><span class="year">1917</span> – Le premier appontage d'un avion de chasse sur un porte-avions a eu lieu en 1917 par un avion : Sopwith Pup.</div>
+<div class="event"><span class="year">1917</span> – En 1917, l'as allemand Mandfred Von Richtofen s'illustre aux commandes de son Fokker DRI. Cet avion connu pour sa maniabilité était équipé de : trois ailes.</div>
+<div class="event"><span class="year">1917</span> – L'escadrille que commandait Manfred VON RICHTOFEN en 1917-1918 était appelée : le Cirque Volant.</div>
+<div class="event"><span class="year">1918</span> – Dès novembre 1918, profitant des avancées techniques issues de la Grande Guerre, Pierre Latécoère fonde l'Aéropostale avec des avions Breguet XIV.. Elle a pour but de développer des lignes aériennes vers : l'Afrique et l'Amérique du Sud.</div>
+<div class="event"><span class="year">1919</span> – Les premières liaisons commerciales aériennes sont apparues : entre les deux guerres mondiales, dès les années 1919 et 1920.</div>
+<div class="event"><span class="year">1920</span> – Il y a 100 ans, en 1920, toute jeune brevetée, René Caudron l'engage et en fait la première femme pilote d'essai. Elle passe à la postérité pour avoir vaincu la Cordillère des Andes en 1921 un an plus tard. Elle s'appelait : Adrienne Bolland.</div>
+<div class="event"><span class="year">1920</span> – Le directeur d'exploitation des ligues de l'aéropostale de 1920 à 1931 était : Didier DAURAT.</div>
+<div class="event"><span class="year">1920</span> – Dans les années 1920, la recherche s'oriente en particulier vers le pilotage sans visibilité. Le premier instrument étudié à cet effet et utilisé par Lindbergh lors de sa célèbre traversée de l'Atlantique, est : le contrôleur de vol Badin.</div>
+<div class="event"><span class="year">1926</span> – Le premier lancement d’une fusée à propergol liquide a été effectué : en 1926 par GODDARD.</div>
+<div class="event"><span class="year">1927</span> – Charles Lindbergh a traversé l'Atlantique nord : d'Ouest en Est en 1927 à bord du Spirit of Saint Louis il se pose : au Bourget.</div>
+<div class="event"><span class="year">1927</span> – Lors de son illustre vol New-York-Paris de mai 1927, Charles Lindbergh : devait se servir d'un périscope pour voir devant lui.</div>
+<div class="event"><span class="year">1928</span> – Les premières inventions de la propulsion à réaction ont eu lieu dans l'Entre-deux-guerre : c'est l'Anglais Franck Whittle qui invente le turboréacteur 1928.</div>
+<div class="event"><span class="year">1929</span> – En juin 1929, l'avion transatlantique l'« Oiseau Canari » a été contraint de se dérouter vers l'Espagne alors que sa destination initiale était Paris à cause : de la surcharge résultant d'un passager clandestin.</div>
+<div class="event"><span class="year">1929</span> – En 1929, un équipage français réussit la première traversée de l’Atlantique Nord dans le sens Etats Unis - Europe aux commandes du : Bernard 191 « Oiseau Canari ».</div>
+<div class="event"><span class="year">1929</span> – Le roman de Saint-Exupéry, écrit en 1929, évoquant la ligne Latécoère entre Toulouse et Dakar a pour titre : Courrier Sud.</div>
+<div class="event"><span class="year">1930</span> – Dans les années 1930, les Allemands deviennent les leaders mondiaux dans la construction des planeurs. Ce succès est dû en grande partie : à l'interdiction qui leur est imposée de constituer une aviation militaire motorisée après la guerre 14-18.</div>
+<div class="event"><span class="year">1930</span> – Elle obtient son premier brevet de pilote en 1930 et reçoit le commandement de la première escadrille de convoyage en 1939 avec Maryse Bastié. Cette célèbre aviatrice de l'Entre-deux-Guerres est : Jacqueline AURIOL.</div>
+<div class="event"><span class="year">1930</span> – Dans les années 1930 en France, un plan d'eau a servi de base aux hydravions pour les traversées de l'Atlantique, devenant ainsi un aéroport international c'est : le lac de Biscarosse.</div>
+<div class="event"><span class="year">1930</span> – Paris — New-York est effectué en avion pour la 1ère fois en 1930 par : Dieudonné Costes et Maurice Bellonte.</div>
+<div class="event"><span class="year">1930</span> – Jean Mermoz effectue en 1930, la première traversée postale de l'Atlantique Sud de Saint-Louis-du-Sénégal à Natal (Brésil) avec un avion : Latécoère 28.</div>
+<div class="event"><span class="year">1930</span> – En 1930, les pilotes français Costes et Bellonte traversent l'Atlantique Nord dans le sens Paris New-York aux commandes du : Breguet 19 « Point d'Interrogation ».</div>
+<div class="event"><span class="year">1931</span> – En 1931, en France, a eu lieu la première démonstration de vol en patrouille avec 3 appareils d’entrainement de type monoplan parasol. Cet avion était un : Morane-Saulnier.</div>
+<div class="event"><span class="year">1932</span> – En 1932, l'américaine Amelia Earhart a été la première femme à réaliser une traversée aérienne océanique en solitaire. Ce fut : l'Atlantique Nord.</div>
+<div class="event"><span class="year">1932</span> – Quelle est l'aviatrice qui a traversé la première l'Atlantique entre Terre-Neuve et l'Irlande en 1932 : Amélie EARHART.</div>
+<div class="event"><span class="year">1932</span> – En 1932, l'américaine Amélia Earhart a été la première femme à réaliser une traversée aérienne en solitaire. Laquelle : l'Atlantique Nord.</div>
+<div class="event"><span class="year">1933</span> – L'armée de l'air française a été créée en : fin de l’année 1933 et mise en œuvre durant l’hiver 1934.</div>
+<div class="event"><span class="year">1933</span> – L'Aéropostale fut à l'origine de la création d'une grande compagnie aérienne en 1933, elle s'appelait : Air France.</div>
+<div class="event"><span class="year">1933</span> – La compagnie Air France a été créée en : 1933.</div>
+<div class="event"><span class="year">1933</span> – En janvier 1933, sur quel nouvel avion Jean MERMOZ réalise un vol direct entre le Sénégal et Natal au Brésil : le Latécoère 28 Comte de La Vaulx.</div>
+<div class="event"><span class="year">1933</span> – Quel groupe français a été créé en 1933 : Air France.</div>
+<div class="event"><span class="year">1933</span> – Considéré comme le père de l’aviation populaire, Henri Mignet développe en 1933 un aéronef original qui ne peut se mettre en vrille, il s’agissait du : pou du Ciel.</div>
+<div class="event"><span class="year">1935</span> – Le Douglas DC-3 a effectué son premier vol en : 1935.</div>
+<div class="event"><span class="year">1935</span> – Le Messerschmitt Bf 109, a été le plus construit des avions de combat allemands de la seconde guerre mondiale et le Focke-Wulf 190 le meilleur. Ils ont respectivement effectué leur premier vol en : 1935 et 1939.</div>
+<div class="event"><span class="year">1935</span> – Considéré par les historiens comme l'avion du 20ème siècle, le Douglas DC-3 a effectué son premier vol en : 1935.</div>
+<div class="event"><span class="year">1936</span> – Jean Mermoz disparut au large des côtes de Dakar en 1936 à bord de quel appareil : La croix du Sud.</div>
+<div class="event"><span class="year">1936</span> – En 1936, disparaît Jean-Mermoz à bord de son Latécoère 300 lors d'une traversée de l'Atlantique Dakar-Natal en équipage. L'avion s'appelait : la Croix du sud.</div>
+<div class="event"><span class="year">1936</span> – Maryse Bastié fut la première aviatrice à traverser l'Atlantique sud de Dakar à Natal en : 1936.</div>
+<div class="event"><span class="year">1937</span> – En 1937, le "LZ 129 Hindenburg" est le plus gros dirigeable jamais construit jusqu'alors. Il fut détruit, à son arrivée à Lakehurst (New York), par un incendie dans lequel périrent 39 passagers. Cet appareil est de la marque : allemande "Zeppelin".</div>
+<div class="event"><span class="year">1937</span> – En 1937 le dirigeable Hindenburg brûle en faisant 36 victimes. Il était gonflé au : dihydrogène.</div>
+<div class="event"><span class="year">1937</span> – En 1937, avant l'entrée des Etats Unis dans le conflit mondial, l'américaine Amélia Earhart disparaît en effectuant une traversée aérienne maritime du Pacifique.</div>
+<div class="event"><span class="year">1939</span> – Le Heinkel "He-178" : fut le premier avion à réaction à avoir volé en 1939.</div>
+<div class="event"><span class="year">1940</span> – Lequel de ces avions n'était pas encore en service en mai 1940, lors de la campagne de France : De Havilland 98 "Mosquito".</div>
+<div class="event"><span class="year">1940</span> – Durant la bataille d'Angleterre de juillet à septembre 1940, lequel de ces avions n'a pas été engagé : Spad XIII.</div>
+<div class="event"><span class="year">1940</span> – En 1940, lors de la bataille de France, l’armée de l’air utilisa : des Dewoitine 520.</div>
+<div class="event"><span class="year">1941</span> – L'attaque japonaise contre Pearl Harbor, le 7 décembre 1941, fut effectuée : par des avions embarqués sur des porte-avions.</div>
+<div class="event"><span class="year">1941</span> – Le 7 décembre 1941, les Japonais déclarent la guerre aux Etats Unis en attaquant la base de Pearl Harbor au moyen de : chasseurs et bombardiers lancés depuis des porte-avions.</div>
+<div class="event"><span class="year">1941</span> – Des femmes-pilotes soviétiques participèrent à la guerre dans les airs entre 1941 et 1945 : en participant aux combats du front de l'Est où elles furent surnommées "les sorcières de la nuit".</div>
+<div class="event"><span class="year">1942</span> – Le premier lancement d'une fusée balistique stratosphérique appelée "V2", a été effectué : en 1942 par Wernher VON BRAUN.</div>
+<div class="event"><span class="year">1943</span> – En juin 1943, les forces nazies mettent en service les premières bombes volantes V1. Le pulso-réacteur de ces fusées était alimenté par : de l'acétylène.</div>
+<div class="event"><span class="year">1944</span> – En 1944, la Luftwaffe met en service un avion construit par Messerschmitt dont la particularité est d'être : à réaction.</div>
+<div class="event"><span class="year">1944</span> – St-Exupery disparait en 1944 avec un avion de type : Lockheed P-38 Lightning.</div>
+<div class="event"><span class="year">1944</span> – L'Organisation Internationale de l'Aviation Civile (OACI) a été créée en : 1944.</div>
+<div class="event"><span class="year">1944</span> – Les pilotes de l'escadrille des Red Tails (US Air Force) se sont brillamment distingués en 1944 dans la lutte contre la Luftwaffe. Leur recrutement avait pourtant été discuté car : ils étaient noirs.</div>
+<div class="event"><span class="year">1944</span> – Le 6 juin 1944 du côté des alliés, le nombre d'avions engagés fut de : 11590 appareils.</div>
+<div class="event"><span class="year">1944</span> – En 1944, l'OACI fut créée. Le sigle O.A.C.I. signifie : organisation de l'aviation civile internationale.</div>
+<div class="event"><span class="year">1945</span> – En 1945, la première bombe atomique a été larguée sur Hiroshima par un quadrimoteur : Boeing B-29.</div>
+<div class="event"><span class="year">1945</span> – Quelle est la société française créée en 1945 : Société Nationale d'Etude et de Construction de Moteurs d'Avions.</div>
+<div class="event"><span class="year">1946</span> – L'avion Lockheed "Constellation" a été mis en service au sein de la compagnie Air France en : 1946.</div>
+<div class="event"><span class="year">1946</span> – Le premier siège éjectable opérationnel est apparu en : 1946.</div>
+<div class="event"><span class="year">1947</span> – En quelle année le mur du son a-t-il été franchi pour la première fois : 1947.</div>
+<div class="event"><span class="year">1947</span> – Chuck YEAGER est le premier pilote au monde à avoir franchi le mur du son en 1947 sur : le BELL X-1.</div>
+<div class="event"><span class="year">1948</span> – En France, le premier essai en vol d'un siège éjectable a été réalisé en 1948 par : Robert CARTIER.</div>
+<div class="event"><span class="year">1948</span> – L'avion le plus utilisé par les Occidentaux pour assurer le ravitaillement de Berlin par pont aérien lors du blocus soviétique entre juin 1948 et mai 1949 fut : le Douglas C-54 "Skymaster".</div>
+<div class="event"><span class="year">1950</span> – L'ingénieur français René Leduc a mis au point dans les années 1950 : le statoréacteur.</div>
+<div class="event"><span class="year">1950</span> – Le succès de la Caravelle, à la fin des années 1950, s'explique principalement par : le silence en cabine obtenu en plaçant les réacteurs à l'arrière du fuselage.</div>
+<div class="event"><span class="year">1950</span> – Cet avion est de conception des années : 1950.</div>
+<div class="event"><span class="year">1953</span> – Le 1er pilote français à avoir franchi le "mur" du son en 1953 était : Constantin ROZANOFF.</div>
+<div class="event"><span class="year">1953</span> – La Patrouille de France (PAF) a été créée en : 1953.</div>
+<div class="event"><span class="year">1955</span> – Trois aéronefs ont effectué leur premier vol en 1955. Ce sont les trois aéronefs suivants : Fokker 27, Alouette II et Caravelle.</div>
+<div class="event"><span class="year">1955</span> – Lors de sa première présentation publique en 1955, le prototype du quadriréacteur de transport civil BOEING 707 a fait : Un tonneau lent.</div>
+<div class="event"><span class="year">1957</span> – Spoutnik, le premier satellite artificiel, a été lancé en : 1957.</div>
+<div class="event"><span class="year">1957</span> – La première mise en orbite par les Soviétiques d'un satellite artificiel dénommé Spoutnik eut lieu en : 1957.</div>
+<div class="event"><span class="year">1957</span> – Spoutnik 1, le premier satellite artificiel, a été lancé en : 1957.</div>
+<div class="event"><span class="year">1960</span> – Depuis les années 1960, création du seul avion opérationnel à décollage et atterrissage vertical (A.D.A.V.).</div>
+<div class="event"><span class="year">1961</span> – Le premier homme qui effectua une orbite complète dans l’espace en 1961 fut : le Soviétique Youri Gagarine (programme Vostok).</div>
+<div class="event"><span class="year">1961</span> – En 1961, la France se lance dans la course à l'espace en décidant de construire la fusée à trois étages "Diamant". Cette dernière lancera et satellisera le premier satellite français « Astérix » en 1965, depuis la base de : d'Hammaguir.</div>
+<div class="event"><span class="year">1962</span> – En quelle année John GLENN a effectué sa première mission spatiale autour de la Terre : 1962.</div>
+<div class="event"><span class="year">1962</span> – Le premier satellite de télécommunication a été lancé le 10 juillet 1962. Ce satellite a été appelé : Telstar 1.</div>
+<div class="event"><span class="year">1963</span> – Depuis 1963, le record d'altitude est détenu par l'avion fusée North American X15. Quelle est l'attitude atteinte : 107960 mètres.</div>
+<div class="event"><span class="year">1963</span> – En 1963, l'avion-fusée North American X-15 atteignit l'altitude record de : 107 960 m.</div>
+<div class="event"><span class="year">1965</span> – Le premier satellite français a été lancé en 1965 par une fusée française appelée : Diamant.</div>
+<div class="event"><span class="year">1965</span> – Le premier homme à avoir quitté son vaisseau spatial en orbite fut : Alexeï LEONOV en 1965.</div>
+<div class="event"><span class="year">1968</span> – Le BIA qui offre aux jeunes un accès à l’aéronautique via l'éducation nationale a été créé le : 04 octobre 1968.</div>
+<div class="event"><span class="year">1969</span> – Le premier homme à avoir posé le pied sur la Lune le 21 juillet 1969 est : Neil ARMSTRONG.</div>
+<div class="event"><span class="year">1969</span> – Le 2 mars 1969, le supersonique "Concorde" effectuait son premier vol. Le commandant de bord de ce vol était : André TURCAT.</div>
+<div class="event"><span class="year">1969</span> – Le programme qui a permis la conquête de la Lune par les Américains en 1969 s'appelait : Apollo.</div>
+<div class="event"><span class="year">1969</span> – Le Concorde a fait son premier vol en 1969. Quel autre avion mythique a également volé pour la première fois cette année-là : Boeing 747.</div>
+<div class="event"><span class="year">1969</span> – Quel évènement historique qui s’est déroulé en 1969, est retracé dans le film "First Man" : la mission Apollo 11 et les premiers pas sur la Lune.</div>
+<div class="event"><span class="year">1969</span> – Depuis sa mise en service, aucun avion commercial n'a encore remplacé le supersonique franco-britanique “ Concorde ”, éclatante preuve du savoir faire technologique européen. Cet appareil dont le prototype 001 est conservé au musée de l'air et de l'Espace du Bourget a effectué son premier vol en : 1969.</div>
+<div class="event"><span class="year">1970</span> – L'équipage de la mission spatiale Apollo 13 menée en 1970 par les Etats-Unis pour explorer la Lune a été : victime d'une grave avarie le mettant en péril.</div>
+<div class="event"><span class="year">1977</span> – Le vaisseau spatial lancé par la NASA en 1977 et qui est officiellement sorti du système solaire en 2013 est : Voyager 1.</div>
+<div class="event"><span class="year">1979</span> – Les premières images filmées de la planète Saturne ont été transmises le 1er septembre 1979 par la sonde spatiale : Viking 1.</div>
+<div class="event"><span class="year">1979</span> – La fusée Ariane a été tirée pour la première fois.</div>
+<div class="event"><span class="year">1981</span> – La navette spatiale américaine qui a été la première à voler le 12 avril 1981 s'appelait : Columbia.</div>
+<div class="event"><span class="year">1982</span> – Quel est le premier cosmonaute français à être allé dans l'espace en 1982 : Jean-Loup CHRETIEN.</div>
+<div class="event"><span class="year">1986</span> – Le Dassault Rafale a effectué son premier vol en : 1986.</div>
+<div class="event"><span class="year">1986</span> – En décembre 1986, le "Voyager" construit par RUTAN a effectué : le premier vol autour du monde sans escale et sans ravitaillement.</div>
+<div class="event"><span class="year">1990</span> – Le premier télescope spatial mis en exploitation est : Hubble, lancé en 1990.</div>
+<div class="event"><span class="year">1992</span> – l’Europe via son agence spatiale a travaillé sur le développement, abandonné en 1992, d’une navette spatiale, il s’agissait du projet : Hermès.</div>
+<div class="event"><span class="year">1997</span> – Jusqu'en 1997, les liaisons aériennes intérieures françaises étaient assurées principalement par : Air Inter.</div>
+<div class="event"><span class="year">1999</span> – Le premier tour du monde sans escale en ballon s'est déroulé en : 1999.</div>
+<div class="event"><span class="year">2000</span> – En 2000, où a-t-on retrouvé les restes de l’avion de Saint-Exupéry : la mer Méditerranée.</div>
+<div class="event"><span class="year">2003</span> – Quelle compagnie a fêté en 2003 ses 70 ans : Air France.</div>
+<div class="event"><span class="year">2003</span> – Pour répondre aux futurs enjeux environnementaux, le suisse Bertrand Picard a lancé en 2003 le projet : « Solar impulse ».</div>
+<div class="event"><span class="year">2004</span> – L'objectif de la sonde Rosetta, lancée en 2004 et parvenue à destination 10 ans plus tard, était : de poser un atterrisseur sur une comète pour analyser sa composition.</div>
+<div class="event"><span class="year">2005</span> – L'Airbus A-380 a effectué son vol initial en : 2005.</div>
+<div class="event"><span class="year">2005</span> – Le premier vol de l'A380 a eu lieu en : 2005.</div>
+<div class="event"><span class="year">2007</span> – Le premier Airbus A380 mis en service a été livré a la compagnie : Singapore Airlines en 2007.</div>
+<div class="event"><span class="year">2007</span> – L'Airbus A-380 est entré en service commercial en : 2007.</div>
+<div class="event"><span class="year">2009</span> – En 2009, Airbus inaugure le premier vol commercial du plus grand avion civil au monde. Cet avion s'appelle : A380.</div>
+<div class="event"><span class="year">2009</span> – Quel exploit, réalisé par le pilote Chesley Sullenberger en 15 janvier 2009, a permis de sauver tous ses passagers : il a fait amerrir un airbus A320 sur le fleuve Hudson suite à une collision aviaire.</div>
+<div class="event"><span class="year">2012</span> – Le passage du mur du son en chute libre est : réalisé pour la première fois par l’autrichien Félix Baumgartner en 2012.</div>
+<div class="event"><span class="year">2013</span> – La compagnie aérienne qui aura 80 ans en 2013 est : Air France.</div>
+<div class="event"><span class="year">2013</span> – En 2013, nous avons fêté l'anniversaire du premier vol effectué par les frères Wright, il y a : 110 ans.</div>
+<div class="event"><span class="year">2014</span> – En novembre 2014, la sonde Roseta a déposé sur la comète Churyumov un robot appelé : Philae.</div>
+<div class="event"><span class="year">2014</span> – Issu du plan pour une « nouvelle France industrielle », l’avion électrique E-fan effectue son premier vol en : 2014.</div>
+<div class="event"><span class="year">2015</span> – En 2015, la société américaine SpaceX a été à l'origine d'une importante innovation dans le lancement de charges utiles dans l'espace : au retour du vol, le lanceur est revenu sur son pas de tir et a pu être récupéré.</div>
+<div class="event"><span class="year">2016</span> – En 2016, l'avion Solar Impulse 2 a bouclé le premier tour du monde aérien : sans consommer de carburant fossile.</div>
+<div class="event"><span class="year">2016</span> – En novembre 2016, le dixième spationaute français a rejoint la station spatiale internationale (ISS), à bord de Soyouz MS-03, pour une mission de six mois. Il est d'ailleurs en 2018, le parrain des 50 ans du B.I.A. Il s'agit de : Thomas Pesquet.</div>
+<div class="event"><span class="year">2019</span> – Le 1er janvier 2019, une sonde a survolé Ultima Thulé, l'objet le plus lointain jamais survolé par un objet de fabrication humaine, il s'agissait de : New horizons.</div>
+<div class="event"><span class="year">2022</span> – L'Agence spatiale européenne (ESA) a annoncé en 2022 qu'une astronaute française faisait désormais partie de la nouvelle promotion d'astronautes il s'agit de : Sophie ADENOT.</div>
+<div class="event"><span class="year">2022</span> – Le DR 400 fête ses 50 ans cette année (en 2022), quel constructeur l'a commercialisé à sa sortie en mars 1972 : ROBIN.</div>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}i:71;O:8:"stdClass":6:{s:2:"id";s:2:"71";s:7:"section";s:1:"7";s:4:"name";s:72:"Les annales des examens du BIA et leurs corrigées sur cette thématique";s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:72;O:8:"stdClass":7:{s:2:"id";s:2:"72";s:7:"section";s:1:"8";s:4:"name";s:23:"Test de positionnement ";s:7:"summary";s:307:"<p></p>
+<p>Pour aborder plus efficacement les cours et les notions de ce chapitre, commencez par réaliser un test de positionnement pour évaluer vos connaissances sur les aéronefs et les engins spatiaux. Les résultats de ce test nous permettront de vous proposer des cours adaptés à votre niveau.</p>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"HCA";s:8:"fullname";s:54:"Histoire et culture de l’aéronautique et du spatial";s:6:"format";s:5:"tiles";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"2";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1769070333";}s:7:"version";i:1769070333;}

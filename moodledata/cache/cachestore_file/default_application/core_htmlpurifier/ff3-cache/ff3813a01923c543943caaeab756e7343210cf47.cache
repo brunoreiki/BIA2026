@@ -1,0 +1,115 @@
+s:9345:"<div class="no-overflow"><h3 class="s17"><a></a>2. ‌Etude de la polaire</h3>
+<p></p>
+<h4 class="s18"><a></a>A. ‌Étude du coefficient de portance</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_160.png" alt="image" width="240" height="269" /></p>
+<p class="s22">Figure 1.12.</p>
+<p></p>
+<p class="s68"><span class="p">Le coefficient de portance, Cz, augmente régulièrement avec l’incidence et atteint une </span>valeur maximale (notée Cz<span class="s69">max</span>) puis chute brutalement : c’est le décrochage.</p>
+<h4 class="s18"><a></a>‌B. Le décrochage</h4>
+<p>En raison de la viscosité de l’air, les forces de frottements sont concentrées dans une couche très fine (de l’ordre de grandeur du millimètre) appelée couche limite.</p>
+<p>Celle-ci est d’abord <strong>laminaire </strong>(les particules suivent des trajectoires parallèles entre elles) puis <strong>turbulent </strong>après la transition (la couche limite s’épaissit et les trajectoires des particules fluctuent).</p>
+<p style="text-align:left;"></p>
+<p style="text-align:left;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_161.png" alt="image" width="296" height="130" /></p>
+<p class="s22" style="text-align:left;">Figure 1.13</p>
+<p>Si l’on incline l’aile au-delà d’un certain angle d’incidence, environ de 15<strong>°</strong>, l’écoulement de l’air devient <strong>tourbillonnaire </strong>(ou <strong>décollé</strong>) sur l’extrados car les filets n’ont plus suffisamment d’énergie pour coller au profil de l’aile.</p>
+<p><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_162.png" alt="image" width="312" height="371" /></p>
+<p style="text-align:center;">Figure 1.14.</p>
+<p class="s70"><strong>Résultat</strong> : une diminution rapide et importante de la portance (et une augmentation de la trainée)</p>
+<p>Le décrochage se traduit alors par un avancement du centre de poussée (CP) et donc une abattée (basculement de l’avion vers l’avant). Si le décrochage est dissymétrique (il n’apparait que sur une aile), alors il y a mise en vrille.</p>
+<p>L’approche du décrochage se traduit par des <strong>vibrations </strong>dans le manche (buffet) car la gouverne de profondeur est située dans l’écoulement tourbillonnaire.</p>
+<p>Il existe des <strong>avertisseurs sonores de décrochage </strong>(un capteur mesure directement l’incidence de l’aile et signale le dépassement de la valeur admissible).</p>
+<h4> </h4>
+<h4 class="s18"><a></a>C. ‌Etude du coefficient de trainée</h4>
+<p></p>
+<p>3 phénomènes contribuent à la trainée :</p>
+<ul>
+<li class="s4" style="font-weight:bold;"><strong>La trainée induite</strong></li>
+<li class="s4" style="font-weight:bold;"><strong>La trainée de frottement</strong></li>
+<li class="s4" style="font-weight:bold;"><strong>La trainée de profil</strong></li>
+</ul>
+<p></p>
+<h5>1. Trainée induite</h5>
+<p>La surpression d’intrados et la dépression d’extrados engendrent, en bout d’ailes, un mouvement de l’air de <strong>l’intrados vers l’extrados</strong>.</p>
+<p><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_164.jpg" alt="image" width="311" height="181" /></p>
+<p class="s22" style="text-align:center;">Figure 1.15.</p>
+<p>Cet enroulement intrados/extrados de l’air forme alors des <strong>tourbillons marginaux</strong>, ainsi qu’une <strong>turbulence de sillage</strong>.</p>
+<p><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_165.jpg" alt="image" width="265" height="174" /></p>
+<p class="s22" style="text-align:center;">Figure 1.16.</p>
+<p>La trainée induite est due aux tourbillons marginaux, qui modifient localement l’incidence. Elle augmente avec le carré de la portance et diminue lorsque l’allongement de la voilure augmente.</p>
+<p>Pour réduire les tourbillons marginaux, on installe, en bouts d’ailes, des pièces appelées winglets.</p>
+<p><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_166.png" alt="image" width="481" height="233" /></p>
+<p class="s22" style="text-align:center;">Figure 1.17.</p>
+<div style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h2>Cap sur l'environnement</h2>
+<div>
+<div style="min-width:250px;">
+<p>En réduisant la trainée induite, les winglets améliorent à la fois les performances aérodynamiques de l’appareil et son <strong>impact environnemental</strong>.</p>
+</div>
+</div>
+</div>
+<p class="s72"></p>
+<p class="s72"><strong><span class="s34">Étude de cas : Le Boeing 737</span></strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_168.jpg" alt="image" width="620" height="319" /></p>
+<p class="s22">Figure 1.18.</p>
+<p></p>
+<h5 class="s10">2. Trainée de frottement</h5>
+<p></p>
+<p>Elle a pour origine les frottements visqueux entre l’écoulement et la surface de la voilure, au sein de la couche limite. Elle peut augmenter notoirement si <strong>l’état de surface </strong>de l’aile se dégrade (salissures, givre, …) et réduire ainsi les performances de l’avion.</p>
+<p>Il est essentiel sur un planeur de veiller à la propreté de l’aile.</p>
+<h5 class="s10">3. Trainée de profil</h5>
+<p></p>
+<p>Cette dernière composante a pour origine l’apparition d’un décollement de l’écoulement sur l’extrados et d’une zone tourbillonnaire. La trainée de profil augmente donc fortement lorsqu’on s’approche du décrochage.</p>
+<p></p>
+<h4 class="s18"><a></a>‌B. La polaire d’une aile</h4>
+<p></p>
+<div class="column" style="color:#FFFFFF;">
+<p>C’est la courbe qui représente l’évolution de la résultante aérodynamique.</p>
+<div class="entry">
+<div style="background-color:#FFFFFF;"><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_170.png" alt="image" width="475" height="601" /></div>
+<div><em>Figure 2.16.</em></div>
+<div class="text">
+<p>Elle donne les valeurs du <strong>coefficient de portance Cz </strong>en fonction de celles du <strong>coefficient de trainée Cx </strong>pour un angle d’incidence donné. En pratique, on représente 100 Cx pour dilater la courbe.</p>
+<p>C’est une « carte d’identité » aérodynamique de l’aile qui indique ses caractéristiques.</p>
+<p class="s4"><strong>Les points caractéristiques d’une polaire sont :</strong></p>
+<ul>
+<li>A : Portance nulle</li>
+<li>B : Trainée minimale</li>
+<li>C : Finesse maximale (Cz/Cx maxi)</li>
+<li>D : Portance maximale</li>
+<li>E : Décrochage<img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_170.png" alt="image" width="475" height="601" />Figure 1.19.</li>
+</ul>
+</div>
+</div>
+</div>
+<p></p>
+<p class="s14"><strong>A noter : </strong>La polaire de l’avion complet inclut les contributions du fuselage, des empennages et du train d’atterrissage à la portance et surtout à la trainée.</p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressources vidéo</h3>
+<p><strong>La polaire partie 1, construction et description</strong></p>
+<p></p>
+<p><strong>La polaire partie 2, dispositifs hyper et hyposustentateurs, Mach</strong></p>
+<p></p>
+</div>
+<p></p>
+<h4 class="s18"><a></a>E. ‌La finesse</h4>
+<p></p>
+<p>Par définition, la finesse f est le rapport : <strong>f= Cz/Cx</strong></p>
+<p>Plus ce nombre est élevé, plus cette aile porte bien, pour une traînée minimale. Il existe un angle d’incidence pour laquelle la finesse est maximale.</p>
+<p>Quelques exemples :</p>
+<ul>
+<li><strong>Pour un avion de tourisme : </strong>la finesse maximale est de <strong>10</strong></li>
+<li><strong>Pour un avion de transport civil moderne :</strong><u> </u>elle est de <strong>22</strong></li>
+<li><strong>Pour un planeur : </strong>elle est de <strong>40 </strong>voire de <strong>70 </strong>pour les plus performants, grâce à l’allongement très important de l’aile et l’absence de rugosités sur celle-ci.</li>
+</ul>
+<p>Le point de finesse maximale joue un rôle important :</p>
+<ul>
+<li>Il permet de maximiser le rayon d’action pour un avion à hélice</li>
+<li>Il permet de maximiser l’autonomie et la pente de montée pour un avion à réaction</li>
+</ul>
+<p>Pour un aéronef non motorisé ou en panne moteur et <strong>en l’absence de vent</strong>, on a :</p>
+<p><img class="img-fluid" style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/images/finesse.png" alt="Finesse" width="663" height="136" /></p>
+<p>La finesse représente donc <i>« combien de fois » </i>un aéronef peut parcourir sa hauteur. Un vent de face sera défavorable, un vent arrière favorable.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_172.png" alt="image" width="608" height="181" /></p>
+<p class="s22">Figure 1.21.</p></div>";

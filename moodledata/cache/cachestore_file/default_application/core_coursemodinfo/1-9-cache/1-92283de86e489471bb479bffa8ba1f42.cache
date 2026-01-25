@@ -1,0 +1,51 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:5:{i:15;O:8:"stdClass":16:{s:2:"id";s:1:"6";s:2:"cm";s:2:"15";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"30";s:6:"module";s:1:"9";s:5:"added";s:10:"1730960280";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:16:"Annonces du site";s:10:"customdata";a:1:{s:12:"trackingtype";s:1:"1";}}i:385;O:8:"stdClass":17:{s:2:"id";s:1:"1";s:2:"cm";s:3:"385";s:3:"mod";s:5:"qbank";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"30";s:6:"module";s:2:"34";s:5:"added";s:10:"1755155503";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:7:"content";s:117:"<div class="no-overflow">Cette banque de questions est créée automatiquement lors de la mise à jour du site.</div>";s:4:"name";s:52:"Banque de questions partagées au niveau du système";}i:396;O:8:"stdClass":16:{s:2:"id";s:1:"7";s:2:"cm";s:3:"396";s:3:"mod";s:5:"qbank";s:7:"section";s:1:"0";s:13:"sectionnumber";s:1:"0";s:9:"sectionid";s:2:"30";s:6:"module";s:2:"34";s:5:"added";s:10:"1755333794";s:7:"visible";s:1:"0";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"0";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:53:"Prévisualisation de la banque de questions partagée";}i:37;O:8:"stdClass":18:{s:2:"id";s:1:"2";s:2:"cm";s:2:"37";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"1";s:6:"module";s:2:"13";s:5:"added";s:10:"1734265971";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:6:"indent";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:66:"Plateforme d'aide à l'examen du Brevet d'Initiation Aéronautique";s:7:"content";s:6752:"<div class="no-overflow"><h3><img class="img-fluid" style="float: right; margin-left: 20px;" src="https://bia-facile.fr/images/Aviation_-_collage2.jpg" alt="les différents type d'aviation
+" width="494" height="710"></h3>
+<p>Dans cette plateforme, vous trouverez des cours, des vidéos, des annales et des tests d’auto-positionnement pour le BIA et le CAEA, conçus pour aider les candidats à évaluer leur niveau de connaissances et réussir sans difficultés l’examen du BIA et du CAEA.</p>
+<h3>BIA – Brevet d’Initiation Aéronautique </h3>
+<p>L’examen se compose de cinq épreuves obligatoires sous forme de QCM, notées sur 20, portant sur les thématiques suivantes :</p>
+<ol>
+<li><strong>Météorologie et aérologie</strong> – comprendre la formation des masses d’air, les nuages, les vents, et leurs effets sur le vol.</li>
+<li><strong>Aérodynamique, aérostatique et principes du vol</strong> – maitriser les lois du vol, la portance, la trainée et les forces appliquées à un aéronef.</li>
+<li><strong>Étude des aéronefs et des engins spatiaux</strong> – identifier les éléments constitutifs d’un avion, le fonctionnement des moteurs, les instruments de bord et les bases de l’astronautique.</li>
+<li><strong>Navigation, règlementation et sécurité des vols</strong> – apprendre à lire une carte aéronautique, utiliser une boussole, appliquer les règles de circulation aérienne et les consignes de sécurité.</li>
+<li><strong>Histoire et culture de l’aéronautique et du spatial</strong> – retracer les grandes étapes de la conquête du ciel et de l’espace, des pionniers aux innovations contemporaines.</li>
+</ol>
+<p><br>Une <strong>épreuve facultative d’anglais aéronautique</strong> peut être ajoutée.<br>Le total des points est de 100, et une <strong>moyenne de 50 points</strong> est exigée pour réussir l’ensemble des épreuves.<br>Seuls les points au-dessus de la moyenne obtenus à l’épreuve facultative sont pris en compte.</p>
+<p>Durée totale des épreuves : <strong>2 heures 30</strong>, plus 30 minutes supplémentaires pour l’épreuve d’anglais.</p>
+<p><strong>Les inscriptions se déroulent du 28 janvier au 11 mars 2026 :</strong></p>
+<ul>
+<li>Les candidats scolaires s'inscrivent via leur établissement scolaire.</li>
+<li>Les candidats individuels s’inscrivent directement <a href="https://cyclades.education.gouv.fr/cyccandidat/portal/login" target="_blank" rel="noopener">sur Cyclades</a>.</li>
+</ul>
+<p><br><strong>Les épreuves du BIA se déroulent le mercredi 20 mai 2026 : </strong></p>
+<ul>
+<li>Durée totale de l’épreuve obligatoire : 2 heures 30, de 14 h à 16 h 30 heure de Paris.</li>
+<li>Durée de l’épreuve facultative d’anglais : 30 minutes, de 16 h 30 à 17 h heure de Paris.</li>
+</ul>
+<p></p>
+<h3>CAEA – Certificat d’Aptitude à l’Enseignement Aéronautique</h3>
+<p>Le CAEA est un examen national destiné aux enseignants, formateurs et passionnés d’aéronautique souhaitant enseigner les matières du BIA ou approfondir leurs connaissances scientifiques et pédagogiques dans le domaine aéronautique et spatial. Il évalue à la fois les connaissances techniques et les compétences didactiques nécessaires à la transmission des savoirs aéronautiques.</p>
+<p>L'examen du CAEA comprend une épreuve écrite d’admissibilité de 3 heures (QCM correspondant aux mêmes grands domaines que le BIA), et une épreuve orale d’admission. Chacune des deux épreuves est notée de 0 à 20, en points entiers. Seuls les candidats ayant obtenu une note supérieure ou égale à 15 (94/125) à l’épreuve d’admissibilité peuvent se présenter à l’épreuve orale d’admission. <strong>Les candidats individuels s’inscrivent du 28 janvier au 11 mars 2026</strong> directement <a href="https://cyclades.education.gouv.fr/cyccandidat/portal/login" target="_blank" rel="noopener">sur Cyclades</a>.</p>
+<p>Le sujet de l’épreuve d’admissibilité est national. <strong>L’épreuve d’admissibilité se déroulera le mercredi 20 mai 2026 à 14 h</strong> (heure de Paris).</p>
+<h4>Objectifs des tests de cette plateforme</h4>
+<ul>
+<li>Permettre au candidat de se situer par rapport aux compétences requises pour réussir l'examen du BIA et du CAEA.</li>
+<li>Aider à identifier les points faibles et les domaines nécessitant plus d’attention dans la préparation à l'examen.</li>
+<li>Poser des questions aux enseignants du BIA sur les notions d'aéronautiques liées à l'examen.</li>
+<li>Fournir aux candidats des contenus adaptés à sa progression d'apprentissage. </li>
+</ul>
+<h4><br>Contenus des tests</h4>
+<p>Le tests couvrent les cours suivants qui sont évalués lors de l'examen du BIA et du CAEA.</p>
+<p><strong>Un accompagnement du rectorat de l'académie de Strasbourg</strong></p>
+<p>Le Brevet d’Initiation Aéronautique (BIA), proposé par le rectorat de l’académie de Strasbourg, est une certification nationale qui permet aux collégiens, lycéens et étudiants de découvrir le monde de l’aéronautique et du spatial. Organisé en partenariat avec les établissements scolaires, les aéroclubs et les acteurs du secteur aérien, il aborde des notions de météorologie, d’aérodynamique, de navigation, d’histoire de l’aviation et d’anglais aéronautique. Cette formation théorique et gratuite, ouvre la voie à des stages, des visites de sites aéronautiques et, pour les plus motivés, à une future carrière dans les métiers du ciel.</p>
+<p>Cette plateforme s'inscrit dans un programme de recherche du <a href="https://www.lisec-recherche.eu/">Laboratoire interuniversitaire des sciences de l'éducation et de la communication (LISEC) - UR 2310</a> de l'Université de Strasbourg en partenariat avec le <a href="https://www.ac-strasbourg.fr/">rectorat de l'académie de Strasbourg</a>.</p>
+<p><img class="img-fluid" src="images/logo_standard.svg" alt="Logo du rectorat de Strasbourg" width="284" height="142"> <img class="img-fluid" src="images/Laboratoire_LISEC_Etroit_Couleur.png" alt="Logo du Lisec" width="281" height="137"></p>
+<p></p>
+<h4><br>Crédits du manuel</h4>
+<p><strong>Rédacteur :</strong> Philippe <span class="surname">Le Bris</span> (<em>Un morceau de ciel bleu</em>)<br><strong>Relecture :</strong> Jean-Christian <span class="surname">Oulès</span> (animateur CIRAS Toulouse)<br><strong>Remerciements :</strong></p>
+<ul>
+<li><em>Un morceau de ciel bleu</em></li>
+<li>D. <span class="surname">Vioux</span> (<em>site L’Avionnaire</em>)</li>
+<li><abbr title="École Nationale de l’Aviation Civile">ENAC</abbr> (élèves <abbr title="Élèves Pilotes de Ligne">EPL</abbr>)</li>
+</ul>
+<p></p></div>";}i:47;O:8:"stdClass":27:{s:2:"id";s:1:"2";s:2:"cm";s:2:"47";s:3:"mod";s:11:"studentquiz";s:7:"section";s:1:"1";s:13:"sectionnumber";s:1:"1";s:9:"sectionid";s:1:"1";s:6:"module";s:2:"29";s:5:"added";s:10:"1734294080";s:5:"score";s:1:"0";s:8:"idnumber";s:0:"";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:9:"groupmode";s:1:"0";s:10:"groupingid";s:1:"0";s:6:"indent";s:1:"0";s:10:"completion";s:1:"0";s:5:"extra";s:0:"";s:25:"completiongradeitemnumber";N;s:19:"completionpassgrade";s:1:"0";s:14:"completionview";s:1:"0";s:18:"completionexpected";s:1:"0";s:15:"showdescription";s:1:"0";s:12:"availability";N;s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";}}s:12:"sectioncache";a:2:{i:30;O:8:"stdClass":6:{s:2:"id";s:2:"30";s:7:"section";s:1:"0";s:4:"name";N;s:12:"availability";N;s:9:"component";N;s:6:"itemid";N;}i:1;O:8:"stdClass":6:{s:2:"id";s:1:"1";s:7:"section";s:1:"1";s:4:"name";s:83:"Bienvenue sur la plateforme d'aide à la préparation de l'examen du BIA et du CAEA";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";s:9:"component";N;s:6:"itemid";N;}}s:9:"shortname";s:3:"BIA";s:8:"fullname";s:39:"Brevet d'Initiation Aéronautique (BIA)";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1767531436";}s:7:"version";i:1767531436;}

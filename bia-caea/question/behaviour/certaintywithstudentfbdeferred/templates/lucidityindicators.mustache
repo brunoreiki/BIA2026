@@ -1,0 +1,51 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/lucidityindicators
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * lucidityindicators Array of possible indicators
+        * label Label for the indicator
+        * color CSS color
+    * circleonly Whether to only render a circle (and not the rotated square as well)
+
+    Example context (json):
+    {
+        "lucidityindicators": [
+            {
+                "label": "Indicator 1",
+                "color": "red"
+            },
+            {
+                "label": "Indicator 2",
+                "color": "green"
+            }
+        ],
+        "circleonly": false
+    }
+}}
+<div aria-hidden="true">
+    {{# lucidityindicators}}
+    <div class="d-flex align-items-center mt-1" style="grid-gap:5px; --shape-color: {{color}}"><span class="circle-indicator"></span>{{^ circleonly}}<span class="rotated-square-indicator"></span>{{/ circleonly}}<span class="ml-1">{{label}}</span></div>
+    {{/ lucidityindicators}}
+</div>

@@ -1,0 +1,11 @@
+s:1347:"<div class="no-overflow"><p>Ce cours propose une exploration des <strong>principales formules mathématiques utilisées dans le domaine de l’aéronautique</strong>, en lien direct avec les attendus du Brevet d’Initiation Aéronautique (BIA).</p>
+<p>Voici un aperçu des chapitres abordés à travers les équations présentes dans ce cours :</p>
+<ul>
+<li><strong>Navigation et orientation</strong> : conversion entre cap compas, cap magnétique et cap vrai.</li>
+<li><strong>Cinémanique du vol</strong> : calcul de distances, vitesses, temps et rayons de virage, application des équations de base :<br />\( D = V \cdot t \),    \( t = \frac{D}{V} \), etc.</li>
+<li><strong>Aérodynamique</strong> : équations de portance et de traînée, compréhension des coefficients :<br />\( C_L \), \( C_D \), \( C_x \), \( C_z \).</li>
+<li><strong>Énergie en vol</strong> : énergie cinétique et potentielle, travail, puissance, force.</li>
+<li><strong>Conditions atmosphériques</strong> : pression, température, densité de l’air en fonction de l’altitude, gradient thermique.</li>
+<li><strong>Vitesses caractéristiques</strong> : vitesse vraie, vitesse sol, vitesse de décrochage, influence du vent.</li>
+<li><strong>Performances en virage et sécurité</strong> : rayon de virage, facteur de charge, finesse.</li>
+</ul></div>";

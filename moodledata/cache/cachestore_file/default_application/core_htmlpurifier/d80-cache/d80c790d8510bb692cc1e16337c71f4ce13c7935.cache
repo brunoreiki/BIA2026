@@ -1,0 +1,9 @@
+s:591:"La finesse d'un aéronef peut s'exprimer par les rapports:
+<font color="#0000FF">- vitesse horizontale / vitesse verticale
+- portance/traînée
+- distance horizontale parcourue / hauteur perdue</font>color="blue"&gt;
+
+Utilisons la formule avec les distances :
+<font color="#0000FF">finesse = distance horizontale parcourue / hauteur perdue</font>color="blue"&gt;
+<font color="#FF0000">finesse =</font>color="red"&gt; (5 mètres parcourus horizontalement) / (1 mètre de hauteur perdue) = <font color="#FF0000">5</font>color="red"&gt;
+<i>Remarque : la finesse est un nombre sans unité.</i>";

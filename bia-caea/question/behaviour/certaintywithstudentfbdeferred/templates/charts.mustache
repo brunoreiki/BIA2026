@@ -1,0 +1,88 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template qbehaviour_certaintywithstudentfbdeferred/charts
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * attemptnum Attempt no.
+    * grade_progress_chart HTML for grades chart
+    * lucidity_progress_chart HTML for lucidity index chart
+    * [Context variables for qbehaviour_certaintywithstudentfbdeferred/declaredignoranceindicators template]
+    * [Context variables for qbehaviour_certaintywithstudentfbdeferred/lucidityindicators template]
+    * attemptsdata
+        * [Array of context variables for qbehaviour_certaintywithstudentfbdeferred/charts_sidebar template]
+
+    Example context (json):
+    {
+        "attemptnum": "1",
+        "grade_progress_chart": "<div class=\"border p-3\">One chart<\/div>",
+        "lucidity_progress_chart": "<div class=\"border p-3\">Another chart<\/div>",
+        "hasdeclaredignorance": true,
+        "declaredignoranceindicators": [
+            {
+                "label": "Indicator 1",
+                "color": "darkblue"
+            },
+            {
+                "label": "Indicator 2",
+                "color": "orange"
+            }
+        ],
+        "lucidityindicators": [
+            {
+                "label": "Indicator 1",
+                "color": "red"
+            },
+            {
+                "label": "Indicator 2",
+                "color": "green"
+            }
+        ],
+        "circleonly": false,
+        "attemptsdata": []
+    }
+}}
+<details>
+	<summary>
+	   <h4 class="d-inline" style="vertical-align:sub">{{# str}} attemptsevolution, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</h4>
+	</summary>
+	<div class="d-flex">
+	    <div class="charts-content p-4">
+	        <div class="d-flex mt-1">
+	            <div class="d-flex align-items-center justify-content-center" style="flex: 1 1 0; --shape-color: #dedede"><span class="rotated-square-indicator mr-1"></span><span class="ml-2">{{# str}} thisattempt, qbehaviour_certaintywithstudentfbdeferred, {{attemptnum}} {{/ str}}</span></div>
+	            <div class="d-flex align-items-center justify-content-center" style="flex: 1 1 0; --shape-color: #dedede"><span class="circle-indicator"></span><span class="ml-2">{{# str}} otherattempts, qbehaviour_certaintywithstudentfbdeferred {{/ str}}</span></div>
+	        </div>
+	        <hr>
+	        {{{grade_progress_chart}}}
+	        {{> qbehaviour_certaintywithstudentfbdeferred/declaredignoranceindicators}}
+	        <hr>
+	        {{{lucidity_progress_chart}}}
+	        {{> qbehaviour_certaintywithstudentfbdeferred/lucidityindicators}}
+	    </div>
+	    <div id="charts-sidebar-container" hidden="" style="width:33%;position:relative;">
+	        {{# attemptsdata}}
+	            {{> qbehaviour_certaintywithstudentfbdeferred/charts_sidebar}}
+	        {{/ attemptsdata}}
+	    </div>
+	</div>
+</details>

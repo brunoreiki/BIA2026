@@ -1,0 +1,47 @@
+s:3799:"<div class="no-overflow"><ul>
+<li style="list-style-type:none;"> </li>
+</ul>
+<p></p>
+<h3 class="s17"><a></a>3. ‌Les turboréacteurs</h3>
+<ul>
+<li><a href="#bookmark38">A. Le principe de fonctionnement</a></li>
+<li><a href="#bookmark39">B. Le Principe du Réacteur à simple flux</a></li>
+<li><a href="#bookmark40">C. Le Turboréacteur à double flux</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>A. ‌Le principe de fonctionnement</h4>
+<p></p>
+<p>Lorsque l’on gonfle un ballon, la pression de l’air à l’intérieur du ballon est supérieure à la pression de l’air à l’extérieur. Si on libère l’embouchure du ballon, alors l’air à l’intérieur du ballon va être éjecté et, par réaction, créer une force de même direction mais de sens opposé à la vitesse d’éjection.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_087.jpg" alt="image" width="306" height="196" /></p>
+<p class="s22">Figure 2.37.</p>
+<p></p>
+<p>Un turboréacteur fonctionne sur le même principe : il comprime l’air et ensuite l’éjecte à grande vitesse de façon contrôlée.</p>
+<p></p>
+<h4 class="s18"><a></a>B. ‌Le Principe du Réacteur à simple flux</h4>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/221/mod_label/intro/page_44_img_4%20%282%29.jpeg" width="460" height="184" alt="page_44_img_4%20%282%29.jpeg" /></p>
+<p class="s22">Figure 2.38. Réacteur monocorps</p>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_089.png" alt="image" width="446" height="209" /></p>
+<p class="s22">Figure 2.39. Réacteur double corps</p>
+<p></p>
+<h4 class="s18"><a></a>C. ‌Le Turboréacteur à double flux</h4>
+<p></p>
+<p>C’est le type de réacteur que l’on trouve sur la plupart des avions de ligne aujourd’hui. Dans ce réacteur, deux débits d’air le traversent et le flux secondaire ne traverse pas la chambre de combustion.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_090.jpg" alt="image" width="424" height="280" /></p>
+<p class="s22">Figure 2.40.</p>
+<p>Le <strong>taux de dilution </strong>est le rapport des débits entre le flux froid et le flux chaud. Il vaut 11 sur les réacteurs les plus récents. Plus il est élevé, plus le réacteur est silencieux et économe en carburant. En revanche l’encombrement et la trainée sont plus importants.</p>
+<p><strong>Cap sur l'environnement </strong></p>
+<p>Au cours du temps, les turboréacteurs ont évolué pour devenir de plus en plus efficaces et silencieux, grâce à une augmentation progressive de leur taux de dilution. Dans les turboréacteurs les plus récents, le taux de dilution est très fort, et le flux froid génère environ 80% de la poussée. Cela est particulièrement intéressant quand on sait que le bruit des moteurs est majoritairement lié à la différence de vitesse entre l’air chaud éjecté et l’air ambiant. Ainsi, <strong>en réduisant la proportion d’air chaud éjecté, on obtient des moteurs moins bruyants</strong>. De la même façon, en <strong>réduisant la quantité d’air chaud pour une même poussée, on diminue la quantité de carburant nécessaire !</strong></p>
+<p><img class="img-fluid" title="ReactDoublefluxSouf" src="https://bia-facile.fr/manuel-bia-2021_files/Image_092.png" alt="ReactDoublefluxSouf" width="350" height="236" /></p>
+<p class="s22">Figure 2.41.</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressources vidéo</h3>
+<p><strong>Principe de fonctionnement du turboréacteur</strong></p>
+<p></p>
+<p><strong>Complément, démarrage du turboréacteur</strong></p>
+<p></p>
+</div>
+<p></p></div>";

@@ -1,0 +1,8 @@
+s:657:"<font color="#FF0000">Rz = ½.ρ.V².S.Cz</font>color="red"&gt;<font color="#0000FF">Rz est la portance (en Newton).
+ρ masse volumique de l’air (en kg/m3) .
+V vitesse de l’avion dans l’air (vitesse vraie en m/s).
+S surface de l’aile (en m²).
+Cz est le coefficient de portance de l’aile (sans unité).</font>color="blue"&gt;
+Si l’on triple la vitesse, dans la formule on remplace V par 3.V :
+<font color="#FF0000">Rz′ =</font>color="red"&gt;½.ρ.(3.V)².S.Cz = ½.ρ.9.V².S.Cz = 9.(½.ρ.V².S.Cz) = <font color="#FF0000">9.Rz</font>color="red"&gt;
+Nous venons de démontrer que lorsque la vitesse triple la portance est multipliée par 9.";

@@ -1,0 +1,26 @@
+s:2490:"<div class="no-overflow"><h3 class="s17"><a></a>1. ‌La mesure du temps</h3>
+<h4 class="s18"><a></a>‌A. Le Mouvement de la Terre autour du Soleil</h4>
+<p>Le rythme des saisons ainsi que l’alternance jour-nuit découlent du mouvement de révolution de la Terre autour du soleil et du mouvement de rotation de la Terre autour de son axe Nord-Sud incliné de 23° par rapport à la normale au plan de l’orbite Terre- Soleil (écliptique).</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_371.jpg" alt="image" width="554" height="257" /></p>
+<p>Figure 4.18.</p>
+<p>La Terre tourne sur elle-même d’Ouest en Est, de 15° par heure et par conséquent 1° équivaut à 4 minutes.</p>
+<p class="s22"></p>
+<p><strong>L’Heure UTC (Temps Universel Coordonné) :</strong></p>
+<p>En tous points de la Terre, il est 12h00 UTC lorsque le soleil passe au méridien de Greenwich. L’heure UTC est utilisée pour les plans de vol, les observations et prévisions météorologiques et les horaires de lever et coucher du soleil.</p>
+<p class="s10"><strong>L’Heure locale :</strong></p>
+<p>En un point, il est 12h00, heure locale, lorsque le soleil passe au méridien de ce point.</p>
+<p class="s4"><strong>L’Heure locale légale :</strong></p>
+<p>Cette heure est décidée par le gouvernement de chaque pays pour faciliter des échanges économiques avec des pays voisins. En France HL = UTC + 1 en hiver et HL = UTC + 2 en été. A 12h00 UTC, ma montre indique donc 13 heures en hiver et 14 heures en été. Attention <span class="p">: heure légale se traduit par « local time » sur les GPS</span></p>
+<p class="s10"><strong>L’Heure du Fuseau :</strong></p>
+<p>L’heure du fuseau a été créé afin d’avoir la même heure sur une grande étendue. On a divisé la terre en 24 fuseaux de 15° de différence de longitude chacun (15°x24=360°).</p>
+<p></p>
+<p class="s4" style="text-align:center;">L’heure est constante à l’intérieur d’un même fuseau.</p>
+<p style="text-align:center;"><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_372.jpg" alt="image" width="570" height="398" /></p>
+<p class="s104" style="text-align:center;">Figure 4.19.</p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Heure du coucher de soleil en fonction de la longitude</strong></p>
+<p></p>
+</div>
+<p></p></div>";

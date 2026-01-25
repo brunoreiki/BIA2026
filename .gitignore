@@ -1,0 +1,13 @@
+# Ignorer le dossier moodlesql (peu importe son contenu)
+# moodlesql/
+moodledata/backup/
+
+# Ignorer un fichier notes.md à la racine
+#notes.md
+
+# Ignorer ces scripts à la racine
+#restauration.sh
+#sauvegarde.sh
+
+# Ignorer le fichier config
+#/bia-caea/config.php

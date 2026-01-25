@@ -1,0 +1,53 @@
+s:3702:"<div class="no-overflow"><p></p>
+<h3 class="s17"><a></a>1.‌ L’Hélice</h3>
+<p>C’est un dispositif qui permet de<strong> transformer l’énergie mécanique</strong>, fournie par le moteur,<span style="text-decoration:underline;"> <strong>en force tractive ou propulsive</strong></span> utilisé par l’avion pour se déplacer.</p>
+<ul>
+<li><a href="#bookmark28">A. La Composition</a></li>
+<li><a href="#bookmark29">B. Le Fonctionnement</a></li>
+<li><a href="#bookmark30">C. Les différents types d’hélices</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>A. ‌La Composition</h4>
+<p class="s19"><strong>L’hélice se compose de :</strong></p>
+<ul>
+<li>D’un moyeu centré sur l’arbre de sortie du moteur.</li>
+<li>De deux ou plusieurs pales.</li>
+</ul>
+<p class="s40"><span class="p">La distance parcourue par l’hélice le long de son axe de rotation en un tour est appelé </span><span class="s4"><strong>Pas</strong>.<br /></span>L’angle formé par la corde de profil de l’hélice et le plan dans lequel tourne la pale est appelé <strong>Calage </strong>(<strong>β</strong>).</p>
+<p>Le Calage est un <strong>Angle</strong> et le Pas est une <strong>Distance.</strong></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_076.jpg" alt="image" width="239" height="288" /></p>
+<p class="s22">Figure 2.26.</p>
+<p></p>
+<p>Le vent relatif <strong>Vr</strong> est issu :</p>
+<ul>
+<li>du déplacement de l’avion (vitesse avion)</li>
+<li>de la rotation de l’hélice (vitesse de rotation)</li>
+</ul>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_077.png" alt="image" width="307" height="200" /></p>
+<p class="s22">Figure 2.27.</p>
+<p class="s22">La vitesse de rotation est limitée par la vitesse en bout de pale, qui ne doit pas être sonique (perte d’efficacité, bruit).</p>
+<p></p>
+<h4 class="s18"><a></a>B. ‌Le Fonctionnement</h4>
+<p></p>
+<p>Le fonctionnement d’une hélice est le même que celui de l’aile d’un avion. Les forces aérodynamiques sur les pâles sont à l’origine de la traction et du couple résistant de l’hélice.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_078.png" alt="image" width="277" height="266" /></p>
+<p class="s22">Figure 2.28.</p>
+<p></p>
+<p>La présence de l’hélice génère également des effets secondaires sur les axes de tangage, roulis et lacet.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_079.jpg" alt="image" width="544" height="251" /></p>
+<p class="s22">Figure 2.29.</p>
+<p></p>
+<h4 class="s18"><a></a>C. ‌Les différents types d’hélices</h4>
+<p>Il en existe deux types :</p>
+<p class="s19"><strong>L’hélice à calage fixe</strong></p>
+<p>Cette hélice est surtout équipée sur les aéronefs de tourisme. Elle est, en général, en bois multicouche avec un bord d’attaque renforcé par une lame en laiton ou en alliage d’aluminium (plus lourde).</p>
+<p>Ce type d’hélice à l’inconvénient de ne pas permettre d’adapter la vitesse en fonction des phases du vol.</p>
+<p class="s19"><strong>L’hélice à calage variable (ou pas variable)</strong></p>
+<p>Le pilote peut alors, grâce à un mécanisme, changer le calage des pales pour que la vitesse de rotation de l’hélice (donc du moteur) reste constante.</p>
+<p class="s4"><strong>Petit pas </strong><span class="p">: décollage, atterrissage</span></p>
+<p class="s4"><strong>Grand pas </strong><span class="p"><strong>:</strong> croisière</span></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_080.jpg" alt="image" width="304" height="413" /></p>
+<p>Figure 2.30.</p>
+<p></p></div>";

@@ -1,0 +1,105 @@
+s:6302:"<div class="no-overflow"><h3 class="s17"><a></a>2. ‌Les moteurs à pistons</h3>
+<ul>
+<li><a href="#bookmark32">A. La Composition</a></li>
+<li><a href="#bookmark33">B. Le fonctionnement d’un moteur thermique</a></li>
+<li><a href="#bookmark34">C. L’Alimentation en carburant</a></li>
+<li><a href="#bookmark35">D. L’Elaboration du mélange air-essence</a></li>
+<li><a href="#bookmark36">E. L’Allumage</a></li>
+</ul>
+<p></p>
+<h4 class="s18"><a></a>A. ‌La Composition</h4>
+<p>L’ensemble est composé de :</p>
+<p><strong>De plusieurs cylindres (4 à 8) </strong>très souvent munis <strong>d’ailettes </strong>pour le refroidissement (assuré par l’air) et dont la partie supérieure est fermée par <strong>une culasse </strong>et la base inférieure par <strong>un carter.</strong></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_40_img_2.jpeg" alt="page_40_img_2.jpeg" /></p>
+<p>Figure 2.31.</p>
+<p><strong>La culasse </strong>est dotée de dispositifs appelés <strong>soupapes </strong>qui permettent l’admission des gaz frais et l’échappement des gaz de combustion, et d’un dispositif créant l’inflammation du mélange carburant/air : <strong>les bougies</strong>.</p>
+<p></p>
+<div class="gallery">
+<p class="gallery-titre">Moteur d'avion léger à 4 cylindres</p>
+<div class="gallery-items">
+<div class="gallery-item">
+<p class="gallery-subtitre">Partie avant</p>
+<img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_41_img_1.jpeg?1736107374735" alt="Moteur avant" />
+
+<ul>
+<li style="text-align:left;"><em>Démarreur</em></li>
+<li style="text-align:left;"><em>Magnétos</em></li>
+<li style="text-align:left;"><em>Boîte de distribution</em></li>
+<li style="text-align:left;"><em>Clapet de pression d'huile</em></li>
+<li style="text-align:left;"><em>Plaque d'identification</em></li>
+<li style="text-align:left;"><em>Bougies supérieures (cylindres droits)</em></li>
+<li style="text-align:left;"><em>Fils des bougies supérieures</em></li>
+<li style="text-align:left;"><em>Bouchon et jauge à huile</em></li>
+<li style="text-align:left;"><em>Bâche à huile</em></li>
+<li style="text-align:left;"><em>Bouchon de vidange</em></li>
+<li style="text-align:left;"><em>Filtre à huile</em></li>
+<li style="text-align:left;"><em>Alternateur</em></li>
+</ul>
+
+
+</div>
+<div class="gallery-item">
+<p class="gallery-subtitre">Partie arrière</p>
+<img class="img-fluid" src="https://bia-facile.fr/pluginfile.php/223/mod_label/intro/page_41_img_2%20%281%29.jpeg?1736107400013" alt="Moteur arrière" />
+
+<ul>
+<li style="text-align:left;"><em>Moyeu d'hélice</em></li>
+<li style="text-align:left;"><em>Bougies supérieures (cylindres droits)</em></li>
+<li style="text-align:left;"><em>Carter</em></li>
+<li style="text-align:left;"><em>Anneau de levage</em></li>
+<li style="text-align:left;"><em>Points supérieurs d'attache au bâti</em></li>
+<li style="text-align:left;"><em>Bougies supérieures (cylindres gauches)</em></li>
+<li style="text-align:left;"><em>Cache culbuteurs</em></li>
+<li style="text-align:left;"><em>Fils des bougies inférieures</em></li>
+<li style="text-align:left;"><em>Échappement</em></li>
+<li style="text-align:left;"><em>Carburateur</em></li>
+<li style="text-align:left;"><em>Couvercle du point de montage de la pompe à vide</em></li>
+<li style="text-align:left;"><em>Filtre à air</em></li>
+</ul>
+
+
+</div>
+</div>
+<p class="s22">Figure 2.32.</p>
+</div>
+<p class="s22"></p>
+<p></p>
+<h5 class="s18"><a></a>B. ‌Le fonctionnement d’un moteur thermique</h5>
+<p></p>
+<h6>1. Moteur à deux temps</h6>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_083.jpg" alt="image" width="374" height="271" /></p>
+<h6 class="s22">Figure 2.33.</h6>
+<h6> </h6>
+<h6 class="s19">2. Moteur à quatre temps</h6>
+<p></p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_084.jpg" alt="image" width="654" height="289" /></p>
+<p class="s22">Figure 2.34.</p>
+<p></p>
+<h4 class="s18"><a></a>C.‌L’Alimentation en carburant</h4>
+<p>Pour que l’essence parvienne des réservoirs jusqu’au dispositif de mélange, on utilise <strong>une pompe mécanique </strong>entraînée par le moteur, doublée <strong>d’une pompe électrique de secours </strong>que l’on mettra en fonction à la demande (par exemple au décollage).</p>
+<p></p>
+<p></p>
+<div class="ressource-video" style="background-color:#000000;color:#FFFFFF;padding:20px;">
+<h3>Ressource vidéo</h3>
+<p><strong>Moteurs à pistons</strong></p>
+<p></p>
+</div>
+<p></p>
+<h4 class="s18"><a></a>D. ‌L’Elaboration du mélange air-essence</h4>
+<p>Deux procédés sont utilisés :</p>
+<ul>
+<li class="s4"><strong>L’injection</strong><span class="p">, qui consiste à vaporiser de fines gouttelettes d’essence directement dans la chambre du cylindre.</span></li>
+<li class="s4"><span class="p"><strong>La carburation</strong>, qui assure l’élaboration du mélange air-essence avant son entrée dans les cylindres (la masse volumique de l’air diminue avec l’altitude).</span></li>
+</ul>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_085.jpg" alt="image" width="427" height="246" /></p>
+<p class="s22">Figure 2.35.</p>
+<p></p>
+<p>La commande qui permet de faire varier la pression du mélange air-essence entrant dans les cylindres est <strong>la manette des gaz </strong>(en noir). La manette rouge est la manette de richesse, qui permet d’ajuster la quantité d’essence (mélange riche ou économique). La manette bleue est la commande du pas de l’hélice.</p>
+<p></p>
+<h4 class="s18"><a></a>E. ‌L’Allumage</h4>
+<p></p>
+<p>Il réside de la production d’une étincelle permettant de démarrer la combustion du mélange. Il est réalisé par une bougie alimentée par une magnéto. Pour des raisons de sécurité le système est doublé (2 magnétos). Pour des raisons de rendement, on utilise 2 bougies par cylindre.</p>
+<p><img class="img-fluid" src="https://bia-facile.fr/manuel-bia-2021_files/Image_086.jpg" alt="image" width="232" height="155" /></p>
+<p class="s22">Figure 2.36.</p>
+<p></p></div>";

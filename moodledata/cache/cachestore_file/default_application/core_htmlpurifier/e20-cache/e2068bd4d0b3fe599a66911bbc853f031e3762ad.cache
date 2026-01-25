@@ -1,0 +1,11 @@
+s:1720:"<h4 align="center">Angle d’incidence</h4><u>Voir illustration n° 1.</u>
+Les valeurs des coefficients de portance <b>Cz</b> et de trainée <b>Cx</b> et donc les performances aérodynamiques d’une aile donnée <font color="#FF0000">dépendent uniquement de la valeur de l’angle d’incidence</font> qui est l’<font color="#0000FF">angle entre</font> la direction de l’écoulement et l’aile, plus précisément entre <font color="#0000FF">la direction du vent relatif et de la corde du profil de l’aile</font>. Comme la direction du vent relatif est aussi celle de la trajectoire, <font color="#0000FF">l’angle d’incidence est aussi celui entre la trajectoire et la corde du profil.</font>
+
+<h4 align="center">Angle d’incidence et Assiette</h4><u>Voir illustration n° 2.
+</u><font color="#0000FF"> L’assiette d’un avion</font> (on pourrait étendre à une aile) a une référence horizontale: c’<font color="#0000FF">est l’angle entre l’axe longitudinal de l’avion et l’horizontale.</font>
+<u>Illustration 2-1 :</u> l’axe de l’avion est horizontal , son assiette est nulle . l’angle d’incidence est ici de 10° (remarque ici l’angle de calage de l’aile par rapport au fuselage est aussi de 10° c’est un réglage du constructeur).
+<u>Illustration 2-2 :</u> l’axe de l’avion est cabré, son assiette est à cabrer de 10° Ici l’angle d’incidence est toujours de 10° mais pourrait être différent.
+<u>Illustration 2-3 :</u> L’axe de l’avion est piqué, son assiette est à piquer de -10° mais ici encore l’angle d’incidence est de 10°.
+
+<b>Bruno Capelle</b>
+<br /><img src="https://bia-caea.fr/images/assiette-incidencel.jpg" alt="Image de la solution" />";

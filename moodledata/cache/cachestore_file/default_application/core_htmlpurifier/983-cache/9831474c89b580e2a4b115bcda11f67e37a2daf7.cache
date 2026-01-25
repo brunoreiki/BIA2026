@@ -1,0 +1,14 @@
+s:1700:"<h4 align="center">Relation entre décrochage, incidence et vitesse</h4>On a souvent tendance à associer le décrochage à une vitesse limite inférieure à ne pas dépasser alors que celui-ci est dû à une <b>valeur maximale de l’angle d’incidence</b> empêchant les filets d’air de contourner  le profil pour générer la portance.
+
+Lorsque l’on augmente progressivement la valeur de l’angle d’incidence (voir illustration ci-dessous) on constate :
+ - l’augmentation de l’épaisseur de la couche limite turbulente (zone blanchâtre en ① et ②).
+- puis à 20° l’intégralité de l’écoulement turbulent au-dessus de l’extrados est responsable d’une chute brutale de portance et le décrochage survient (en ③).
+
+<u>Remarques:</u>
+- Le décrochage est annoncé par des signes précurseurs: bruit, vibrations, inefficacité des commandes…
+- Sur une aile ayant une vitesse suffisante une augmentation brutale de l’incidence peut créer un décrochage dit «dynamique», lors d’une forte ressource par exemple.
+- Sur un aérodyne, dans une configuration et avec une charge donnée, à chaque incidence correspond une vitesse de vol. En particulier lors du décrochage mais si l’on change la masse de l’avion cette vitesse de décrochage va changer… Il y a donc un angle d’incidence de valeur déterminé correspondant au décrochage mais la vitesse de décrochage correspondante est variable.
+<font color="#0000FF">
+Le décrochage se produit donc pour une valeur précise maximale de l’angle d’incidence et non pour une certaine vitesse</font>
+
+<b>Bruno Capelle</b><br /><img src="https://bia-caea.fr/images/decrochage2.jpg" alt="Image de la solution" />";

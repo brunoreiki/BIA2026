@@ -1,0 +1,3 @@
+a:4:{s:10:"pluginname";s:37:"Feedback de l’étudiant (immédiat)";s:32:"privacy:metadata:attemptstepdata";s:60:"This plugin stores some data submitted during quiz attempts.";s:21:"privacy:metadata:name";s:81:"Attempt step data variable name, among [studentfeedback, generalstudentfeedback].";s:22:"privacy:metadata:value";s:261:"Attempt step data variable value.
+For studentfeedback, feedback submitted after a question attempt, for each attempted question using this behaviour.
+For generalstudentfeedback, global feedback submitted after a quiz attempt, for each quiz using this behaviour.";}

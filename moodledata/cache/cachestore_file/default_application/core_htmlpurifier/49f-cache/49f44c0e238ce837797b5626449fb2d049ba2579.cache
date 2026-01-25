@@ -1,0 +1,9 @@
+s:1012:"Le rapport <font color="#0000FF">Cz/Cx</font>color="blue"&gt; appelé rapport de finesse, est une mesure de l'efficacité d'un aéronef. Cz représente le coefficient de portance et Cx représente le coefficient de traînée.
+Le <font color="#0000FF">coefficient de portance (Cz)</font>color="blue"&gt; est une mesure de la capacité de l'aéronef à générer une force de portance, qui lui permet de rester en l'air.
+<font color="#0000FF">Le coefficient de traînée (Cx)</font>color="blue"&gt; est une mesure de la résistance de l'aéronef à l'écoulement de l'air qui freine son mouvement.
+Le graphique est <font color="#0000FF">une polaire</font>color="blue"&gt; qui indique pour chaque valeur de la traînée, la portance qui lui correspond.
+Sur le graphique :
+- "A" est le point de traînée minimum.
+- "B" est le point de finesse max.
+- Le point correspondant à la portance maximum "C".
+- Au-delà du point "D", il n’y a plus de portance, l’aéronef ne vole plus. "D" est le point de décrochage.";

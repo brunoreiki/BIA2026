@@ -1,0 +1,9 @@
+s:876:"Le <font color="#0000FF">coefficient de portance (Cz)</font>color="blue"&gt; est une mesure de la capacité de l'aéronef à générer une force de portance, qui lui permet de rester en l'air.
+<font color="#0000FF">Le coefficient de traînée (Cx)</font>color="blue"&gt; est une mesure de la résistance de l'aéronef à l'écoulement de l'air qui freine son mouvement.
+<font color="#0000FF">Une polaire</font>color="blue"&gt; est un graphique indiquant pour chaque valeur de la traînée, la portance qui lui correspond.
+Sur le graphique :
+- <font color="#0000FF">Le point correspondant à la portance maximum est le point "C".</font>color="blue"&gt;
+- Le point "B" est celui où le rapport Cz/Cx est à son maximum.
+- Le point "A" est le point de traînée minimum.
+- Le point "D" correspond à la valeur de l’incidence de décrochage de l’aile.
+<b>Marin Descarrega</b>";

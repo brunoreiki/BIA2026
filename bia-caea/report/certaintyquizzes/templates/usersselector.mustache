@@ -1,0 +1,72 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template report_certaintyquizzes/usersselector
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * users Available users to be selected
+        * id User id
+        * name User name
+        * selected Whether this option is currently selected
+    * groups Available groups to be selected
+        * id Group id
+        * name Group name
+        * selected Whether this option is currently selected
+    * hasgroups Whether groups is populated or not
+    * separategroups Whether user is restricted to see its own groups only
+    * onlycurrentuser Whether only one option (current user) is selectable
+
+    Example context (json):
+    {
+        "users": [
+            {
+                "id": 1,
+                "name": "User 1",
+                "selected": true
+            },
+            {
+                "id": 2,
+                "name": "User 2"
+            }
+        ],
+        "groups": [],
+        "hasgroups": false,
+        "separategroups": false,
+        "onlycurrentuser": false
+    }
+}}
+<select name="users" class="custom-select" {{# onlycurrentuser}}disabled="disabled"{{/ onlycurrentuser}}>
+    {{^ onlycurrentuser}}<option value="u-1">{{# str}} allparticipants {{/ str}}</option>{{/ onlycurrentuser}}
+    {{# hasgroups}}
+    <optgroup label="{{^ separategroups}}{{# str}} groups {{/ str}}{{/ separategroups}}{{# separategroups}}{{# str}} mygroups, group {{/ str}}{{/ separategroups}}">
+        {{# groups}}
+        <option value="g{{id}}" {{# selected}}selected="selected"{{/ selected}}>{{name}}</option>
+        {{/ groups}}
+    </optgroup>
+    <optgroup label="{{# str}} users {{/ str}}">
+    {{/ hasgroups}}
+    {{# users}}
+        <option value="u{{id}}" {{# selected}}selected="selected"{{/ selected}}>{{name}}</option>
+    {{/ users}}
+    {{# hasgroups}}</optgroup>{{/ hasgroups}}
+</select>

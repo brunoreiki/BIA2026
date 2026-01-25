@@ -1,0 +1,71 @@
+s:7013:"<div class="no-overflow"><h3>1. Les instruments barométriques</h3>
+<ul>
+<li><a href="#bookmark47">A. L’Anémomètre (Airspeed Indicator) ou Badin</a></li>
+<li><a href="#bookmark48">B. L’Altimètre (Altimeter)</a></li>
+<li><a href="#bookmark49">C. Le Variomètre (Vertical Speed Indicator)</a></li>
+</ul>
+<p></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_098.jpg" alt="image" width="464" height="354" /></p>
+<p>Chaque avion à un tableau de bord spécifique, pourtant on y retrouve certains instruments que l’on peut classer en trois grandes familles :</p>
+<ul>
+<li>Les instruments de <strong>conduite </strong>(altimètre, variomètre, anémomètre, horizon artificiel, conservateur de cap, indicateur de virage) dont la disposition est toujours la même. On appelle cette disposition le <strong>T Basique</strong>.</li>
+</ul>
+<p></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_099.jpg" alt="image" width="333" height="235" /></p>
+<p class="s22" style="text-align:center;">Figure 2.45.</p>
+<ul>
+<li>Les instruments de <strong>contrôle </strong>(pressions, températures, charges, moteur)</li>
+<li>Les instruments de <strong>navigation </strong>(Radio, GPS, VOR-ILS, ADF).</li>
+</ul>
+<p>On retrouve sur tous les appareils une « norme » de couleur :</p>
+<ul>
+<li>Le blanc pour les utilisations particulières</li>
+<li>Le vert pour les utilisations normales</li>
+<li>Le jaune pour les utilisations avec précautions</li>
+<li>Le rouge pour les utilisations interdites</li>
+</ul>
+<p></p>
+<h3 class="s17"><a></a>1. ‌Les instruments barométriques</h3>
+<h4 class="s18"><a></a>A. ‌L’Anémomètre (Airspeed Indicator) ou Badin</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_100.jpg" alt="image" width="244" height="230" /></p>
+<p style="text-align:center;">Figure 2.46.</p>
+<p class="s4">L’appareil indique la vitesse de l’avion par rapport à l’air. Il peut être gradué en nœud kt ou en km/h. (1kt = 1,852 km/h). Il possède un trait rouge ainsi que trois arcs colorés qui correspondent à des vitesses caractéristiques :</p>
+<p class="s4"><strong>Arc blanc :</strong> <span class="p">Zone d’utilisation des volets, allant de la vitesse de décrochage volets sortis à la vitesse maximale d’utilisation des volets (</span>VFE <span class="p">: Velocity Flaps Extended).<br /></span><strong>Arc vert : </strong><span class="p">Vitesse normale d’utilisation sans volet, allant de la vitesse de décrochage en lisse à la vitesse à ne pas dépasser lors de mauvaises conditions atmosphériques </span>(<strong>VNO </strong>: Velocity Normal Operating).<br /><strong>Arc jaune </strong>: <span class="p">Zone interdite lors de mauvaises conditions atmosphériques.<br /></span><strong>Trait rouge :</strong> <span class="p">Vitesse à ne jamais dépasser (</span>VNE : <span class="p">Velocity Never Exceed)</span></p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_101.jpg" alt="image" width="472" height="232" /></p>
+<p class="s22">Figure 2.47.</p>
+<p>Il mesure la différence entre la <strong>pression totale Pt et la pression statique Ps</strong> et la convertit en vitesse. L’anémomètre donne une vitesse indiquée, qui diffère de la vitesse vraie selon l’adage « plus haut, plus chaud : plus vite ».</p>
+<p></p>
+<h4 class="s18"><a></a>B. ‌L’Altimètre (Altimeter)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_102.jpg" alt="image" width="428" height="196" /></p>
+<p class="s22" style="text-align:center;">Figure 2.48.</p>
+<p>L’altimètre indique l’altitude en pieds ou en mètres (<strong>1ft ≈ 0,3 m</strong>). C’est un instrument barométrique. Il indique l’altitude de l’avion par rapport à une référence choisie. La petite aiguille indique les milliers de ft, la grande aiguille indique les centaines de ft.</p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p>La pression atmosphérique diminue lorsque l’altitude augmente. Pour des altitudes pas trop élevées, une variation de 1hPa correspond à une variation de 28 ft soit 8,5 m. Par simple mesure de la pression atmosphérique, on peut donc déduire l’altitude de l’avion.</p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_103.jpg" alt="image" width="416" height="280" /></p>
+<p class="s22">Figure 2.49.</p>
+<p class="s19">Les différentes références altimétriques : </p>
+<ul>
+<li>Le niveau de la mer (calage QNH) : l’altimètre indique une <strong>altitude</strong>.</li>
+<li>La piste (calage QFE) : l’altimètre indique une <strong>hauteur </strong>par rapport à l’aérodrome.</li>
+<li>La pression 1013,25 hPa (calage standard ou QNE) : l’altimètre indique un <strong>niveau de vol </strong>(FL).</li>
+</ul>
+<p class="s4"><strong>Attention</strong> <span class="p">: lorsque la température est plus froide que l’atmosphère de référence, l’altitude est sur-estimée.</span></p>
+<p></p>
+<h4 class="s18"><a></a>C. ‌Le Variomètre (Vertical Speed Indicator)</h4>
+<p class="s19"><strong>Présentation</strong></p>
+<p class="s19">Le variomètre est aussi un instrument barométrique qui mesure une vitesse verticale de montée ou de descente. Il est gradué en ft/min ou parfois en m/s (1m/s = 200 ft/min).</p>
+<p><img style="margin-left:auto;margin-right:auto;" src="https://bia-facile.fr/manuel-bia-2021_files/Image_104.jpg" alt="image" width="472" height="240" /></p>
+<p class="s22" style="text-align:center;">Figure 2.50.</p>
+<p></p>
+<p class="s19"><strong>Principe de fonctionnement</strong></p>
+<p></p>
+<p><img src="https://bia-facile.fr/manuel-bia-2021_files/Image_105.jpg" alt="image" width="376" height="264" /></p>
+<p class="s22">Figure 2.51.</p>
+<p>L’appareil mesure la différence entre <strong>la pression atmosphérique</strong> et <strong>la pression de l’air</strong> à l’intérieur d’une capsule.</p>
+<p>En vol horizontal (palier), les pressions sont équilibrées et l’aiguille indique zéro. L’avion monte, la pression atmosphérique diminue, mais comme la pression à l’intérieur de la capsule met un temps à s’équilibrer on peut mesurer cette différence de pression.</p>
+<p>Le variomètre est utile au pilotage pour déterminer soit une vitesse ascensionnelle <strong>Vz </strong>supérieure à 0, soit un taux de descente <strong>Vz </strong>inférieure à 0, il est possible de l'utiliser également pour contrôler le vol en palier, même si cela est très difficile du fait du temps de réponse important.</p>
+<p class="s22" style="text-align:center;"></p></div>";

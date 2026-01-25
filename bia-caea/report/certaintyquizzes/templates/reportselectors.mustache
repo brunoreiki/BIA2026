@@ -1,0 +1,55 @@
+{{!
+    This file is part of Moodle - https://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template report_certaintyquizzes/reportselectors
+
+    Classes required for JS:
+    * none
+
+    Data attributes required for JS:
+    * none
+
+    Context variables required for this template:
+    * courseid Course id
+    * report Current active report
+    * selectors HTML fragments for each selector
+
+    Example context (json):
+    {
+        "courseid": 2,
+        "report": "studentsalongcourse",
+        "selectors": [
+            "One selector here",
+            "Another selector there"
+        ]
+    }
+}}
+<div class="tertiary-navigation d-flex justify-content-center border-bottom">
+    <form method="get" class="row">
+        <input type="hidden" name="courseid" value="{{courseid}}">
+        <input type="hidden" name="report" value="{{report}}">
+        {{# selectors}}
+        <div class="navitem align-items-center" style="grid-gap:.3em;">
+            {{{.}}}
+        </div>
+        {{/ selectors}}
+	    <div class="navitem-divider"></div>
+	    <div class="navitem">
+	        <input type="submit" value="{{# str}} show {{/ str}}" class="btn btn-outline-success px-6">
+	    </div>
+    </form>
+</div>

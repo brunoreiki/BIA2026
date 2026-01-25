@@ -1,0 +1,25 @@
+O:8:"stdClass":26:{s:2:"id";s:4:"8437";s:8:"category";s:3:"496";s:6:"parent";s:1:"0";s:4:"name";s:179:"Un avion de 1 000 kg effectue un vol en palier rectiligne à la vitesse de 100 kt, sachant que le coefficient de portance est Cz = 1, que le coefficient de traînée est Cx = 0.1:";s:12:"questiontext";s:179:"Un avion de 1 000 kg effectue un vol en palier rectiligne à la vitesse de 100 kt, sachant que le coefficient de portance est Cz = 1, que le coefficient de traînée est Cx = 0.1:";s:18:"questiontextformat";s:1:"1";s:15:"generalfeedback";s:1271:"Soit les équations de la portance et de la traînée : <font color="blue">Rz = ½.ρ.V².S.Cz</font> et <font color="blue">Rx = ½.ρ.V².S.Cx</font>
+avec :
+<font color="blue">Rz</font> la portance
+<font color="blue">Rx</font> la traînée
+<font color="blue">ρ</font> masse volumique de l’air.
+<font color="blue">V</font> vitesse de l’avion
+<font color="blue">S</font> surface de l’aile
+<font color="blue">Cz</font> est le coefficient de traînée
+<font color="blue">Cx</font> est le coefficient de portance
+
+<b>Recherche de la portance</b>
+1 kg correspond à 10 N.
+L'avion d'une masse de 1000 kg a donc un poids de 10000 N.
+La portance et le poids s'équilibrent, d'où <font color="blue">Rz = 10000 N = 1000 daN</font>
+Cela ne correspond pas à l'une des réponses proposées.
+
+<b>Recherche de la traction</b>
+Pour maintenir le vol, la traction du moteur doit équilibrer la traînée: <font color="blue">T = Rx</font>
+Nous savons que la finesse peut s'exprimer par <font color="blue">f= Rz / Rx</font>
+D'où <font color="blue">Rz / Rx = 1 / 0,1 </font>ou bien <font color="blue">Rx = Rz / 10 </font>
+Ce qui nous fait :
+<font color="blue">Rx = 10000 / 10 = 1000</font>
+La puissance de traction est donc de <font color="blue">100 daN</font>
+
+<b> Pascal H </b>";s:21:"generalfeedbackformat";s:1:"1";s:11:"defaultmark";d:1;s:7:"penalty";d:0.3333333;s:5:"qtype";s:11:"multichoice";s:6:"length";s:1:"1";s:5:"stamp";s:33:"bia-facile.fr+241120143226+DOtzqh";s:11:"timecreated";s:10:"1732113146";s:12:"timemodified";s:10:"1732113146";s:9:"createdby";s:1:"2";s:10:"modifiedby";s:1:"2";s:8:"idnumber";N;s:9:"contextid";s:3:"803";s:6:"status";s:5:"ready";s:9:"versionid";s:4:"8437";s:7:"version";s:1:"1";s:19:"questionbankentryid";s:4:"8432";s:14:"categoryobject";O:8:"stdClass":9:{s:2:"id";s:3:"496";s:4:"name";s:49:"Aérodynamique, aérostatique et principes du vol";s:9:"contextid";s:3:"803";s:4:"info";s:0:"";s:10:"infoformat";s:1:"0";s:5:"stamp";s:33:"bia-facile.fr+241120143226+Virh9G";s:6:"parent";s:3:"494";s:9:"sortorder";s:3:"999";s:8:"idnumber";N;}s:7:"options";O:8:"stdClass":15:{s:2:"id";s:4:"8437";s:10:"questionid";s:4:"8437";s:6:"layout";s:1:"0";s:6:"single";s:1:"1";s:14:"shuffleanswers";s:1:"0";s:15:"correctfeedback";s:0:"";s:21:"correctfeedbackformat";s:1:"1";s:24:"partiallycorrectfeedback";s:0:"";s:30:"partiallycorrectfeedbackformat";s:1:"1";s:17:"incorrectfeedback";s:0:"";s:23:"incorrectfeedbackformat";s:1:"1";s:15:"answernumbering";s:3:"abc";s:14:"shownumcorrect";s:1:"0";s:23:"showstandardinstruction";s:1:"1";s:7:"answers";a:4:{i:31998;O:8:"stdClass":7:{s:2:"id";s:5:"31998";s:8:"question";s:4:"8437";s:6:"answer";s:45:"la traction nécessaire au vol est de 100 daN";s:12:"answerformat";s:1:"1";s:8:"fraction";d:1;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:31999;O:8:"stdClass":7:{s:2:"id";s:5:"31999";s:8:"question";s:4:"8437";s:6:"answer";s:46:"la traction nécessaire au vol est de 1000 daN";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:32000;O:8:"stdClass":7:{s:2:"id";s:5:"32000";s:8:"question";s:4:"8437";s:6:"answer";s:26:"la portance est de 100 daN";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}i:32001;O:8:"stdClass":7:{s:2:"id";s:5:"32001";s:8:"question";s:4:"8437";s:6:"answer";s:26:"la portance est de 500 daN";s:12:"answerformat";s:1:"1";s:8:"fraction";d:0;s:8:"feedback";s:0:"";s:14:"feedbackformat";s:1:"1";}}}s:5:"hints";a:0:{}}
